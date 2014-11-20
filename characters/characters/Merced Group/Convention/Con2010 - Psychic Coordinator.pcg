@@ -1,0 +1,312 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Psychic Coordinator
+TABNAME:Con2010 ~ Psychic Coordinator
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:95
+AGE:136
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Russet Brown
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:15
+STAT:CHA|SCORE:16
+ALIGN:LG
+RACE:Fedyra
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d12)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d06)|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:12|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:3|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:4|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:3|PRESTAT:INT=1|PRESTAT:WIS=1|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=4|HITPOINTS:4|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:10000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:Spirit Weapon Fix +6]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:27|
+SKILL:Bluff|OUTPUTORDER:32|
+SKILL:Climb|OUTPUTORDER:29|
+SKILL:Concentration|OUTPUTORDER:34|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:40|
+SKILL:Disguise|OUTPUTORDER:33|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:28|
+SKILL:Forgery|OUTPUTORDER:35|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:44|
+SKILL:Intimidate|OUTPUTORDER:41|
+SKILL:Jump|OUTPUTORDER:30|
+SKILL:Listen|OUTPUTORDER:36|
+SKILL:Move Silently|OUTPUTORDER:43|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:39|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Persuasion|OUTPUTORDER:13|
+SKILL:Ride|OUTPUTORDER:19|
+SKILL:Search|OUTPUTORDER:38|
+SKILL:Sense Motive|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:4.0|COST:1|CLASSSKILL:N]
+SKILL:Sneak|OUTPUTORDER:21|
+SKILL:Spot|OUTPUTORDER:37|
+SKILL:ST Skill|OUTPUTORDER:22|
+SKILL:Stealth|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:4.0|COST:1|CLASSSKILL:N]
+SKILL:Survival|OUTPUTORDER:24|
+SKILL:Swim|OUTPUTORDER:31|
+SKILL:Thievery|OUTPUTORDER:26|
+SKILL:Use Rope|OUTPUTORDER:42|
+SKILL:Psychic (Psychic Sense)|OUTPUTORDER:15|
+SKILL:Psychic (Psychic Shield)|OUTPUTORDER:16|
+SKILL:Psychic (Apport)|OUTPUTORDER:14|
+SKILL:Psychic (Telekinetic Blast)|OUTPUTORDER:17|
+SKILL:Psychic (Telekinetic Shield)|OUTPUTORDER:18|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:25|
+SKILL:Martial Arts|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Elven|LANGUAGE:Auran|LANGUAGE:Orc|LANGUAGE:Giant|LANGUAGE:Draconic|LANGUAGE:Sylvan
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Fedyra Fey Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Dryad|TYPE:FedyraFeyPackage.EclipseAbilityOutput|DESC:Weapon Mastery/+2 Competence Bonus to BAB with Bows (Unlimited Use, L1 at CL1, Personal-Only, 1400 GP), Speak with Animals (Unlimited Use, L1 at CL1, 2000 GP), Speak with Normal Plants (Unlimited Use, L1 at CL1, 2000 GP), Charm Person 1/Day (400 GP), Hypnosis 1/Day (400 GP), and Goodberry 1/Day (400 GP).
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+ABILITY:Fedyra Dragon Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bronze ~ Renaissance Man|TYPE:FedyraDragonPackage.EclipseAbilityOutput.BronzeDragon|DESC:(+2 Competence Bonus to all skills)
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+ABILITY:Fedyra Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stat Boost ~ Intelligence +2|TYPE:FedyraStat
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Reflex_Training_Defense_Actions|TYPE:EclipseAbilities.Abilities.UniquePowers.BrainStuff.EclipseAbilityOutput|DESC:3 actions per day variant, only for defensive actions, only for a particular ability (2 CP) + Inherent Spell with +2 Bonus Uses ("Telekinetic Barrier", protects an area from- say - 30 points of damage from a particular attack). Can thus blunt area effect attacks on the group
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Specialized half corrupted ~ Choose Weapon|APPLIEDTO:Longbow|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Luck|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:A lucky character may either "Take 20" in advance, without taking extra time and whether or not this would usually be allowed, or reroll after the primary roll once per day. Most characters also get Bonus Uses.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Deep Sleep|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Many ascetics study meditation and mysticism. In d20, these skills are as useful as any. With Deep Sleep, a character gains the benefits of a full night's rest in only four hours and may ignore minor (up to 15 minutes total) interruptions in that interval.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Healing Touch|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Healing Touch allows characters to heal themselves or another by touch for (&lbracket;Cha Mod&rbracket; x &lbracket;character level&rbracket;) points per day. The healing may be split up rather than used all at once.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Psychic Coordinator|TYPE:EclipseAbilities.Abilities.UniquePowers.BrainStuff.EclipseAbilityOutput|DESC:Assistant (Aid Another actions provide a +4 bonus to skills, attacks, and checks, 6 CP), Reflex Training (Aid Another is a free action once per turn, 6 CP), with Doubled Radius Blessing (Up to &lbracket;Charisma+2&rbracket; additional characters, corrupted&colon; previous two abilities only, 12 CP). All Specialized&colon; Only works for 2d4 rounds after he takes a round out to give directions. 12 CP total.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Psychokinesis|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychokinesis skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to acquire psychic feats and skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ Any one Martial Weapon|APPLIEDTO:Longbow|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Imbuement|TYPE:SpecialAttack.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus|APPLIEDTO:Psychic (Telekinetic Shield)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:+3 bonus to any single skill. Skill Focus stacks with Skill Emphasis.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Specialized for Hit Die|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mindspeech ~ Mindlink|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) allows you to maintain a contact with a single target no matter how long the range becomes. You may maintain one additional link at a time per +1 CP and may designate specific targets which you can establish a link with at any range per +1 CP each (yes, if they die, you can get in touch with their spirits). Unfortunately, such targets cannot be changed after being selected.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mindspeech|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You gain the ability to send and receive thoughts with willing (or at least not unwilling) targets within a 60' radius
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Pyschoportation|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychoportation skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult_Sense_Status|TYPE:EclipseAbilities.Abilities.UniquePowers.BrainStuff.EclipseAbilityOutput|DESC:knows the location and status of other group members (anyone he's spent a few hours with recently) as long as they're within a 60' radius (6 CP)
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Combat Coordination|TYPE:EclipseAbilities.Abilities.UniquePowers.BrainStuff.EclipseAbilityOutput|DESC:Awareness with Flankless, (12 CP), Specialized Blessing with the Group modifier (6 CP), to that no one can be effectively flanked while he or she is coordinating the group. Corrupted only for the group.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Uses ~ Two|APPLIEDTO:Luck|TYPE:General.Extras.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Psychic (Apport),Psychic (Telekinetic Shield),Psychic (Telekinetic Blast),Perception|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spirit Weapon ~ Ranged|APPLIEDTO:Longbow|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable.SpiritWeapon|DESC:(9 CP). With Spirit Weapon, the character may manifest a personal-use weapon which does subdual or lethal damage. The character picks either subdual or physical, not both, and the user also chooses slashing, piercing, crushing, a magical energy type, or a non-magical energy for the damage type. Most characters who take this also purchase Imbuement (page 53). The weapon may be any the user is proficient with including unarmed strikes. Unarmed strikes bought with the Spirit Weapon power are considered armed attacks. Spirit Weapon damage may be upgraded as per Martial Arts.|DESC:Damage dealt %1d%2&pipe;SpiritWeapon&pipe;SpiritWeaponSize
+USERPOOL:Character Points|POOLPOINTS:-18.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Athletics,Deception,Knowledge (War),Martial Arts,Perception|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Ancient Enemy|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Vows|APPLIEDTO:To aid your group to the best of your ability|TYPE:Disadvantage.DisadvantageCounter|DESC:While closely related to Compulsive, Vows are generally more restrictive. They're also far more dangerous; those who fail to live up to their vows face some form of retribution. On the other hand, they also get some support; characters gain a +/- 3 bonus (as needed) against attempts to make them break their vows.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+USERPOOL:Disadvantages|POOLPOINTS:-1.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Perception,Perception,Perception,Perception,Perception,Perception,Perception,Perception,Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast)|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+ABILITY:Spirit Weapon Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Longbow|TYPE:SpiritWeaponChoice
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Attack|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You get a +1 bonus on rolls to Attack, Throw, Grapple, and Trip opponents.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Mind Like Moon|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You reflexively come on guard when attacked. With a DC 15 Reflex save, you avoid being surprised or flat-footed at the beginning of combat.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Defenses|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +1 bonus to AC when you are unarmored or lightly armored.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Weapon Kata|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:The user may employ his or her martial art with a particular weapon &lbracket;e.g., "Longswords"&rbracket;. This isn't relevant for dedicated weapon forms (e.g., those based on Weapon Finesse rather than Improved Unarmed Strike), although an "Unarmed Kata" might exist in an advanced weapon form.
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling]
+WEAPONPROF:[WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Mithral Chain Shirt|OUTPUTORDER:2|COST:2250.0|WT:6.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Mithral Chain Shirt|DATA:NAME=Mithral Chain Shirt$EQMOD=MITHRAL_ARMR_LT.MWORKA]
+EQUIPNAME:Potion (Cure Serious Wounds)|OUTPUTORDER:5|COST:750|WT:0.0|QUANTITY:6.0
+EQUIPNAME:Cloak of Resistance +2|OUTPUTORDER:1|COST:4000|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Necklace of Fireballs III|OUTPUTORDER:3|COST:4350|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Back|ID:0.1.1|VALUE:Cloak of Resistance +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Mithral Chain Shirt|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Necklace of Fireballs III|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.4|VALUE:Potion (Cure Serious Wounds)|QUANTITY:6.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

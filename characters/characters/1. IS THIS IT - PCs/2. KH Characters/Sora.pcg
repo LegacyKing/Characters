@@ -1,0 +1,230 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Kingdom Hearts d20|CAMPAIGN:Rebalanced Project Campaign Setting
+VERSION:5.16.0 RC1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:1
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Sora
+TABNAME:
+PLAYERNAME:
+HEIGHT:70
+WEIGHT:168
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Dastrier|SUBCLASS:None|LEVEL:5|SKILLPOOL:72
+CLASSABILITIESLEVEL:Dastrier=1|HITPOINTS:10|SKILLSGAINED:36|SKILLSREMAINING:36
+CLASSABILITIESLEVEL:Dastrier=2|HITPOINTS:6|SKILLSGAINED:9|SKILLSREMAINING:9
+CLASSABILITIESLEVEL:Dastrier=3|HITPOINTS:5|SKILLSGAINED:9|SKILLSREMAINING:9
+CLASSABILITIESLEVEL:Dastrier=4|HITPOINTS:6|SKILLSGAINED:9|SKILLSREMAINING:9
+CLASSABILITIESLEVEL:Dastrier=5|HITPOINTS:5|SKILLSGAINED:9|SKILLSREMAINING:9
+
+# Character Experience
+EXPERIENCE:10000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Combat Expertise trade off]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Drive|OUTPUTORDER:9|
+SKILL:Escape Artist|OUTPUTORDER:10|
+SKILL:Forgery|OUTPUTORDER:11|
+SKILL:Gather Information|OUTPUTORDER:12|
+SKILL:Heal|OUTPUTORDER:13|
+SKILL:Hide|OUTPUTORDER:14|
+SKILL:Initiative|OUTPUTORDER:15|
+SKILL:Intimidate|OUTPUTORDER:16|
+SKILL:Jump|OUTPUTORDER:17|
+SKILL:Knowledge (Jedi Lore)|OUTPUTORDER:18|
+SKILL:Listen|OUTPUTORDER:19|
+SKILL:Move Silently|OUTPUTORDER:20|
+SKILL:Notice|OUTPUTORDER:21|
+SKILL:Perception|OUTPUTORDER:22|
+SKILL:Pilot|OUTPUTORDER:23|
+SKILL:Ride|OUTPUTORDER:24|
+SKILL:Search|OUTPUTORDER:25|
+SKILL:Sense Motive|OUTPUTORDER:26|
+SKILL:Sneak|OUTPUTORDER:27|
+SKILL:Spot|OUTPUTORDER:28|
+SKILL:Stealth|OUTPUTORDER:30|
+SKILL:ST Skill|OUTPUTORDER:29|
+SKILL:Survival|OUTPUTORDER:31|
+SKILL:Swim|OUTPUTORDER:32|
+SKILL:Use Computer|OUTPUTORDER:33|
+SKILL:Use Rope|OUTPUTORDER:34|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-5.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Expertise|TYPE:General.Fighter.AttackOption.ModifyAC.Damascao|DESC:When you use the attack action or the full attack action in melee, you can take a penalty of as much as %1 on your attack roll and add the same number as a dodge bonus to your Armor Class.&pipe;CombatExpertiseMax
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Reflexes|TYPE:General.Fighter.AttackOption.Mage Blade.Stormer|DESC:You may make a number of additional attacks of opportunity equal to your Dexterity bonus.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Initiative|TYPE:General.Fighter.Mage Blade.Strider.WielderOfDarkness|DESC:You get a +4 bonus on initiative checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Toughness|TYPE:Fighter.General|DESC:Gain hp equal to your current HD
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Finesse|TYPE:General.Fighter.Mage Blade.Strider.SwashbucklerFeat|DESC:With a light weapon, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Animal Tricks|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+ABILITY:Dastrier Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evasion|TYPE:SpecialQuality.Extraordinary.ModifyAC.DastrierTalent.Talent|DESC:If subjected to an attack that allows a Reflex save for half damage, you take no damage on a successful save.
+ABILITY:Dastrier Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Uncanny Dodge|TYPE:SpecialQuality.Extraordinary.DastrierTalent.Talent|DESC:Dex bonus to AC
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+USERPOOL:Fighter Rebalanced Style Mastery|POOLPOINTS:0.0
+USERPOOL:Path of Devotion|POOLPOINTS:0.0
+USERPOOL:Dragon Knight Stat Boost|POOLPOINTS:0.0
+USERPOOL:Dragon Knight Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Dragon Mage Stat Boost|POOLPOINTS:0.0
+USERPOOL:Dragon Mage Feat|POOLPOINTS:0.0
+USERPOOL:Marshal Minor Aura Choice|POOLPOINTS:0.0
+USERPOOL:Marshal Major Aura Choice|POOLPOINTS:0.0
+USERPOOL:Hexblade Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Swashbuckler Bonus Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Keyblade (Standard)|OUTPUTORDER:2|COST:5000|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Faerie Garb (Legacy)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Keyblade (Standard)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Faerie Garb (Legacy)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

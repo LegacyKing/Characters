@@ -1,0 +1,402 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Draconomicon|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.10
+ROLLMETHOD:2|EXPRESSION:High Fantasy (32)
+PURCHASEPOINTS:Y|TYPE:High Fantasy (32)
+POOLPOINTS:0
+POOLPOINTSAVAIL:32
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Kier
+TABNAME:A04 - Kier &lbracket;L3&rbracket;
+PLAYERNAME:Matt Y.
+HEIGHT:67
+WEIGHT:165
+AGE:23
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Dark Brown
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:18
+STAT:CON|SCORE:12
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:14
+ALIGN:TN
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d08)|LEVEL:3|SKILLPOOL:15|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:8|SKILLSGAINED:12|SKILLSREMAINING:12
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:6|PRESTAT:DEX=2|SKILLSGAINED:3|SKILLSREMAINING:3
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=3|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:03 - World Law ~ Feat Progression 1 - Gain Bonus Feat every Even Level]
+TEMPLATESAPPLIED:[NAME:03 - World Law ~ Feat Progression 0 - Gain Additional Bonus Feat at First Level]
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:26|
+SKILL:Bluff|OUTPUTORDER:31|
+SKILL:Climb|OUTPUTORDER:28|
+SKILL:Concentration|OUTPUTORDER:33|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Deception|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:40|
+SKILL:Disguise|OUTPUTORDER:32|
+SKILL:Endurance|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:27|
+SKILL:Forgery|OUTPUTORDER:35|
+SKILL:Gather Information|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Hide|OUTPUTORDER:44|
+SKILL:Insight|OUTPUTORDER:11|
+SKILL:Intimidate|OUTPUTORDER:41|
+SKILL:Jump|OUTPUTORDER:29|
+SKILL:Listen|OUTPUTORDER:36|
+SKILL:Move Silently|OUTPUTORDER:43|
+SKILL:Mystic Artist Skill|OUTPUTORDER:15|
+SKILL:Notice|OUTPUTORDER:39|
+SKILL:Perception|OUTPUTORDER:16|
+SKILL:Persuasion|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:19|
+SKILL:Search|OUTPUTORDER:38|
+SKILL:Sense Motive|OUTPUTORDER:34|
+SKILL:Sneak|OUTPUTORDER:45|
+SKILL:Spot|OUTPUTORDER:37|
+SKILL:ST Skill|OUTPUTORDER:20|
+SKILL:Stealth|OUTPUTORDER:21|
+SKILL:Survival|OUTPUTORDER:22|
+SKILL:Swim|OUTPUTORDER:30|
+SKILL:Thievery|OUTPUTORDER:25|
+SKILL:Use Rope|OUTPUTORDER:42|
+SKILL:Athletics (Climb (Using a rope))|OUTPUTORDER:4|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:23|
+SKILL:Craft (Trapmaking)|OUTPUTORDER:5|
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:12|
+SKILL:Linguistics|OUTPUTORDER:13|
+SKILL:Martial Arts ~ Dex Based|OUTPUTORDER:14|
+SKILL:Persuasion (Diplomacy)|OUTPUTORDER:18|
+SKILL:Survival (Underground)|OUTPUTORDER:24|
+
+# Character Languages
+LANGUAGE:Goblin|LANGUAGE:Elven|LANGUAGE:Celestial|LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+USERPOOL:+4 Stat Choice|POOLPOINTS:0.0
+USERPOOL:ACF|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Adept Skill|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+USERPOOL:Animal Known Trick|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Anthromorph Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Arnis-Barang Style Art|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu A Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu B Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu C Ability|POOLPOINTS:0.0
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+USERPOOL:Battle Dance Wis BONUS|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Breath Weapon Damage Progression|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Celerity Additional Movement Choice|POOLPOINTS:0.0
+USERPOOL:Celerity Bonus Movement Choice|POOLPOINTS:0.0
+USERPOOL:Censure Selection|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Appraise,Athletics,Deception,Gather Information,Insight,Martial Arts,Perception,Linguistics,Ride,Stealth,Survival,Thievery,Use Rope|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Finesse ~ Dex replaces Str for Hit|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). A character with Finesse may replace one attribute modifier with another in some fairly common situation, such as for a particular saving throw.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Sneak Attack d8|APPLIEDTO:|TYPE:SpecialAttack.CombatEnhancements|DESC:Sneak attack +%1d%2&pipe;SneakDiceEight&pipe;SneakSizeEight
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 6|APPLIEDTO:,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Chosen Ones|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Awareness ~ Danger Sense|APPLIEDTO:|TYPE:Awareness.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+1 CP) provides a +1 bonus on AC against trap attacks and on Reflex saves caused by traps. You may purchase this multiple times.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Awareness|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP) You suffer no defensive penalties when you're surprised. You retain your Dexterity bonus when caught flat-footed or attacked by an invisible assailant and save without penalty against surprises.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acrobatics ~ Base|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Acrobatics allows you to combine several physical stunts into one roll. An example might be, "I flip over the railing, grab the chandelier, swing across the room, tumble out the window, and land on my horse!" This would require one roll, at the highest DC incurred by any single action. You may thus evade some checks; in the example above the character wouldn't need to make any Jump checks because the Tumble check has the highest DC involved.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Upgrade Human Racial|TYPE:Character Creation.CharCreation|DESC:Upgrades the Fast Learner Human Racial to Double Points
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Appraise,Acrobatics,Athletics,Gather Information,Perception,Stealth,Thievery,Deception|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inherent Spell|APPLIEDTO:|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). A character with this ability possesses a natural spell or psychic power of up to level 3. It's usable once per day if it's level 3, twice per day if it's level 2, and includes two different spells usable twice per day each if they're level 1. These spell-like abilities are cast as if by a Sorcerer or Psion of the character's level. Inherent spells generally have a minimum level requirement of (&lbracket;Spell Level x 2&rbracket; -1), but the Game Master may opt to allow exceptions for very low-level characters and/or non-combative inherent spells. A first level character with Scrying is much less of a problem than one with Fireball in most games.|DESC:You may take this ability multiple times. Upgrades do not carry over; each base ability begins its own sequence of related abilities.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills ~ Human|APPLIEDTO:Child|TYPE:Character Creation.CharCreation.General|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fortune ~ Evasion|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:The ever-useful Fortune feat gives the character the ability to entirely ignore certain effects on a successful save. If a spell or effect has an entry such as "Fort Partial" or "Ref half," this feat works.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Specialty|APPLIEDTO:Perception / Notice being followed|TYPE:General.Character Creation.Conversion Stuff|DESC:Characters may buy a "specialty" in a given skill for 1 CP, these add +3 to the roll, but only for a chosen limited application. Only one specialty ever applies at a single time, even if they overlap. For example, many riders specialize in "Horses."
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acrobatics ~ Light Foot|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:allows combining an impractical maneuver with normal movement, such as running on walls or turning in midair while jumping.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP.&pipe;InnateEnchantmentAdditional+InnateEnchantmentPoolCount
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Appraise,Appraise,Appraise,Appraise,Appraise,Athletics,Athletics,Athletics,Athletics,Athletics,Gather Information,Gather Information,Gather Information,Gather Information,Gather Information,Perception,Perception,Perception,Perception,Perception,Stealth,Stealth,Stealth,Stealth,Stealth,Thievery,Thievery,Thievery,Thievery,Thievery,Use Rope,Use Rope,Use Rope,Use Rope,Use Rope|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Craft (Trapmaking),Craft (Trapmaking),Craft (Trapmaking),Craft (Trapmaking),Craft (Trapmaking),Insight,Insight,Insight,Insight,Insight,Knowledge (Dungeoneering),Knowledge (Dungeoneering),Knowledge (Dungeoneering),Knowledge (Dungeoneering),Knowledge (Dungeoneering),Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Linguistics,Linguistics,Linguistics,Linguistics,Linguistics|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Chosen Companion|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+USERPOOL:Cleric Conversion Choice|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Conversion Spell Selection|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Deep Lore Selection|POOLPOINTS:0.0
+USERPOOL:Defender Choice|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Deity Strings|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Authorities|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe Bonus|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Elocator Transporter|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Human Racial Stat|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Enhancement|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Unarmed Enhancement|POOLPOINTS:0.0
+USERPOOL:Improved Psicrystal Personality|POOLPOINTS:0.0
+ABILITY:Inherent Spell Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inherent Spell L1|APPLIEDTO:Hold Portal|TYPE:InherentSpellSelection.EclipseAbilityOutput|DESC:2/day
+ABILITY:Inherent Spell Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inherent Spell L2|APPLIEDTO:Arcane Lock|TYPE:InherentSpellSelection.EclipseAbilityOutput|DESC:2/day
+USERPOOL:Inherent Spell Selection|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ DEX +2|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Dexterity
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L0 ~ Skill Mastery_Knack|APPLIEDTO:Stealth|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:You may add an additional skill to your list of skills on which you get a +3 bonus.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Force Armor I|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Grants +4 Armor Bonus to AC At Will
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Natural Expertise|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Is considered proficient with any piece of equipment he or she picks up.
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Weapon Kata|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:The user may employ his or her martial art with a particular weapon &lbracket;e.g., "Longswords"&rbracket;. This isn't relevant for dedicated weapon forms (e.g., those based on Weapon Finesse rather than Improved Unarmed Strike), although an "Unarmed Kata" might exist in an advanced weapon form.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Attack|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Gain additional +1 each time taken &lbracket;currently +%1&rbracket; bonus on rolls to Attack, Throw, Grapple, and Trip opponents.&pipe;MartialArtsAttack
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Defenses|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Gain additional +1 each time taken &lbracket;currently +%1&rbracket; bonus to AC when you are unarmored or lightly armored.&pipe;MartialArtsDefense
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Versatility|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:You may change your damage with the specified martial arts weapon or unarmed attacks from lethal to subdual without penalty, and between bludgeoning, slashing, and piercing.
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Artic Fire Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Blood Blade Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Cloak Mastery|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Crane Style Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Ghost Busting Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Gungnir's Flight Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Hiten Mitsurugi Ryuu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Oaken Storm|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Phantom Blade|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Wind Dance|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Might Path Selection|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Stat Selection|POOLPOINTS:0.0
+USERPOOL:Mystic Companion Stat Choice|POOLPOINTS:0.0
+USERPOOL:Natural Attack|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Past Master Choice|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Fist Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Pureblood Human Racial Boost|POOLPOINTS:0.0
+USERPOOL:Racial Ability|POOLPOINTS:0.0
+USERPOOL:Racial Adept Skill|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Resist Energy Choices|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Rune Casting Stat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Specialist Combat Selection|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Point Class|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Spirited Selection|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Temp Negative Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Thrallherd Charm Choice|POOLPOINTS:0.0
+USERPOOL:Thrallherd Dominate Choice|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Trick Choice|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Stat Boost|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Orc Double)|WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Bolas|WEAPON:Chain (Spiked)|WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)]
+WEAPONPROF:[WEAPON:Crossbow (Repeating Heavy)|WEAPON:Crossbow (Repeating Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Dire)|WEAPON:Flail (Heavy)]
+WEAPONPROF:[WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Giant Rock|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Halfspear|WEAPON:Hammer (Gnome Hooked)|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Kama|WEAPON:Keyblade|WEAPON:Kukri|WEAPON:Lance]
+WEAPONPROF:[WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Martial Weapon|WEAPON:Maul|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Net|WEAPON:Nunchaku|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sai|WEAPON:Sap|WEAPON:Scimitar]
+WEAPONPROF:[WEAPON:Scourge|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Shuriken|WEAPON:Siangham|WEAPON:Sickle|WEAPON:Skirt Blades]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Sword (Two-Bladed)|WEAPON:Sword Staff|WEAPON:Trident|WEAPON:Unarmed]
+WEAPONPROF:[WEAPON:Unarmed Strike|WEAPON:Urgrosh (Dwarven)|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer|WEAPON:Whip]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Boots of the New Chosen Ones|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Chosen One Backpack of Holding|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Longsword (Growth Item / Chosen One)|OUTPUTORDER:6|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword (Growth Item / Chosen One)$EQMOD=STEEL.CHOSEN_GROWTH]
+EQUIPNAME:Chosen One Robe|OUTPUTORDER:5|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Chosen One Robe|DATA:EQMOD=CLOTH]
+EQUIPNAME:Chosen One Orb|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.1|VALUE:Boots of the New Chosen Ones|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.2|VALUE:Chosen One Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Chosen One Orb|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.4|VALUE:Chosen One Robe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.5|VALUE:Longsword (Growth Item / Chosen One)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

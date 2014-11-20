@@ -1,0 +1,269 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Allen Cohn's Home Campaigns
+VERSION:5.13.9
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Sherman The Tank
+TABNAME:
+PLAYERNAME:Allen Cohn, RPGA 431961
+HEIGHT:68
+WEIGHT:200
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:The Pale
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:Negotiation, diplomacy, alchemy
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:20
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:8
+STAT:WIS|SCORE:8
+STAT:CHA|SCORE:8
+ALIGN:CN
+RACE:Half-Orc
+
+# Character Class(es)
+CLASS:Barbarian|SUBCLASS:None|LEVEL:9|SKILLPOOL:0
+CLASSABILITIESLEVEL:Barbarian=1|HITPOINTS:12|PRESTAT:STR=-2|PRESTAT:INT=2|PRESTAT:CHA=2|SKILLSGAINED:4
+CLASSABILITIESLEVEL:Barbarian=2|HITPOINTS:7|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=3|HITPOINTS:7|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=4|HITPOINTS:7|PRESTAT:STR=1|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=5|HITPOINTS:7|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=6|HITPOINTS:7|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=7|HITPOINTS:7|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=8|HITPOINTS:7|PRESTAT:STR=1|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Barbarian=9|HITPOINTS:7|SKILLSGAINED:2
+
+# Character Experience
+EXPERIENCE:36000
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Barbarian|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forensics|OUTPUTORDER:10|
+SKILL:Forgery|OUTPUTORDER:11|
+SKILL:Gather Information|OUTPUTORDER:12|
+SKILL:Gather Information 2|OUTPUTORDER:13|
+SKILL:Heal|OUTPUTORDER:14|
+SKILL:Hide|OUTPUTORDER:15|
+SKILL:Intimidate|OUTPUTORDER:16|
+SKILL:Jump|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Barbarian|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:18|
+SKILL:Move Silently|OUTPUTORDER:19|
+SKILL:Ride|OUTPUTORDER:20|
+SKILL:Search|OUTPUTORDER:21|
+SKILL:Sense Motive|OUTPUTORDER:22|
+SKILL:Spot|OUTPUTORDER:23|
+SKILL:Survival|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Barbarian|RANKS:10.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:25|CLASSBOUGHT:[CLASS:Barbarian|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:26|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Orc
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Power Attack|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:On your action, before making attack rolls for a round, you may choose to subtract up to %1 from all melee attack rolls and add the same number to all melee damage rolls.&pipe;PowerAttackMax
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Uncanny Dodge|TYPE:SPECIAL.UNCANNYDODGE
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Cleave|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:If you deal a creature enough damage to make it drop, you get an immediate, extra melee attack against another creature within reach. You can use this ability once per round.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Uncanny Dodge|TYPE:SPECIAL.UNCANNYDODGE
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Sunder|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:When you strike at an object held or carried by an opponent (such as a weapon or shield), you do not provoke an attack of opportunity. You also gain a +4 bonus on any attack roll made to attack an object held or carried by another character.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Critical|APPLIEDTO:Greatsword|TYPE:GENERAL.FIGHTER|DESC:When using the weapon you selected, your threat range is doubled.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Salient Divine Ability|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Morningstar|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:33|COST:0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Explorer's)|DATA:NAME=Outfit (Explorer's)$COSTMOD=-10]
+EQUIPNAME:Warhammer|OUTPUTORDER:49|COST:12.0|WT:5.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Warhammer|DATA:NAME=Warhammer$EQMOD=STEEL]
+EQUIPNAME:Backpack|OUTPUTORDER:4|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Bell|OUTPUTORDER:7|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Caltrops|OUTPUTORDER:10|COST:1|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Candle|OUTPUTORDER:11|COST:0.01|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Chalk (1 piece)|OUTPUTORDER:13|COST:0.01|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Crowbar|OUTPUTORDER:19|COST:2|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Flint and Steel|OUTPUTORDER:23|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Grappling Hook|OUTPUTORDER:25|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Signal Whistle|OUTPUTORDER:42|COST:0.8|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Torch|OUTPUTORDER:45|COST:0.01|WT:1.0|QUANTITY:2.0
+EQUIPNAME:Waterskin|OUTPUTORDER:51|COST:1|WT:0.0|QUANTITY:2.0
+EQUIPNAME:Spade or Shovel|OUTPUTORDER:44|COST:2|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Bedroll|OUTPUTORDER:6|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:17|COST:1|WT:0.02|QUANTITY:43.0
+EQUIPNAME:Coin (Copper)|OUTPUTORDER:16|COST:0.01|WT:0.02|QUANTITY:3.0
+EQUIPNAME:Arrows (20)|OUTPUTORDER:3|COST:1.0|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Arrows (20)|DATA:NAME=Arrows (20)$EQMOD=STEEL.WOOD]
+EQUIPNAME:Dagger|OUTPUTORDER:20|COST:2.0|WT:1.0|QUANTITY:2.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Chain Shirt|OUTPUTORDER:12|COST:100.0|WT:25.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Chain Shirt|DATA:NAME=Chain Shirt$EQMOD=STEEL]
+EQUIPNAME:Rations (Trail/Per Day)|OUTPUTORDER:38|COST:0.5|WT:1.0|QUANTITY:4.0
+EQUIPNAME:Oil (1 Pt. Flask)|OUTPUTORDER:30|COST:0.1|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Coin (Platinum)|OUTPUTORDER:18|COST:10|WT:0.02|QUANTITY:293.0
+EQUIPNAME:Flask (Empty)|OUTPUTORDER:22|COST:0.03|WT:1.5|QUANTITY:1.0
+EQUIPNAME:Rope (Hempen/50 Ft.)|OUTPUTORDER:40|COST:1|WT:10.0|QUANTITY:1.0
+EQUIPNAME:Warhorse (Light)|OUTPUTORDER:50|COST:150|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Saddle (Military)|OUTPUTORDER:41|COST:20|WT:30.0|QUANTITY:1.0
+EQUIPNAME:Bit and Bridle|OUTPUTORDER:9|COST:2|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Dog (Riding)|OUTPUTORDER:21|COST:150|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Barding (Leather)|OUTPUTORDER:5|COST:20.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Barding (Leather)|DATA:NAME=Barding (Leather)$EQMOD=LEATHER]
+EQUIPNAME:Longbow (Composite/Masterwork/+4)|OUTPUTORDER:29|COST:800.0|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longbow (Composite)|DATA:NAME=Longbow (Composite/Masterwork/+4)$EQMOD=BOWSTR&pipe;+4.MWORKW.WOOD]
+EQUIPNAME:Greatsword (Cold Iron)|OUTPUTORDER:26|COST:100.0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greatsword|DATA:NAME=Greatsword (Cold Iron)$EQMOD=C_IRON.STEEL]
+EQUIPNAME:Outfit (Courtier's)|OUTPUTORDER:32|COST:30|WT:6.0|QUANTITY:1.0
+EQUIPNAME:Citrine|OUTPUTORDER:14|COST:50|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Vest Save Bonus (Resistance) (+1)|OUTPUTORDER:46|COST:1000.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Vest|DATA:NAME=Vest Save Bonus (Resistance) (+1)$EQMOD=BNS_SAV_RES&pipe;+1]
+EQUIPNAME:Potion (Oil of Magic Weapon)|OUTPUTORDER:35|COST:50|WT:0.0|QUANTITY:2.0
+EQUIPNAME:Potion (Oil of Bless Weapon)|OUTPUTORDER:34|COST:100|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Potion(Oil of Bless Weapon)|DATA:NAME=Potion (Oil of Bless Weapon)]
+EQUIPNAME:Outfit (Cold Weather)|OUTPUTORDER:31|COST:8|WT:7.0|QUANTITY:1.0
+EQUIPNAME:Antitoxin (Vial)|OUTPUTORDER:2|COST:50|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Ring (Protection +1)|OUTPUTORDER:39|COST:2000|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Full Plate +1 (Mithral)|OUTPUTORDER:24|COST:11500.0|WT:25.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Full Plate|DATA:NAME=Full Plate +1 (Mithral)$EQMOD=PLUS1A.MITHRAL_ARMR_HVY.STEEL]
+EQUIPNAME:Silversheen|OUTPUTORDER:43|COST:250|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Alchemist's Fire (Flask)|OUTPUTORDER:1|COST:20|WT:1.0|QUANTITY:5.0
+EQUIPNAME:Greatsword +1 (Alchemical Silver)|OUTPUTORDER:27|COST:2530.0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greatsword|DATA:NAME=Greatsword +1 (Alchemical Silver)$EQMOD=PLUS1W.ALCHM.STEEL]
+EQUIPNAME:Cloak of Elemental Protection|OUTPUTORDER:15|COST:1000.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Cloak|DATA:NAME=Cloak of Elemental Protection$EQMOD=SPL_ACT&pipe;SPELLNAME&lbracket;Resist Energy&rbracket; CASTER&lbracket;Cleric&rbracket; SPELLTYPE&lbracket;Divine&rbracket; SPELLLEVEL&lbracket;2&rbracket; CASTERLEVEL&lbracket;3&rbracket; $SPROP=(Cloak)$COSTMOD=-11000.0]
+EQUIPNAME:Holy Symbol (Wooden)|OUTPUTORDER:28|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Ranseur|OUTPUTORDER:37|COST:10.0|WT:12.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Ranseur|DATA:NAME=Ranseur$EQMOD=STEEL]
+EQUIPNAME:Belt of Giant Strength +4|OUTPUTORDER:8|COST:16000|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Potion (Protection from Evil)|OUTPUTORDER:36|COST:50|WT:0.0|QUANTITY:2.0
+EQUIPNAME:Wand (Vigor, Lessor/Cleric/1st)(45)|OUTPUTORDER:48|COST:675.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Wand|DATA:NAME=Wand (Vigor, Lessor/Cleric/1st)$KEY=Wand (Vigor, Lessor/Cleric/1st)$EQMOD=SPL_CHRG&pipe;SPELLNAME&lbracket;Vigor, Lessor&rbracket; CASTER&lbracket;Cleric&rbracket; SPELLTYPE&lbracket;Divine&rbracket; SPELLLEVEL&lbracket;1&rbracket; CASTERLEVEL&lbracket;1&rbracket; CHARGES&lbracket;45&rbracket;]
+EQUIPNAME:Wand (Cure Light Wounds)(47)|OUTPUTORDER:47|COST:705.0|WT:0.0625|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Wand (Cure Light Wounds)|DATA:NAME=Wand (Cure Light Wounds)$KEY=Wand (Cure Light Wounds)$EQMOD=SPL_CHRG&pipe;SPELLNAME&lbracket;Cure Light Wounds&rbracket;SPELLLEVEL&lbracket;1&rbracket;CASTERLEVEL&lbracket;1&rbracket;CHARGES&lbracket;47&rbracket;]
+EQUIPSET:Default Set|ID:0.1
+EQUIPSET:Torso|ID:0.1.1|VALUE:Outfit (Explorer's)|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.10|VALUE:Oil (1 Pt. Flask)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.1.11|VALUE:Warhammer|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.12|VALUE:Warhorse (Light)|QUANTITY:1.0
+EQUIPSET:Warhorse (Light)|ID:0.1.12.1|VALUE:Saddle (Military)|QUANTITY:1.0
+EQUIPSET:Warhorse (Light)|ID:0.1.12.2|VALUE:Bit and Bridle|QUANTITY:1.0
+EQUIPSET:Warhorse (Light)|ID:0.1.12.3|VALUE:Outfit (Cold Weather)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Warhorse (Light)|ID:0.1.12.4|VALUE:Chain Shirt|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.13|VALUE:Dog (Riding)|QUANTITY:1.0
+EQUIPSET:Dog (Riding)|ID:0.1.13.1|VALUE:Barding (Leather)|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.14|VALUE:Citrine|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.1.16|VALUE:Greatsword (Cold Iron)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.1.17|VALUE:Longbow (Composite/Masterwork/+4)|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.18|VALUE:Potion (Oil of Magic Weapon)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Chest|ID:0.1.20|VALUE:Vest Save Bonus (Resistance) (+1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.21|VALUE:Antitoxin (Vial)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.22|VALUE:Full Plate +1 (Mithral)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.24|VALUE:Ring (Protection +1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.25|VALUE:Potion (Oil of Bless Weapon)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.26|VALUE:Potion (Oil of Magic Weapon)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.27|VALUE:Wand (Cure Light Wounds)(47)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.28|VALUE:Wand (Vigor, Lessor/Cleric/1st)(45)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.29|VALUE:Greatsword +1 (Alchemical Silver)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Back|ID:0.1.30|VALUE:Cloak of Elemental Protection|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.31|VALUE:Holy Symbol (Wooden)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.32|VALUE:Ranseur|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Waist|ID:0.1.33|VALUE:Belt of Giant Strength +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.34|VALUE:Potion (Protection from Evil)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.35|VALUE:Potion (Protection from Evil)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Backpack|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.1|VALUE:Bell|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.10|VALUE:Bedroll|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.12|VALUE:Caltrops|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.14|VALUE:Torch|QUANTITY:2.0
+EQUIPSET:Backpack|ID:0.1.4.15|VALUE:Waterskin|QUANTITY:2.0
+EQUIPSET:Backpack|ID:0.1.4.17|VALUE:Coin (Copper)|QUANTITY:3.0
+EQUIPSET:Backpack|ID:0.1.4.18|VALUE:Rations (Trail/Per Day)|QUANTITY:4.0
+EQUIPSET:Backpack|ID:0.1.4.19|VALUE:Coin (Platinum)|QUANTITY:293.0
+EQUIPSET:Backpack|ID:0.1.4.2|VALUE:Candle|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.20|VALUE:Coin (Gold)|QUANTITY:43.0
+EQUIPSET:Backpack|ID:0.1.4.21|VALUE:Flask (Empty)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.22|VALUE:Rope (Hempen/50 Ft.)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.23|VALUE:Outfit (Courtier's)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.24|VALUE:Alchemist's Fire (Flask)|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.4.25|VALUE:Silversheen|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.4.3|VALUE:Chalk (1 piece)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.4|VALUE:Crowbar|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.5|VALUE:Flint and Steel|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.6|VALUE:Grappling Hook|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.8|VALUE:Signal Whistle|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.1.4.9|VALUE:Spade or Shovel|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.6|VALUE:Arrows (20)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.1.8|VALUE:Dagger|QUANTITY:2.0
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Sherman mistakenly thinks he is a skillful diplomat, as well as alchemist, gardener, moral philosopher, baby sitter...but doesn't think he can read magic scrolls. Thinks it's possible he could turn undead with a holy symbol.&nl;Free rich lifestyle  in Greyhawk City (#37).&nl;Interested in buying boots of speed (29, 12,000 GP), amulet of natural armor +3 (18,000 GP), also see 22, 24; pale blue ioun stone +2 STR (8,000 GP), holy weapon #25.
+CHARACTERCOMP:
+CHARACTERASSET:Wardog clad in leather (+2 AC)&nl;HD&colon; 2d8+4 (13hp)&nl;Init&colon; +2&nl;Speed&colon; 40&nl;AC&colon; 18 (+2 Dex, +4 natural, +2 leather), touch 12, flat-footed 16&nl;Base Attack/Grapple +1/+3&nl;Attack&colon; Bite +3 melee (1d6+3)&nl;Space&colon; 5 X 5&nl;Special Qualities&colon; low-light vision, scent&nl;Saves&colon; Fort +5, Ref +5, Will +1&nl;Abilities&colon; Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6&nl;Skills&colon; Jump +8, Listen +5, Spot +5, Swim + 3, Survival +1 (+4 more when tracking by scent)&nl;Feats&colon; Alertness, Track&nl;Free trip attack (with no counter attack) upon successful bite&nl;Six tricks&colon; attack, attack, defend, heel, guard, seek&nl;&nl;Swimming goggles 15&nl;Oxygen weed 30&nl;
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

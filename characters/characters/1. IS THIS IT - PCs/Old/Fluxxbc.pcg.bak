@@ -1,0 +1,157 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Advanced Players|CAMPAIGN:Champions of Valor|CAMPAIGN:Is This It? (Complete)|CAMPAIGN:Is This It? (Other)
+VERSION:5.9.4-Alpha
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+OUTPUTSHEETHTML:E&colon;\Program Files\PCGen\pcgen594.12.28\outputsheets\d20\fantasy\htmlxml\csheet_fantasy_std.htm
+OUTPUTSHEETPDF:E&colon;\Program Files\PCGen\pcgen594.12.28\outputsheets\d20\fantasy\pdf\csheet_fantasy_std_blue.xslt
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:4
+
+# Character Bio
+CHARACTERNAME:Fluxx
+TABNAME:S14 - Fluxx
+PLAYERNAME:Jason Pingol
+HEIGHT:48
+WEIGHT:28
+AGE:4
+GENDER:Male
+HANDED:Ambidextrous
+SKINCOLOR:Green
+EYECOLOR:Green
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:Loner
+PERSONALITYTRAIT2:Loyal
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:10
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:10
+ALIGN:NG
+RACE:Lerayul, Small
+
+# Character Class(es)
+CLASS:Animal|SUBCLASS:None|LEVEL:8|SKILLPOOL:0|PROHIBITED:None
+CLASSABILITIESLEVEL:Animal=1|HITPOINTS:8|SKILLSGAINED:4
+CLASSABILITIESLEVEL:Animal=2|HITPOINTS:5|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=3|HITPOINTS:4|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=4|HITPOINTS:5|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=5|HITPOINTS:4|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=6|HITPOINTS:5|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=7|HITPOINTS:4|SKILLSGAINED:1
+CLASSABILITIESLEVEL:Animal=8|HITPOINTS:5|SKILLSGAINED:1
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Celestial (Fluxx)]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Animal|RANKS:7.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Animal|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:16|
+SKILL:Move Silently|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:18|
+SKILL:Search|OUTPUTORDER:19|
+SKILL:Sense Motive|OUTPUTORDER:20|
+SKILL:Spot|OUTPUTORDER:21|
+SKILL:Survival|OUTPUTORDER:22|
+SKILL:Survival (Lost/Natural hazards)|OUTPUTORDER:23|
+SKILL:Survival (Natural environments)|OUTPUTORDER:24|
+SKILL:Survival (The Planes)|OUTPUTORDER:25|
+SKILL:Survival (Tracking)|OUTPUTORDER:26|
+SKILL:Survival (Underground)|OUTPUTORDER:27|
+SKILL:Swim|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Animal|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:29|
+
+# Character Languages
+
+
+# Character Feats
+FEAT:Improved Grapple|TYPE:GENERAL.FIGHTER|DESC:You do not provoke an attack of opportunity when you make a touch attack to start a grapple. You also gain a +4 bonus on all grapple checks, regardless of whether you started the grapple.
+FEAT:Improved Unarmed Strike|TYPE:GENERAL.FIGHTER|DESC:You are considered to be armed even when unarmed. However, you still get an attack of opportunity against any opponent who makes an unarmed attack on you. In addition, your unarmed strikes can deal lethal or nonlethal damage, at your option.
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite|WEAPON:Claw|WEAPON:Tongue - 15']
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Claw (Natural/Secondary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Tongue - 15' (Natural/Primary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Tongue - 15'|DATA:KEY=Tongue - 15']
+EQUIPNAME:Saddle (Exotic Riding/Small)|OUTPUTORDER:3|COST:30|WT:7.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Saddle (Exotic Riding)|DATA:NAME=Saddle (Exotic Riding/Small)$SIZE=S$SPROP=Molded Saddle for Kercpa, (Saddle (Exotic Riding/Small))]
+EQUIPNAME:Amulet of the Saddle|OUTPUTORDER:1|COST:0.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Amulet|DATA:NAME=Amulet of the Saddle$EQMOD=ADDTYPE&pipe;ACCESSORIES$SPROP=Creates the Exotic Saddle, (Amulet)]
+EQUIPSET:Default Set|ID:0.1
+EQUIPSET:Natural-Primary|ID:0.1.4|VALUE:Bite (Natural/Primary)|QUANTITY:1.0
+EQUIPSET:Natural-Secondary|ID:0.1.5|VALUE:Claw (Natural/Secondary)|QUANTITY:1.0
+EQUIPSET:Neck|ID:0.1.7|VALUE:Amulet of the Saddle|QUANTITY:1.0
+EQUIPSET:Equipped|ID:0.1.8|VALUE:Saddle (Exotic Riding/Small)|QUANTITY:1.0
+EQUIPSET:Primary Hand|ID:0.1.9|VALUE:Tongue - 15' (Natural/Primary)|QUANTITY:1.0
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+MASTER:Turk|TYPE:Special Mount|HITDICE:4|FILE:\Turk.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

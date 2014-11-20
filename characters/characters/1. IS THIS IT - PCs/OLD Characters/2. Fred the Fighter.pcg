@@ -1,0 +1,170 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Arcana Evolved|CAMPAIGN:Is This It - RSRD|CAMPAIGN:Is This It, Complete - Updated 11-13-2006|CAMPAIGN:Transcendence|CAMPAIGN:World of Warcraft
+VERSION:5.10.1
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Fred the Fighter
+TABNAME:
+PLAYERNAME:
+HEIGHT:58
+WEIGHT:109
+AGE:30
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:13
+STAT:CON|SCORE:14
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:8
+ALIGN:NG
+RACE:Half-Elf
+
+# Character Class(es)
+CLASS:Fighter|SUBCLASS:None|LEVEL:4|SKILLPOOL:0|PROHIBITED:None
+CLASS:Rogue|SUBCLASS:None|LEVEL:2|SKILLPOOL:0|PROHIBITED:None
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Fighter=2|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=3|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=4|HITPOINTS:8|PRESTAT:STR=1|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Rogue=1|HITPOINTS:4|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Rogue=2|HITPOINTS:6|SKILLSGAINED:8
+
+# Character Experience
+EXPERIENCE:15000
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Fighter|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disable Device|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:9|
+SKILL:Escape Artist|OUTPUTORDER:10|
+SKILL:Forgery|OUTPUTORDER:11|
+SKILL:Gather Information|OUTPUTORDER:12|
+SKILL:Handle Animal|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Fighter|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:14|
+SKILL:Intimidate|OUTPUTORDER:15|
+SKILL:Jump|OUTPUTORDER:16|
+SKILL:Listen|OUTPUTORDER:17|
+SKILL:Open Lock|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Fighter|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Search|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:21|
+SKILL:Sneak|OUTPUTORDER:22|
+SKILL:Sneak (Hide)|OUTPUTORDER:23|
+SKILL:Spot|OUTPUTORDER:24|
+SKILL:Survival|OUTPUTORDER:25|
+SKILL:Swim|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Fighter|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:27|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Elven
+
+# Character Feats
+FEAT:Weapon Focus|APPLIEDTO:Greataxe|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEAT:Power Attack|TYPE:GENERAL.FIGHTER|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+FEAT:Cleave|TYPE:GENERAL.FIGHTER|DESC:If you deal a creature enough damage to make it drop, you get an immediate, extra melee attack against another creature within reach. You can use this ability once per round.
+FEAT:Improved Toughness|TYPE:FIGHTER.GENERAL|DESC:Gain hp equal to your current HD
+FEAT:Weapon Specialization|APPLIEDTO:Greataxe|TYPE:SPECIAL.FIGHTER|DESC:You gain a +2 bonus on all damage rolls you make using the selected weapon.
+FEAT:Armor Proficiency (Exotic)|TYPE:GENERAL|DESC:No armor check penalty on attack rolls
+FEAT:Nimble Fingers|TYPE:GENERAL|DESC:You get a +2 bonus on all Disable Device checks and Open Lock checks.
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion]
+WEAPONPROF:[WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Morningstar|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Greataxe (Masterwork)|OUTPUTORDER:3|COST:320.0|WT:12.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greataxe|DATA:NAME=Greataxe (Masterwork)$EQMOD=MWORKW.STEEL]
+EQUIPNAME:The Definitive Harness*|OUTPUTORDER:7|COST:10000.0|WT:50.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:The Definitive Harness*|DATA:NAME=The Definitive Harness*$EQMOD=STEEL]
+EQUIPNAME:Cloak of Resistance +1|OUTPUTORDER:1|COST:1000|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Shield +1 (Heavy/Metal)|OUTPUTORDER:6|COST:1170.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Shield (Heavy/Metal)|DATA:NAME=Shield +1 (Heavy/Metal)$EQMOD=MWORKA.PLUS1S.STEEL]
+EQUIPNAME:Helmet AC Bonus (Deflection) (+2/ARMOR)|OUTPUTORDER:4|COST:8000.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Helmet|DATA:NAME=Helmet AC Bonus (Deflection) (+2/ARMOR)$EQMOD=ADDTYPE&pipe;ARMOR.BNS_AC_DEFL&pipe;+2]
+EQUIPNAME:Thieves' Tools (ACCESSORIES, MAGIC/Steel/Masterwork)|OUTPUTORDER:8|COST:100.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Thieves' Tools|DATA:NAME=Thieves' Tools (ACCESSORIES, MAGIC/Steel/Masterwork)$EQMOD=ADDTYPE&pipe;ACCESSORIES&pipe;MAGIC.MWORKT.STEEL]
+EQUIPNAME:Gauntlets Skill Bonus (Competance) (Disable Device +3)|OUTPUTORDER:2|COST:900.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Gauntlets|DATA:NAME=Gauntlets Skill Bonus (Competance) (Disable Device +3)$EQMOD=BNS_SKL_CMP&pipe;Disable Device=+3]
+EQUIPNAME:Lens of Detection|OUTPUTORDER:5|COST:3500|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Amulet of Natural Armor +3|OUTPUTORDER:1|COST:18000|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Hand|ID:0.1.10|VALUE:Gauntlets Skill Bonus (Competance) (Disable Device +3)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.11|VALUE:Amulet of Natural Armor +3|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.2|VALUE:Greataxe (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.3|VALUE:The Definitive Harness*|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Back|ID:0.1.4|VALUE:Cloak of Resistance +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shield|ID:0.1.6|VALUE:Shield +1 (Heavy/Metal)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Head|ID:0.1.7|VALUE:Helmet AC Bonus (Deflection) (+2/ARMOR)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.8|VALUE:Thieves' Tools (ACCESSORIES, MAGIC/Steel/Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.9|VALUE:Lens of Detection|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

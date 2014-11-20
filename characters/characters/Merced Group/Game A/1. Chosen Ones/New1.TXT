@@ -1,0 +1,255 @@
+Name:       New1
+Race:       Human
+Player:      
+Classes:    Wizard1
+Hit Points: 4
+Experience: 0 / 1000
+Alignment:  Lawful Good
+Vision:     
+Speed:      Walk 30 ft.
+Languages:  Common
+Stat    Score   Mod
+STR      10      (+0)
+DEX      10      (+0)
+CON      10      (+0)
+INT      10      (+0)
+WIS      10      (+0)
+CHA      10      (+0)
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Acrobatics               0        0.0      0        0
+Appraise                 0        0.0      0        0
+Athletics                0        0.0      0        0
+Athletics (Jump)         0        1.0      0        -1
+Craft (Untrained)        0        0.0      0        0
+Deception                0        0.0      0        0
+Endurance                0        0.0      0        0
+Gather Information       0        0.0      0        0
+Heal                     0        0.0      0        0
+Mystic Artist Skill      0        0.0      0        0
+Perception               0        0.0      0        0
+Persuasion               0        0.0      0        0
+Ride                     0        0.0      0        0
+Sense Motive             0        0.0      0        0
+Stealth                  0        0.0      0        0
+Survival                 0        0.0      0        0
+Thievery                 0        0.0      0        0
+Use Rope                 0        0.0      0        0
+                                                    
+-------------------------- Feats ---------------------------
+Scribe Scroll
+-------------------- Special Abilities ---------------------
+
+------------------------ Templates -------------------------
+
+-------------------------- Combat --------------------------
+    Total / Touch / Flat Footed
+AC: 10    / 10    / 10
+Initiative:   +0
+BAB:          +0
+Melee tohit:  +0
+Ranged tohit: +0
+Fortitude:    +0
+Reflex:       +0
+Will:         +2
+Unarmed attack:
+to hit:       +0
+damage:       1d3
+critical:     20/x2
+--------------------- Special Abilities --------------------
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Total weight carried: 
+Current load:         Light
+Encumbrance
+Light:  33   
+Medium: 66   
+Heavy:  100
+--------------------------- Magic --------------------------
+
+
+Wizard Spells
+ 
+Level 0
+Acid Splash (Conjuration)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: No	Effect: Orb deals 1d3 acid damage.	Target: One missile of acid
+DESC: Orb deals 1d3 acid damage.
+DESC 2:  Orb deals 1d3 acid damage.
+Amanuesis (Transmutation)
+Saves: Will negates [object]	DC: 10	Casting: 1 standard action
+Duration: 10 minute/level	Range: Close (25 ft.)	Components: V,S
+SR: Yes [object]	Effect: Copies 250 words per minute.	Target: Object or objects with writing
+DESC: Copies 250 words per minute.
+DESC 2:  Copies 250 words per minute.
+Arcane Mark (Universal)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Permanent	Range: 0 ft.	Components: V,S
+SR: No	Effect: Inscribes a personal rune [visible or invisible]. 1	Target: One personal rune or mark, all of which must fit within 1 sq. ft.
+DESC: Inscribes a personal rune [visible or invisible]. (CASTERLEVEL)
+DESC 2:  Inscribes a personal rune [visible or invisible]. 1
+Caltrops (Conjuration)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 1 round/level	Range: Close (25 ft.)	Components: V,S
+SR: No	Effect: Caltrops cover one 5-foot-by-5-foot square, attack roll +0 for all creatures moving in the square [Creatures AC is Base + Dex + [Foot Wear +2] for purpose of the caltrop attack] dealing 1 pt of damage and land speed reduced by half.	Target: See text
+DESC: Caltrops cover one 5-foot-by-5-foot square, attack roll +0 for all creatures moving in the square [Creatures AC is Base + Dex + [Foot Wear +2] for purpose of the caltrop attack] dealing 1 pt of damage and land speed reduced by half.
+DESC 2:  Caltrops cover one 5-foot-by-5-foot square, attack roll +0 for all creatures moving in the square [Creatures AC is Base + Dex + [Foot Wear +2] for purpose of the caltrop attack] dealing 1 pt of damage and land speed reduced by half.
+Dancing Lights (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 1 minute/level [D]	Range: Medium (110 ft.)	Components: V,S
+SR: No	Effect: Creates torches or other lights.	Target: Up to four lights, all within a 10- ft.-radius area
+DESC: Creates torches or other lights.
+DESC 2:  Creates torches or other lights.
+Daze (Enchantment)
+Saves: Will negates	DC: 10	Casting: Standard Action
+Duration: 1 round	Range: Close (25 ft.)	Components: V,S,M
+SR: Yes	Effect: Humanoid creature of 4 HD or less loses next action.	Target: One humanoid creature of 4 HD or less
+DESC: Humanoid creature of 4 HD or less loses next action.
+DESC 2:  Humanoid creature of 4 HD or less loses next action.
+Detect Magic (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Concentration, up to 1 minutes/level [D]	Range: 60 ft.	Components: V,S
+SR: No	Effect: Detects spells and magic items within 60 ft.	Target: Cone-shaped emanation
+DESC: Detects spells and magic items within 60 ft.
+DESC 2:  Detects spells and magic items within 60 ft.
+Detect Poison (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: No	Effect: Detects poison in one creature or small object.	Target: One creature, one object, or a 5-ft. cube
+DESC: Detects poison in one creature or small object.
+DESC 2:  Detects poison in one creature or small object.
+Disrupt Undead (Necromancy)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: Yes	Effect: Deals 1d6 damage to one undead.	Target: Ray
+DESC: Deals 1d6 damage to one undead.
+DESC 2:  Deals 1d6 damage to one undead.
+Electric Jolt (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: Yes	Effect: Ranged touch attack delivers 1d3 electric damage.	Target: Ray
+DESC: Ranged touch attack delivers 1d3 electric damage.
+DESC 2:  Ranged touch attack delivers 1d3 electric damage.
+Flare (Evocation)
+Saves: Fortitude negates	DC: 10	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V
+SR: Yes	Effect: Dazzles one creature [-1 on attack rolls].	Target: Burst of light
+DESC: Dazzles one creature (-1 on attack rolls).
+DESC 2:  Dazzles one creature [-1 on attack rolls].
+Ghost Sound (Illusion)
+Saves: Will disbelief (if interacted with)	DC: 10	Casting: Standard Action
+Duration: 1 round/level [D]	Range: Close (25 ft.)	Components: V,S,M
+SR: No	Effect: Figment sounds.	Target: Illusory sounds
+DESC: Figment sounds.
+DESC 2:  Figment sounds.
+Launch Bolt (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,M
+SR: No	Effect: Treat bolt as if fired from a light crossbow, including any bonuses, feats or enchantments.	Target: One crossbow bolt in your possession
+DESC: Treat bolt as if fired from a light crossbow, including any bonuses, feats or enchantments.
+DESC 2:  Treat bolt as if fired from a light crossbow, including any bonuses, feats or enchantments.
+Launch Item (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: S
+SR: No	Effect: Launch an item safely to the target you specify where it will act normally upon impact.	Target: One Fine item in your possession, weighing up to 10lbs
+DESC: Launch an item safely to the target you specify where it will act normally upon impact.
+DESC 2:  Launch an item safely to the target you specify where it will act normally upon impact.
+Light (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level [D]	Range: Touch	Components: V, M/DF
+SR: No	Effect: Object shines like a torch.	Target: Object touched
+DESC: Object shines like a torch.
+DESC 2:  Object shines like a torch.
+Mage Hand (Transmutation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Concentration	Range: Close (25 ft.)	Components: V,S
+SR: No	Effect: 5-pound telekinesis.	Target: One nonmagical, unattended object weighing up to 5 lb.
+DESC: 5-pound telekinesis.
+DESC 2:  5-pound telekinesis.
+Mending (Transmutation)
+Saves: Will negates (harmless, object)	DC: 10	Casting: Standard Action
+Duration: Instantaneous	Range: 10 ft.	Components: V,S
+SR: Yes (harmless, object)	Effect: Makes minor repairs on an object.	Target: One object of up to 1 lb.
+DESC: Makes minor repairs on an object.
+DESC 2:  Makes minor repairs on an object.
+Message (Transmutation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level	Range: Medium (110 ft.)	Components: V,S,F
+SR: No	Effect: Whispered conversation at distance.	Target: 1 creature/level
+DESC: Whispered conversation at distance.
+DESC 2:  Whispered conversation at distance.
+Open/Close (Transmutation)
+Saves: Will negates (object)	DC: 10	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S,F
+SR: Yes  (object)	Effect: Opens or closes small or light things.	Target: Object weighing up to 30 lb. or portal that can be opened or closed
+DESC: Opens or closes small or light things.
+DESC 2:  Opens or closes small or light things.
+Prestidigitation (Universal)
+Saves: See text	DC: 10	Casting: Standard Action
+Duration: 1 hour	Range: 10 ft.	Components: V,S
+SR: No	Effect: Performs minor tricks.	Target: See text
+DESC: Performs minor tricks.
+DESC 2:  Performs minor tricks.
+Ray of Frost (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: Yes	Effect: Ray deals 1d3 cold damage.	Target: Ray
+DESC: Ray deals 1d3 cold damage.
+DESC 2:  Ray deals 1d3 cold damage.
+Read Magic (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level	Range: Personal	Components: V,S,F
+SR: No	Effect: Read scrolls and spellbooks.	Target: You
+DESC: Read scrolls and spellbooks.
+DESC 2:  Read scrolls and spellbooks.
+Repair Minor Damage (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S
+SR: No	Effect: Repair a construct 1 point of damage.	Target: Construct touched
+DESC: Repair a construct 1 point of damage.
+DESC 2:  Repair a construct 1 point of damage.
+Resistance (Abjuration)
+Saves: Will negates (harmless)	DC: 10	Casting: Standard Action
+Duration: 1 minute	Range: Touch	Components: V,S,M/DF
+SR: Yes (harmless)	Effect: Subject gains +1 on saving throws.	Target: Creature touched
+DESC: Subject gains +1 on saving throws.
+DESC 2:  Subject gains +1 on saving throws.
+Silent Portal (Illusion)
+Saves: Will negates [object]	DC: 10	Casting: 1 standard action
+Duration: 1 minute/level [D]	Range: Close (25 ft.)	Components: S
+SR: Yes [object]	Effect: Negates the sound of opening/closing any portal [door,window,etc.].	Target: One portal
+DESC: Negates the sound of opening/closing any portal [door,window,etc.].
+DESC 2:  Negates the sound of opening/closing any portal [door,window,etc.].
+Sonic Snap (Evocation)
+Saves: Will partial	DC: 10	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (25 ft.)	Components: V,S
+SR: Yes	Effect: Deal 1 pt of damage and target must save or be deafened for 1 round.	Target: One creature or object
+DESC: Deal 1 pt of damage and target must save or be deafened for 1 round.
+DESC 2:  Deal 1 pt of damage and target must save or be deafened for 1 round.
+Stick (Transmutation)
+Saves: Will negates [object]	DC: 10	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,M
+SR: Yes [object]	Effect: Sticks one object to another; see text.	Target: Nonmagical, unattended object weighing up to 5lbs
+DESC: Sticks one object to another; see text.
+DESC 2:  Sticks one object to another; see text.
+Touch of Fatigue (Necromancy)
+Saves: Fortitude negates	DC: 10	Casting: Standard Action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: Yes	Effect: Touch attack fatigues target.	Target: Creature touched
+DESC: Touch attack fatigues target.
+DESC 2:  Touch attack fatigues target.
+                    
+                     
+
+      
+------------------------ Description -----------------------
+Height: 5' 3"             Weight: 155 lbs.                Gender: Male	
+Eyes:                Hair: ,                        Skin: 
+Dominant Hand: Right      Quirks: , 	
+Speech style:        Quotable: 
+Full Description
+
+Background
+

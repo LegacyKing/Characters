@@ -1,0 +1,264 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Benley
+TABNAME:S03 - Benley (Lv2)
+PLAYERNAME:Ian Stambaugh
+HEIGHT:72
+WEIGHT:175
+AGE:15
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Blonde
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:C&colon;\Users\Andrew\Pictures\Game Pics\Merced Crew\character.jpg
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:12
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Point Buy|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Fake Monk|LEVEL:1|SKILLPOOL:0
+CLASSABILITIESLEVEL:Point Buy=1|HITPOINTS:10|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fake Monk=1|HITPOINTS:0|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Point Buy=2|HITPOINTS:9|SKILLSGAINED:3|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Class Skills Eclipse Point Buy]
+TEMPLATESAPPLIED:[NAME:01 Class Skills Martial Art]
+
+# Character Region
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Point Buy|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Point Buy|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:20|
+SKILL:Bluff|OUTPUTORDER:25|
+SKILL:Climb|OUTPUTORDER:22|
+SKILL:Concentration|OUTPUTORDER:27|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:33|
+SKILL:Disguise|OUTPUTORDER:26|
+SKILL:Endurance|OUTPUTORDER:6|
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Forgery|OUTPUTORDER:28|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:37|
+SKILL:Intimidate|OUTPUTORDER:34|
+SKILL:Jump|OUTPUTORDER:23|
+SKILL:Listen|OUTPUTORDER:29|
+SKILL:Martial Art|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Point Buy|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Move Silently|OUTPUTORDER:36|
+SKILL:Mystic Artist Skill|OUTPUTORDER:10|
+SKILL:Notice|OUTPUTORDER:32|
+SKILL:Perception|OUTPUTORDER:11|
+SKILL:Persuasion|OUTPUTORDER:12|
+SKILL:Ride|OUTPUTORDER:13|
+SKILL:Search|OUTPUTORDER:31|
+SKILL:Sense Motive|OUTPUTORDER:14|
+SKILL:Sneak|OUTPUTORDER:15|
+SKILL:Spot|OUTPUTORDER:30|
+SKILL:Stealth|OUTPUTORDER:17|
+SKILL:ST Skill|OUTPUTORDER:16|
+SKILL:Survival|OUTPUTORDER:18|
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Thievery|OUTPUTORDER:19|
+SKILL:Use Rope|OUTPUTORDER:35|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Elven|LANGUAGE:Gnome
+
+# Character Feats
+FEATPOOL:-3.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|TYPE:SpecialQuality.Character Creation.General|DESC:A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Hit Die Upgrade (D10)|TYPE:Character Creation.HD
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage (Hallucinations Flashbacks and Visions)|TYPE:Disadvantage.SpecialQuality|DESC:Your version of reality doesn't always agree with that of those about you. While this is common enough with respect to details, in your case it may extend to things like whether it's daytime. More commonly, and most dangerously, you may simply see a distorted version of what everyone else sees. This is up to the GM, but the occasional Will save (DC 18) is suggested, or you may react in a radically different manner than those about you.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage (History)|TYPE:Disadvantage.SpecialQuality|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple and Martial Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple and martial weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts|APPLIEDTO:,,|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:Unarmed Damage %1d%2&pipe;MartialArtsDie&pipe;MartialArtsDieSize|DESC:A character is considered armed when using unarmed combat so long as he or she places at least 3 CP in this ability. He or she gains a base damage of 1d4 with unarmed attacks. Each +3 CP invested after that increases the damage by one die type (d6/d8/d10/d12), up to a maximum of 1d12 at 15 CP.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,|TYPE:General.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,|TYPE:SavingThrow.SpecialQuality|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage (Broke)|TYPE:Disadvantage.SpecialQuality|DESC:You start with only a third of the usual cash and equipment you would be entitled to by your level. You may have continuing money problems as well if you add Obligations, Compulsive, or a similar flaw.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft|APPLIEDTO:,|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:%1 Power Points&pipe;WitchcraftPowerPoints
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.SpecialQuality|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.SpecialQuality|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Sneak Attack d6|APPLIEDTO:|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:Sneak attack +%1d%2&pipe;SneakDiceSix&pipe;SneakSizeSix
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Skirmish Attack d8|APPLIEDTO:|TYPE:SpecialAttack.CombatEnhancements|DESC:Skirmish attack +%1d%2&pipe;SkirmishDiceEight&pipe;SkirmishSizeEight
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Skirmish Attack d6|APPLIEDTO:|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:Skirmish attack +%1d%2&pipe;SkirmishDiceSix&pipe;SkirmishSizeSix
+USERPOOL:Character Points|POOLPOINTS:4.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Shadowweave|TYPE:WitchcraftAbilities.SpecialQuality|DESC:Shadowweave manipulates light and darkness to craft minor illusions. Normally 1 Power grants 10 minutes of activity. Effects include will-o-the wisps, cloaking (+6 to stealth and disguise rolls), various apparitions, spheres of darkness, blinding rays of light and hiding small actions - such as slipping out a dagger, picking a pocket, or a strike in combat (offers a +3 circumstance bonus to the user's roll). For +6 CP the user may expand his or her repertoire to level 2 (2 power) and 3 (4 power) illusion-casting effects (compare to the Sorcerer/Wizard list).
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Witchsight|TYPE:WitchcraftAbilities.SpecialQuality|DESC:Sharpening or expanding the user's senses is a simple trick. In general, this affects one sense at a time, providing either a +6 bonus on relevant checks or some special capability (Darksight, Scent, etc). As a rule this costs 1 Power and lasts for about an hour. Witches may triple the effect by reducing the duration to a single round, allowing effects such as checking a meal for poison with the slightest taste.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Healing|TYPE:WitchcraftAbilities.SpecialQuality|DESC:This accomplishes a full day's worth of healing in a mere hour at a cost of 1 Power and grants a +5 bonus on any relevant checks (against disease or toxins). This is also used to throw off the effects of drugs and intoxicants with a flat duration. In emergencies, Witches may simply heal 1d4 hit points per Power spent up to a maximum of 3d4 hit points per round.
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Attack|APPLIEDTO:,|TYPE:MartialArtsSkill.BasicTechnique|DESC:You get a +1 bonus on rolls to Attack, Throw, Grapple, and Trip opponents.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Defenses|APPLIEDTO:|TYPE:MartialArtsSkill.BasicTechnique|DESC:You gain +1 bonus to AC when you are unarmored or lightly armored.
+USERPOOL:Martial Art Techniques|POOLPOINTS:3.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Perception|APPLIEDTO:,,,,|TYPE:SkillBuy.FullCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Stealth|APPLIEDTO:,,,,|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Animal Tricks|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart]
+WEAPONPROF:[WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword]
+WEAPONPROF:[WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Kukri|WEAPON:Lance]
+WEAPONPROF:[WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Pick (Heavy)]
+WEAPONPROF:[WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scourge|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Trident|WEAPON:Unarmed|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:3|COST:10|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Dagger|OUTPUTORDER:1|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Leather|OUTPUTORDER:2|COST:10.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Leather|DATA:NAME=Leather$EQMOD=LEATHER]
+EQUIPNAME:Scimitar|OUTPUTORDER:4|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Scimitar|DATA:NAME=Scimitar$EQMOD=STEEL]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.1|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.2|VALUE:Dagger|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.3|VALUE:Leather|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.4|VALUE:Scimitar|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLLIST:Point Buy|CLASS.Cleric
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Fake Monk
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

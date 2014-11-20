@@ -1,0 +1,369 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Dad's Campaign, Extra PCCs|CAMPAIGN:Is This It, Complete - Updated 11-13-2006|CAMPAIGN:Is This It, MASTER FILE [rsrd]|CAMPAIGN:Phil's Campaign|CAMPAIGN:Probation - Feats|CAMPAIGN:Probation - Paladin, Chainmail Bikini Games|CAMPAIGN:Probation - Paladin, Maladin
+VERSION:5.13.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:N
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Jason of Hulberg
+TABNAME:S09 - Jason (10) &lbracket;Draft 8-25-07&rbracket;
+PLAYERNAME:Tim
+HEIGHT:76
+WEIGHT:242
+AGE:29
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:23
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:16
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:15
+STAT:CHA|SCORE:18
+ALIGN:LG
+RACE:Human
+
+# Character Class(es)
+CLASS:Champion of Mystra|SUBCLASS:None|LEVEL:10|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:0,1,1
+CLASS:Sorcerer|SUBCLASS:None|LEVEL:0|SKILLPOOL:0|SPELLBASE:CHA|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Champion of Mystra=1|HITPOINTS:10|ABILITY:[PROMPT:SPELLCASTER(Sorcerer)|CHOICE:Sorcerer]|SKILLSGAINED:24
+CLASSABILITIESLEVEL:Champion of Mystra=2|HITPOINTS:8|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=3|HITPOINTS:7|ABILITY:[PROMPT:SPELLCASTER(Sorcerer)|CHOICE:Sorcerer]|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=4|HITPOINTS:7|PRESTAT:STR=1|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=5|HITPOINTS:7|ABILITY:[PROMPT:SPELLCASTER(Sorcerer)|CHOICE:Sorcerer]|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=6|HITPOINTS:10|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=7|HITPOINTS:8|ABILITY:[PROMPT:SPELLCASTER(Sorcerer)|CHOICE:Sorcerer]|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=8|HITPOINTS:7|PRESTAT:CHA=1|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=9|HITPOINTS:6|ABILITY:[PROMPT:SPELLCASTER(Sorcerer)|CHOICE:Sorcerer]|SKILLSGAINED:6
+CLASSABILITIESLEVEL:Champion of Mystra=10|HITPOINTS:9|SKILLSGAINED:6
+
+# Character Experience
+EXPERIENCE:45000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Truename]
+TEMPLATESAPPLIED:[NAME:1-Andrew Mods]
+TEMPLATESAPPLIED:[NAME:1-Jason]
+TEMPLATESAPPLIED:[NAME:1-Jason Special Mount]
+TEMPLATESAPPLIED:[NAME:1-Spell Access ~ Chainmail Bikini]
+TEMPLATESAPPLIED:[NAME:1-Spell Access ~ Maladin]
+TEMPLATESAPPLIED:[NAME:1-Jason ~ Mystic Shield]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:12.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Handle Animal|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:13|
+SKILL:Hide|OUTPUTORDER:14|
+SKILL:Intimidate|OUTPUTORDER:15|
+SKILL:Jump|OUTPUTORDER:16|
+SKILL:Knowledge (Religion)|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:18|
+SKILL:Move Silently|OUTPUTORDER:19|
+SKILL:Notice|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:6.0|COST:1|CLASSSKILL:N]
+SKILL:Profession (Hunter)|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:12.0|COST:1|CLASSSKILL:Y]
+SKILL:Search|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:6.0|COST:1|CLASSSKILL:N]
+SKILL:Sense Motive|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:11.0|COST:1|CLASSSKILL:Y]
+SKILL:Sneak|OUTPUTORDER:25|
+SKILL:Spellcraft|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:27|
+SKILL:ST Skill|OUTPUTORDER:28|
+SKILL:Survival|OUTPUTORDER:29|
+SKILL:Swim|OUTPUTORDER:30|
+SKILL:Use Rope|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Champion of Mystra|RANKS:5.0|COST:1|CLASSSKILL:N]
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Dwarven|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-7.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Sword (Bastard)|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Specialization|APPLIEDTO:Sword (Bastard)|TYPE:SPECIAL.FIGHTER|DESC:You gain a +2 bonus on all damage rolls you make using the selected weapon.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Blind Fight|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Track|TYPE:GENERAL|DESC:To find tracks or to follow them for 1 mile requires a successful Survival check. You must make another Survival check every time the tracks become difficult to follow.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Power Attack|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:On your action, before making attack rolls for a round, you may choose to subtract up to %1 from all melee attack rolls and add the same number to all melee damage rolls.&pipe;PowerAttackMax
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Cleave|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:If you deal a creature enough damage to make it drop, you get an immediate, extra melee attack against another creature within reach. You can use this ability once per round.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Critical|APPLIEDTO:Sword (Bastard)|TYPE:GENERAL.FIGHTER|DESC:When using the weapon you selected, your threat range is doubled.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Speed Burst|TYPE:GENERAL|DESC:Extra move action once per day per two levels
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Exotic Weapon Proficiency|APPLIEDTO:Sword (Bastard)|TYPE:GENERAL.FIGHTER|DESC:Choose a type of exotic weapon. You understand how to use that type of exotic weapon in combat.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Salient Divine Ability|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)]
+WEAPONPROF:[WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Trident]
+WEAPONPROF:[WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:40657.50
+EQUIPNAME:Outfit (Traveler's)|OUTPUTORDER:9|COST:0|WT:5.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Traveler's)|DATA:NAME=Outfit (Traveler's)$COSTMOD=-1]
+EQUIPNAME:Mystra's Blessed Amulet of Life(6)|OUTPUTORDER:8|COST:104000.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Amulet|DATA:NAME=Mystra's Blessed Amulet of Life$KEY=Mystra's Blessed Amulet of Life$EQMOD=CRYS_DEEP_ITEM.BNS_SAV_SAC&pipe;+3.BNS_SKL_CMP&pipe;Knowledge (Religion)=+10.SPL_CHRG&pipe;SPELLNAME&lbracket;Raise Dead&rbracket; CASTER&lbracket;Cleric&rbracket; SPELLTYPE&lbracket;Divine&rbracket; SPELLLEVEL&lbracket;5&rbracket; CASTERLEVEL&lbracket;20&rbracket; CHARGES&lbracket;6&rbracket; $SPROP=(Amulet Save Bonus (Sacred) (+3/Skill Bonus (Competance) (Knowledge (Religion) +10)/Crystal (Deep)/Raise Dead//Cleric/20th))]
+EQUIPNAME:Bag of Holding (Type 4)|OUTPUTORDER:2|COST:10000|WT:60.0|QUANTITY:1.0
+EQUIPNAME:Cloak of Charisma +4|OUTPUTORDER:4|COST:16000|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Ring of Fire and Ice|OUTPUTORDER:11|COST:0.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Ring|DATA:NAME=Ring of Fire and Ice$EQMOD=CRYS_DEEP_ITEM$SPROP=When worn, the ring offers a limited immunity to Fire or Cold energy attacks by absorbing up to 10 spell levels (10d6) of Fire and Cold energy. It can then discharge that same energy as a beam (range touch) upon command as a standard action as either Fire or Cold.]
+EQUIPNAME:Boots of Swiftness and Blinking|OUTPUTORDER:3|COST:240000.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Boots of Swiftness and Blinking|DATA:NAME=Boots of Swiftness and Blinking$EQMOD=SPL_CON_ROUND&pipe;SPELLNAME&lbracket;Blink&rbracket; CASTER&lbracket;Wizard&rbracket; SPELLTYPE&lbracket;Arcane&rbracket; SPELLLEVEL&lbracket;3&rbracket; CASTERLEVEL&lbracket;10&rbracket;]
+EQUIPNAME:Mithral Full Plate +2|OUTPUTORDER:6|COST:14500.0|WT:25.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Light Full Plate|DATA:NAME=Mithral Full Plate +2$EQMOD=PLUS2A.MITHRAL_ARMR_LT$SPROP=(Light Full Plate +2)$COSTMOD=9500.0]
+EQUIPNAME:Ring (Protection +3)|OUTPUTORDER:10|COST:18000|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Auric 'Farandol|OUTPUTORDER:1|COST:165035.0|WT:6.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Sword (Bastard)|DATA:NAME=Auric 'Farandol$EQMOD=PLUS4W.ADAMANT_WEAP.BONDED_M.DISPELLING.HOLY_M.ICE_BR_M.STEEL$SPROP=(Sword +4 (Bastard/Adamantine/Bonded/Dispelling/Holy/Icy Burst))]
+EQUIPNAME:Mystic Shield|OUTPUTORDER:7|COST:4170.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Shield (Heavy/Metal)|DATA:NAME=Mystic Shield$EQMOD=PLUS2S.STEEL$SPROP=(Shield +2 (Heavy/Metal))]
+EQUIPNAME:Crossbow +2 (Light)|OUTPUTORDER:5|COST:8335.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Crossbow (Light)|DATA:NAME=Crossbow +2 (Light)$EQMOD=PLUS2W.WOOD]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.10|VALUE:Bag of Holding (Type 4)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Back|ID:0.1.11|VALUE:Cloak of Charisma +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.12|VALUE:Ring of Fire and Ice|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.13|VALUE:Boots of Swiftness and Blinking|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.14|VALUE:Mithral Full Plate +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.16|VALUE:Ring (Protection +3)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.17|VALUE:Auric 'Farandol|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shield|ID:0.1.18|VALUE:Mystic Shield|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.19|VALUE:Crossbow +2 (Light)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.4|VALUE:Outfit (Traveler's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.9|VALUE:Mystra's Blessed Amulet of Life(6)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Mystra|DEITYDOMAINS:[DOMAIN:Good|DOMAIN:Illusion|DOMAIN:Knowledge|DOMAIN:Magic|DOMAIN:Rune|DOMAIN:Spell]|ALIGNALLOW:|DESC:Deity|HOLYITEM:None|DEITYFAVWEAP:[WEAPON:Shuriken]|DEITYALIGN:NG
+
+# Character Spells Information
+SPELLBOOK:Paladin|TYPE:2
+SPELLNAME:Angelskin|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Aura of Glory|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Avenger's Might|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Awaken Sin|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Axiomatic Storm|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Axiomatic Water|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Battle Prayer|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Bless|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Bless Water|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Bless Weapon|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Bless Weapon (Swift)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Blessed Aim|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Blessing of Bahamut|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Blessing of the Righteous|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Blessings of Insight|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Break Enchantment|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Bull's Strength|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Castigate|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Channel Healing|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Checkmate's Light|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Clear Mind|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Cloak of Bravery|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Cloak Pool|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Create Water|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Crown of Smiting|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Cure Light Wounds|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Cure Moderate Wounds|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Cure Serious Wounds|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Daylight|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Deafening Clang|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Death Ward|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Defiance|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Delay Poison|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Detect Poison|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Detect Undead|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Diamondsteel|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Discern Lies|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Dispel Chaos|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Dispel Evil|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Dispel Fear|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Aura|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Favor|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Insight|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Protection|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Pursuit|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Retaliation|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Sacrifice|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Divine Warding|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Draconic Might|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Drums of the Righteous|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Eagle's Splendor|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Endure Elements|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Energized Shield|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Energized Shield (Lesser)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Exorcise the Damned|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Faith Healing|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Favor of the Martyr|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Fell the Greatest Foe|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Find Temple|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Find the Gap|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Flame of Faith|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Golden Barding|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Grave Strike|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Hand of Divinity|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Heal Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Healing Spirit|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Meditation|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Shield|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Spurs|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Storm|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Holy Sword|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Inspirational Charge|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Knight's Move|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Know Greatest Enemy|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Lawful Sword|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Lionheart|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Loyal Vassal|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Magic Circle against Chaos|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Magic Circle against Evil|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Magic Weapon|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Magic Weapon (Greater)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Mantle of Good|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Mantle of Law|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Mark of Doom|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Mark of Justice|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Mentor|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Meteoric Strike|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Moment of Clarity|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Neutralize Poison|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:One Mind|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:One Mind (Greater)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:One Mind (Lesser)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:One Soul|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Owl's Wisdom|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Pious Strength|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Poultice|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Prayer|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Protection from Chaos|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Protection from Evil|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Purge the Soul|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Purify Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Purifying Flame|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Quick March|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Rally|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Regal Procession|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Remove Blindness/Deafness|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Remove Curse|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Remove Paralysis|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Resist Energy|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Resist Planar Alignment|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Resistance|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Restoration|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Restoration (Lesser)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Resurgence|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Resurgence (Mass)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Revenance|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Rhino's Rush|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Righteous Aura|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Righteous Fury|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Sacred Haven|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Safe Passage|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Second Wind|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Seek Eternal Rest|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Sense Heretic|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Shadow Bane|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Shield Flash|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Shield of Warding|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Shield Other|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Silver Beacon|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Soul Burn|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Speed Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Spiritual Chariot|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Stabilize|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Stand Together|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Sticky Saddle|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Strategic Charge|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Strength of Stone|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Telepathic Aura|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Traveler's Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Undead Bane Weapon|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Undetectable Alignment|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Unstoppable|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Vigilant Sleep|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Virtue|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Visage of the Deity (Lesser)|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Vision of Glory|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Warning Shout|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Weapon of the Deity|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Winged Mount|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Word of Binding|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Zeal|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Zone of Truth|TIMES:1|CLASS:Champion of Mystra|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Paladin]
+SPELLNAME:Amanuesis|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Caltrops|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Detect Magic|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Eagle's Splendor|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Feather Fall|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Light|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Scholar's Touch|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Shield|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Stick|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:True Strike|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLNAME:Wraithstrike|TIMES:1|CLASS:Sorcerer|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Sorcerer]
+SPELLLIST:Champion of Mystra|Paladin
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Calabar|TYPE:SPECIAL MOUNT|RACE:HORSE (WARHORSE HEAVY)|HITDICE:0|FILE:\Calabar.pcg
+FOLLOWER:Calabar|TYPE:SPECIAL INT MOUNT|RACE:HORSE (WARHORSE HEAVY)|HITDICE:0|FILE:\Calabar.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

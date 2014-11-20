@@ -1,0 +1,298 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:Y
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Pip
+TABNAME:S11 - Pip (Lv4)
+PLAYERNAME:Terry Reed
+HEIGHT:71
+WEIGHT:172
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:17
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:17
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d20)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d12)|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Ranger|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=1|HITPOINTS:20|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:6|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=2|HITPOINTS:7|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=3|HITPOINTS:6|PRESTAT:STR=1|PRESTAT:CON=1|SKILLSGAINED:3|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:10000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Class Skills Eclipse Point Buy]
+TEMPLATESAPPLIED:[NAME:Pip Template]
+TEMPLATESAPPLIED:[NAME:Dragonblooded]
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:7.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:4.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:20|
+SKILL:Bluff|OUTPUTORDER:25|
+SKILL:Climb|OUTPUTORDER:22|
+SKILL:Concentration|OUTPUTORDER:27|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:33|
+SKILL:Disguise|OUTPUTORDER:26|
+SKILL:Endurance|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Forgery|OUTPUTORDER:28|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:37|
+SKILL:Intimidate|OUTPUTORDER:34|
+SKILL:Jump|OUTPUTORDER:23|
+SKILL:Listen|OUTPUTORDER:29|
+SKILL:Move Silently|OUTPUTORDER:36|
+SKILL:Mystic Artist Skill|OUTPUTORDER:9|
+SKILL:Notice|OUTPUTORDER:32|
+SKILL:Perception|OUTPUTORDER:10|
+SKILL:Persuasion|OUTPUTORDER:11|
+SKILL:Ride|OUTPUTORDER:12|
+SKILL:Search|OUTPUTORDER:31|
+SKILL:Sense Motive|OUTPUTORDER:13|
+SKILL:Sneak|OUTPUTORDER:14|
+SKILL:Spot|OUTPUTORDER:30|
+SKILL:ST Skill|OUTPUTORDER:15|
+SKILL:Stealth|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:17|
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Thievery|OUTPUTORDER:19|
+SKILL:Use Rope|OUTPUTORDER:35|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:18|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Orc|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-5.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple and Martial Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple and martial weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Improved Initiative|APPLIEDTO:,|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Specialized half corrupted ~ Choose Weapon|APPLIEDTO:Longsword,Longsword,Longsword|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (+1)|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Ranger Magic Level|APPLIEDTO:,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Might|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to grant your companion the benefits of two Positive Levels (see page 86) or of a continuously active second level spell or psychic effect.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Attack ~ Improved|APPLIEDTO:|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:Reduces the penalties for your normal attack sequence by -2.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Template|APPLIEDTO:|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) adds a template of up to +2 ECL to the companion. Only one Template can be applied to a given companion, but you may pay the cost multiple times to add a more powerful template. The ECL addition is cumulative up to a maximum of +6.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Ranger Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;RANGER&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Ranger|APPLIEDTO:,,|TYPE:EclipseAbilityOutput.CasterLevel
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic|APPLIEDTO:|TYPE:General.Extras
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Great Form|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to apply Righteous Might (at a Caster Level equal to your level) to a companion as a Free Action up to three times per day.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Attack|APPLIEDTO:|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:Grants an additional attack at highest attack bonus with a -2 penalty for all attacks
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Athletics,Bluff,Deception,Disguise,Endurance,Escape Artist,Gather Information,Handle Animal,Heal,Knowledge (Fey),Knowledge (Nature),Knowledge (Religion),Perception,Survival|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Uncivilized|TYPE:Disadvantage.DisadvantageCounter|DESC:You do not fit into anything beyond a small tribe. Complex social situations, the sheet scale of cities and towns, and business and banking schemes (among other things) are all beyond your grasp. You stick out like a sore thumb in civilized areas and greatly prefer to stick with items, foods, and customs typical of your tribe. You start off with little or no access to advanced equipment or techniques for the setting, and often take a -4 penalty when dealing with civilized societies or technologies.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Tabarath Cult|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Unarmored|TYPE:Disadvantage.DisadvantageCounter|DESC:You refuse to use armor for some reason. Characters who already suffer major penalties for wearing armor can't take this disadvantage.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Animal Companion|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:1. Test Skill|APPLIEDTO:Survival,Survival,Survival,Survival,Survival,Survival,Survival,Perception,Perception,Perception,Perception,Perception,Perception,Perception|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Chakram|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)]
+WEAPONPROF:[WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub]
+WEAPONPROF:[WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Kukri]
+WEAPONPROF:[WEAPON:Lance|WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scourge|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)]
+WEAPONPROF:[WEAPON:Sword (Short)|WEAPON:Sword Staff|WEAPON:Trident|WEAPON:Unarmed|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Sentient Rod of Any Weapon|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Special Backpack of Holding|OUTPUTORDER:6|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Longsword|OUTPUTORDER:3|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword$EQMOD=STEEL]
+EQUIPNAME:Sword (Short)|OUTPUTORDER:7|COST:10.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Sword (Short)|DATA:NAME=Sword (Short)$EQMOD=STEEL]
+EQUIPNAME:Faerie Garb +3|OUTPUTORDER:2|COST:9151.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb|DATA:NAME=Faerie Garb +3$EQMOD=CLOTH.PLUS3A]
+EQUIPNAME:Longsword +1|OUTPUTORDER:4|COST:2315.0|WT:4.0|QUANTITY:2.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword +1$EQMOD=STEEL.PLUS1W]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.2|VALUE:Sentient Rod of Any Weapon|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Special Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.6|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.7|VALUE:Faerie Garb +3|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.8|VALUE:Longsword +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Secondary Hand|ID:0.1.9|VALUE:Longsword +1|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:RavenWolf|TYPE:Special Animal Companion|RACE:RAVEN WOLF|HITDICE:0|FILE:\RavenWolf.pcg
+FOLLOWER:Bane|TYPE:Animal Companion|RACE:COMPANION (RAVENWOLF)|HITDICE:0|FILE:\2. Bane.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

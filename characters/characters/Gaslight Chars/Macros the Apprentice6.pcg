@@ -1,0 +1,357 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:v1.1 Battlefield Press - Gaslight - A Victorian Era Fantasy Role Playing Game
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:11
+PURCHASEPOINTS:N
+POOLPOINTS:88
+POOLPOINTSAVAIL:-1
+GAMEMODE:Gaslight
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Heinrick Duval the Third
+TABNAME:
+PLAYERNAME:
+HEIGHT:68
+WEIGHT:150
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:7
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:13
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:15
+STAT:CHA|SCORE:12
+RACE:Human
+
+# Character Class(es)
+CLASS:Apprentice|SUBCLASS:None|LEVEL:6|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:6,6,5,3
+CLASSABILITIESLEVEL:Apprentice=1|HITPOINTS:1|SKILLSGAINED:40|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Apprentice=2|HITPOINTS:4|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Apprentice=3|HITPOINTS:3|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Apprentice=4|HITPOINTS:4|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Apprentice=5|HITPOINTS:3|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Apprentice=6|HITPOINTS:4|PRESTAT:DEX=1|SKILLSGAINED:10|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:15000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Intelligence Ability Bonus]
+TEMPLATESAPPLIED:[NAME:Occupation|CHOSENTEMPLATE:[NAME:MageSkills]]
+TEMPLATESAPPLIED:[NAME:MageSkills]
+TEMPLATESAPPLIED:[NAME:Energy Points]
+
+# Character Region
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Athletics|OUTPUTORDER:2|
+SKILL:Concentration|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Chemical)|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:2|CLASSSKILL:N]
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Decipher Script|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:7|
+SKILL:Forgery|OUTPUTORDER:8|
+SKILL:Gamble|OUTPUTORDER:9|
+SKILL:Gather Information|OUTPUTORDER:10|
+SKILL:Investigate|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Earth and Life Sciences)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Apprentice|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (History)|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Apprentice|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Technology)|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Navigate|OUTPUTORDER:15|
+SKILL:Notice|OUTPUTORDER:16|
+SKILL:Operate Vehicle (Aircraft)|OUTPUTORDER:17|
+SKILL:Operate Vehicle (Ground Vehicles)|OUTPUTORDER:18|
+SKILL:Operate Vehicle (Watercraft)|OUTPUTORDER:19|
+SKILL:Perform (Act)|OUTPUTORDER:20|
+SKILL:Perform (Dance)|OUTPUTORDER:21|
+SKILL:Perform (Keyboards)|OUTPUTORDER:22|
+SKILL:Perform (Percussion Instruments)|OUTPUTORDER:23|
+SKILL:Perform (Sing)|OUTPUTORDER:24|
+SKILL:Perform (Stand-Up)|OUTPUTORDER:25|
+SKILL:Perform (Stringed Instruments)|OUTPUTORDER:26|
+SKILL:Perform (Wind Instruments)|OUTPUTORDER:27|
+SKILL:Persuasion|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Profession|OUTPUTORDER:29|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Research|OUTPUTORDER:30|CLASSBOUGHT:[CLASS:Apprentice|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:31|
+SKILL:Search|OUTPUTORDER:32|
+SKILL:Sense Motive|OUTPUTORDER:33|
+SKILL:Stealth|OUTPUTORDER:34|
+SKILL:Survival|OUTPUTORDER:35|
+SKILL:Treat Injury|OUTPUTORDER:36|
+SKILL:Use Rope|OUTPUTORDER:37|
+
+# Character Languages
+LANGUAGE:Cantonese
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Personal Firearms Proficiency|TYPE:General.Occultist.Criminal.Investigative.Law_Enforcement.Military.Rural.Fast.FieldScientist.Techie.Investigator.FieldMedic.Negotiator.Adventurer.Adventurer.Criminal.Investigative.Law_Enforcement.Military.Rural.Acolyte.Rogue.Acolyte.Investigator.Rogue|DESC:The character can fire any personal firearm without penalty
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Point Blank Shot|TYPE:General.Occultist.Fast.FieldScientist.Techie.Investigator.Charismatic.Hunter.Rogue.Everyman.Investigator.Rogue|DESC:The character gets a +1 bonus on attack and damage rolls with ranged weapons against opponents within 30 feet
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Photographic Memory|TYPE:General.Smart|DESC:See text
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Swap a Feat for a Human Talent|APPLIEDTO:|TYPE:General
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+ABILITY:Bonus Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stat Boost +2 (Int)|TYPE:BonusStat
+USERPOOL:Bonus Stat|POOLPOINTS:0.0
+USERPOOL:EnergyPoints|POOLPOINTS:0.0
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 01 Energy Point Roll|APPLIEDTO:1|TYPE:EnergyPointRoll
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 02 Energy Point Roll|APPLIEDTO:2|TYPE:EnergyPointRoll
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 03 Energy Point Roll|APPLIEDTO:2|TYPE:EnergyPointRoll
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 04 Energy Point Roll|APPLIEDTO:2|TYPE:EnergyPointRoll
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 05 Energy Point Roll|APPLIEDTO:1|TYPE:EnergyPointRoll
+ABILITY:Energy Points|TYPE:NORMAL|CATEGORY:EnergyPoints|KEY:Level 06 Energy Point Roll|APPLIEDTO:1|TYPE:EnergyPointRoll
+USERPOOL:Energy Points|POOLPOINTS:0.0
+ABILITY:Human Talent|TYPE:NORMAL|CATEGORY:Talent|KEY:Significant Other|TYPE:MultiRacial
+USERPOOL:Human Talent|POOLPOINTS:0.0
+USERPOOL:Beast Man Talent|POOLPOINTS:0.0
+USERPOOL:Vampire Talent|POOLPOINTS:0.0
+USERPOOL:Wildling Talent|POOLPOINTS:0.0
+USERPOOL:Bohemian Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Drifter Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Magus Apprentice Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Psychic Investigator Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Acolyte Feat|POOLPOINTS:0.0
+ABILITY:Apprentice Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Brew Potion|TYPE:ItemCreation.Wizard|DESC:See Text
+USERPOOL:Apprentice Feat|POOLPOINTS:0.0
+USERPOOL:Everyman Feat|POOLPOINTS:0.0
+USERPOOL:Investigator Feat|POOLPOINTS:0.0
+USERPOOL:Martial Artist Feat|POOLPOINTS:0.0
+USERPOOL:Officer Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Feat|POOLPOINTS:0.0
+USERPOOL:Scholar Feat|POOLPOINTS:0.0
+USERPOOL:Gunslinger Weapon Focus|POOLPOINTS:0.0
+USERPOOL:Acolyte Talent|POOLPOINTS:0.0
+ABILITY:Apprentice Talent|TYPE:NORMAL|CATEGORY:Talent|KEY:Hand of the Apprentice|TYPE:Talent.xTalent.ApprenticeTalent.Supernatural|DESC:As a standard action, you can summon a ghostly hand to do your bidding. This functions like mage hand with the following changes. When summoned, the hand can draw a weapon on your person as a free action. The hand can be directed to make a single attack against a foe within 30 feet, using your base attack bonus plus your Intelligence modifier for both attack and damage. The hand does not threaten foes and does not make attacks of opportunity. You must concentrate on the hand each round or it winks out, returning any item held to you before it disappears.
+ABILITY:Apprentice Talent|TYPE:NORMAL|CATEGORY:Talent|KEY:Metamagic Mastery|TYPE:Talent.xTalent.ApprenticeTalent.Supernatural|DESC:You can apply any metamagic feat that you know to a spell you are about to cast. This does not alter the level of the spell or the casting time. You can use this ability once per day.
+USERPOOL:Apprentice Talent|POOLPOINTS:0.0
+USERPOOL:Everyman Talent|POOLPOINTS:0.0
+USERPOOL:Gunslinger Talent|POOLPOINTS:0.0
+USERPOOL:Investigator Talent|POOLPOINTS:0.0
+USERPOOL:Explorer Talent|POOLPOINTS:0.0
+USERPOOL:Martial Artist Talent|POOLPOINTS:0.0
+USERPOOL:Officer Talent|POOLPOINTS:0.0
+USERPOOL:Rogue Talent|POOLPOINTS:0.0
+USERPOOL:Scholar Talent|POOLPOINTS:0.0
+USERPOOL:Undead Turning|POOLPOINTS:0.0
+USERPOOL:Skill Mastery|POOLPOINTS:0.0
+USERPOOL:Favored Terrain|POOLPOINTS:0.0
+USERPOOL:Spell Mastery|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Educated|POOLPOINTS:0.0
+USERPOOL:Psychic Investigator Feat|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Starting Occupation|POOLPOINTS:0.0
+USERPOOL:Wealth|POOLPOINTS:0.0
+USERPOOL:Wealth Roll|POOLPOINTS:0.0
+ABILITY:Occupation|TYPE:NORMAL|CATEGORY:Starting Occupation|KEY:White Collar|TYPE:Occupation|DESC:Office workers and desk jockeys, lawyers, accountants, insurance agents, bank personnel, financial advisors, tax preparers, clerks, sales personnel, real estate agents, and a variety of mid-level managers fall within the scope of this starting
+USERPOOL:Occupation|POOLPOINTS:0.0
+USERPOOL:Strong Feat|POOLPOINTS:0.0
+USERPOOL:Fast Feat|POOLPOINTS:0.0
+USERPOOL:Tough Feat|POOLPOINTS:0.0
+USERPOOL:Smart Feat|POOLPOINTS:0.0
+USERPOOL:Dedicated Feat|POOLPOINTS:0.0
+USERPOOL:Charismatic Feat|POOLPOINTS:0.0
+USERPOOL:Academic Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Adventurer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Athlete Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Blue Collar Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Celebrity Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Creative Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Criminal Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Dilettante Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Doctor Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Emergency Services Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Entrepreneur Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Investigative Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Law Enforcement Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Military Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Religious Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Rural Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Student Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Technician Occupation Skills|POOLPOINTS:0.0
+ABILITY:White Collar Occupation Skills|TYPE:NORMAL|CATEGORY:Starting Occupation|KEY:Persuasion(class skill)|TYPE:Occupation_Skill.Bohemian_Skills.Drifter_Skills.Psychic_Investigator_Skills.Adventurer_Skills.Bureaucrat_Skills.Dilettante_Skills.Domestic_Skills.Laborer_Skills.Law_Enforcement_Skills.Politician_Skills.White_Collar_Skills.Artist_Skills.Bureaucrat_Skills.Domestic_Skills.Escape_Artist_Skills.Fortuneteller_Skills.Politician_Skills.Stage_Magician_Skills.World_Traveller_Skills
+ABILITY:White Collar Occupation Skills|TYPE:NORMAL|CATEGORY:Starting Occupation|KEY:Knowledge (History - class skill)|TYPE:Occupation_Skill.Religious_Skills.Student_Skills.White_Collar_Skills.Bureaucrat_Skills.Circus_Performer_Skills.Escape_Artist_Skills.Heir_Skills.Politician_Skills.World_Traveller_Skills
+USERPOOL:White Collar Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Adventurer Feat|POOLPOINTS:0.0
+USERPOOL:Athlete Feat|POOLPOINTS:0.0
+USERPOOL:Criminal Feat|POOLPOINTS:0.0
+USERPOOL:Investigative Feat|POOLPOINTS:0.0
+USERPOOL:Law Enforcement Feat|POOLPOINTS:0.0
+USERPOOL:Military Feat|POOLPOINTS:0.0
+USERPOOL:Rural Feat|POOLPOINTS:0.0
+USERPOOL:Soldier Feat|POOLPOINTS:0.0
+USERPOOL:Gunslinger Feat|POOLPOINTS:0.0
+USERPOOL:Infiltrator Feat|POOLPOINTS:0.0
+USERPOOL:Daredevil Feat|POOLPOINTS:0.0
+USERPOOL:Bodyguard Feat|POOLPOINTS:0.0
+USERPOOL:Field Scientist Feat|POOLPOINTS:0.0
+USERPOOL:Techie Feat|POOLPOINTS:0.0
+USERPOOL:Field Medic Feat|POOLPOINTS:0.0
+USERPOOL:Personality Feat|POOLPOINTS:0.0
+USERPOOL:Negotiator Feat|POOLPOINTS:0.0
+USERPOOL:Techie Mastercraft|POOLPOINTS:0.0
+USERPOOL:Weapon Focus|POOLPOINTS:0.0
+USERPOOL:Greater Weapon Focus|POOLPOINTS:0.0
+USERPOOL:Weapon Specialization|POOLPOINTS:0.0
+USERPOOL:Greater Weapon Specialization|POOLPOINTS:0.0
+USERPOOL:Improved Critical|POOLPOINTS:0.0
+USERPOOL:Builder|POOLPOINTS:0.0
+USERPOOL:Strong Talent|POOLPOINTS:0.0
+USERPOOL:Fast Talent|POOLPOINTS:0.0
+USERPOOL:Tough Talent|POOLPOINTS:0.0
+USERPOOL:Smart Talent|POOLPOINTS:0.0
+USERPOOL:Dedicated Talent|POOLPOINTS:0.0
+USERPOOL:Charismatic Talent|POOLPOINTS:0.0
+USERPOOL:Aberration Proficiency|POOLPOINTS:0.0
+USERPOOL:Fey Proficiency|POOLPOINTS:0.0
+USERPOOL:Giant Proficiency|POOLPOINTS:0.0
+USERPOOL:Humanoid Proficiency|POOLPOINTS:0.0
+USERPOOL:Monstrous Humanoid Proficiency|POOLPOINTS:0.0
+USERPOOL:Outsider Proficiency|POOLPOINTS:0.0
+USERPOOL:Undead Proficiency|POOLPOINTS:0.0
+USERPOOL:Antiques Dealer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Artist Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Bureaucrat Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Circus Performer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Craftsperson Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Domestic Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Engineer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Escape Artist Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Fortuneteller Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Heir Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Hunter Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Laborer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Outcast Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Politician Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Stage Magician Occupation Skills|POOLPOINTS:0.0
+USERPOOL:World Traveller Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Antiques Dealer Feat|POOLPOINTS:0.0
+USERPOOL:Bureaucrat Feat|POOLPOINTS:0.0
+USERPOOL:Circus Performer Feat|POOLPOINTS:0.0
+USERPOOL:Craftsperson Feat|POOLPOINTS:0.0
+USERPOOL:Escape Artist Feat|POOLPOINTS:0.0
+USERPOOL:Fortuneteller Feat|POOLPOINTS:0.0
+USERPOOL:Hunter Feat|POOLPOINTS:0.0
+USERPOOL:Outcast Feat|POOLPOINTS:0.0
+USERPOOL:Politician Feat|POOLPOINTS:0.0
+USERPOOL:Stage Magician Feat|POOLPOINTS:0.0
+USERPOOL:World Traveller Feat|POOLPOINTS:0.0
+USERPOOL:Heir's Wealth|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Adams 1854 Revolver|WEAPON:Brass Knuckles|WEAPON:Brown Bess|WEAPON:Cleaver|WEAPON:Club|WEAPON:Colt Lightning|WEAPON:Colt New Model Army|WEAPON:Colt Peacemaker|WEAPON:Colt Thunderer|WEAPON:Colt Walker Dragoon]
+WEAPONPROF:[WEAPON:Crossbow|WEAPON:Henry Rifle|WEAPON:Javelin|WEAPON:Knife|WEAPON:M 1816 Flintlock Musket|WEAPON:M 1842 Percussion Musket|WEAPON:Martini-Henry Carbine|WEAPON:Martini-Henry Rifle|WEAPON:Metal Baton|WEAPON:Percussion Revolver 1856]
+WEAPONPROF:[WEAPON:Pistol Whip|WEAPON:Pocket Deringer|WEAPON:Quarterstaff|WEAPON:Remington Double Derringer|WEAPON:Remington Pocket Pistol|WEAPON:Remington Single-Barrel|WEAPON:Rifle Butt|WEAPON:S W Schofield|WEAPON:Sap|WEAPON:Sharps Carbine]
+WEAPONPROF:[WEAPON:Sharps Pepperbox|WEAPON:Sharps Rifle|WEAPON:Spencer Carbine|WEAPON:Stun Gun|WEAPON:Tonfa|WEAPON:Unarmed Strike|WEAPON:Volcanic Navy Pistol 1854|WEAPON:Webley Mark|WEAPON:Webley RIC|WEAPON:Whip]
+WEAPONPROF:[WEAPON:Winchester Lever-Action|WEAPON:Winchester Model 1873]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Adams 1854 Revolver|OUTPUTORDER:1|COST:15|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Metal Baton|OUTPUTORDER:5|COST:8|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Attache Case|OUTPUTORDER:2|COST:7|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Backpack|OUTPUTORDER:3|COST:10|WT:3.0|QUANTITY:1.0
+EQUIPNAME:Fake ID|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Shirt (Average)|OUTPUTORDER:7|COST:5|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Overcoat (Cloth)|OUTPUTORDER:6|COST:12|WT:10.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Adams 1854 Revolver|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.2|VALUE:Metal Baton|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Attache Case|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.5|VALUE:Fake ID|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.6|VALUE:Overcoat (Cloth)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.7|VALUE:Shirt (Average)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Arcane Lock|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Burning Hands|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Cause Fear|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Change Self|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Darkvision|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Daze|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Detect Magical Aura|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Displacement|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Feather Fall (Spell)|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Fireball|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Flaming Projectiles|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Glitterdust|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Greater Magic Weapon|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Haste|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Hold Portal|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Invisibility|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Jump|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Knock (Spell)|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Light|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Mage Armor|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Mage Hand|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Magic Missile|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Message|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Prestidigitation|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Resistance|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:See Invisibility|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Sleep|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+SPELLNAME:Spider Climb (Spell)|TIMES:1|CLASS:Apprentice|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Apprentice]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

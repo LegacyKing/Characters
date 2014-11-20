@@ -1,0 +1,207 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:6.01.00-dev
+ROLLMETHOD:1|EXPRESSION:12
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Gregor Veeshi
+TABNAME:01 - L3 - Gregor Veeshi (alum666)
+PLAYERNAME:alum666
+HEIGHT:67
+WEIGHT:150
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Pale Blue
+HAIRCOLOR:Black
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:16
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:14
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d06)|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:5|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:5|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels|CHOSENTEMPLATE:[NAME:First Level Eclipse]]
+TEMPLATESAPPLIED:[NAME:Chosen One Template]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:4|
+SKILL:Balance|OUTPUTORDER:23|
+SKILL:Bluff|OUTPUTORDER:28|
+SKILL:Climb|OUTPUTORDER:25|
+SKILL:Concentration|OUTPUTORDER:30|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:37|
+SKILL:Disguise|OUTPUTORDER:29|
+SKILL:Endurance|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:24|
+SKILL:Forgery|OUTPUTORDER:32|
+SKILL:Gather Information|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Hide|OUTPUTORDER:41|
+SKILL:Insight|OUTPUTORDER:11|
+SKILL:Intimidate|OUTPUTORDER:38|
+SKILL:Jump|OUTPUTORDER:26|
+SKILL:Listen|OUTPUTORDER:33|
+SKILL:Move Silently|OUTPUTORDER:40|
+SKILL:Mystic Artist Skill|OUTPUTORDER:12|
+SKILL:Notice|OUTPUTORDER:36|
+SKILL:Perception|OUTPUTORDER:13|
+SKILL:Persuasion|OUTPUTORDER:15|
+SKILL:Ride|OUTPUTORDER:17|
+SKILL:Search|OUTPUTORDER:35|
+SKILL:Sense Motive|OUTPUTORDER:31|
+SKILL:Sneak|OUTPUTORDER:42|
+SKILL:Spot|OUTPUTORDER:34|
+SKILL:ST Skill|OUTPUTORDER:18|
+SKILL:Stealth|OUTPUTORDER:19|
+SKILL:Survival|OUTPUTORDER:20|
+SKILL:Swim|OUTPUTORDER:27|
+SKILL:Thievery|OUTPUTORDER:21|
+SKILL:Use Rope|OUTPUTORDER:39|
+SKILL:Arcana|OUTPUTORDER:3|
+SKILL:Deception (Act in character)|OUTPUTORDER:7|
+SKILL:Perform (Sing)|OUTPUTORDER:14|
+SKILL:Persuasion (Diplomacy)|OUTPUTORDER:16|
+SKILL:Thievery (Sleight of Hand)|OUTPUTORDER:22|
+
+# Character Languages
+LANGUAGE:Draconic|LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Deception,Insight,Arcana,Perform (Sing),Persuasion|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of the Wings of Fire ~ Will of the Dragon|TYPE:PathoftheDragon.WayofWingsofFire|DESC:(+6 CP, requires Kinetic Master). This talent boosts the effective telekinetic Strength of Kinetic Master by +3. It may be taken more than once, but the character's effective telekinetic Strength cannot exceed his or her Intelligence.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of Inner Fire ~ Eye of the Dragon III|TYPE:PathoftheDragon.WayofInnerFire|DESC:For +3 CP the user may learn to absorb magic from items. Charged items yield 1 spell level/charge drained. Permanent items yield (Caster Level/2) spell levels but are negated for 24 hours. Spells generally cannot be partially absorbed, but if the Game Master allows this it results in a proportional chance of spell failure. For example, absorbing 2 spell levels from a 7th level spell results in a 2-in-7 chance of failure (in this case use a d8 and reroll 8's).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of Inner Fire ~ Eye of the Dragon|APPLIEDTO:|TYPE:PathoftheDragon.WayofInnerFire|DESC:(+6 CP, requires Dragonfire). With Eye of the Dragon, a character may absorb up to (Int score) incoming spell levels each day. He or she may only store a maximum of (2 x Con score) at any one time, however. Spell levels may be expended on other Dragon Path disciplines or, for +12 CP, to power spells as per a Rod of Absorption. Unlike the Rod, a master of the Eye of the Dragon may absorb any spell which would affect him or her, regardless of whether or not it has an area effect. Eye of the Dragon may be taken up to (Wis Mod+2) times and stacks with itself. For +3 CP the user may learn to absorb magic from items. Charged items yield 1 spell level/charge drained. Permanent items yield (Caster Level/2) spell levels but are negated for 24 hours. Spells generally cannot be partially absorbed, but if the Game Master allows this it results in a proportional chance of spell failure. For example, absorbing 2 spell levels from a 7th level spell results in a 2-in-7 chance of failure (in this case use a d8 and reroll 8's).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ A small group of Simple Weapons|APPLIEDTO:Dagger,Club,Quarterstaff|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Chosen Ones|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Resistance ~ Base|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). The character gains Spell Resistance which rises with his or her level, rated at (5 + character level).|DESC:Spell Resistance = %1&pipe;EclipseSpellResistance
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Resistance ~ Improved|APPLIEDTO:|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) increases the resistance by +5. This may be bought twice.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cloaking|APPLIEDTO:Appear as dirt|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). A character with Cloaking has an always-on disguise over his or her mystical and/or psychic aura, although this has no effect on normal senses. You must specify what the effect is. Cloaking is often used to make one look like a honest fellow to fool truth-detection, to alter your apparent alignment, or to disguise yourself as a member of a similar species.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Unity|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). In worlds where Psychic powers and Magical effects are treated as distinct, non-interacting forces, a character with Unity has found a bridge between Psi and Magic. This character may treat them as aspects of the same thing. This primarily means that his or her psychic powers (or magic) interact with magic (or psychic powers), including dispels or anti-magic or antipsychic fields. It also means that metamagic and metapsionic abilities are interchangeable for him or her.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Damage Reduction ~ 3|APPLIEDTO:Corrupted not to prevent damage from non-magical weapons / natural fire|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:This applies to all damage sources, including magical and energy-based attacks. Characters commonly specialize it by applying it only towards physical attacks, energy attacks, magical attacks, or another GM-approved specialty. The Corrupted modifier can be added by leaving an additional common "hole" in your defenses. For example, silver weaponry or fire spells would apply to physical reduction or magic defenses, respectively. ! You may take this ability multiple times. Each time, you add another type of damage reduction.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Emphasis|APPLIEDTO:Arcana|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:This grants a +2 bonus on any single skill.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of the Wings of Fire ~ Kinetic Master|TYPE:PathoftheDragon.WayofWingsofFire|DESC:(+6 CP, requires Shaping). A mainstay of minor telekinetic talents, this allows the user to manipulate objects within 60 feet with an effective Strength of (Int/3). Unfortunately, skills like Sleight of Hand, which require tactile or close-up visual feedback, suffer a -10 penalty when used at range in this fashion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of Inner Fire ~ Breath of the Dragon|TYPE:PathoftheDragon.WayofInnerFire|DESC:(+6 CP, requires Dragonfire). While Dragonfire is normally fire-based, with Breath of the Dragon the character may make it into any energy type he or she knows of other than 'divine" or 'infernal" energy (unless the character happens to actually be a deity). Holy, Unholy, Lawful, and Chaotic energy forms usually require an appropriate alignment.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shaping|TYPE:PathoftheDragon|DESC:(6 CP). Shaping is the art of channeling ambient magic into effects. It allows the user to create effects like those produced by Prestidigitation at will. The character may not use cumulative effects or grant noticeable bonuses to anyone but may perform an immense variety of minor tricks for comfort, convenience, and amusement. As shown on the chart, learning Shaping is the first step along the dragon path.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of Inner Fire ~ Dragonfire|TYPE:PathoftheDragon.WayofInnerFire|DESC:(+6 CP, requires Shaping). Dragonfire enables a character to convert spell levels into flame attacks, shields of energy, and the channeling of raw magical power into other beings or items as a Standard Action. Attacks do 1d6 fire damage/spell level sacrificed to a 30' radius area or 2d6/spell level to a single target. Shields cancel a total of 4 points of damage per spell level sacrificed; a character may leave a shield up and do other things, but it lasts only 1 round per spell level. Shields may be used on other characters at ranges of up to 120 feet, provided that the user can see them. Channeling energy into creatures and objects is on a 1-to-1 basis. Characters converting spells for this purpose can only sacrifice one spell, regardless of how many levels it has, per round.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus Two|TYPE:Character Creation.CharCreation.General|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Empowerment|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). You may link your own energies with those of a charged or uses-per-day magic item in your possession up to (3+Int Mod) times per day. The item uses the highest of its or your attribute modifiers and Casting Level. The spell levels, psionic Power, and other components for the effect come from the item or from you as desired. XP costs are always borne by you. You may Specialize in a particular type of device. In this case, waive the times-per-day usage limit. If you apply this variant to Siddhisyoga talents (page 44), the effects you wish to enhance must have a particular theme. You cannot simply apply it to all of your talents.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Way of Inner Fire ~ Venom of the Dragon|APPLIEDTO:|TYPE:PathoftheDragon.WayofInnerFire|DESC:(+6 CP, requires Eye of the Dragon). Venom of the Dragon allows a character to store up to (Int score) levels of actual spells thrown at them, which they may release and use as a Standard Action even if they couldn't normally cast those spells. This only applies to "friendly" incoming spells, cast by an ally for the explicit purpose of absorption. Like Eye of the Dragon, Venom of the Dragon may be taken up to (Wis Mod +2) times and stacks with itself. The absorption limit of the Eye of the Dragon.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Countermagic|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:With Countermagic you may - Counterspell with any spell of the same school of higher level than the target effect. - Use Dispel Magic and Greater Dispel Magic with a +5 bonus on the roll. - Use an unused empty spell slot of level 3+ like a normal Dispel Magic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Countermagic ~ Reflexive|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows you to reflexively use any Countermagic technique. This is actually an example of the Reflex Training feat (page 40), but requires the basic Countermagic feat.
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Arcana,Arcana,Arcana,Arcana,Arcana,Deception,Deception,Deception,Deception,Deception,Perform (Sing),Perform (Sing),Perform (Sing),Perform (Sing),Perform (Sing),Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Insight,Insight,Insight,Insight,Insight|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Broke|TYPE:Disadvantage.DisadvantageCounter|DESC:You start with only a third of the usual cash and equipment you would be entitled to by your level. You may have continuing money problems as well if you add Obligations, Compulsive, or a similar flaw.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Dependent|APPLIEDTO:Addicted to Magic|TYPE:Disadvantage.DisadvantageCounter|DESC:There is something you just have to have to function effectively. You could be addicted to a drug, rely on a special talisman, require constant support and encouragement, or simply be so confused that you need someone to tell you what to do. Unless there's a specific effect involved this defaults to a -3 penalty on your rolls.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Secret|APPLIEDTO:TBD|TYPE:Disadvantage.DisadvantageCounter|DESC:There is something buried in your past which you must keep hidden. Your dark secret may range from your unpopular ancestry to being a mass murderer, but bad things happen if it is revealed (i.e., you will get two shiny new disadvantages). Characters most commonly get two from&colon; Hunted, Outcast, Poor Reputation, or Valuable, but things like Accursed, Insane, Obligations, or Unluck may fit in some cases.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:Human Racial Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:No Stat|TYPE:HumanStat
+USERPOOL:Human Racial Stat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Dagger|WEAPON:Gauntlet|WEAPON:Grapple|WEAPON:Quarterstaff|WEAPON:Spells (Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Quarterstaff|OUTPUTORDER:3|COST:0.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Quarterstaff|DATA:NAME=Quarterstaff$EQMOD=WOOD$ALTEQMOD=WOOD]
+EQUIPNAME:Club|OUTPUTORDER:1|COST:0.0|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Club|DATA:NAME=Club$EQMOD=WOOD]
+EQUIPNAME:Dagger|OUTPUTORDER:2|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Club|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.2|VALUE:Dagger|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.3|VALUE:Quarterstaff|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:Damage Reduction 3/- &lbracket;not Specified, Corrupted not to prevent damage from non-magical weapons, natural fire, etc&rbracket; (3)&nl;- Due to the oddity, this is listed here as displaying it on the front page could lead to confusion.
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

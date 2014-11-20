@@ -1,0 +1,26 @@
+burgmor lvl 5
+
+hit dice d4
+
+saves
+will+1 -3cp
+
+skills - 2cp
+Knowledge (Arcana) +1
+Spellcraft +1
+Perception +1
+Knowledge (Nature) +1
+Knowledge (Religion) +1
+Knowledge (The Planes) +1
+
+Caster/wizard lvl - 14 cp
+
+Elemental Manipulation - 6cp
+
+Spells
+
+Magic missle
+Ice Storm
+Wall of Fire
+
+if i have enought i would like to get Dispel Magic

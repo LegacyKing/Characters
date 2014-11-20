@@ -1,0 +1,348 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:1
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Iridius the Red
+TABNAME:S08 - Iridius (Lv3)
+PLAYERNAME:George Cool
+HEIGHT:69
+WEIGHT:174
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Light Brown; Small Beard
+HAIRSTYLE:Straight
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:17
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Point Buy|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Cleric|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASS:Wizard|LEVEL:0|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Point Buy=1|HITPOINTS:6|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Point Buy=2|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Point Buy=3|HITPOINTS:4|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Point Buy=4|HITPOINTS:6|PRESTAT:INT=1|PRESTAT:WIS=1|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:10000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Class Skills Eclipse Point Buy]
+TEMPLATESAPPLIED:[NAME:Iridius Template]
+TEMPLATESAPPLIED:[NAME:Dragonblooded]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:27|
+SKILL:Bluff|OUTPUTORDER:32|
+SKILL:Climb|OUTPUTORDER:29|
+SKILL:Concentration|OUTPUTORDER:34|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:40|
+SKILL:Disguise|OUTPUTORDER:33|
+SKILL:Endurance|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Point Buy|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:28|
+SKILL:Forgery|OUTPUTORDER:35|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Point Buy|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:44|
+SKILL:Intimidate|OUTPUTORDER:41|
+SKILL:Jump|OUTPUTORDER:30|
+SKILL:Listen|OUTPUTORDER:36|
+SKILL:Move Silently|OUTPUTORDER:43|
+SKILL:Mystic Artist Skill|OUTPUTORDER:15|
+SKILL:Notice|OUTPUTORDER:39|
+SKILL:Perception|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Point Buy|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:19|
+SKILL:Search|OUTPUTORDER:38|
+SKILL:Sense Motive|OUTPUTORDER:20|
+SKILL:Sneak|OUTPUTORDER:21|
+SKILL:Spot|OUTPUTORDER:37|
+SKILL:ST Skill|OUTPUTORDER:23|
+SKILL:Stealth|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Point Buy|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:25|
+SKILL:Swim|OUTPUTORDER:31|
+SKILL:Thievery|OUTPUTORDER:26|
+SKILL:Use Rope|OUTPUTORDER:42|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Point Buy|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nature)|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Point Buy|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Point Buy|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (The Planes)|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Point Buy|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Linguistics|OUTPUTORDER:14|
+SKILL:Profession (Farmer)|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Point Buy|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Spellcraft|OUTPUTORDER:22|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Celestial|LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Sylvan|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-5.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Wizard Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;WIZARD&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Points ~ Cleric|APPLIEDTO:12+19+(4x3=12) = 43|TYPE:SpellCasterOutput.General.Abilities
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Wizard and Cleric|APPLIEDTO:,,,,,,|TYPE:CasterLevel.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cleric Level ~ No Package ~ No Caster Level|APPLIEDTO:,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (+1)|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Cleric Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;CLERIC&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Hit Die Upgrade (D6)|TYPE:Character Creation.HD
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Points ~ Wizard|APPLIEDTO:12+3+5(3x2)=26|TYPE:SpellCasterOutput.General.Abilities
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard Level ~ No Caster Level|APPLIEDTO:,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons plus any one Martial Weapon|APPLIEDTO:Longsword|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons and selected weapons.
+USERPOOL:Character Points|POOLPOINTS:0.0
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Familiar|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:1. Test Skill|APPLIEDTO:Knowledge (Arcana),Knowledge (Arcana),Knowledge (Nature),Knowledge (Nature),Knowledge (Religion),Knowledge (The Planes),Linguistics,Linguistics,Profession (Farmer),Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Survival,Survival,Survival,Survival,Knowledge (Arcana),Knowledge (Religion)|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet]
+WEAPONPROF:[WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)]
+WEAPONPROF:[WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling]
+WEAPONPROF:[WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Dagger|OUTPUTORDER:2|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Longsword|OUTPUTORDER:4|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword$EQMOD=STEEL]
+EQUIPNAME:Quarterstaff|OUTPUTORDER:5|COST:0.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Quarterstaff|DATA:NAME=Quarterstaff$EQMOD=WOOD$ALTEQMOD=WOOD]
+EQUIPNAME:Faerie Garb +3|OUTPUTORDER:3|COST:9151.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb|DATA:NAME=Faerie Garb +3$EQMOD=CLOTH.PLUS3A]
+EQUIPNAME:Special Boots|OUTPUTORDER:6|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.1|VALUE:Dagger|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.2|VALUE:Longsword|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.3|VALUE:Quarterstaff|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.4|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.5|VALUE:Faerie Garb +3|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.6|VALUE:Special Boots|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Acid Splash|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Alarm|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Amanuesis|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Arcane Mark|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Caltrops|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Color Spray|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Create Water|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Cure Light Wounds|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Cure Minor Wounds|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Cure Moderate Wounds|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Dancing Lights|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Daze|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Detect Magic|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Detect Poison|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Disrupt Undead|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Divine Favor|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Electric Jolt|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Expeditious Retreat|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Feather Fall|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Flare|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Ghost Sound|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Guidance|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Hold Person|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Hold Person|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Identify|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Inflict Minor Wounds|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Launch Bolt|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Launch Item|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Light|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Mage Armor|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Mage Hand|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Magic Missile|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Mending|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Message|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Open/Close|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Prestidigitation|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Purify Food and Drink|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Ray of Frost|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Repair Minor Damage|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Resistance|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Silent Portal|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Sonic Snap|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Stick|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Touch of Fatigue|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Virtue|TIMES:1|CLASS:Point Buy|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Point Buy]
+SPELLNAME:Alarm|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Color Spray|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Expeditious Retreat|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Feather Fall|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Identify|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Mage Armor|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Magic Missile|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLLIST:Point Buy|CLASS.Wizard|CLASS.Cleric
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Light Brown; Straight; Small Beard dressed in faded red robes
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Extra HD 6
+
+# Character Master/Follower
+FOLLOWER:Helga Fey|TYPE:Familiar|RACE:COMPANION (FEY)|HITDICE:0|FILE:\2. Helga Fey.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

@@ -1,0 +1,225 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Andrew Convention Stuff|CAMPAIGN:Green Ronin - Advanced Player's Manual - Drew version|CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Is This It - Master File|CAMPAIGN:Probation - Feats
+VERSION:5.13.8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:0
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Vallard,
+TABNAME:Wizard_6
+PLAYERNAME:
+HEIGHT:68
+WEIGHT:190
+AGE:17
+GENDER:Other
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Blond
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:14
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Wizard Rebalanced|SUBCLASS:Wizard Rebalanced|LEVEL:6|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:4,3,3,2
+CLASSABILITIESLEVEL:Wizard Rebalanced=1|HITPOINTS:6|SKILLSGAINED:28
+CLASSABILITIESLEVEL:Wizard Rebalanced=2|HITPOINTS:4|SKILLSGAINED:7
+CLASSABILITIESLEVEL:Wizard Rebalanced=3|HITPOINTS:4|SKILLSGAINED:7
+CLASSABILITIESLEVEL:Wizard Rebalanced=4|HITPOINTS:4|PRESTAT:INT=1|PRESTAT:WIS=1|SKILLSGAINED:7
+CLASSABILITIESLEVEL:Wizard Rebalanced=5|HITPOINTS:4|SKILLSGAINED:7
+CLASSABILITIESLEVEL:Wizard Rebalanced=6|HITPOINTS:4|SKILLSGAINED:8
+
+# Character Experience
+EXPERIENCE:15000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Truename]
+TEMPLATESAPPLIED:[NAME:A-Con ~Hit Points Base 6]
+TEMPLATESAPPLIED:[NAME:A-Con ~Psychic Telepath Link]
+TEMPLATESAPPLIED:[NAME:A-Con ~Class Skill (Perception)]
+TEMPLATESAPPLIED:[NAME:A-Con ~Stealth Boost]
+TEMPLATESAPPLIED:[NAME:A-Con ~Initiative Hero Bonus]
+TEMPLATESAPPLIED:[NAME:A-Con ~AC Hero Bonus]
+TEMPLATESAPPLIED:[NAME:A-Con ~Weapon Hero Bonus]
+TEMPLATESAPPLIED:[NAME:A-Con ~AC Class Bonus +1]
+TEMPLATESAPPLIED:[NAME:A-CON ~Stat BONUS (Int)]
+TEMPLATESAPPLIED:[NAME:A-Con ~Team Bond (Non-psychic)]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration (Cast defensively)|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Decipher Script|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:9|
+SKILL:Disguise|OUTPUTORDER:10|
+SKILL:Escape Artist|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Forgery|OUTPUTORDER:12|
+SKILL:Gather Information|OUTPUTORDER:13|
+SKILL:Heal|OUTPUTORDER:14|
+SKILL:Hide|OUTPUTORDER:15|
+SKILL:Initiative|OUTPUTORDER:16|
+SKILL:Intimidate|OUTPUTORDER:17|
+SKILL:Jump|OUTPUTORDER:18|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nature)|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (The Planes)|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:24|
+SKILL:Move Silently|OUTPUTORDER:25|
+SKILL:Notice|OUTPUTORDER:26|
+SKILL:Perception|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Pilot|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Psychic (Mental Contact)|OUTPUTORDER:29|
+SKILL:Ride|OUTPUTORDER:30|
+SKILL:Search|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:4.0|COST:1|CLASSSKILL:N]
+SKILL:Sense Motive|OUTPUTORDER:32|
+SKILL:Sneak|OUTPUTORDER:33|
+SKILL:Spellcraft|OUTPUTORDER:34|CLASSBOUGHT:[CLASS:Wizard Rebalanced|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:35|
+SKILL:ST Skill|OUTPUTORDER:36|
+SKILL:Stealth|OUTPUTORDER:37|
+SKILL:Survival|OUTPUTORDER:38|
+SKILL:Swim|OUTPUTORDER:39|
+SKILL:Use Computer|OUTPUTORDER:40|
+SKILL:Use Rope|OUTPUTORDER:41|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Drow Sign Language|LANGUAGE:Elven|LANGUAGE:Sylvan|LANGUAGE:Undercommon
+
+# Character Feats
+FEATPOOL:-5.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Spellcasting Prodigy|TYPE:SPECIAL|DESC:Treat primary spellcasting ability score as 2 higher for bonus spells and save DCs. &lbracket;Increases Spell Points by 2 @ 1st level and an additional 1 per each level beyond&rbracket;
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Eldritch Training|TYPE:CEREMONIAL|DESC:+1 bonus to Spellcraft and Knowledge (magic) checks; eldritch template
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Casting|TYPE:GENERAL|DESC:+4 bonus on Concentration checks made to cast a spell or use a spell-like ability while on the defensive or while you are grappling or pinned.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Eidetic Memory|TYPE:TALENT|DESC:+1 bonus to all Knowledge skills; +4 to Intelligence checks
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Mobile Spellcasting|TYPE:GENERAL|DESC:Your focused concentration allows you to move while casting a spell.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Sculpt Spell|TYPE:GENERAL.METAMAGIC|DESC:&lbracket;Lv+1&rbracket; Modify an area spell by making it either a cylinder (10-ft.-radius, 30-ft.-high), a 40-ft.-cone, four 10-ft. cubes, a ball (20-ft.-radius spread) or 120-ft.-line.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:MagicalBoon|POOLPOINTS:0.0
+USERPOOL:Magical Boon ~ Minor|POOLPOINTS:0.0
+USERPOOL:Magical Boon ~ Moderate|POOLPOINTS:0.0
+USERPOOL:Magical Boon ~ Major|POOLPOINTS:0.0
+USERPOOL:Salient Divine Ability|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+ABILITY:Wizard Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Modify Spell|TYPE:GENERAL.METAMAGIC|DESC:Choose a modification - Increase Power, Double Range, Double Duration, No Verbal Component, No Somatic Components, Double Area Or Number Of Targets
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Gauntlet|WEAPON:Quarterstaff|WEAPON:Spells(Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Mage Staff_1|OUTPUTORDER:1|COST:16000.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Mage Staff_1|DATA:NAME=Mage Staff_1$EQMOD=STEEL$ALTEQMOD=STEEL]
+EQUIPNAME:Outfit (Stealth Suit)|OUTPUTORDER:2|COST:5|WT:2.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.1|VALUE:Mage Staff_1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.2|VALUE:Outfit (Stealth Suit)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Animalistic Power|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Benign Transposition|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Clairaudience/Clairvoyance|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Color Spray|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Darkvision (Mass)|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Deeper Darkvision|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Dimension Hop|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Disguise Self|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Distract Assailant|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Ebon Eyes|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Enlarge Person|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Evard's Manacing Tentacles|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Familiar Pocket|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Feather Fall|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Fireball|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Flame Whips|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Floating Disk|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Identify|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Lance of Disruption|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Mirror Image|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Mount|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Orb of Electricity (Lesser)|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Orb of Fire|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Orb of Force|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Protection from Arrows|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Regroup|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Remove Scent|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Scorching Ray|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Senses of the Wyrmling|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Speak to Allies|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Stand|TIMES:1|CLASS:Wizard Rebalanced|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLLIST:Wizard Rebalanced|Wizard
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

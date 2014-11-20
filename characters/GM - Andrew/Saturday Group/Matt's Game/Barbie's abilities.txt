@@ -1,0 +1,20 @@
+
+
+Bardic immunity to social faux-pas
+Fame (recognized, privelaged, protected by commoners)
+Wealth (ignore normal monetary needs for you and your friends)
+
+Art does not take 1 round to take effect
+Art affects twice as many targets
+Art endures 3x as long after the exposure
+DC 24 int check to notice they're being influenced by your art
+If Art affects, target needs con check (DC (MA Skill) ) to focus including spellcasting
+
+Arts:
+Emotion - area - bonus/penalty of 3 on mind-affecting powers, Attacks, Damage
+Competence - one person - +2 to one: Skill check, Attack Roll, Saving throw, AC
+Excellence - one person - two difference +4 morale bonuses to: attribute, saves, AC, attacks, damage(melee)
+Greatness - one target - +1 level bonus, +1d10 temp HP
+Fascinate - (cha mod + level/3) targets - fascinated for (cha mod + 2) minutes or performance ends (whichever is first) + 
+                                          you can use suggestion on one of these targets once per round 
+Hold Audience - enchant audience who wiles away time without realizing it.

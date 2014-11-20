@@ -1,0 +1,275 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Silas 'Sil'
+TABNAME:
+PLAYERNAME:
+HEIGHT:64
+WEIGHT:150
+AGE:16
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:14
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:12
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:14
+ALIGN:CG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d10)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=1|HITPOINTS:10|SKILLSGAINED:16|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:Josh's Military Life Package]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:20|
+SKILL:Bluff|OUTPUTORDER:25|
+SKILL:Climb|OUTPUTORDER:22|
+SKILL:Concentration|OUTPUTORDER:27|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:33|
+SKILL:Disguise|OUTPUTORDER:26|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Forgery|OUTPUTORDER:28|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:37|
+SKILL:Intimidate|OUTPUTORDER:34|
+SKILL:Jump|OUTPUTORDER:23|
+SKILL:Listen|OUTPUTORDER:29|
+SKILL:Move Silently|OUTPUTORDER:36|
+SKILL:Mystic Artist Skill|OUTPUTORDER:10|
+SKILL:Notice|OUTPUTORDER:32|
+SKILL:Perception|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Search|OUTPUTORDER:31|
+SKILL:Sense Motive|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Sneak|OUTPUTORDER:15|
+SKILL:Spot|OUTPUTORDER:30|
+SKILL:ST Skill|OUTPUTORDER:16|
+SKILL:Stealth|OUTPUTORDER:17|
+SKILL:Survival|OUTPUTORDER:18|
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Thievery|OUTPUTORDER:19|
+SKILL:Use Rope|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Athletics (Swim)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-3.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ Any one Martial Weapon|APPLIEDTO:Rapier|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Deception,Gather Information,Thievery,Stealth|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Contacts|APPLIEDTO:Underground Contact|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(1 CP each). Contacts are simply (reasonably) reliable individuals in particular businesses, or with a particular set of skills, which the character knows. For example, a character might know a reliable fence, a poison merchant, a skillful alchemist, and an expert appraiser. Another might know a wise old priest, a good scribe, and a translator of rare languages and inscriptions. A contact can be discarded and replaced (or regained later) in 1d4 weeks.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Improved Initiative|APPLIEDTO:,|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Split Movement|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Immunity|APPLIEDTO:Large crowds or city setting not slowed (able to evade)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:See immunity
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fortune ~ Evasion|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:The ever-useful Fortune feat gives the character the ability to entirely ignore certain effects on a successful save. If a spell or effect has an entry such as "Fort Partial" or "Ref half," this feat works.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Continuing|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:(+6 CP) lets an attack cause +1 point/ round of damage until treated with an easy (DC 13) Heal check. It otherwise lasts up to twice the attacking character's level in rounds.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Manuever|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Sneak Attack d6|APPLIEDTO:,|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:Sneak attack +%1d%2&pipe;SneakDiceSix&pipe;SneakSizeSix
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Crippling|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:(+6 CP) makes attacks cause one point of ability damage. Characters must select the target ability when this ability is taken.
+USERPOOL:Character Points|POOLPOINTS:4.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Athletics,Deception,Gather Information,Heal,Perception,Persuasion,Ride,Stealth,Thievery,Use Rope|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Thieves' Guild|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Military Service|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Outcast|APPLIEDTO:Former Thieves' Guild Member|TYPE:Disadvantage.DisadvantageCounter|DESC:You are socially unacceptable in a large area or with a large and important group. You might be noted as an oathbreaker, an "untouchable," a kinslayer, or an ex-slave, belong to a despised ethnic group, believe in a heretical faith, or simply have numerous obnoxious habits. In any case, a sizable segment of the people in the campaign setting will have nothing to do with you.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:2. Test Skill Half|APPLIEDTO:Deception,Deception,Deception,Deception,Stealth,Stealth,Stealth,Stealth,Gather Information,Gather Information,Gather Information,Gather Information,Thievery,Thievery,Thievery,Thievery|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Rapier|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Studded Leather|OUTPUTORDER:4|COST:25.0|WT:20.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Studded Leather|DATA:NAME=Studded Leather$EQMOD=STEEL]
+EQUIPNAME:Rapier|OUTPUTORDER:2|COST:20.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Rapier|DATA:EQMOD=STEEL]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Studded Leather|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.4|VALUE:Rapier|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Josh Military Set - Light
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:Augment Attack - Crippling &lbracket;Dex&rbracket; - 6 CP
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

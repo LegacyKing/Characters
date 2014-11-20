@@ -1,0 +1,417 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.12-dev
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Ghost
+TABNAME:01 - L2 - Ghost
+PLAYERNAME:Arrevanthas
+HEIGHT:62
+WEIGHT:89
+AGE:134
+GENDER:Female
+HANDED:Right
+SKINCOLOR:Pale
+EYECOLOR:Red
+HAIRCOLOR:Sliver/White
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:C&colon;\Users\Andrew\Pictures\drow\Quickie__Iglit_Motrax_by_herisheft.jpg
+PORTRAITTHUMBNAILRECT:98,184,610,610
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:14
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Elf (Drow Chosen One)
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d06)|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:5|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:1000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:Chosen One Template]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:23|
+SKILL:Bluff|OUTPUTORDER:28|
+SKILL:Climb|OUTPUTORDER:25|
+SKILL:Concentration|OUTPUTORDER:30|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:37|
+SKILL:Disguise|OUTPUTORDER:29|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:24|
+SKILL:Forgery|OUTPUTORDER:32|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:42|
+SKILL:Insight|OUTPUTORDER:10|
+SKILL:Intimidate|OUTPUTORDER:38|
+SKILL:Jump|OUTPUTORDER:26|
+SKILL:Listen|OUTPUTORDER:33|
+SKILL:Move Silently|OUTPUTORDER:41|
+SKILL:Mystic Artist Skill|OUTPUTORDER:12|
+SKILL:Notice|OUTPUTORDER:36|
+SKILL:Perception|OUTPUTORDER:13|
+SKILL:Persuasion|OUTPUTORDER:15|
+SKILL:Ride|OUTPUTORDER:16|
+SKILL:Search|OUTPUTORDER:35|
+SKILL:Sense Motive|OUTPUTORDER:31|
+SKILL:Sneak|OUTPUTORDER:43|
+SKILL:Spot|OUTPUTORDER:34|
+SKILL:ST Skill|OUTPUTORDER:17|
+SKILL:Stealth|OUTPUTORDER:18|
+SKILL:Survival|OUTPUTORDER:19|
+SKILL:Swim|OUTPUTORDER:27|
+SKILL:Thievery|OUTPUTORDER:21|
+SKILL:Use Rope|OUTPUTORDER:39|
+SKILL:Deception (Act in character)|OUTPUTORDER:6|
+SKILL:Martial Arts ~ Nightwraith Martial Art|OUTPUTORDER:11|
+SKILL:Perform (String Instruments)|OUTPUTORDER:14|
+SKILL:Thievery (Sleight of Hand)|OUTPUTORDER:22|
+SKILL:Use Rope (Bind someone)|OUTPUTORDER:40|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:20|
+
+# Character Languages
+LANGUAGE:Elven|LANGUAGE:Undercommon|LANGUAGE:Common|LANGUAGE:Draconic
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+USERPOOL:+4 Stat Choice|POOLPOINTS:0.0
+USERPOOL:ACF|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Adept Skill|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+ABILITY:Advanced Witchcraft Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:The Path of Darkness ~ Shadow Form|TYPE:Paths.WitchcraftOutput.WitchcraftAdvancedAbilities|DESC:"Shadow Form"/Ashen Rebirth (with the Dimension Door and Teleportation upgrades, 8 CP). Ghost may spend one power to merge with the darkness for one minute. In that form she gains DR 10/-, the ability to walk on walls and ceilings, the ability to pass through cracks and crevices, a +5 enhancement bonus to stealth, and a (Cha Mod) deflection bonus to her AC. While in this form she may spend 2 power to dimension door from one shadow to another as long as she can trace a transverseable path between them or 7 power to teleport to another shadow.
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:2.0
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+USERPOOL:Animal Known Trick|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Anthromorph Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Arnis-Barang Style Art|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu A Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu B Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu C Ability|POOLPOINTS:0.0
+ABILITY:Augmented Bonus Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Expert Rogue/Augmented Bonus|TYPE:eclipseabilityoutput.AugmentedBonus|DESC:Adds (Int Mod) to (Dex Mod) with dexterity-based skills (6 CP).
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+USERPOOL:Battle Dance Wis BONUS|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Breath Weapon Damage Progression|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Celerity Additional Movement Choice|POOLPOINTS:0.0
+USERPOOL:Celerity Bonus Movement Choice|POOLPOINTS:0.0
+USERPOOL:Censure Selection|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Appraise,Athletics,Deception,Escape Artist,Gather Information,Insight,Martial Arts,Perception,Linguistics,Perform (Sing),Persuasion,Stealth,Survival,Thievery|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 6|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Superiors in the Chosen Ones of the Light|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow Mastery Package|TYPE:Extra.eclipseabilityoutput|DESC:Shadow Mastery Package (22 CP Total) -  can tap into the magics of twilight and darkness, channeling those hidden forces into a modest variety of tricks. This particular ability package is being purchases as Witchcraft, with all abilities Corrupted / will not work in areas of bright illumination and can be dispelled by light-based powers. &nl; That's a bit of a bottleneck - but this is only a supplementary set of abilities. More importantly, Witchcraft is a very cheap and efficient way to get some fairly good powers - but it doesn't improve much (if at all) with level. Thus it's great for low-level characters, fair for mid-level characters, and only a minor supplement for high-level characters.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus|APPLIEDTO:Int to Dex based Skills|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). You may add a second attribute bonus to the usual one in some specific situation, such as with a skill or set of linked skills, with a specified type of weapon, or against a type of foe.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ Any one Exotic Weapon|APPLIEDTO:Sai|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Acrobatics,Deception,Stealth,Martial Arts ~ Dex Based|TYPE:General.eclipseabilityoutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Additional|APPLIEDTO:,|TYPE:General.Abilities.Corruptable|DESC:For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %1&rbracket;&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Block / Melee (Specialized / Only with Short Blades)|TYPE:Extra.eclipseabilityoutput|DESC:Costs 1 Power/Use (3 CP). Ghost can manifest momentary adamantine shields to help save her skin...
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %2&rbracket;&pipe;InnateEnchantmentAdditional+InnateEnchantmentPoolCount&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Finesse ~ Light Weapon|TYPE:Extra.eclipseabilityoutput.Corruptable|DESC:(6 CP). A character with Finesse may replace one attribute modifier with another in some fairly common situation, such as for a particular saving throw.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus One|TYPE:Character Creation.CharCreation.General|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+USERPOOL:Character Points|POOLPOINTS:4.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Deception,Deception,Deception,Deception,Deception,Martial Arts ~ Nightwraith Martial Art,Martial Arts ~ Nightwraith Martial Art,Martial Arts ~ Nightwraith Martial Art,Martial Arts ~ Nightwraith Martial Art,Martial Arts ~ Nightwraith Martial Art,Stealth,Stealth,Stealth,Stealth,Stealth|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Perception,Perception,Perception,Perception,Perception,Perform (String Instruments),Perform (String Instruments),Perform (String Instruments),Perform (String Instruments),Perform (String Instruments),Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Thievery,Thievery,Thievery,Thievery,Thievery,Insight,Insight,Insight,Insight|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Chosen Companion|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Might|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows you to grant your companion the benefits of two Positive Levels (see page 86).
+ABILITY:Chosen Companion|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Template|APPLIEDTO:|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) adds a template of up to +2 ECL to the companion. Only one Template can be applied to a given companion, but you may pay the cost multiple times to add a more powerful template. The ECL addition is cumulative up to a maximum of +6.
+USERPOOL:Chosen Companion|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+USERPOOL:Cleric Conversion Choice|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Special Mount|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Conversion Spell Selection|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Deep Lore Selection|POOLPOINTS:0.0
+USERPOOL:Defender Choice|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Insane|APPLIEDTO:Compulsively Secretive|TYPE:Disadvantage.DisadvantageCounter|DESC:You're out of your mind. This is usually limited to particular situations or subjects, leaving you sane enough most of the time, but when that trigger comes up you become completely irrational. This most commonly shows up as phobias (darkness or a class of creature are favorites), but there are innumerable ways to go a little off your rocker.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:The Tabarath Cult and it's minions hunt you.|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe Bonus|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Elocator Transporter|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Human Racial Stat|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Enhancement|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Unarmed Enhancement|POOLPOINTS:0.0
+USERPOOL:Improved Psicrystal Personality|POOLPOINTS:0.0
+USERPOOL:Inherent Spell Selection|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Fortunes Favor|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:Fortune's Favor grants the recipient a (Spell Level +1) luck bonus on skill and attribute checks for its duration.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ DEX +2|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Dexterity
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Martial Mastery|APPLIEDTO:Sai|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:+4 Competence Bonus to BAB with Unarmed Strikes (or with another specific weapon).
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Serpents Strike|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:Gain one additional attack at your full BAB which may be taken off-action.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Expertise|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:As spell
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:1.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Combat Reflexes|TYPE:MartialArtsOutput.MartialArtsSkill.MasterMartialTech.AdvAndMastMartialTech|DESC:As Combat Reflexes feat - You may make a number of additional attacks of opportunity equal to your Dexterity bonus.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Light Foot|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech|DESC:(-2 Con) You gain +20' movement and takes half damage from falls for 1d6 minutes. You may expend a single Con point at any time to power an incredible leap (+30 bonus) or a very brief run across an unsuitable surface (such as water or grease).
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Prone Combat|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:You take no penalties and opponents gain no bonuses when you lie on the ground.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Sneak Attack|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:Add +1d6, as per a Rogue's ability &lbracket;unlike many point-buy abilities, this does not affect creatures immune to critical hits&rbracket;. This may be taken more than once, up to a maximum of +4d6.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Synergy|APPLIEDTO:Stealth|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +2 on any related skill. Each time this is taken it applies to a different skill. Common synergies include Tumble, Heal, and Move Silently, but others are possible.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ One Finger|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech|DESC:(-1 Con) You may launch a single melee attack at a range of up to 60'. It remains a melee attack but is treated as force damage. When using a weapon form, your weapon either returns or is merely the focus for your attack; you don't have to go and get it back.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Inner Strength|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech|DESC:You gain six phantom Con points with which to power your Occult Techniques. These do not add to your hit points. This can be taken twice. Phantom points regenerate like normal Con points.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Defenses|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Gain additional +1 each time taken &lbracket;currently +%1&rbracket; bonus to AC when you are unarmored or lightly armored.&pipe;MartialArtsDefense
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Serpent Strike|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech|DESC:(-3 Con) Serpent Strike allows you to create dangerous imbalances in opponents' life essences. This allows you to deal 2d4 attribute damage to any one attribute with one attack this round. if the target fails his or her Fort save at DC 10 +(Wis Mod).
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Artic Fire Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Blood Blade Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Cloak Mastery|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Crane Style Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Ghost Busting Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Gungnir's Flight Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Hiten Mitsurugi Ryuu|POOLPOINTS:0.0
+ABILITY:Martial Arts ~ Nightwraith Martial Art|TYPE:NORMAL|CATEGORY:Special Ability|KEY:MA ~ Nightwraith Martial Art ~ OC|APPLIEDTO:Touch Strike,Serpent Strike,Light Foot|TYPE:MA ~ Nightwraith Martial Art
+ABILITY:Martial Arts ~ Nightwraith Martial Art|TYPE:NORMAL|CATEGORY:Special Ability|KEY:MA ~ Nightwraith Martial Art ~ BC|APPLIEDTO:Defenses 1,Power 1,Synergy/Stealth|TYPE:MA ~ Nightwraith Martial Art
+ABILITY:Martial Arts ~ Nightwraith Martial Art|TYPE:NORMAL|CATEGORY:Special Ability|KEY:MA ~ Nightwraith Martial Art ~ AC|APPLIEDTO:Combat Reflexes,Sneak Attack I,Prone Fighting|TYPE:MA ~ Nightwraith Martial Art
+USERPOOL:Martial Arts ~ Nightwraith Martial Art|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Oaken Storm|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Phantom Blade|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Wind Dance|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Might Path Selection|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Stat Selection|POOLPOINTS:0.0
+USERPOOL:Mystic Companion Stat Choice|POOLPOINTS:0.0
+USERPOOL:Natural Attack|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Past Master Choice|POOLPOINTS:0.0
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 4|APPLIEDTO:1|TYPE:PowerPointsGain
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 3|APPLIEDTO:2|TYPE:PowerPointsGain
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 2|APPLIEDTO:5|TYPE:PowerPointsGain
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 1|APPLIEDTO:5|TYPE:PowerPointsGain
+USERPOOL:Power Selection|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Fist Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Pureblood Human Racial Boost|POOLPOINTS:0.0
+USERPOOL:Racial Ability|POOLPOINTS:0.0
+USERPOOL:Racial Adept Skill|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Resist Energy Choices|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Rune Casting Stat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Specialist Combat Selection|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Point Class|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Spirited Selection|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Temp Negative Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Thrallherd Charm Choice|POOLPOINTS:0.0
+USERPOOL:Thrallherd Dominate Choice|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Trick Choice|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Stat Boost|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Witchsight|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:Sharpening or expanding the user's senses is a simple trick. In general, this affects one sense at a time, providing either a +6 bonus on relevant checks or some special capability (Darksight, Scent, etc). As a rule this costs 1 Power and lasts for about an hour. Witches may triple the effect by reducing the duration to a single round, allowing effects such as checking a meal for poison with the slightest taste.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ The Adamant Will|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:This talent allows users to spend 2 Power to resist Fear, Possession, Charm, Hold effects, and other forms of mind control. The user may spend the Power each time he or she is affected by such an ability. Ongoing powers, such as Fear auras, are resisted for 10 rounds. The user may make an extra save against mindreading or "truth" effects by spending a like amount, and may present a false aura to detection spells or ignore pain for 3 power. He or she may pay the Power without spending an action when the effect takes hold.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Shadowweave|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:Shadowweave manipulates light and darkness to craft minor illusions. Normally 1 Power grants 10 minutes of activity. Effects include will-o-the wisps, cloaking (+6 to stealth and disguise rolls), various apparitions, spheres of darkness, blinding rays of light and hiding small actions - such as slipping out a dagger, picking a pocket, or a strike in combat (offers a +3 circumstance bonus to the user's roll).|DESC:For +6 CP the user may expand his or her repertoire to level 2 (2 power) and 3 (4 power) illusion-casting effects (compare to the Sorcerer/Wizard list).&pipe;PREABILITY&colon;1,CATEGORY=Special Ability,Witchcraft ~ Shadowweave ~ Advanced
+USERPOOL:Witchcraft Abilities|POOLPOINTS:3.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet]
+WEAPONPROF:[WEAPON:Gauntlet (Spiked)|WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)]
+WEAPONPROF:[WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Rapier|WEAPON:Sai|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle]
+WEAPONPROF:[WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword (Short)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Chosen One Orb|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Chosen One Backpack of Holding|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Chosen One Robe|OUTPUTORDER:0|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Chosen One Robe|DATA:NAME=Chosen One Robe$EQMOD=CLOTH]
+EQUIPNAME:Sai (Growth Item / Chosen One)|OUTPUTORDER:0|COST:1.0|WT:1.0|QUANTITY:2.0|CUSTOMIZATION:[BASEITEM:Sai|DATA:NAME=Sai (Growth Item / Chosen One)$EQMOD=STEEL.CHOSEN_GROWTH._DAMAGE&pipe;1d6$ALTEQMOD=_DAMAGE&pipe;1d6$SPROP=Power I applied]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Sai (Growth Item / Chosen One)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Chosen One Robe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Chosen One Orb|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Chosen One Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Bahamut|DEITYDOMAINS:[DOMAIN:Air|DOMAIN:Cold|DOMAIN:Good|DOMAIN:Luck|DOMAIN:Protection]|ALIGNALLOW:|DESC:Dragon Father|HOLYITEM:|DEITYFAVWEAP:[]|DEITYALIGN:Lawful Good
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

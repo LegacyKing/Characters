@@ -1,0 +1,171 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Arcana Evolved|CAMPAIGN:Green Ronin - Advanced Player's Manual - Drew version|CAMPAIGN:Is This It, Complete - Updated 11-13-2006|CAMPAIGN:Transcendence|CAMPAIGN:World of Warcraft
+VERSION:5.11.5
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Huntress 5.11
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Female
+HANDED:Ambidextrous
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:12
+STAT:INT|SCORE:21
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:13
+ALIGN:NG
+RACE:Elven Hound (Cooshee)
+
+# Character Class(es)
+CLASS:Magical Beast|SUBCLASS:None|LEVEL:14|SKILLPOOL:56
+CLASSABILITIESLEVEL:Magical Beast=1|HITPOINTS:10|SKILLSGAINED:20
+CLASSABILITIESLEVEL:Magical Beast=2|HITPOINTS:7|SKILLSGAINED:5
+CLASSABILITIESLEVEL:Magical Beast=3|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:1
+CLASSABILITIESLEVEL:Magical Beast=4|HITPOINTS:7|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=5|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=6|HITPOINTS:7|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=7|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=8|HITPOINTS:7|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=9|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=10|HITPOINTS:7|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=11|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=12|HITPOINTS:7|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=13|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Magical Beast=14|HITPOINTS:7|PRESTAT:STR=6|PRESTAT:CON=2|PRESTAT:INT=-3|PRESTAT:WIS=4|PRESTAT:CHA=1|SKILLSGAINED:5|SKILLSREMAINING:5
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Awakened Animal-2]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Intimidate|OUTPUTORDER:13|
+SKILL:Jump|OUTPUTORDER:14|
+SKILL:Listen|OUTPUTORDER:15|
+SKILL:Psychic (Mental Contact)|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Magical Beast|RANKS:8.0|COST:1|CLASSSKILL:N]
+SKILL:Ride|OUTPUTORDER:17|
+SKILL:Search|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Magical Beast|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Search (Secret doors and hidden compartments)|OUTPUTORDER:19|
+SKILL:Sense Motive|OUTPUTORDER:20|
+SKILL:Sneak|OUTPUTORDER:21|
+SKILL:Sneak (Hide)|OUTPUTORDER:22|
+SKILL:Spot|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Magical Beast|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Magical Beast|RANKS:11.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:25|
+SKILL:Use Rope|OUTPUTORDER:26|
+
+# Character Languages
+LANGUAGE:Elven
+
+# Character Feats
+FEAT:Improved Critical|APPLIEDTO:Bite|TYPE:GENERAL.FIGHTER|DESC:When using the weapon you selected, your threat range is doubled.
+FEAT:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+FEAT:Improved Natural Attack|APPLIEDTO:Bite|TYPE:GENERAL|DESC:The damage for the selected natural weapon increases by one step, as if the creature's size had increased by one category.
+FEAT:Improved Natural Armor|APPLIEDTO:|TYPE:GENERAL|DESC:creature's natural armor bonus increases by 1.
+FEAT:Weapon Focus|APPLIEDTO:Bite|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEAT:Power Attack|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+FEAT:Alertness|TYPE:GENERAL|DESC:You get a +2 bonus on all Listen checks and Spot checks.
+FEAT:Wild Talent Psychic|APPLIEDTO:Psychic (Mental Contact)|TYPE:GENERAL
+FEATPOOL:-8.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Critical|APPLIEDTO:Bite|TYPE:GENERAL.FIGHTER|DESC:When using the weapon you selected, your threat range is doubled.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Natural Attack|APPLIEDTO:Bite|TYPE:GENERAL|DESC:The damage for the selected natural weapon increases by one step, as if the creature's size had increased by one category.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Natural Armor|APPLIEDTO:|TYPE:GENERAL|DESC:creature's natural armor bonus increases by 1.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Bite|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Power Attack|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Alertness|TYPE:GENERAL|DESC:You get a +2 bonus on all Listen checks and Spot checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Wild Talent Psychic|APPLIEDTO:Psychic (Mental Contact)|TYPE:GENERAL
+USERPOOL:FEAT|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Bite|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.2|VALUE:Bite|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+MASTER:Jessabelle|TYPE:ELF ANIMAL COMPANION|HITDICE:8|FILE:\1. Jessabelle - U.pcg|ADJUSTMENT:0
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

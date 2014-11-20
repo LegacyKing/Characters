@@ -1,0 +1,368 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Base)|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:DHG - Distinctions and Demerits|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.3
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:Y
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:Y
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Iridius the Red
+TABNAME:AA22 - Iridius &lbracket;L7&rbracket;
+PLAYERNAME:George Cool
+HEIGHT:73
+WEIGHT:195
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:17
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d06)|LEVEL:7|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Cleric|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASS:Wizard|LEVEL:0|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:6|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=4|HITPOINTS:4|PRESTAT:INT=1|PRESTAT:WIS=1|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=5|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=6|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=7|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:28000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:Dragonblooded]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:Iridius Template]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:27|
+SKILL:Bluff|OUTPUTORDER:32|
+SKILL:Climb|OUTPUTORDER:29|
+SKILL:Concentration|OUTPUTORDER:34|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:41|
+SKILL:Disguise|OUTPUTORDER:33|
+SKILL:Endurance|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:28|
+SKILL:Forgery|OUTPUTORDER:36|
+SKILL:Gather Information|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Heal|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:45|
+SKILL:Insight|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|OUTPUTORDER:42|
+SKILL:Jump|OUTPUTORDER:30|
+SKILL:Listen|OUTPUTORDER:37|
+SKILL:Move Silently|OUTPUTORDER:44|
+SKILL:Mystic Artist Skill|OUTPUTORDER:15|
+SKILL:Notice|OUTPUTORDER:40|
+SKILL:Perception|OUTPUTORDER:16|
+SKILL:Persuasion|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:18|
+SKILL:Search|OUTPUTORDER:39|
+SKILL:Sense Motive|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Sneak|OUTPUTORDER:19|
+SKILL:Spot|OUTPUTORDER:38|
+SKILL:ST Skill|OUTPUTORDER:20|
+SKILL:Stealth|OUTPUTORDER:21|
+SKILL:Survival|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:31|
+SKILL:Thievery|OUTPUTORDER:26|
+SKILL:Use Rope|OUTPUTORDER:43|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:11|
+SKILL:Knowledge (Religion)|OUTPUTORDER:13|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:23|
+SKILL:Knowledge (Nature)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (The Planes)|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival (Natural environments)|OUTPUTORDER:24|
+SKILL:Survival (The Planes)|OUTPUTORDER:25|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Draconic
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Fist Feat|POOLPOINTS:0.0
+USERPOOL:Improved Psicrystal Personality|POOLPOINTS:0.0
+USERPOOL:Elocator Transporter|POOLPOINTS:0.0
+USERPOOL:Thrallherd Charm Choice|POOLPOINTS:0.0
+USERPOOL:Thrallherd Dominate Choice|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu A Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu B Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu C Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons plus any one Martial Weapon|APPLIEDTO:Longsword|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons and selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Weapon Focus|APPLIEDTO:Longsword|TYPE:Combat.Base Attack Bonus.SpecialAttack|DESC:Increase selected weapon to hit by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Template|APPLIEDTO:,|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) adds a template of up to +2 ECL to the companion. Only one Template can be applied to a given companion, but you may pay the cost multiple times to add a more powerful template. The ECL addition is cumulative up to a maximum of +6.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Chosen Ones|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Wizard and Cleric|APPLIEDTO:,,,,,,,,,|TYPE:CasterLevel.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,,,|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Cleric Magic Level|TYPE:MagicLevels.BaseLevel|SAVE:BONUS&pipe;PCLEVEL&pipe;CLERIC&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Magic Levels|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cleric Level ~ No Package ~ No Caster Level|APPLIEDTO:,,,,,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Wizard Magic Level|TYPE:MagicLevels.BaseLevel|SAVE:BONUS&pipe;PCLEVEL&pipe;WIZARD&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You have relatively obedient followers who are willing to follow your orders. By default they're of your general type, but with +3 CP andthe Game Master's permission you may command an exotic race, undead, elementals, demons or other outsiders appropriate to your nature, or even (for another +3 CP) animated objects or other constructs. In any case, you gain followers with a total ECL of (2 x &lbracket;your level + your Cha Mod&rbracket;). While none of them can have an ECL greater than (your character level - 3) or less than 1, you may otherwise allocate levels, and describe their personality traits and areas of expertise, as desired. Their equipment is up to the GM, but is usually typical for NPCs. Their levels may be increased, or additional followers may be added, as you go up in level; the Game Master should make adjustments. While followers are not slavishly loyal unless the character truly deserves such loyalty, they are reliable within reason. Lost followers can be replaced as long as the character is making a reasonable effort to do so and isn't abusing his or her followers; this will usually require 2d6 months.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard Level ~ No Caster Level|APPLIEDTO:,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Knowledge (Arcana),Knowledge (Religion),Spellcraft,Perception|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+USERPOOL:Character Points|POOLPOINTS:9.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Athletics,Endurance,Heal,Knowledge (Arcana),Knowledge (Religion),Martial Arts,Perception,Persuasion,Spellcraft,Survival,Stealth,Knowledge (Nature),Knowledge (The Planes),Profession (Farmer),Insight|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Tabarath Cult|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Church of Thor|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Familiar|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Trick Choice|POOLPOINTS:0.0
+USERPOOL:Celerity Additional Movement Choice|POOLPOINTS:0.0
+USERPOOL:Celerity Bonus Movement Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Perception,Perception,Perception,Perception,Perception,Perception,Perception,Perception,Perception,Perception,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Mystic Companion Stat Choice|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Distinctions|POOLPOINTS:0.0
+USERPOOL:Demerits|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet]
+WEAPONPROF:[WEAPON:Gauntlet (Spiked)|WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Longsword]
+WEAPONPROF:[WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Longsword|OUTPUTORDER:2|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword$EQMOD=STEEL]
+EQUIPNAME:Special Backpack of Holding|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Sentient Rod of Any Weapon|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Special Boots|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Faerie Garb|OUTPUTORDER:8|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb|DATA:NAME=Faerie Garb$EQMOD=CLOTH]
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.3|VALUE:Longsword|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Sentient Rod of Any Weapon|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.5|VALUE:Special Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.6|VALUE:Special Boots|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.7|VALUE:Faerie Garb|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Alarm|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Belker Claws|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Blast of Force|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Cloud of Bewilderment|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Cloud of Knives|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Color Spray|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Expeditious Retreat|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:False Gravity|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Feather Fall|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Identify|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Jump|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Lance of Disruption|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Life Ward|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Magic Missile|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Regroup|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Slide (Greater)|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Steeldance|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Helga|TYPE:Familiar|RACE:COMPANION (FEY)|HITDICE:0|FILE:\02. Helga.pcg
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

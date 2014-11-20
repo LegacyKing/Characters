@@ -1,0 +1,337 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Griffin Ironfist
+TABNAME:Ma01 - Griffin (L3)
+PLAYERNAME:Randy Rogge
+HEIGHT:70
+WEIGHT:190
+AGE:24
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Brown
+HAIRCOLOR:Black
+HAIRSTYLE:Short
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:15
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:12
+ALIGN:LN
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d20)|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d10)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=1|HITPOINTS:20|SKILLSGAINED:8|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=2|HITPOINTS:15|SKILLSGAINED:2|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=1|HITPOINTS:7|SKILLSGAINED:2|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:20|
+SKILL:Bluff|OUTPUTORDER:25|
+SKILL:Climb|OUTPUTORDER:22|
+SKILL:Concentration|OUTPUTORDER:27|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:34|
+SKILL:Disguise|OUTPUTORDER:26|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Forgery|OUTPUTORDER:28|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:38|
+SKILL:Intimidate|OUTPUTORDER:35|
+SKILL:Jump|OUTPUTORDER:23|
+SKILL:Listen|OUTPUTORDER:30|
+SKILL:Move Silently|OUTPUTORDER:37|
+SKILL:Mystic Artist Skill|OUTPUTORDER:10|
+SKILL:Notice|OUTPUTORDER:33|
+SKILL:Perception|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:13|
+SKILL:Search|OUTPUTORDER:32|
+SKILL:Sense Motive|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Sneak|OUTPUTORDER:15|
+SKILL:Spot|OUTPUTORDER:31|
+SKILL:ST Skill|OUTPUTORDER:16|
+SKILL:Stealth|OUTPUTORDER:17|
+SKILL:Survival|OUTPUTORDER:18|
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Thievery|OUTPUTORDER:19|
+SKILL:Use Rope|OUTPUTORDER:36|
+SKILL:Use Magic Device|OUTPUTORDER:29|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Athletics (Swim)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Shield Use|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Shields
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack|APPLIEDTO:Plus 3 to Damage (Longsword),(CP total =3)|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:(3 CP). Augment Attack grants +1d6 damage or +1 to hit in some specific situation (essentially, this feat is already "Specialized"), per 3 CP invested (a mere +1 damage costs 1 CP and +1d8 costs 4 CP). Characters may double the cost to make the situation relatively common or triple it to make it very common (e.g., with a particular type of weapon which you almost always use). No character may possess more than 36 CP worth of basic augmentations.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stoic|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Characters with Stoic are not subject to death by massive damage and may make a Fortitude save (DC 15) each round to self-stabilize if below 0 HP.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Block ~ Melee|APPLIEDTO:Melee|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:Block lets a character counter an incoming melee attack with DC %1 Reflex save once per round. In general, each Block attempt uses up an Attack of Opportunity and provides Great Immunity to the attack. Attackers may give up part of their BAB to increase the Block save DC on a 1-to-1 basis.&pipe;BlockMeleeDC
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple and Martial Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple and martial weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Specialized half corrupted ~ Choose Weapon|APPLIEDTO:Longsword|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Enhanced Strike ~ Whirlwind|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:allows the user to make a single full-BAB attack against every target within reach.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Improved Initiative|APPLIEDTO:,,|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:HD|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Athletics,Gather Information,Heal,Perception,Persuasion,Ride,Sense Motive,Stealth,Survival,Use Magic Device,Use Rope,Speak Language,Profession,Martial Arts|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Gambling|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Must pay off a Debt|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Inept|APPLIEDTO:Wisdom|TYPE:Disadvantage.DisadvantageCounter|DESC:You suffer from a -2 modifier on all skills linked to the chosen Attribute.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:A Test Skill|APPLIEDTO:Athletics,Athletics,Athletics,Gather Information,Gather Information,Heal,Heal,Ride,Ride|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart]
+WEAPONPROF:[WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword]
+WEAPONPROF:[WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Kukri|WEAPON:Lance]
+WEAPONPROF:[WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Pick (Heavy)]
+WEAPONPROF:[WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scourge|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Trident|WEAPON:Unarmed|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Shield (Heavy/Metal)|OUTPUTORDER:22|COST:20.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Shield (Heavy/Metal)|DATA:NAME=Shield (Heavy/Metal)$EQMOD=STEEL]
+EQUIPNAME:Backpack|OUTPUTORDER:3|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:18|COST:10|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Everburning Torch|OUTPUTORDER:11|COST:110|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Grappling Hook|OUTPUTORDER:13|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Rope (Silk/50 Ft.)|OUTPUTORDER:20|COST:10|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Flint and Steel|OUTPUTORDER:12|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Tindertwig|OUTPUTORDER:26|COST:1|WT:0.0|QUANTITY:10.0
+EQUIPNAME:Crowbar|OUTPUTORDER:10|COST:2|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Sack|OUTPUTORDER:21|COST:0.1|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Pouch (Belt)|OUTPUTORDER:19|COST:1|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Holy Water (Flask)|OUTPUTORDER:15|COST:25|WT:1.0|QUANTITY:4.0
+EQUIPNAME:Oil (1 Pt. Flask)|OUTPUTORDER:17|COST:0.1|WT:1.0|QUANTITY:2.0
+EQUIPNAME:Caltrops|OUTPUTORDER:6|COST:1|WT:2.0|QUANTITY:4.0
+EQUIPNAME:Hammer|OUTPUTORDER:14|COST:0.5|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Acid (Flask)|OUTPUTORDER:1|COST:10|WT:1.0|QUANTITY:2.0
+EQUIPNAME:Alchemist's Fire (Flask)|OUTPUTORDER:2|COST:20|WT:1.0|QUANTITY:4.0
+EQUIPNAME:Sunrod|OUTPUTORDER:24|COST:2|WT:1.0|QUANTITY:5.0
+EQUIPNAME:Smokestick|OUTPUTORDER:23|COST:20|WT:0.5|QUANTITY:5.0
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:9|COST:1|WT:0.02|QUANTITY:101.0
+EQUIPNAME:Coin (Copper)|OUTPUTORDER:8|COST:0.01|WT:0.02|QUANTITY:20.0
+EQUIPNAME:Manhandler (Longsword+1)|OUTPUTORDER:16|COST:2315.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Manhandler (Longsword+1)|DATA:NAME=Manhandler (Longsword+1)$EQMOD=STEEL]
+EQUIPNAME:Chain Shirt|OUTPUTORDER:7|COST:100.0|WT:25.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Chain Shirt|DATA:NAME=Chain Shirt$EQMOD=STEEL]
+EQUIPNAME:Bullet (Sling)|OUTPUTORDER:4|COST:0.01|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bullet (Sling)|DATA:NAME=Bullet (Sling)$EQMOD=STEEL]
+EQUIPNAME:Bullets (Sling/10)|OUTPUTORDER:5|COST:0.1|WT:5.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bullets (Sling/10)|DATA:NAME=Bullets (Sling/10)$EQMOD=STEEL]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Not Carried|ID:0.1.1|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.1|VALUE:Acid (Flask)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.10|VALUE:Oil (1 Pt. Flask)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.11|VALUE:Rope (Silk/50 Ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.12|VALUE:Smokestick|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.13|VALUE:Sunrod|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.15|VALUE:Tindertwig|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.16|VALUE:Bullets (Sling/10)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.2|VALUE:Alchemist's Fire (Flask)|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.3|VALUE:Caltrops|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.4|VALUE:Crowbar|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.5|VALUE:Everburning Torch|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.6|VALUE:Flint and Steel|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.7|VALUE:Grappling Hook|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.8|VALUE:Hammer|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.9|VALUE:Holy Water (Flask)|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.10|VALUE:Bullet (Sling)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.2|VALUE:Pouch (Belt)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Pouch (Belt)|ID:0.1.2.1|VALUE:Coin (Gold)|QUANTITY:101.0|USETEMPMODS:Y
+EQUIPSET:Pouch (Belt)|ID:0.1.2.2|VALUE:Coin (Copper)|QUANTITY:20.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Sack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shield|ID:0.1.4|VALUE:Shield (Heavy/Metal)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.7|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.8|VALUE:Manhandler (Longsword+1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.9|VALUE:Chain Shirt|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

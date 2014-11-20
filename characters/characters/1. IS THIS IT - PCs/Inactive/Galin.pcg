@@ -1,0 +1,165 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Arcana Evolved|CAMPAIGN:Is This It - RSRD|CAMPAIGN:Is This It, Complete - Updated 11-13-2006|CAMPAIGN:Transcendence|CAMPAIGN:World of Warcraft
+VERSION:5.10.1
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:N
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Galin
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:11
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:11
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:11
+STAT:CHA|SCORE:10
+ALIGN:CG
+RACE:Ghaele (Companion)
+
+# Character Class(es)
+CLASS:Cleric|SUBCLASS:None|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:|PROHIBITED:None
+CLASS:Ghaele|SUBCLASS:None|LEVEL:10|SKILLPOOL:0|PROHIBITED:None
+CLASSABILITIESLEVEL:Ghaele=1|HITPOINTS:8|ABILITY:[PROMPT:SPELLCASTER(Cleric)|CHOICE:Cleric]|SKILLSGAINED:44
+CLASSABILITIESLEVEL:Ghaele=2|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=3|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=4|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=5|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=6|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=7|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=8|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=9|HITPOINTS:6|SKILLSGAINED:11
+CLASSABILITIESLEVEL:Ghaele=10|HITPOINTS:6|SKILLSGAINED:11
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Handle Animal|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Ghaele|RANKS:5.0|COST:1|CLASSSKILL:N]
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Psychic)|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Ghaele|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (The Planes)|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Open Lock|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Ghaele|RANKS:6.0|COST:1|CLASSSKILL:N]
+SKILL:Ride|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Search|OUTPUTORDER:23|
+SKILL:Sense Motive|OUTPUTORDER:24|
+SKILL:Sneak|OUTPUTORDER:25|CLASSBOUGHT:[CLASS:Ghaele|RANKS:6.0|COST:1|CLASSSKILL:N]
+SKILL:Sneak (Hide)|OUTPUTORDER:26|
+SKILL:Spellcraft|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Ghaele|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Spot|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Ghaele|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:29|
+SKILL:Swim|OUTPUTORDER:30|
+SKILL:Use Rope|OUTPUTORDER:31|
+
+# Character Languages
+LANGUAGE:Celestial|LANGUAGE:Draconic|LANGUAGE:Infernal
+
+# Character Feats
+FEAT:Combat Expertise|TYPE:GENERAL.FIGHTER|DESC:When you use the attack action or the full attack action in melee, you can take a penalty of as much as -5 on your attack roll and add the same number as a dodge bonus to your Armor Class.
+FEAT:Improved Disarm|TYPE:GENERAL|DESC:You do not provoke an attack of opportunity when you attempt to disarm an opponent, nor does the opponent have a chance to disarm you. You also gain a +4 bonus on the opposed attack roll you make to disarm your opponent.
+FEAT:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+FEAT:Improved Trip|TYPE:GENERAL|DESC:You do not provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed and gain a +4 bonus on your Strength check to trip your opponent. If you trip an opponent in melee combat, you immediately get a melee attack against that opponent.
+FEAT:Expertise|TYPE:GENERAL|DESC:Trade attack bonus for AC (maximum 5 points)
+FEAT:Alertness|TYPE:GENERAL|DESC:You get a +2 bonus on all Listen checks and Spot checks.
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)]
+WEAPONPROF:[WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Light Ray|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Morningstar|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Light Ray (Natural/Primary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Light Ray|DATA:KEY=Light Ray]
+EQUIPNAME:Greatsword +4 (Holy)|OUTPUTORDER:0|COST:72350.0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greatsword +4 (Holy)|DATA:NAME=Greatsword +4 (Holy)$EQMOD=HOLY_M.MWORKW.PLUS4W.STEEL]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.2|VALUE:Greatsword +4 (Holy)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.3|VALUE:Light Ray (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:None|DEITYDOMAINS:[DOMAIN:Artifice|DOMAIN:Charm|DOMAIN:Community|DOMAIN:Creation|DOMAIN:Darkness|DOMAIN:Glory|DOMAIN:Liberation|DOMAIN:Madness|DOMAIN:Nobility|DOMAIN:Repose|DOMAIN:Rune|DOMAIN:Scalykind|DOMAIN:Weather|DOMAIN:Air|DOMAIN:Animal|DOMAIN:Chaos|DOMAIN:Death|DOMAIN:Destruction|DOMAIN:Earth|DOMAIN:Evil|DOMAIN:Fire|DOMAIN:Good|DOMAIN:Healing|DOMAIN:Knowledge|DOMAIN:Law|DOMAIN:Luck|DOMAIN:Magic|DOMAIN:Plant|DOMAIN:Protection|DOMAIN:Strength|DOMAIN:Sun|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:War|DOMAIN:Water|DOMAIN:Mind|DOMAIN:Kercpa|DOMAIN:Celerity|DOMAIN:Drow|DOMAIN:Force|DOMAIN:Deathbound|DOMAIN:Hunger|DOMAIN:Undeath|DOMAIN:City|DOMAIN:Destiny|DOMAIN:Sky|DOMAIN:Beastmaster|DOMAIN:Divination|DOMAIN:Excorcism|DOMAIN:Cold|DOMAIN:Competition|DOMAIN:Domination|DOMAIN:Dream|DOMAIN:Inquisition|DOMAIN:Mysticism|DOMAIN:Oracle|DOMAIN:Pact|DOMAIN:Pestilence|DOMAIN:Purification|DOMAIN:Summoner|DOMAIN:Balance|DOMAIN:Cavern|DOMAIN:Craft|DOMAIN:Dwarf|DOMAIN:Elf|DOMAIN:Family|DOMAIN:Fate|DOMAIN:Gnome|DOMAIN:Halfling|DOMAIN:Hatred|DOMAIN:Illusion|DOMAIN:Mentalism|DOMAIN:Metal|DOMAIN:Moon|DOMAIN:Ocean|DOMAIN:Orc|DOMAIN:Planning|DOMAIN:Portal|DOMAIN:Renewal|DOMAIN:Retribution|DOMAIN:Slime|DOMAIN:Spell|DOMAIN:Spider|DOMAIN:Storm|DOMAIN:Suffering|DOMAIN:Time|DOMAIN:Trade|DOMAIN:Tyranny|DOMAIN:Watery Death]|ALIGNALLOW:012345678|DESC:None|HOLYITEM:None|DEITYFAVWEAP:[]|DEITYALIGN:
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Kits
+KIT:None|Default Ghaele
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

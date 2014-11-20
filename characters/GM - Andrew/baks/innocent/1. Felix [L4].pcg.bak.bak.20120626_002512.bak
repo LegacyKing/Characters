@@ -1,0 +1,220 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.15
+ROLLMETHOD:2|EXPRESSION:High Fantasy (32)
+PURCHASEPOINTS:Y|TYPE:High Fantasy (32)
+CHARACTERTYPE:PC
+POOLPOINTS:40
+POOLPOINTSAVAIL:32
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Felix Evander
+TABNAME:S12 - Felix &lbracket;L4&rbracket;
+PLAYERNAME:Matt Keffer
+HEIGHT:64
+WEIGHT:140
+AGE:14
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Brown
+HAIRCOLOR:Brown
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:14
+ALIGN:CG
+RACE:Illan
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d12)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d10)|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:12|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=1|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=2|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=3|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:999
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:27|
+SKILL:Bluff|OUTPUTORDER:32|
+SKILL:Climb|OUTPUTORDER:29|
+SKILL:Concentration|OUTPUTORDER:34|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:41|
+SKILL:Disguise|OUTPUTORDER:33|
+SKILL:Endurance|OUTPUTORDER:6|
+SKILL:Escape Artist|OUTPUTORDER:28|
+SKILL:Forgery|OUTPUTORDER:36|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:45|
+SKILL:Insight|OUTPUTORDER:9|
+SKILL:Intimidate|OUTPUTORDER:42|
+SKILL:Jump|OUTPUTORDER:30|
+SKILL:Listen|OUTPUTORDER:37|
+SKILL:Move Silently|OUTPUTORDER:44|
+SKILL:Mystic Artist Skill|OUTPUTORDER:10|
+SKILL:Notice|OUTPUTORDER:40|
+SKILL:Perception|OUTPUTORDER:11|
+SKILL:Persuasion|OUTPUTORDER:12|
+SKILL:Ride|OUTPUTORDER:22|
+SKILL:Search|OUTPUTORDER:39|
+SKILL:Sense Motive|OUTPUTORDER:35|
+SKILL:Sneak|OUTPUTORDER:46|
+SKILL:Spot|OUTPUTORDER:38|
+SKILL:ST Skill|OUTPUTORDER:23|
+SKILL:Stealth|OUTPUTORDER:24|
+SKILL:Survival|OUTPUTORDER:25|
+SKILL:Swim|OUTPUTORDER:31|
+SKILL:Thievery|OUTPUTORDER:26|
+SKILL:Use Rope|OUTPUTORDER:43|
+SKILL:Psychic (Body Control)|OUTPUTORDER:13|
+SKILL:Psychic (Empathy)|OUTPUTORDER:16|
+SKILL:Psychic (Mental Contact)|OUTPUTORDER:17|
+SKILL:Psychic (Psychic Sense)|OUTPUTORDER:18|
+SKILL:Psychic (Psychic Shield)|OUTPUTORDER:19|
+SKILL:Psychic (Drain Vitality)|OUTPUTORDER:15|
+SKILL:Psychic (Telekinetic Blast)|OUTPUTORDER:20|
+SKILL:Psychic (Telekinetic Shield)|OUTPUTORDER:21|
+SKILL:Psychic (Drain Ability (STR))|OUTPUTORDER:14|
+
+# Character Languages
+LANGUAGE:Terran|LANGUAGE:Elven|LANGUAGE:Common|LANGUAGE:Sylvan|LANGUAGE:Treant
+
+# Character Feats
+FEATPOOL:-1.0
+
+# Character Abilities
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Deception,Martial Arts,Perception,Persuasion,Stealth,Survival,Acrobatics,Athletics,Endurance,Handle Animal,Heal,Insight,Linguistics,Perform (Act),Perform (Dance)|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Feat|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:To Merrick|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shapeshift|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP) You may take Small or Medium animal forms once per day per 3 character levels as a Standard Action. You may not take a form with more hit dice than you possess. All equipment you carry melds with your new form and is unusable. The new form lasts until you decide to change back. As a side effect, shapeshifters can revert to normal form when polymorphed.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Psychic (Drain Ability (STR)),Psychic (Drain Vitality),Psychic (Telekinetic Blast),Psychic (Telekinetic Shield)|TYPE:General.eclipseabilityoutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Ability Focus ~ Specific Ability|APPLIEDTO:Telekinetic Blast|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:You add +2 to the DC of resisting one of your specific abilities, such as a breath weapon, special ability, particular spell, or specific poison.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shapeshift ~ Hybrid|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows a shapeshifter to make a partial change, mixing animal characteristics with their natural form. In general, this means that they can continue to use weapons, items, and sometimes armor, while in "animal" form but must spend another +6 CP to be able to speak clearly.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shapeshift ~ Natural Magic|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows a character in animal or plant form to cast spells even without hands or the ability to speak. He or she may use components if he or she had them before transforming.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %2&rbracket;&pipe;InnateEnchantmentPoolCount&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Reflex Training|APPLIEDTO:Can channel a power at any target he strikes in melee|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). With Reflex Training, a character gains a free, immediate, Standard Action under some particular circumstance. You cannot string together more reflexive actions than your relevant attribute bonus (usually Str Mod or Dex Mod). Alternatively, the character may instead simply take an extra Standard Action at any time 3 times per day. You may not use this version more than once per round.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evasive ~ Very Common Actions|APPLIEDTO:Using a power causes no AoO when reflex training is used|TYPE:eclipseabilityoutput.CombatEnhancements.Corruptable|DESC:Evasive characters may take an action (select one) that usually provokes an Attack of Opportunity without being so exposed. You may take this multiple times, selecting a different action each time.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Journeyman ~ Skill|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:A Journeyman may purchase some type of ability (often skills or spellcasting) as if he or she were one level higher, increasing the usual (Level + 3) cap.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Uses / Shapeshift +4|TYPE:Extra.eclipseabilityoutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Ability Focus ~ Group of Abilities|APPLIEDTO:Psychometabolism skills|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:You add +2 to the DC of resisting to a particular school, technique, descriptor, domain, or path of magic, a small group of innate magical abilities, or another modest group of abilities.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shapeshift ~ Enchanted|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP per form type) allows the user to use a form's extraordinary and supernatural abilities, but not its spell-like or spellcasting abilities.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 8|APPLIEDTO:,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Psychometabolism|TYPE:Extra.eclipseabilityoutput.Abilities.Corruptable|DESC:You have the potential to learn psychometabolism skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mystic Link|APPLIEDTO:Aleis Necklace|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(3 CP) A character with Mystic Link has an occult bond with someone or something. He or she may sense the target or the direction it lies in. &nl; You may take this ability multiple times. Each time, you a create a separate mystic link. Upgrades apply to all your Mystic Link powers.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shapeshift ~ Attribute Modifier|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows the user to take on the physical attribute modifiers of a form, instead of simply taking its average physical attributes.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Psychokinesis|TYPE:Extra.eclipseabilityoutput.Abilities.Corruptable|DESC:You have the potential to learn psychokinesis skills.
+USERPOOL:Character Points|POOLPOINTS:27.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Ability (STR)),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Drain Vitality),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Blast),Psychic (Drain Vitality),Psychic (Drain Ability (STR))|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Dependent|APPLIEDTO:Cannot function without Aleis's Necklace|TYPE:Disadvantage.DisadvantageCounter|DESC:There is something you just have to have to function effectively. You could be addicted to a drug, rely on a special talisman, require constant support and encouragement, or simply be so confused that you need someone to tell you what to do. Unless there's a specific effect involved this defaults to a -3 penalty on your rolls.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hallucinations Flashbacks and Visions|APPLIEDTO:Suffers from flashbacks of Aleis's death if mind-linked with someone who dies.|TYPE:Disadvantage.DisadvantageCounter|DESC:Your version of reality doesn't always agree with that of those about you. While this is common enough with respect to details, in your case it may extend to things like whether it's daytime. More commonly, and most dangerously, you may simply see a distorted version of what everyone else sees. This is up to the GM, but the occasional Will save (DC 18) is suggested, or you may react in a radically different manner than those about you.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Secret|APPLIEDTO:Felix's mind harbors a wolf spirit- which he cannot reveal the presence of.|TYPE:Disadvantage.DisadvantageCounter|DESC:There is something buried in your past which you must keep hidden. Your dark secret may range from your unpopular ancestry to being a mass murderer, but bad things happen if it is revealed (i.e., you will get two shiny new disadvantages). Characters most commonly get two from&colon; Hunted, Outcast, Poor Reputation, or Valuable, but things like Accursed, Insane, Obligations, or Unluck may fit in some cases.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Modify Talent|TYPE:Metapsychic
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Fortunes Favor|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:Fortune's Favor grants the recipient a (Spell Level +1) luck bonus on skill and attribute checks for its duration.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Force Armor I|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:Grants +4 Armor Bonus to AC At Will
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L0 ~ Resistance|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:+1 Resistance bonus to Saves.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ INT +2|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Intelligence
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:-100.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Dagger|OUTPUTORDER:1|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:2|COST:10|WT:8.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Dagger|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.2|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

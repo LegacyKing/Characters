@@ -1,0 +1,411 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Draconomicon|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.10
+ROLLMETHOD:2|EXPRESSION:High Fantasy (32)
+PURCHASEPOINTS:Y|TYPE:High Fantasy (32)
+POOLPOINTS:0
+POOLPOINTSAVAIL:32
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Hawkeye
+TABNAME:A04 - Hawkeye &lbracket;L3&rbracket;
+PLAYERNAME:Calvin B.
+HEIGHT:68
+WEIGHT:120
+AGE:23
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:White
+HAIRSTYLE:Long
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:D&colon;\Dropbox\Gaming\Players\PC - Calvin Bacom\Chosen Ones\hawkeye.jpg
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:10
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:18
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d20)|LEVEL:1|SKILLPOOL:12|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d10)|LEVEL:2|SKILLPOOL:12|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=1|HITPOINTS:20|SKILLSGAINED:12|SKILLSREMAINING:12
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=1|HITPOINTS:8|PRESTAT:INT=-1|PRESTAT:WIS=1|PRESTAT:STR=2|PRESTAT:DEX=2|PRESTAT:CON=2|SKILLSGAINED:12|SKILLSREMAINING:12
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=2|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:03 - World Law ~ Feat Progression 2 - Gain Bonus Feat every Odd Level]
+TEMPLATESAPPLIED:[NAME:03 - World Law ~ Feat Progression 0 - Gain Additional Bonus Feat at First Level]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:35|
+SKILL:Bluff|OUTPUTORDER:40|
+SKILL:Climb|OUTPUTORDER:37|
+SKILL:Concentration|OUTPUTORDER:42|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:49|
+SKILL:Disguise|OUTPUTORDER:41|
+SKILL:Endurance|OUTPUTORDER:6|
+SKILL:Escape Artist|OUTPUTORDER:36|
+SKILL:Forgery|OUTPUTORDER:44|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:53|
+SKILL:Insight|OUTPUTORDER:9|
+SKILL:Intimidate|OUTPUTORDER:50|
+SKILL:Jump|OUTPUTORDER:38|
+SKILL:Listen|OUTPUTORDER:45|
+SKILL:Move Silently|OUTPUTORDER:52|
+SKILL:Mystic Artist Skill|OUTPUTORDER:10|
+SKILL:Notice|OUTPUTORDER:48|
+SKILL:Perception|OUTPUTORDER:11|
+SKILL:Persuasion|OUTPUTORDER:12|
+SKILL:Ride|OUTPUTORDER:30|
+SKILL:Search|OUTPUTORDER:47|
+SKILL:Sense Motive|OUTPUTORDER:43|
+SKILL:Sneak|OUTPUTORDER:54|
+SKILL:Spot|OUTPUTORDER:46|
+SKILL:ST Skill|OUTPUTORDER:31|
+SKILL:Stealth|OUTPUTORDER:32|
+SKILL:Survival|OUTPUTORDER:33|
+SKILL:Swim|OUTPUTORDER:39|
+SKILL:Thievery|OUTPUTORDER:34|
+SKILL:Use Rope|OUTPUTORDER:51|
+SKILL:Psychic (Psychic Sense)|OUTPUTORDER:20|
+SKILL:Psychic (Psychic Shield)|OUTPUTORDER:21|
+SKILL:Psychic (Body Control)|OUTPUTORDER:14|
+SKILL:Psychic (Precognition)|OUTPUTORDER:18|
+SKILL:Psychic (Psychic Healing)|OUTPUTORDER:19|
+SKILL:Psychic (Psychic Surgery)|OUTPUTORDER:22|
+SKILL:Psychic (Telekinesis)|OUTPUTORDER:25|
+SKILL:Psychic (Telekinetic Blast)|OUTPUTORDER:26|
+SKILL:Psychic (Telekinetic Grip)|OUTPUTORDER:27|
+SKILL:Psychic (Telekinetic Shield)|OUTPUTORDER:28|
+SKILL:Psychic (Teleport)|OUTPUTORDER:29|
+SKILL:Psychic (Empathy)|OUTPUTORDER:15|
+SKILL:Psychic (Mental Contact)|OUTPUTORDER:16|
+SKILL:Psychic (Apport)|OUTPUTORDER:13|
+SKILL:Psychic (Mind Reading)|OUTPUTORDER:17|
+SKILL:Psychic (Psychometry)|OUTPUTORDER:23|
+SKILL:Psychic (Sense Minds)|OUTPUTORDER:24|
+
+# Character Languages
+LANGUAGE:Elven|LANGUAGE:Giant|LANGUAGE:Celestial|LANGUAGE:Draconic|LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-1.0
+
+# Character Abilities
+USERPOOL:+4 Stat Choice|POOLPOINTS:0.0
+USERPOOL:ACF|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Adept Skill|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+USERPOOL:Animal Known Trick|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Anthromorph Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Arnis-Barang Style Art|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu A Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu B Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu C Ability|POOLPOINTS:0.0
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+USERPOOL:Battle Dance Wis BONUS|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Breath Weapon Damage Progression|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Celerity Additional Movement Choice|POOLPOINTS:0.0
+USERPOOL:Celerity Bonus Movement Choice|POOLPOINTS:0.0
+USERPOOL:Censure Selection|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Arcana,Athletics,Deception,Gather Information,Heal,Insight,Martial Arts,Linguistics,Perception,Persuasion,Ride,Thievery|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Feat|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Chosen Ones|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Clairsentience|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn clairsentience skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Maximize Talent (metapsychic)|TYPE:Abilities.Extra.EclipseAbilityOutput|DESC:You can choose to maximize the variables of a psychic skill when you use it. A variable is any die roll other than the skill check itself. If you maximize your Psychic Healing skill, for example, you automatically heal the maximum amount of damage based on your skill check. If you maximize your Psychic Blast skill, you automatically deal the maximum amount of damage, and so forth. &nl;&lbracket;Strain&rbracket; The maximized skill costs double the normal amount of strain (or 1 if the normal strain is 0).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Additional|APPLIEDTO:,,,|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %1&rbracket;&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Psychic (Precognition),Psychic (Psychic Surgery),Psychic (Psychic Healing),Psychic (Sense Minds),Psychic (Telekinetic Blast),Psychic (Telekinetic Shield),Psychic (Teleport),Psychic (Telekinetic Grip)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills ~ Human|APPLIEDTO:Child|TYPE:Character Creation.CharCreation.General|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Truth Reading (Psychic)|TYPE:Abilities.Extra.EclipseAbilityOutput|DESC:When interacting with a creature of Intelligence 4 or greater you automatically sense when the creature tells you a deliberate lie. You can do this a number of times equal to your Wisdom bonus in any given conversation, detecting further lies causes a point of strain for each statement that you check. You do not detect half-truths, lies of omission, or things the creature believes are true (even if they are not), only deliberate falsehoods.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Pyschoportation|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychoportation skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP.&pipe;InnateEnchantmentAdditional+InnateEnchantmentPoolCount
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Finesse / Int for Attack|TYPE:Extra.EclipseAbilityOutput|DESC:Int applies to Hit.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to acquire psychic feats and skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 2|APPLIEDTO:,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 6|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Upgrade Human Racial|TYPE:Character Creation.CharCreation|DESC:Upgrades the Fast Learner Human Racial to Double Points
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Psychometabolism|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychometabolism skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Telepathy|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn telepathy skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Finesse / Int for AC|TYPE:Extra.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Psychokinesis|TYPE:Extra.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychokinesis skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Finesse / Wis for HP|TYPE:Extra.EclipseAbilityOutput
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Surgery),Psychic (Psychic Surgery),Psychic (Psychic Surgery),Psychic (Psychic Surgery),Psychic (Psychic Surgery),Psychic (Precognition),Psychic (Precognition),Psychic (Precognition),Psychic (Precognition),Psychic (Precognition),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Blast),Psychic (Telekinetic Grip),Psychic (Telekinetic Grip),Psychic (Telekinetic Grip),Psychic (Telekinetic Grip),Psychic (Telekinetic Grip),Psychic (Teleport),Psychic (Teleport),Psychic (Teleport),Psychic (Teleport),Psychic (Teleport),Psychic (Telekinesis),Psychic (Telekinesis),Psychic (Telekinesis),Psychic (Telekinesis),Psychic (Telekinesis),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Telekinetic Shield),Psychic (Precognition),Psychic (Psychic Healing),Psychic (Psychic Surgery),Psychic (Telekinesis),Psychic (Telekinetic Blast),Psychic (Telekinetic Grip),Psychic (Telekinetic Shield),Psychic (Teleport)|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Psychic (Sense Minds),Psychic (Sense Minds),Psychic (Sense Minds),Psychic (Sense Minds),Psychic (Sense Minds),Psychic (Mind Reading),Psychic (Mind Reading),Psychic (Mind Reading),Psychic (Mind Reading),Psychic (Mind Reading),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Apport),Psychic (Psychometry),Psychic (Psychometry),Psychic (Psychometry),Psychic (Psychometry),Psychic (Apport),Psychic (Mind Reading),Psychic (Psychometry),Psychic (Sense Minds)|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Chosen Companion|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+USERPOOL:Cleric Conversion Choice|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Conversion Spell Selection|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Deep Lore Selection|POOLPOINTS:0.0
+USERPOOL:Defender Choice|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Unarmored|TYPE:Disadvantage.DisadvantageCounter|DESC:You refuse to use armor for some reason. Characters who already suffer major penalties for wearing armor can't take this disadvantage.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Deadeyes|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Vows|APPLIEDTO:Avenge the murder of his parents|TYPE:Disadvantage.DisadvantageCounter|DESC:While closely related to Compulsive, Vows are generally more restrictive. They're also far more dangerous; those who fail to live up to their vows face some form of retribution. On the other hand, they also get some support; characters gain a +/- 3 bonus (as needed) against attempts to make them break their vows.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe|POOLPOINTS:0.0
+USERPOOL:Eclipse Favored Foe Bonus|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Elocator Transporter|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Empower Talent|TYPE:Metapsychic|DESC:You can strengthen the effects of your psychic skills.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+ABILITY:Human Racial Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:No Stat|TYPE:HumanStat
+USERPOOL:Human Racial Stat|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Enhancement|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Unarmed Enhancement|POOLPOINTS:0.0
+USERPOOL:Improved Psicrystal Personality|POOLPOINTS:0.0
+USERPOOL:Inherent Spell Selection|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Force Shield I|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Grants +4 Shield Bonus to AC at will.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Skill Mastery ~ Group|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:+2 Competence to all skills
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Force Armor I|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Grants +4 Armor Bonus to AC At Will
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Ward of Heaven|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:+1 Luck Bonus on Armor Class and Saving Throws.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ WIS +2|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Wisdom
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ INT +2|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Intelligence
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Artic Fire Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Blood Blade Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Cloak Mastery|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Crane Style Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Ghost Busting Technique|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Gungnir's Flight Kung Fu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Hiten Mitsurugi Ryuu|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Oaken Storm|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Phantom Blade|POOLPOINTS:0.0
+USERPOOL:Martial Arts ~ Wind Dance|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Might Path Selection|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Stat Selection|POOLPOINTS:0.0
+USERPOOL:Mystic Companion Stat Choice|POOLPOINTS:0.0
+USERPOOL:Natural Attack|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Past Master Choice|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Fist Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Pureblood Human Racial Boost|POOLPOINTS:0.0
+USERPOOL:Racial Ability|POOLPOINTS:0.0
+USERPOOL:Racial Adept Skill|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Resist Energy Choices|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Rune Casting Stat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Specialist Combat Selection|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Point Class|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Spirited Selection|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Temp Negative Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Thrallherd Charm Choice|POOLPOINTS:0.0
+USERPOOL:Thrallherd Dominate Choice|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Trick Choice|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Wealth Template Stat Selection|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Feat|POOLPOINTS:0.0
+USERPOOL:Wildfolk Stat Boost|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Chosen One Robe|OUTPUTORDER:5|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Chosen One Robe|DATA:EQMOD=CLOTH]
+EQUIPNAME:Chosen One Backpack of Holding|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Chosen One Orb|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Boots of the New Chosen Ones|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Quarterstaff (Growth Item / Chosen One;Growth Item / Chosen One)|OUTPUTORDER:6|COST:0.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Quarterstaff|DATA:NAME=Quarterstaff (Growth Item / Chosen One;Growth Item / Chosen One)$EQMOD=WOOD.CHOSEN_GROWTH$ALTEQMOD=WOOD.CHOSEN_GROWTH]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.1|VALUE:Boots of the New Chosen Ones|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Chosen One Robe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Chosen One Orb|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.4|VALUE:Quarterstaff (Growth Item / Chosen One;Growth Item / Chosen One)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.5|VALUE:Chosen One Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

@@ -1,0 +1,248 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:New1
+TABNAME:
+PLAYERNAME:
+HEIGHT:68
+WEIGHT:180
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:10
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:10
+ALIGN:LG
+RACE:Human
+
+# Character Class(es)
+CLASS:Point Buy|LEVEL:3|SKILLPOOL:24|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Point Buy=1|HITPOINTS:4|SKILLSGAINED:16|SKILLSREMAINING:16
+CLASSABILITIESLEVEL:Point Buy=2|HITPOINTS:3|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Point Buy=3|HITPOINTS:2|SKILLSGAINED:4|SKILLSREMAINING:4
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Class Skills Eclipse Point Buy]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:19|
+SKILL:Bluff|OUTPUTORDER:24|
+SKILL:Climb|OUTPUTORDER:21|
+SKILL:Concentration|OUTPUTORDER:26|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:32|
+SKILL:Disguise|OUTPUTORDER:25|
+SKILL:Endurance|OUTPUTORDER:6|
+SKILL:Escape Artist|OUTPUTORDER:20|
+SKILL:Forgery|OUTPUTORDER:27|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:36|
+SKILL:Intimidate|OUTPUTORDER:33|
+SKILL:Jump|OUTPUTORDER:22|
+SKILL:Listen|OUTPUTORDER:28|
+SKILL:Move Silently|OUTPUTORDER:35|
+SKILL:Mystic Artist Skill|OUTPUTORDER:9|
+SKILL:Notice|OUTPUTORDER:31|
+SKILL:Perception|OUTPUTORDER:10|
+SKILL:Persuasion|OUTPUTORDER:11|
+SKILL:Ride|OUTPUTORDER:12|
+SKILL:Search|OUTPUTORDER:30|
+SKILL:Sense Motive|OUTPUTORDER:13|
+SKILL:Sneak|OUTPUTORDER:14|
+SKILL:Spot|OUTPUTORDER:29|
+SKILL:ST Skill|OUTPUTORDER:15|
+SKILL:Stealth|OUTPUTORDER:16|
+SKILL:Survival|OUTPUTORDER:17|
+SKILL:Swim|OUTPUTORDER:23|
+SKILL:Thievery|OUTPUTORDER:18|
+SKILL:Use Rope|OUTPUTORDER:34|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Animal Tricks|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Storage|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:(+6 CP) allows you to store a number of spell levels in the Companion equal to the Companion's Charisma. You may release the spells as if you were using a scroll, provided your Companion is touching or adjacent to you. For an additional +6 CP you or the companion may release a spell as if using a spell storing device.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic|APPLIEDTO:|TYPE:General.Extras
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eclipse Restrictions|TYPE:SpecialQuality.Character Creation.General
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (+1)|TYPE:SpecialQuality.Character Creation.General|DESC:Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard Magic Level|APPLIEDTO:,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Recorder|TYPE:Disadvantage.SpecialQuality|DESC:The player keeps records, and ensures that the GM gets a copy. Acceptable forms are up to the GM, but common variants include character diaries, letters, campaign logs, and keeping a list of NPC's.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Might|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:(+6 CP) allows you to grant your companion the benefits of two Positive Levels (see page 86) or of a continuously active second level spell or psychic effect.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,|TYPE:SavingThrow.Character Creation.SpecialQuality|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ A small group of Simple Weapons|APPLIEDTO:Dagger,Quarterstaff,Dart,Club|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Corrupted ~ Decreased Cost ~ Six to Four|APPLIEDTO:Companion,Companion ~ Might,Companion ~ Storage,Companion ~ Template|TYPE:General.Corrupt Bypass.Special Ability.SpecialQuality
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Invocation|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:Grants one bonus spell slot usable for any spell or power you can cast up to your current spell level limit in a particular progression. This goes up with the character, so it never becomes obselete.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|TYPE:Disadvantage.SpecialQuality|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Template|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:(+6 CP) adds a template of up to +2 ECL to the companion. Only one Template can be applied to a given companion, but you may pay the cost multiple times to add a more powerful template. The ECL addition is cumulative up to a maximum of +6.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|TYPE:SpecialQuality.Character Creation.General|DESC:A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Points ~ Wizard|APPLIEDTO:Total 26 for 3rd level|TYPE:SpecialQuality.General.Abilities
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.SpecialQuality|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick � usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Specialist|TYPE:General.SpecialQuality.Abilities.Corruptable|DESC:With Specialist, a character selects one magical specialty, usually an arcane school or a pari of divine domains. The character gains an extra spell slot of each spell level he or she can use of up to level 3. He or she may only memorize or cast spells using these slots with the chosen specialty. Characters may take this without selecting a magical specialty and put any spell in it, but this doubles the base cost as well as the cost of any improvements. Characters using Divine Magic need pay only half price for specialist.
+USERPOOL:Character Points|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Animal Training|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Dagger|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Grapple|WEAPON:Quarterstaff|WEAPON:Spells(Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLLIST:Point Buy|CLASS.Wizard
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

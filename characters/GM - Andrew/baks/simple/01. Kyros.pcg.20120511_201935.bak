@@ -1,0 +1,418 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.13
+ROLLMETHOD:2|EXPRESSION:High Fantasy (32)
+PURCHASEPOINTS:Y|TYPE:High Fantasy (32)
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:32
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Kyros
+TABNAME:C05 - L3 - Kyros (Andrew)
+PLAYERNAME:Andrew M.
+HEIGHT:76
+WEIGHT:200
+AGE:110
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Sky Blue
+HAIRCOLOR:Sandy Blond
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:C&colon;\Users\Andrew\Pictures\Greek_Warrior_by_WhiteWing_Stock_EtAl.jpg
+PORTRAITTHUMBNAILRECT:182,174,175,175
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:10
+ALIGN:NG
+RACE:Human ~ Pureblooded
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d12)|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Mage Blade|LEVEL:0|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:
+CLASS:Magister|LEVEL:0|SKILLPOOL:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:12|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=2|HITPOINTS:10|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=3|HITPOINTS:10|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Pureblooded]
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:04 - Kyros]
+TEMPLATESAPPLIED:[NAME:Divine Grace of Apollo]
+TEMPLATESAPPLIED:[NAME:Domain ~ Granted]
+TEMPLATESAPPLIED:[NAME:Use Wealth Templates]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:03 - World Law ~ Feat Progression 1 - Gain Bonus Feat every Even Level]
+TEMPLATESAPPLIED:[NAME:+4 Divine Bonus to Intelligence]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:4|
+SKILL:Balance|OUTPUTORDER:29|
+SKILL:Bluff|OUTPUTORDER:34|
+SKILL:Climb|OUTPUTORDER:31|
+SKILL:Concentration|OUTPUTORDER:36|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:43|
+SKILL:Disguise|OUTPUTORDER:35|
+SKILL:Endurance|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:30|
+SKILL:Forgery|OUTPUTORDER:38|
+SKILL:Gather Information|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Hide|OUTPUTORDER:47|
+SKILL:Insight|OUTPUTORDER:11|
+SKILL:Intimidate|OUTPUTORDER:44|
+SKILL:Jump|OUTPUTORDER:32|
+SKILL:Listen|OUTPUTORDER:39|
+SKILL:Move Silently|OUTPUTORDER:46|
+SKILL:Mystic Artist Skill|OUTPUTORDER:17|
+SKILL:Notice|OUTPUTORDER:42|
+SKILL:Perception|OUTPUTORDER:18|
+SKILL:Persuasion|OUTPUTORDER:19|
+SKILL:Ride|OUTPUTORDER:22|
+SKILL:Search|OUTPUTORDER:41|
+SKILL:Sense Motive|OUTPUTORDER:37|
+SKILL:Sneak|OUTPUTORDER:48|
+SKILL:Spot|OUTPUTORDER:40|
+SKILL:ST Skill|OUTPUTORDER:23|
+SKILL:Stealth|OUTPUTORDER:24|
+SKILL:Survival|OUTPUTORDER:25|
+SKILL:Swim|OUTPUTORDER:33|
+SKILL:Thievery|OUTPUTORDER:27|
+SKILL:Use Rope|OUTPUTORDER:45|
+SKILL:Arcana|OUTPUTORDER:3|
+SKILL:Martial Arts ~ Int Based|OUTPUTORDER:16|
+SKILL:Deception (Act in character)|OUTPUTORDER:7|
+SKILL:Persuasion (Diplomacy)|OUTPUTORDER:20|
+SKILL:Profession (Sailor)|OUTPUTORDER:21|
+SKILL:Thievery (Sleight of Hand)|OUTPUTORDER:28|
+SKILL:Knowledge (History)|OUTPUTORDER:12|
+SKILL:Knowledge (Tactics)|OUTPUTORDER:13|
+SKILL:Linguistics|OUTPUTORDER:15|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:26|
+SKILL:Knowledge (Theology and Philosophy)|OUTPUTORDER:14|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Low Common|LANGUAGE:Celestial|LANGUAGE:Terran|LANGUAGE:Tradetongue|LANGUAGE:Draconic|LANGUAGE:Abyssal
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Arcana,Athletics,Deception,Gather Information,Insight,Persuasion,Profession (Sailor),Survival,Stealth,Knowledge (Sailing and Navigation),Knowledge (Theology and Philosophy),Knowledge (History),Martial Arts,Linguistics|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic ~ Two|APPLIEDTO:,|TYPE:General.Character Creation.eclipseabilityoutput|DESC:Buy a second relic, taking this multiple times increases the CP spent in the relic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Magister Magic Level|TYPE:MagicLevels.BaseLevel|SAVE:BONUS&pipe;PCLEVEL&pipe;MAGISTER&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Other)|APPLIEDTO:HD|TYPE:Character Creation.CharCreation.General
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic ~ One|APPLIEDTO:|TYPE:General.Character Creation.eclipseabilityoutput|DESC:Buy a relic, taking this multiple times increases the CP spent in the relic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Legionary|TYPE:eclipseabilityoutput.CombatEnhancements.Corruptable|DESC:(6 CP). A Legionary has great coordination when fighting in a team. The character gains +1/2/3 bonus to AC, Attacks and Reflex Saves when teamed with 1-2/3-4/5+ others with who also possess this feat.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Feat|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Venerate the Gods|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 6|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonded Weapon|TYPE:Extra
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Acrobatics,Arcana,Martial Arts,Perception|TYPE:General.eclipseabilityoutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Athame Master|TYPE:Extra.eclipseabilityoutput|DESC:Anime Master w/ Finesse Specialized only for Athame and corrupted must be unarmored. May use one handed and Int applies to Hit.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons plus any one Martial Weapon|APPLIEDTO:Greatsword|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons and selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonded Weapon ~ Greater|TYPE:Extra
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Complex Level 1|TYPE:Extra
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Complex Level 0|TYPE:Extra
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Magister Magic Level|APPLIEDTO:,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eclipse Restrictions|APPLIEDTO:Profane a Temple to the Gods|TYPE:Character Creation.CharCreation.General|DESC:A character with restrictions has major limitations on the use of some ability or type of equipment. He or she may never (ever!) acquire or use such talents without major penalties. For example, Witch- Hunters never cast spells except to fix the problems caused by other magic on pain of losing most of their abilities. The point bonus is per category which applies. A character only gains the bonus points for restrictions on things that would obviously useful to him or her. Common restrictions include wearing no armor, using no weapons, using no magic or psionics, or skill-related feats. A good explanation is in order. Why is the character restricted in this way?
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Corrupted Higher Effect|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP.&pipe;InnateEnchantmentAdditional+InnateEnchantmentPoolCount
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Complex Level 2|TYPE:Extra
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Imbuement ~ Reduced Cost|TYPE:Extra.eclipseabilityoutput|DESC:Specialized and Corrupted - Only for specially prepared Athame and cannot be replaced without a ritual
+USERPOOL:Character Points|POOLPOINTS:53.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Arcana,Arcana,Arcana,Arcana,Arcana,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Perception,Perception,Perception,Perception,Perception,Acrobatics,Arcana,Martial Arts ~ Int Based,Perception|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Insight,Insight,Insight,Insight,Insight,Deception,Deception,Deception,Deception,Deception,Profession (Sailor),Profession (Sailor),Profession (Sailor),Profession (Sailor),Profession (Sailor),Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Stealth,Stealth,Stealth,Stealth,Survival,Survival,Survival,Survival,Survival,Knowledge (Tactics),Knowledge (Tactics),Knowledge (Tactics),Knowledge (Tactics),Knowledge (Tactics),Knowledge (History),Athletics,Athletics,Athletics,Athletics,Athletics,Deception,Insight,Knowledge (Tactics),Persuasion,Profession (Sailor),Stealth,Survival,Linguistics,Linguistics,Linguistics,Linguistics,Linguistics,Athletics,Linguistics,Stealth,Knowledge (Theology and Philosophy),Knowledge (Theology and Philosophy),Knowledge (Theology and Philosophy),Knowledge (Theology and Philosophy),Knowledge (Theology and Philosophy),Knowledge (Theology and Philosophy),Knowledge (History),Knowledge (History),Knowledge (History)|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Current Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:06 Current Wealth Level ~ Wealthly|TYPE:WealthTemplate.CurrentWealthTemplate
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Recorder|TYPE:Disadvantage.DisadvantageCounter|DESC:The player keeps records, and ensures that the GM gets a copy. Acceptable forms are up to the GM, but common variants include character diaries, letters, campaign logs, and keeping a list of NPC's.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Follows a personal code of honor|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Born to the Blade|TYPE:Mage Blade.Talent|DESC:Gain a +2 bonus on initiative and +1 bonus on save DCs.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L0 ~ Force Shield|TYPE:InnateEnchantmentChoice.eclipseabilityoutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ DEX +2|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Dexterity
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L0 ~ Expertise_Weapon Mastery|APPLIEDTO:Greatsword|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:You gain a +3 BAB with a particular weapon.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L0 ~ Detect Magic|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:(+700) At-will personal use at L1 caster level.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ STR +2|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Strength
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Serpents Strike|TYPE:InnateEnchantmentChoice.eclipseabilityoutput|DESC:Gain one additional attack at your full BAB which may be taken off-action.
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Level Advancement Wealth Template|TYPE:NORMAL|CATEGORY:Special Ability|KEY:06 Gained Wealth Level ~ Wealthly|APPLIEDTO:,,,,|TYPE:WealthTemplate.GainedWealthTemplate
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+ABILITY:Martial Art Skill Power Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Power ~ Improve Die Size|APPLIEDTO:,|TYPE:MartialArtsOutput.MASpower|DESC:Increase your weapon die type by 1 step, up to a d12 maximum. Weapons that cause multiple dice of damage increase them independently.
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Whirlwind Attack|TYPE:MartialArtsOutput.MartialArtsSkill.MasterMartialTech.AdvAndMastMartialTech|DESC:As Whirlwind feat - When you use the full attack action, you can give up your regular attacks and instead make one melee attack at your full base attack bonus against each opponent within reach.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Reach|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:You add 5' to your Reach in combat. This usually represents lunging and darting in and out, but could be a mystical ability.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Synergy|APPLIEDTO:Arcana|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +2 on any related skill. Each time this is taken it applies to a different skill. Common synergies include Tumble, Heal, and Move Silently, but others are possible.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Power|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Increase your unarmed damage by +1 or increase your weapon die type by 1 step, up to a d12 maximum. Weapons that cause multiple dice of damage increase them independently.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Versatility|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech.AdvAndMastMartialTech|DESC:You may change your damage with the specified martial arts weapon or unarmed attacks from lethal to subdual without penalty, and between bludgeoning, slashing, and piercing.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Defenses|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Gain additional +1 each time taken &lbracket;currently +%1&rbracket; bonus to AC when you are unarmored or lightly armored.&pipe;MartialArtsDefense
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+ABILITY:Pureblood Human Racial Boost|TYPE:NORMAL|CATEGORY:Special Ability|KEY:CON +2|TYPE:PurebloodHumanStat.HumanStat
+USERPOOL:Pureblood Human Racial Boost|POOLPOINTS:0.0
+ABILITY:Starting Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:06 Starting Wealth Level ~ Wealthly|TYPE:WealthTemplate.StartingWealthTemplate
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:Wealth Template Stat Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stat Selection|APPLIEDTO:WIS|TYPE:WealthTemplateStat
+USERPOOL:Wealth Template Stat Selection|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Greatsword|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)]
+WEAPONPROF:[WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling]
+WEAPONPROF:[WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Shimmer Mail|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Traveler's Bedroll|OUTPUTORDER:6|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Captain's Torc (Charm)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Endless Rope|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Astrolabe|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Kyros's Athame (Bonded (Greater))|OUTPUTORDER:0|COST:25.0|WT:12.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Kyros's Athame|DATA:NAME=Kyros's Athame (Bonded (Greater))$EQMOD=STEEL.BONDED_G_M]
+EQUIPNAME:Mandarin's Pin|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Wellstone|OUTPUTORDER:7|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.10|VALUE:Traveler's Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.11|VALUE:Wellstone|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.12|VALUE:Kyros's Athame (Bonded (Greater))|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Astrolabe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Captain's Torc (Charm)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.6|VALUE:Shimmer Mail|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.8|VALUE:Endless Rope|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.9|VALUE:Mandarin's Pin|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Athena|DEITYDOMAINS:[DOMAIN:Abyss|DOMAIN:Air|DOMAIN:Animal|DOMAIN:Arborea|DOMAIN:Artifice|DOMAIN:Baator|DOMAIN:Balance|DOMAIN:Black|DOMAIN:Cavern|DOMAIN:Celerity|DOMAIN:Celestia|DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:City|DOMAIN:Cold|DOMAIN:Community|DOMAIN:Competition|DOMAIN:Courage|DOMAIN:Craft|DOMAIN:Creation|DOMAIN:Dark|DOMAIN:Darkness|DOMAIN:Death|DOMAIN:Deathbound|DOMAIN:Destiny|DOMAIN:Destruction|DOMAIN:Domination|DOMAIN:Dragon|DOMAIN:Dream|DOMAIN:Drow|DOMAIN:Dwarf|DOMAIN:Earth|DOMAIN:Elf|DOMAIN:Elysium|DOMAIN:Envy|DOMAIN:Evil|DOMAIN:Family|DOMAIN:Fate|DOMAIN:Fire|DOMAIN:Force|DOMAIN:Glory|DOMAIN:Gluttony|DOMAIN:Gnome|DOMAIN:Good|DOMAIN:Greed|DOMAIN:Hades|DOMAIN:Halfling|DOMAIN:Hatred|DOMAIN:Healing|DOMAIN:Hunger|DOMAIN:Illusion|DOMAIN:Inquisition|DOMAIN:Kercpa|DOMAIN:Knowledge|DOMAIN:Law|DOMAIN:Liberation|DOMAIN:Limbo|DOMAIN:Luck|DOMAIN:Lust|DOMAIN:Madness|DOMAIN:Magic|DOMAIN:Mechanus|DOMAIN:Meditation|DOMAIN:Mentalism|DOMAIN:Metal|DOMAIN:Mind|DOMAIN:Moon|DOMAIN:Mysticism|DOMAIN:Nobility|DOMAIN:Ocean|DOMAIN:Oracle|DOMAIN:Orc|DOMAIN:Pact|DOMAIN:Pestilence|DOMAIN:Planning|DOMAIN:Plant|DOMAIN:Portal|DOMAIN:Pride|DOMAIN:Protection|DOMAIN:Purification|DOMAIN:Renewal|DOMAIN:Repose|DOMAIN:Retribution|DOMAIN:Rune|DOMAIN:Scalykind|DOMAIN:Slime|DOMAIN:Sloth|DOMAIN:Spell|DOMAIN:Spider|DOMAIN:Storm|DOMAIN:Strength|DOMAIN:Suffering|DOMAIN:Summoning|DOMAIN:Sun|DOMAIN:Thievery|DOMAIN:Thirst|DOMAIN:Time|DOMAIN:Trade|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:Tyranny|DOMAIN:Undeath|DOMAIN:War|DOMAIN:Water|DOMAIN:Wealth|DOMAIN:Weather|DOMAIN:Windstorm|DOMAIN:Witchcraft|DOMAIN:Wrath]|ALIGNALLOW:|DESC:The goddess of wisdom, warfare, battle strategy, heroic endeavour, handicrafts and reason. According to most traditions, she was born from Zeus's head fully formed and armored. She was depicted crowned with a crested helm, armed with shield and a spear. Her symbol is the olive tree. She is commonly shown accompanied by her sacred animal, the owl.|HOLYITEM:|DEITYFAVWEAP:[]|DEITYALIGN:
+
+# Character Spells Information
+SPELLNAME:Ability Boost ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Acid Splash ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Acrobatics ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Aid Plants ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Aid ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Animal Messenger ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Animate Rope ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Animate Weapon ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Animated Tattoo ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Arrow Deflection ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Assess Creature ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Bane ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Bash ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Battle Healing ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Beastskin ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Bless Relationship ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Bless ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Blinding Light ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Blissful Sleep ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Blue Bolt ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Bonemask ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Calm the Beast ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Canny Effort ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Change Weapon ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Charm ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Clarity of Mind ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Cloak of Darkness ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Cloud the Mind ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Cluatta ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Compelling Command ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Compelling Question ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Comrade's Trail ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Conjure Weapon ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Contact ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Control Temperature ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Create Water ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Crystal Shard ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Darkvision ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Destructive Grip ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Detect Animals or Plants ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Detect Disease ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Detect Magic ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Detect Poison ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Detect Secret Doors ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Discern Preference ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Disrupt Reflexes ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Disrupt Undead ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Dry Rain ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Earthen Claw ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Enchanting Flavor ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Endure Elements ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Faen Fires ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Faen Glow ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Faen Motes ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Feral Song ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Gentle Repose ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Ghost Sound ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Glamour ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Glowglobe ~ MP (Greater)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Glowglobe ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Grave Ward ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Guilt ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Gusting Wind ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Helm of Warding ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Honeyed Words ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Hunter's Boon ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Hunter's Walk ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Hygiene ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Icebolt ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Ignore ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Illusory Object ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Inspire Courage ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Instill Music ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Jump ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Keep Dry ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Keep Fresh ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Know Talent ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Learn Heritage ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Levitate ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Light as a Feather ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Long Flame ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Magic Ward ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Magical Performance ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Mental Alarm ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Mind Stab ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Minor Illusion ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Minor Ward ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Miracle Mount ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Mist Bank ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Mojh Eye ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Monkey Climb ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Mudball ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Muddy Ground ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Nimbus of Health ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Oath of Speed ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Obscuring Mist ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Pattern of Sibyllic Fate ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Peace ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Pebble ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Phantom Trap ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Plunge Deep to the Core ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Power Craft ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Precise Vision ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Predict Weather ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Preserve Ice ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Proficiency ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Protective Charm ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Quick Boost ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Read Magic ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Redemptive Redress ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Remove Fear ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Remove Minor Malady ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Repair ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Resistance ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Rogue's Stab ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Safe Fall ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Saving Grace ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Scent Bane ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Scent Tracker ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Sealed Door ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Secret of Flame ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:See Invisibility ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Seeker ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Sense Thoughts ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Shatter ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Shelter From The Storm ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Shieldbreaker ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Spell's Edge ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Startling Touch ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Status ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Subtle Steps ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Sun Bond ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Tears of Pain ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Terrakal's Bounty ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Thief Ward ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Touch of Fear ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Touch of Weakness ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Transfer Wounds ~ MP (Lesser)|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Trust ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Undaunted Fixture ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Unhand ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Veil of Darkness ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Ventriloquism ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Vow ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Warrior's Competence ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Web Splat ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Web Strand ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Welter ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Wicked Barb ~ MP|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Wilderness Lore ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Woodbane ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLNAME:Zone of Truth ~ ST|TIMES:1|CLASS:Mage Blade|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Mage Blade]
+SPELLLIST:Mage Blade|CLASS.Mage Blade
+SPELLLIST:Magister|CLASS.Magister
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

@@ -1,0 +1,251 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna
+VERSION:6.01.00-dev
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Darius De Tanga
+TABNAME:01 - L4 - Darius (3.5)
+PLAYERNAME:Andrew
+HEIGHT:71
+WEIGHT:176
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Sky Blue
+HAIRCOLOR:Black
+HAIRSTYLE:Loose
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:14
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:12
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:14
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d08)|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=3|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=4|HITPOINTS:6|PRESTAT:INT=4|PRESTAT:STR=2|PRESTAT:DEX=-2|PRESTAT:WIS=2|PRESTAT:CHA=2|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:6000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels|CHOSENTEMPLATE:[NAME:First Level Eclipse]]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:Use Wealth Templates]
+TEMPLATESAPPLIED:[NAME:Order Birthright]
+
+# Character Region
+REGION:Order
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Listen|OUTPUTORDER:24|
+SKILL:Move Silently|OUTPUTORDER:26|
+SKILL:Mystic Artist Skill|OUTPUTORDER:27|
+SKILL:Ride|OUTPUTORDER:28|
+SKILL:Search|OUTPUTORDER:29|
+SKILL:Sense Motive|OUTPUTORDER:30|
+SKILL:Spot|OUTPUTORDER:31|
+SKILL:Survival|OUTPUTORDER:32|
+SKILL:Swim|OUTPUTORDER:33|
+SKILL:Use Rope|OUTPUTORDER:42|
+SKILL:Theurgical Verb (Control)|OUTPUTORDER:38|
+SKILL:Theurgical Verb (Creation)|OUTPUTORDER:39|
+SKILL:Theurgical Verb (Healing)|OUTPUTORDER:40|
+SKILL:Theurgical Verb (Understanding)|OUTPUTORDER:41|
+SKILL:Theurgical Noun (Body)|OUTPUTORDER:34|
+SKILL:Theurgical Noun (Magic)|OUTPUTORDER:35|
+SKILL:Theurgical Noun (Mind)|OUTPUTORDER:36|
+SKILL:Theurgical Noun (Time)|OUTPUTORDER:37|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:16|
+SKILL:Knowledge (Nature)|OUTPUTORDER:20|
+SKILL:Knowledge (Nobility and Royalty)|OUTPUTORDER:21|
+SKILL:Knowledge (Religion)|OUTPUTORDER:22|
+SKILL:Knowledge (The Planes)|OUTPUTORDER:23|
+SKILL:Knowledge (Architecture and Engineering)|OUTPUTORDER:17|
+SKILL:Knowledge (Geography)|OUTPUTORDER:18|
+SKILL:Knowledge (History)|OUTPUTORDER:19|
+SKILL:Martial Arts ~ Sword Style Tactical Warrior|OUTPUTORDER:25|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Atheria Birthright|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Birthright ~ Order|TYPE:AtheriaBirthright.HumanSkillBonus.HumanBonusFeat.BirthrightX
+USERPOOL:Atheria Birthright|POOLPOINTS:0.0
+ABILITY:Augmented Bonus Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus ~ Cha adds to Skill Points|APPLIEDTO:|TYPE:AugmentedBonus.EclipseAbilityOutput
+ABILITY:Augmented Bonus Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus ~ INT adds to Theurgy Skills|TYPE:AugmentedBonus.EclipseAbilityOutput
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Diplomacy,Knowledge (Arcana),Knowledge (Architecture and Engineering),Knowledge (Geography),Knowledge (History),Knowledge (Nobility and Royalty),Knowledge (Religion),Knowledge (The Planes),Knowledge (Nature),Sense Motive,Theurgical Noun (Body),Theurgical Noun (Magic),Theurgical Noun (Mind),Theurgical Noun (Time),Theurgical Verb (Control),Theurgical Verb (Destruction),Theurgical Verb (Creation),Theurgical Verb (Healing),Theurgical Verb (Transformation),Theurgical Verb (Understanding),Theurgical Noun (Air),Theurgical Noun (Spirit),Theurgical Noun (Plant),Theurgical Noun (Illusion),Theurgical Noun (Earth),Martial Arts|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:11.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Privilege|APPLIEDTO:Noble of the Empire|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP). Privilege grants the character special legal and social advantages. The character must define exactly what the privilege is (and preferably how he or she obtained it). The ability to sell restricted goods legally, carry weapons openly about a city, or come and go from the palace make good minor privileges. Characters may also simply come from wealthy families, in which case they're entitled to a few servants and some extra starting cash at lower levels.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Theurgist|APPLIEDTO:,,|TYPE:CasterLevel.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:To the Empire|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mindspeech|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You gain the ability to send and receive thoughts with willing (or at least not unwilling) targets within a 60' radius
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mystic Link ~ Communications|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) allows the user to communicate with the target. This normally only works with living targets, although computers and sentient magic items are eligible.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana|APPLIEDTO:,|TYPE:General.Abilities.Corruptable|DESC:Every level of this ability taken grants an extra 1d6 points of personal Mana, 2d4 generic spell levels, or 3d6 Power. Characters without other psychic abilities do not become vulnerable to psychic attack modes if the game's current rules make psychics more vulnerable to each other. Mana can help with spellcasting, while Power often fuels meditative or martial arts abilities aside from psychic powers. Unfortunately, while Mana is extremely flexible, it recovers at a mere one point per day, two with rest and meditation. Power and generic spell levels recover each day, as usual. As a general rule, 1 point of Mana equates to 2 spell levels or 4 Psionic Power - or one charge from a magic item. Mana is commonly used to power exotic abilities. Abilities which would normally be uses-per day may be designated as using personal Mana instead at 1 use for 2 Mana. If Mana is required as an extra limitation, such powers usually count as Corrupted. Any character with Mana may select one of the forms of Natural Magic described below at no cost. Adding additional forms costs +6 CP each.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Enthusiast ~ Double|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) upgrades Enthusiast so that it grants 2 floating CP instead of 1.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Theurgical Verb (Control),Theurgical Verb (Creation),Theurgical Verb (Healing),Theurgical Verb (Understanding)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Additional|APPLIEDTO:,|TYPE:General.Abilities.Corruptable|DESC:For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %1&rbracket;&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Privilege ~ Major|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) increases the entitlement to a higher level. Being a guildmaster, high-ranking officer in the army, or powerful bureaucrat are all good examples.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Luck|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:A lucky character may either "Take 20" in advance, without taking extra time and whether or not this would usually be allowed, or reroll after the primary roll once per day. Most characters also get Bonus Uses.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Contacts|APPLIEDTO:Inperial Scholar,Merchant|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(1 CP each). Contacts are simply (reasonably) reliable individuals in particular businesses, or with a particular set of skills, which the character knows. For example, a character might know a reliable fence, a poison merchant, a skillful alchemist, and an expert appraiser. Another might know a wise old priest, a good scribe, and a translator of rare languages and inscriptions. A contact can be discarded and replaced (or regained later) in 1d4 weeks.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus Two|TYPE:Character Creation.CharCreation.General.FastLearner|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Enthusiast|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP). Enthusiast grants 1 floating CP. Given 72 hours to retrain and redirect it you may put it into anything you please save for Specific Knowledges (page 10), boosting that ability until you turn your enthusiasm in another direction.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:adds innate power that may duplicate the effects of a magical item or items valued at up to 5000 GP &lbracket;Currently at %1 GP&rbracket; (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP. &lbracket;Additional Total Granted %2&rbracket;&pipe;InnateEnchantmentPoolCount&pipe;InnateEnchantmentAdditional
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Reflex Training|APPLIEDTO:???|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). With Reflex Training, a character gains a free, immediate, Standard Action under some particular circumstance. You cannot string together more reflexive actions than your relevant attribute bonus (usually Str Mod or Dex Mod). Alternatively, the character may instead simply take an extra Standard Action at any time 3 times per day. You may not use this version more than once per round.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 6|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mystic Link ~ Power Link|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) allows user to use spells or other powers on the target, or have the target use spells or other powers on him or her regardless of range. Inanimate power sources can simply be tapped as if they were in hand.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus|APPLIEDTO:Uses Int Mod as a Base for Theurgy Skills,Add Cha Mod to Skills|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You may add a second attribute bonus to the usual one in some specific situation, such as with a skill or set of linked skills, with a specified type of weapon, or against a type of foe.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership ~ Eclipse|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You have relatively obedient followers who are willing to follow your orders. By default they're of your general type, but with +3 CP and the Game Master's permission you may command an exotic race, undead, elementals, demons or other outsiders appropriate to your nature, or even (for another +3 CP) animated objects or other constructs. In any case, you gain followers with a total ECL of (2 x &lbracket;your level + your Cha Mod&rbracket;). While none of them can have an ECL greater than (your character level - 3) or less than 1, you may otherwise allocate levels, and describe their personality traits and areas of expertise, as desired. Their equipment is up to the GM, but is usually typical for NPCs. Their levels may be increased, or additional followers may be added, as you go up in level; the Game Master should make adjustments. While followers are not slavishly loyal unless the character truly deserves such loyalty, they are reliable within reason. Lost followers can be replaced as long as the character is making a reasonable effort to do so and isn't abusing his or her followers; this will usually require 2d6 months.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple and Martial Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple and martial weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Specialized Melee|APPLIEDTO:,|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mystic Link|APPLIEDTO:Yolande (Wife)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP) A character with Mystic Link has an occult bond with someone or something. He or she may sense the target or the direction it lies in. &amp;nl; You may take this ability multiple times. Each time, you a create a separate mystic link. Upgrades apply to all your Mystic Link powers.
+USERPOOL:Character Points|POOLPOINTS:8.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy ~ Feat Pull|APPLIEDTO:Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Healing),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding)|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Body),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Magic),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Mind),Theurgical Noun (Time),Theurgical Noun (Time),Theurgical Noun (Time),Theurgical Noun (Time),Theurgical Noun (Time),Theurgical Noun (Time),Theurgical Noun (Time),Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Knowledge (Nature),Knowledge (Nature),Knowledge (Nature),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (The Planes),Knowledge (The Planes),Knowledge (The Planes),Knowledge (The Planes),Knowledge (Nobility and Royalty),Knowledge (Nobility and Royalty),Knowledge (Nobility and Royalty),Knowledge (Nobility and Royalty),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (History),Knowledge (History),Knowledge (History),Knowledge (Geography),Knowledge (Geography),Knowledge (Geography),Knowledge (Geography),Knowledge (Architecture and Engineering),Knowledge (Architecture and Engineering),Knowledge (Architecture and Engineering),Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Martial Arts ~ Sword Style Tactical Warrior,Gather Information,Gather Information,Gather Information,Gather Information,Gather Information|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Current Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Current Wealth Level ~ Affluent|TYPE:WealthTemplate.CurrentWealthTemplate
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Prove he is a worthy successor of his family name|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:Fast Learner|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus Two|TYPE:Character Creation.CharCreation.General.FastLearner|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+USERPOOL:Fast Learner|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Personal Haste|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:You move and attack more quickly than usual, gaining one extra attack at your full BAB when taking the full attack option and a +30 foot Enhancement bonus to all of your movement rates, although this may not more than double any one of them.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Force Shield I|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Grants +4 Shield Bonus to AC at will.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ Martial Mastery|APPLIEDTO:Greatsword|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:+4 Competence Bonus to BAB with Unarmed Strikes (or with another specific weapon).
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ L1 ~ CHA +2|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:&lbracket;At Will&rbracket; Grants +2 Enhancement Bonus to Charisma
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Level Advancement Wealth Template|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Gained Wealth Level ~ Affluent|APPLIEDTO:,,,,,|TYPE:WealthTemplate.GainedWealthTemplate
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+ABILITY:Mana Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana ~ Spell|APPLIEDTO:,|TYPE:ManaChoice.EclipseAbilityOutput|DESC:Grants %1d%2 Spell Levels&pipe;SpellLevelDice&pipe;SpellLevelSize
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+ABILITY:Starting Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Starting Wealth Level ~ Affluent|APPLIEDTO:Diplomacy,Speak Language|TYPE:WealthTemplate.StartingWealthTemplate
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Boulder|WEAPON:Chisa-Katana|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart]
+WEAPONPROF:[WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword]
+WEAPONPROF:[WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Katana|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear]
+WEAPONPROF:[WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Martial Weapon|WEAPON:Morningstar|WEAPON:Nodachi|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur]
+WEAPONPROF:[WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling]
+WEAPONPROF:[WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Wakizashi|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+WEAPONPROF:[WEAPON:Yari]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Scholar's Eyes (Greater)|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Sunstone (Talisman)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Ruby Tongue of the Sorcerer|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Hidden Pocket (Talisman)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Shimmer Mail|OUTPUTORDER:6|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Helm of War|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Captain's Torc (Talisman)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Mage Tether|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Baelrigor (Greatsword)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.1|VALUE:Captain's Torc (Talisman)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.2|VALUE:Helm of War|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Hidden Pocket (Talisman)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Mage Tether|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.5|VALUE:Shimmer Mail|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.6|VALUE:Sunstone (Talisman)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.7|VALUE:Scholar's Eyes (Greater)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.8|VALUE:Baelrigor (Greatsword)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.9|VALUE:Ruby Tongue of the Sorcerer|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Darius De Tanga&nl;&nl;Available CP&colon; 120 (L4 Base) +8 duties (Duties), +10 (Disads), +24 (feats) = 162&nl;&nl;Str 14, Dex 10, Con 12, Int 16 (20), Wis 12, Cha 14 (16)&nl;&nl;16 &pipe; 4d8 Hit Dice&nl;06 &pipe; +1 Warcraft&nl;06 &pipe; +1 Warcraft/Specialized in Melee for double effect (+3 Total).&nl;09 &pipe; Proficient with All Simple and Martial Weapons&nl;06 &pipe; Proficient with Light, plus Shields&nl;03 &pipe; Wealth Level 'Affluent', Specialized; this is contingent upon maintaining support from the Imperium and his family and is only fully available within the Imperium; replacements and hard cash may not be easy to get in the north.&nl;18 &pipe; +6 for Saves&nl;08 &pipe; 2d6 Mana as 4D4 (12) Generic Spell Levels, Corrupted/only usable to power Thaumaturgy.&nl;09 &pipe; +3 Caster Levels, Specialized in Thuergy&nl;06 &pipe; Augmented Bonus&colon; Uses (Int Mod) as a base for Theurgy Skills.&nl;02 &pipe; Leadership&colon; Specialized and Corrupted/Characters other than generic guards/farmers/etc must be sought out and recruited - and are designed (and played) by the GM, rather than by the player.  Recruiting a Mystic Architect is highly advisable.&nl;06 &pipe; Adept (4 skills - Theurgy Based)&nl;06 &pipe; Fast Learner / Specialized for Skills since Level -2&nl;06 &pipe; Major Privilege&nl;06 &pipe; Reflex Training (Version?)&nl;08 &pipe; Innate Enchantment (+2 Charisma (1,400); Shield +4 AC (2,000); Martial Mastery +4 - Sword (1,400); that's 4,800 of 7,000 - Personal Haste (1,400) for 6,200 and Resistance 700)&nl;03 &pipe; Enthusiast / Specialized for Relics (2 CP worth).&nl;06 &pipe; Luck&nl;06 &pipe; Mindspeech&nl;02 &pipe; Contacts (2 CP)&colon; An Imperial Scholar type for information and a merchant who is willing to market goods for you without charging too horrific a commission.&nl;03 &pipe; Favors (3 CP)&colon; Through your family or from political backers.&nl;03 &pipe; +2 Bonus Uses for Luck (3 CP).&nl;09 &pipe; Mystic Link (Marriage Vows, 3 CP). + Identity&nl;06 &pipe; Augmented Bonus&colon; Add Charisma Bonus to skill points&nl;&nl;&nl;quote&colon;&nl;For relics... I'd suggest a Baelrigor (A sword granting +9 points worth of a sword-based martial art, corrupted for increased effect/only while using the blade (provides an effective +14 or seven extra martial abilities in total) and the Ruby Tongue of the Sorcerer (a ruby amulet granting Improved Power Words, Corrupted/only for storing spells the user personally supplies.&nl;&nl;&nl;&nl;This leaves at least 17 CP free - some of which are presumably wanted for skills (since Theurgy depends on them rather heavily).&nl;&nl;Charms (these generally equate to the Talismanic versions)&colon; Captain's Torc, Hidden Pocket, Mage Tether (+4 bonus), Lifestone (adds DR 1/-), and Sunstone.&nl;&nl;Talismans&colon; Greater Scholars Eye (+4 Int, this does affect SP as long as the usage is throughout a level), Helm of War (regains 1 charge/day), and Shimmer Mail (+6 Bonus).
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

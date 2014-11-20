@@ -1,0 +1,179 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Player's Handbook (5e)
+VERSION:6.05.00-dev
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:5e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Kila Evenwood
+TABNAME:5e - L1 - Kila (Rachael)
+PLAYERNAME:Rachael Maitland
+HEIGHT:62
+WEIGHT:107
+AGE:150
+GENDER:Female
+HANDED:Right
+SKINCOLOR:Fair
+EYECOLOR:Amber
+HAIRCOLOR:Dark Brown
+HAIRSTYLE:Short
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:L&colon;\1. Files and Folders\Pictures\FANTASY PICTURES\Female Portraits\Female Portraits\F0089L.bmp
+PORTRAITTHUMBNAILRECT:1,1,100,100
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:13
+STAT:CON|SCORE:8
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:13
+STAT:CHA|SCORE:13
+ALIGN:NG
+RACE:Elf
+
+# Character Class(es)
+CLASS:Cleric|LEVEL:1|SKILLPOOL:0
+CLASSABILITIESLEVEL:Cleric=1|HITPOINTS:8|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:0
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Subrace ~ Wood]
+TEMPLATESAPPLIED:[NAME:First Level|CHOSENTEMPLATE:[NAME:Cleric]]
+TEMPLATESAPPLIED:[NAME:Cleric]
+
+# Character Region
+REGION:None
+
+# Character Skills
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Elvish
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Acolyte Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acolyte Bond ~ 6|TYPE:SpecialQuality.Acolyte Bond.Bond|DESC:I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
+USERPOOL:Acolyte Bond|POOLPOINTS:0.0
+ABILITY:Acolyte Flaw|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acolyte Flaw ~ 5|TYPE:SpecialQuality.Acolyte Flaw.Flaw|DESC:I am suspicious of strangers and expect the worst of them.
+USERPOOL:Acolyte Flaw|POOLPOINTS:0.0
+ABILITY:Acolyte Ideal|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acolyte Ideal ~ 5|TYPE:SpecialQuality.Acolyte Ideal.Ideal|DESC:Faith. I trust that my deity will guide my actions, I have faith that if I work hard, things will go well. (Lawful)
+USERPOOL:Acolyte Ideal|POOLPOINTS:0.0
+ABILITY:Acolyte Personality Trait|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acolyte Personality Trait ~ 5|TYPE:SpecialQuality.Acolyte Personality Trait.Personality Trait|DESC:I quote (or misquote) sacred texts and proverbs in almost every situation.
+USERPOOL:Acolyte Personality Trait|POOLPOINTS:0.0
+ABILITY:Background|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Acolyte|TYPE:Background.SpecialQuality|DESC:Equipment&colon; A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+USERPOOL:Background|POOLPOINTS:0.0
+ABILITY:Cleric Cantrip|TYPE:NORMAL|CATEGORY:Internal|KEY:Cleric Cantrip ~ Guidance|TYPE:ClericCantrip
+ABILITY:Cleric Cantrip|TYPE:NORMAL|CATEGORY:Internal|KEY:Cleric Cantrip ~ Light|TYPE:ClericCantrip
+ABILITY:Cleric Cantrip|TYPE:NORMAL|CATEGORY:Internal|KEY:Cleric Cantrip ~ Thaumaturgy|TYPE:ClericCantrip
+USERPOOL:Cleric Cantrip|POOLPOINTS:0.0
+ABILITY:Cleric Skill|TYPE:NORMAL|CATEGORY:Skill|KEY:Medicine|TYPE:Skill Proficiency
+ABILITY:Cleric Skill|TYPE:NORMAL|CATEGORY:Skill|KEY:Persuasion|TYPE:Skill Proficiency
+USERPOOL:Cleric Skill|POOLPOINTS:0.0
+ABILITY:Divine Domain|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Divine Domain ~ Knowledge Domain|TYPE:Cleric Class Feature.Divine Domain|DESC:The gods of knowledge-including Oghma, Boccob, Gilean, Aureon, and Thoth-value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
+USERPOOL:Divine Domain|POOLPOINTS:0.0
+ABILITY:Elf Subrace|TYPE:NORMAL|CATEGORY:Internal|KEY:Elf Subrace ~ Wood|TYPE:ElfSubrace
+USERPOOL:Elf Subrace|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dart|WEAPON:Greatclub|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Light Hammer|WEAPON:Longbow|WEAPON:Longsword]
+WEAPONPROF:[WEAPON:Mace|WEAPON:Quarterstaff|WEAPON:Shortbow|WEAPON:Shortsword|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Amulet|OUTPUTORDER:3|COST:5|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Backpack|OUTPUTORDER:4|COST:2|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Dungeoneer's Pack|OUTPUTORDER:5|COST:12|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Mace|OUTPUTORDER:1|COST:5|WT:4.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Shield|OUTPUTORDER:6|COST:10|WT:6.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Shortbow|OUTPUTORDER:7|COST:25|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Studded leather|OUTPUTORDER:2|COST:45|WT:13.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Waterskin|OUTPUTORDER:8|COST:0.2|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.01|VALUE:Amulet|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.02|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.03|VALUE:Dungeoneer's Pack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.04|VALUE:Mace|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.05|VALUE:Shield|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.06|VALUE:Shortbow|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.07|VALUE:Waterskin|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.08|VALUE:Studded leather|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Athena|DEITYDOMAINS:[]|ALIGNALLOW:|DESC:Knowledge, War Owl|HOLYITEM:|DEITYFAVWEAP:[]|DEITYALIGN:LG
+
+# Character Spells Information
+SPELLNAME:Bane|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bless|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Command|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Create or Destroy Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Evil and Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Poison and Disease|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Guiding Bolt|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Healing Word|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Evil and Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Purify Food and Drink|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sanctuary|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield of Faith|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

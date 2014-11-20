@@ -1,0 +1,161 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.0 SRD|CAMPAIGN:Heroes of High Favor - Dwarves
+VERSION:5.11.5
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:3e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:New1
+TABNAME:
+PLAYERNAME:
+HEIGHT:50
+WEIGHT:170
+AGE:45
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:14
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Dwarf
+
+# Character Class(es)
+CLASS:Barbarian|SUBCLASS:None|LEVEL:1|SKILLPOOL:0
+CLASS:Fighter|SUBCLASS:None|LEVEL:6|SKILLPOOL:16
+CLASS:Ranger|SUBCLASS:None|LEVEL:1|SKILLPOOL:6|SPELLBASE:WIS|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Barbarian=1|HITPOINTS:12|SKILLSGAINED:24
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:8|SKILLSGAINED:4
+CLASSABILITIESLEVEL:Fighter=2|HITPOINTS:8|SKILLSGAINED:4
+CLASSABILITIESLEVEL:Fighter=3|HITPOINTS:8|PRESTAT:STR=1|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Fighter=4|HITPOINTS:8|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Fighter=5|HITPOINTS:8|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Fighter=6|HITPOINTS:8|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Ranger=1|HITPOINTS:8|PRESTAT:STR=1|SKILLSGAINED:6|SKILLSREMAINING:6
+
+# Character Experience
+EXPERIENCE:28000
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Knowledge (Dwarves)|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Fighter|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:17|
+SKILL:Move Silently|OUTPUTORDER:18|
+SKILL:Perform|OUTPUTORDER:19|
+SKILL:Ride|OUTPUTORDER:20|
+SKILL:Search|OUTPUTORDER:21|
+SKILL:Sense Motive|OUTPUTORDER:22|
+SKILL:Spot|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Barbarian|RANKS:8.0|COST:2|CLASSSKILL:N]
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Use Rope|OUTPUTORDER:25|
+SKILL:Wilderness Lore|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Barbarian|RANKS:8.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Dwarven|LANGUAGE:Literacy
+
+# Character Feats
+FEAT:Blind-Fight|TYPE:GENERAL.FIGHTER|DESC:In melee, every time a character misses because of concealment, the character can reroll the miss chance percentile roll one time to see if the character actually hit.
+FEAT:Combat Reflexes|TYPE:GENERAL.FIGHTER|DESC:When foes leave themselves open, the character may make a number of additional attacks of opportunity equal to the character's Dexterity modifier.
+FEAT:Weapon Focus|APPLIEDTO:Warhammer|TYPE:GENERAL.FIGHTER|DESC:The character adds +1 to all attack rolls the character makes using the selected weapon.
+FEAT:Weapon Specialization|APPLIEDTO:Warhammer|TYPE:SPECIAL.FIGHTER|DESC:The character adds +2 to all damage inflicted with the weapon the character has specialized with.
+FEAT:Favored Enemy I|APPLIEDTO:Dragon|TYPE:RANGERFAVORED
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Blind-Fight|TYPE:GENERAL.FIGHTER|DESC:In melee, every time a character misses because of concealment, the character can reroll the miss chance percentile roll one time to see if the character actually hit.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Reflexes|TYPE:GENERAL.FIGHTER|DESC:When foes leave themselves open, the character may make a number of additional attacks of opportunity equal to the character's Dexterity modifier.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Warhammer|TYPE:GENERAL.FIGHTER|DESC:The character adds +1 to all attack rolls the character makes using the selected weapon.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Specialization|APPLIEDTO:Warhammer|TYPE:SPECIAL.FIGHTER|DESC:The character adds +2 to all damage inflicted with the weapon the character has specialized with.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Favored Enemy I|APPLIEDTO:Dragon|TYPE:RANGERFAVORED
+USERPOOL:FEAT|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Armor Spikes|WEAPON:Axe|WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Blowgun|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)]
+WEAPONPROF:[WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Light)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword]
+WEAPONPROF:[WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Katana|WEAPON:Kusari-gama|WEAPON:Lance|WEAPON:Longbow]
+WEAPONPROF:[WEAPON:Longbow (Composite)|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace|WEAPON:Mace (Heavy)|WEAPON:Mind Blade|WEAPON:Morningstar|WEAPON:Pick|WEAPON:Quarterstaff|WEAPON:Ranseur]
+WEAPONPROF:[WEAPON:Rapier|WEAPON:Ray|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash|WEAPON:Shortbow|WEAPON:Shortbow (Composite)|WEAPON:Shortspear|WEAPON:Sickle]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Wakizashi|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Full Plate (Custom Fitx3/Durabilityx5/Enhanced Alloyx2/Hardenedx2/Mobility/Reduced Weight/Superb Balancex2)|OUTPUTORDER:1|COST:13800.0|WT:25.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Full Plate|DATA:NAME=Full Plate (Custom Fitx3/Durabilityx5/Enhanced Alloyx2/Hardenedx2/Mobility/Reduced Weight/Superb Balancex2)$EQMOD=CUSTM3.DURAM5.ENH2.HARDM2.MOBILITY_ARMR_HVY.Reduced Weight.STEEL.SBALM2]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

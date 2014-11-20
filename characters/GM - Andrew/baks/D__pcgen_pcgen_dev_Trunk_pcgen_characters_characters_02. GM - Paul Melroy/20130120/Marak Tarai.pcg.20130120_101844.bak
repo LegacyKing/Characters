@@ -1,0 +1,215 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna
+VERSION:6.01.00-dev
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Marak Tarai
+TABNAME:01 - L4 - Marak Tarai (Tarakhash)
+PLAYERNAME:Jono
+HEIGHT:68
+WEIGHT:140
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Dark Black
+HAIRCOLOR:Dark Brown
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:Z&colon;\Portraits and Pictures in use\Characters\rpol\mfs156.jpg
+PORTRAITTHUMBNAILRECT:0,0,100,100
+
+# Character Attributes
+STAT:STR|SCORE:11
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:10
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:18
+ALIGN:LN
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d06)|LEVEL:4|SKILLPOOL:7|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Sorcerer (Theurgy)|LEVEL:0|SKILLPOOL:0|SPELLBASE:CHA|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:6|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:5|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:5|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=4|HITPOINTS:5|PRESTAT:DEX=8|PRESTAT:CON=4|PRESTAT:INT=1|PRESTAT:CHA=2|PRESTAT:DEX=-4|PRESTAT:CHA=6|PRESTAT:INT=1|PRESTAT:STR=1|PRESTAT:CON=-4|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:6000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels|CHOSENTEMPLATE:[NAME:First Level Eclipse]]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:Elemental Birthright]
+TEMPLATESAPPLIED:[NAME:Use Wealth Templates]
+
+# Character Region
+REGION:Elemental
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Listen|OUTPUTORDER:17|
+SKILL:Move Silently|OUTPUTORDER:18|
+SKILL:Mystic Artist Skill|OUTPUTORDER:19|
+SKILL:Ride|OUTPUTORDER:20|
+SKILL:Search|OUTPUTORDER:21|
+SKILL:Sense Motive|OUTPUTORDER:22|
+SKILL:Spot|OUTPUTORDER:24|
+SKILL:Survival|OUTPUTORDER:25|
+SKILL:Swim|OUTPUTORDER:26|
+SKILL:Use Rope|OUTPUTORDER:35|
+SKILL:Theurgical Verb (Creation)|OUTPUTORDER:32|
+SKILL:Theurgical Verb (Transformation)|OUTPUTORDER:33|
+SKILL:Theurgical Verb (Understanding)|OUTPUTORDER:34|
+SKILL:Theurgical Noun (Air)|OUTPUTORDER:27|
+SKILL:Theurgical Noun (Earth)|OUTPUTORDER:28|
+SKILL:Theurgical Noun (Spirit)|OUTPUTORDER:29|
+SKILL:Theurgical Noun (Water)|OUTPUTORDER:30|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:16|
+SKILL:Spellcraft|OUTPUTORDER:23|
+SKILL:Theurgical Verb (Control)|OUTPUTORDER:31|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:+1 Elemental Birthright Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+1 to Spirit|TYPE:ElementalSkillChoicePlusOne
+ABILITY:+1 Elemental Birthright Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+1 to Fire|TYPE:ElementalSkillChoicePlusOne
+ABILITY:+1 Elemental Birthright Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+1 to Water|TYPE:ElementalSkillChoicePlusOne
+USERPOOL:+1 Elemental Birthright Skill Choice|POOLPOINTS:0.0
+ABILITY:+3 Elemental Birthright Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+3 to Air|TYPE:ElementalSkillChoicePlusThree
+ABILITY:+3 Elemental Birthright Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+3 to Earth|TYPE:ElementalSkillChoicePlusThree
+USERPOOL:+3 Elemental Birthright Skill Choice|POOLPOINTS:0.0
+ABILITY:Atheria Birthright|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Birthright ~ Elemental|TYPE:AtheriaBirthright.HumanSkillBonus.HumanBonusFeat.BirthrightX
+USERPOOL:Atheria Birthright|POOLPOINTS:0.0
+ABILITY:Augmented Bonus Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus ~ CHA adds to Theurgy Skills|TYPE:AugmentedBonus.EclipseAbilityOutput
+USERPOOL:Augmented Bonus Choice|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Diplomacy,Knowledge (Arcana),Theurgical Verb (Understanding),Theurgical Verb (Transformation),Theurgical Verb (Destruction),Theurgical Verb (Creation),Theurgical Noun (Air),Theurgical Noun (Earth),Theurgical Noun (Spirit),Theurgical Noun (Water),Sense Motive,Spot,Spellcraft,Speak Language,Survival|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wealth Template Purchase ~ Affluent|TYPE:EclipseAbilityOutput.Abilities.General.Ability
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership ~ Exotic Races|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP). You may command an exotic race, undead, elementals, demons or other outsiders appropriate to your nature
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ No Iterative Progression|APPLIEDTO:,,,|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:TBD|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 4|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus|APPLIEDTO:CHA to Theurgy Skills|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You may add a second attribute bonus to the usual one in some specific situation, such as with a skill or set of linked skills, with a specified type of weapon, or against a type of foe.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership ~ Born Leader|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) increases the total number of levels of followers available to &lbracket;3x (your level + Cha Mod)&rbracket;
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Theurgical Verb (Control),Theurgical Verb (Transformation),Theurgical Verb (Understanding),Theurgical Verb (Creation)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership ~ Eclipse|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You have relatively obedient followers who are willing to follow your orders. By default they're of your general type, but with +3 CP and the Game Master's permission you may command an exotic race, undead, elementals, demons or other outsiders appropriate to your nature, or even (for another +3 CP) animated objects or other constructs. In any case, you gain followers with a total ECL of (2 x &lbracket;your level + your Cha Mod&rbracket;). While none of them can have an ECL greater than (your character level - 3) or less than 1, you may otherwise allocate levels, and describe their personality traits and areas of expertise, as desired. Their equipment is up to the GM, but is usually typical for NPCs. Their levels may be increased, or additional followers may be added, as you go up in level; the Game Master should make adjustments. While followers are not slavishly loyal unless the character truly deserves such loyalty, they are reliable within reason. Lost followers can be replaced as long as the character is making a reasonable effort to do so and isn't abusing his or her followers; this will usually require 2d6 months.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Sorcerer Theurgy Magic Level|APPLIEDTO:,,,|TYPE:MagicLevels.BaseMagicLvlCount
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 10|APPLIEDTO:,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Leadership ~ Humans|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You have relatively obedient human followers who are willing to follow your orders. In any case, you gain followers with a total ECL of (2 x &lbracket;your level + your Cha Mod&rbracket;) &lbracket;Currently %1&rbracket;. While none of them can have an ECL greater than (your character level - 3) or less than 1, you may otherwise allocate levels, and describe their personality traits and areas of expertise, as desired. Their equipment is up to the GM, but is usually typical for NPCs. Their levels may be increased, or additional followers may be added, as you go up in level; the Game Master should make adjustments. While followers are not slavishly loyal unless the character truly deserves such loyalty, they are reliable within reason. Lost followers can be replaced as long as the character is making a reasonable effort to do so and isn't abusing his or her followers; this will usually require 2d6 months.&pipe;2*(TL+CHA)
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Theurgy Sorcerer Magic Level|TYPE:MagicLevels.BaseLevel|SAVE:BONUS&pipe;PCLEVEL&pipe;SORCERER (THEURGY)&pipe;1
+USERPOOL:Character Points|POOLPOINTS:2.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy ~ Feat Pull|APPLIEDTO:Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Creation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Transformation),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Verb (Understanding),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Air),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Earth),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Spirit),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Noun (Water),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control),Theurgical Verb (Control)|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Diplomacy,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Knowledge (Arcana),Knowledge (Arcana)|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Current Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Current Wealth Level ~ Affluent|TYPE:WealthTemplate.CurrentWealthTemplate
+USERPOOL:Current Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hallucinations Flashbacks and Visions|APPLIEDTO:TBD|TYPE:Disadvantage.DisadvantageCounter|DESC:Your version of reality doesn't always agree with that of those about you. While this is common enough with respect to details, in your case it may extend to things like whether it's daytime. More commonly, and most dangerously, you may simply see a distorted version of what everyone else sees. This is up to the GM, but the occasional Will save (DC 18) is suggested, or you may react in a radically different manner than those about you.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Poor Reputation|APPLIEDTO:TBD|TYPE:Disadvantage.DisadvantageCounter|DESC:You're widely and unfavorably known. This results in a -6 penalty on "friendly" social skill and Charisma rolls throughout a major portion of the setting. This may be combined with "Outcast" in which case there's not much use in trying to talk to anybody. Even your companions will suffer penalties if it becomes known that they associate with you.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:Elemental Birthright Adept Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Theurgical Noun (Air),Theurgical Noun (Earth),Theurgical Noun (Spirit),Theurgical Noun (Water)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+USERPOOL:Elemental Birthright Adept Choice|POOLPOINTS:2.0
+ABILITY:Fast Learner|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus Two|TYPE:Character Creation.CharCreation.General.FastLearner|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+USERPOOL:Fast Learner|POOLPOINTS:0.0
+ABILITY:Level Advancement Wealth Template|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Gained Wealth Level ~ Affluent|APPLIEDTO:,,,,,|TYPE:WealthTemplate.GainedWealthTemplate
+USERPOOL:Level Advancement Wealth Template|POOLPOINTS:0.0
+ABILITY:Starting Wealth Level Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:05 Starting Wealth Level ~ Affluent|APPLIEDTO:Diplomacy,Perform (Sing)|TYPE:WealthTemplate.StartingWealthTemplate
+USERPOOL:Starting Wealth Level Choice|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Grapple]
+WEAPONPROF:[WEAPON:Javelin|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spells (Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Shimmer Mail|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.1|VALUE:Shimmer Mail|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Str&colon; 11 Dex&colon; 14 Con&colon; 10 Int&colon; 12 Wis&colon; 10 Cha&colon; 18&nl;&nl;16 &pipe; BAB&colon;4 with Corrupted/no iterative attacks 16 CP&nl;08 &pipe; HD&colon; 4*D6 8CP&nl;18 &pipe; Saving Throws&colon; +4 Will, +1 Fort, Ref 18 CP&nl;03 &pipe; Prof&colon;  All simple weapons, no armour 3 CP&nl;32 &pipe; Caster level&colon; 4*8 Sorcerer Theurgy aspected 32  CP&nl;06 &pipe; Adept(Creation, Destruction, Transformation, Understanding) 6 CP&nl;06 &pipe; Affluent  6 CP&nl;06 &pipe; Leadership (Humans) - 6  CP&nl;15 &pipe; Leadership(Vorinax) - 6 +3 Vorinax + 6 Born Leader (3*(Cha + Level))  (15 CP)&nl;06 &pipe; Augmented Bonus&colon; Cha for Theurgy 6CP&nl;16 &pipe; 4 Ranks in Air, Earth, Spirit, Water, Creation, Destruction, Transformation, Understanding 16 CP&nl;14 &pipe; 7 Ranks in Diplomacy and Sense motive 14 CP&nl;04 &pipe; 4 Ranks in Knowledge (Arcana) Specialised Theurgy (4 CP)&nl;** &pipe; Int SP - 4 Ranks in Spellcraft specialised Theurgy. &nl;&nl;Marak Tarai, 5ft8, 140 lbs, dark black hair, dark brown eyes, AL&colon; LN? Not sure on alignment really&nl;&nl;16+8+18+3+32+6+6+6+15+6+16+14+4=150 of 150&nl;
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

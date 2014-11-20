@@ -1,0 +1,449 @@
+Name:       Malcolm Devereaux
+Race:       Human
+Player:     Mike Mason 
+Classes:    Eclipse Point Buy d46 Wizard0
+Hit Points: 36
+Experience: 21000 / 28000
+Alignment:  Neutral Good
+Vision:     Darkvision (60 ft.), Low-light
+Speed:      Walk 45 ft.
+Languages:  Abyssal, Common, Draconic, Dwarven, Elven, Giant, Terran
+Stat    Score   Mod
+STR      14      (+2)
+DEX      17      (+3)
+CON      16      (+3)
+INT      17      (+3)
+WIS      14      (+2)
+CHA      14      (+2)
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Acrobatics               3        0.0      3        0
+Appraise                 3        0.0      3        0
+Athletics                2        0.0      2        0
+Athletics (Jump)         6        1.0      2        3
+Craft (Untrained)        3        0.0      3        0
+Deception                11       9.0      2        0
+Endurance                12       9.0      3        0
+Gather Information       2        0.0      2        0
+Heal                     4        2.0      2        0
+Knowledge (Arcana)       12       9.0      3        0
+Knowledge (Dungeoneering)  8        5.0      3        0
+Knowledge (Religion)     4        1.0      3        0
+Knowledge (The Planes)   5        2.0      3        0
+Linguistics              6        3.0      3        0
+Mystic Artist Skill      0        0.0      0        0
+Perception               13       9.0      2        2
+Persuasion               11       9.0      2        0
+Ride                     3        0.0      3        0
+Sense Motive             7        5.0      2        0
+Speak Language(Abyssal, Dwarven)  2        2.0      0        0
+Spellcraft               14       9.0      3        2
+Stealth                  3        0.0      3        0
+Survival                 2        0.0      2        0
+Survival (Find or follow tracks)  4        1.0      2        1
+Survival (Underground)   4        1.0      2        1
+Thievery                 3        0.0      3        0
+Use Rope                 3        0.0      3        0
+                                                    
+-------------------------- Feats ---------------------------
+Feat Conversion to CP ~ 6 (2x)
+-------------------- Special Abilities ---------------------
+
+------------------------ Templates -------------------------
+
+-------------------------- Combat --------------------------
+    Total / Touch / Flat Footed
+AC: 24    / 19    / 21
+Initiative:   +3
+BAB:          +3
+Melee tohit:  +5
+Ranged tohit: +6
+Fortitude:    +4
+Reflex:       +5
+Will:         +7
+Unarmed attack:
+to hit:       +5
+damage:       1d3+2
+critical:     20/x2
+Claw:
+to hit:       +5
+damage:       1d3+2
+critical:     20/x2
+Quarterstaff:
+to hit:       +5
+damage:       1d6+3
+critical:     20/x2
+--------------------- Special Abilities --------------------
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Amulet of the Apprentice                         1	0lbs	Special: Gain +1 to your Caster Level
+Devereaux Ring                                   1	0lbs
+Faerie Garb +3                                   1	0lbs
+Sentient Rod of Any Weapon                       1	0lbs
+Special Boots                                    1	0lbs
+Teleport Crystal                                 1	0lbs	Special: Bearer can teleport without error once per day to a location known to them, with up to six other creatures.
+Special Backpack of Holding (0 lbs.)
+Total weight carried: 
+Current load:         Light
+Encumbrance
+Light:  58   
+Medium: 116   
+Heavy:  175
+--------------------------- Magic --------------------------
+
+
+Wizard Spells
+
+SPELLBOOKNAME0
+ 
+Level 0
+Acid Splash (Conjuration)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: No	Effect: Orb deals 1d3 acid damage.	Target: One missile of acid
+DESC: Orb deals 1d3 acid damage.
+Amanuesis (Transmutation)
+Saves: Will negates [object]	DC: 13	Casting: 1 standard action
+Duration: 10 minute/level	Range: Close (50 ft.)	Components: V,S
+SR: Yes [object]	Effect: Copies 250 words per minute.	Target: Object or objects with writing
+DESC: Copies 250 words per minute.
+Arcane Mark (Universal)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Permanent	Range: 0 ft.	Components: V,S
+SR: No	Effect: Inscribes a personal rune [visible or invisible].	Target: One personal rune or mark, all of which must fit within 1 sq. ft.
+DESC: Inscribes a personal rune (visible or invisible).
+Caltrops (Conjuration)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 1 round/level	Range: Close (50 ft.)	Components: V,S
+SR: No	Effect: Caltrops cover one 5-foot-by-5-foot square, attack roll +0 for all creatures moving in the square [Creatures AC is Base + Dex + [Foot Wear +2] for purpose of the caltrop attack] dealing 1 pt of damage and land speed reduced by half.	Target: See text
+DESC: Caltrops cover one 5-foot-by-5-foot square, attack roll +0 for all creatures moving in the square [Creatures AC is Base + Dex + [Foot Wear +2] for purpose of the caltrop attack] dealing 1 pt of damage and land speed reduced by half.
+Dancing Lights (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 1 minute/level [D]	Range: Medium (200 ft.)	Components: V,S
+SR: No	Effect: Creates torches or other lights.	Target: Up to four lights, all within a 10- ft.-radius area
+DESC: Creates torches or other lights.
+Daze (Enchantment)
+Saves: Will negates	DC: 13	Casting: Standard Action
+Duration: 1 round	Range: Close (50 ft.)	Components: V,S,M
+SR: Yes	Effect: Humanoid creature of 4 HD or less loses next action.	Target: One humanoid creature of 4 HD or less
+DESC: Humanoid creature of 4 HD or less loses next action.
+Detect Magic (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Concentration, up to 1 minutes/level [D]	Range: 60 ft.	Components: V,S
+SR: No	Effect: Detects spells and magic items within 60 ft.	Target: Cone-shaped emanation
+DESC: Detects spells and magic items within 60 ft.
+Detect Poison (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: No	Effect: Detects poison in one creature or small object.	Target: One creature, one object, or a 5-ft. cube
+DESC: Detects poison in one creature or small object.
+Disrupt Undead (Necromancy)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Deals 1d6 damage to one undead.	Target: Ray
+DESC: Deals 1d6 damage to one undead.
+Electric Jolt (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Ranged touch attack delivers 1d3 electric damage.	Target: Ray
+DESC: Ranged touch attack delivers 1d3 electric damage.
+Flare (Evocation)
+Saves: Fortitude negates	DC: 13	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V
+SR: Yes	Effect: Dazzles one creature [-1 on attack rolls].	Target: Burst of light
+DESC: Dazzles one creature (-1 on attack rolls).
+Ghost Sound (Illusion)
+Saves: Will disbelief (if interacted with)	DC: 13	Casting: Standard Action
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,M
+SR: No	Effect: Figment sounds.	Target: Illusory sounds
+DESC: Figment sounds.
+Launch Bolt (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,M
+SR: No	Effect: Treat bolt as if fired from a light crossbow, including any bonuses, feats or enchantments.	Target: One crossbow bolt in your possession
+DESC: Treat bolt as if fired from a light crossbow, including any bonuses, feats or enchantments.
+Launch Item (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: S
+SR: No	Effect: Launch an item safely to the target you specify where it will act normally upon impact.	Target: One Fine item in your possession, weighing up to 10lbs
+DESC: Launch an item safely to the target you specify where it will act normally upon impact.
+Light (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level [D]	Range: Touch	Components: V, M/DF
+SR: No	Effect: Object shines like a torch.	Target: Object touched
+DESC: Object shines like a torch.
+Mage Hand (Transmutation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Concentration	Range: Close (50 ft.)	Components: V,S
+SR: No	Effect: 5-pound telekinesis.	Target: One nonmagical, unattended object weighing up to 5 lb.
+DESC: 5-pound telekinesis.
+Mending (Transmutation)
+Saves: Will negates (harmless, object)	DC: 13	Casting: Standard Action
+Duration: Instantaneous	Range: 10 ft.	Components: V,S
+SR: Yes (harmless, object)	Effect: Makes minor repairs on an object.	Target: One object of up to 1 lb.
+DESC: Makes minor repairs on an object.
+Message (Transmutation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level	Range: Medium (200 ft.)	Components: V,S,F
+SR: No	Effect: Whispered conversation at distance.	Target: 1 creature/level
+DESC: Whispered conversation at distance.
+Open/Close (Transmutation)
+Saves: Will negates (object)	DC: 13	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S,F
+SR: Yes  (object)	Effect: Opens or closes small or light things.	Target: Object weighing up to 30 lb. or portal that can be opened or closed
+DESC: Opens or closes small or light things.
+Prestidigitation (Universal)
+Saves: See text	DC: 13	Casting: Standard Action
+Duration: 1 hour	Range: 10 ft.	Components: V,S
+SR: No	Effect: Performs minor tricks.	Target: See text
+DESC: Performs minor tricks.
+Ray of Frost (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Ray deals 1d3 cold damage.	Target: Ray
+DESC: Ray deals 1d3 cold damage.
+Read Magic (Divination)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 10 minutes/level	Range: Personal	Components: V,S,F
+SR: No	Effect: Read scrolls and spellbooks.	Target: You
+DESC: Read scrolls and spellbooks.
+Repair Minor Damage (Transmutation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S
+SR: No	Effect: Repair a construct 1 point of damage.	Target: Construct touched
+DESC: Repair a construct 1 point of damage.
+Resistance (Abjuration)
+Saves: Will negates (harmless)	DC: 13	Casting: Standard Action
+Duration: 1 minute	Range: Touch	Components: V,S,M/DF
+SR: Yes (harmless)	Effect: Subject gains +1 on saving throws.	Target: Creature touched
+DESC: Subject gains +1 on saving throws.
+Silent Portal (Illusion)
+Saves: Will negates [object]	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level [D]	Range: Close (50 ft.)	Components: S
+SR: Yes [object]	Effect: Negates the sound of opening/closing any portal [door,window,etc.].	Target: One portal
+DESC: Negates the sound of opening/closing any portal [door,window,etc.].
+Sonic Snap (Evocation)
+Saves: Will partial	DC: 13	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Deal 1 pt of damage and target must save or be deafened for 1 round.	Target: One creature or object
+DESC: Deal 1 pt of damage and target must save or be deafened for 1 round.
+Stick (Transmutation)
+Saves: Will negates [object]	DC: 13	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,M
+SR: Yes [object]	Effect: Sticks one object to another; see text.	Target: Nonmagical, unattended object weighing up to 5lbs
+DESC: Sticks one object to another; see text.
+Touch of Fatigue (Necromancy)
+Saves: Fortitude negates	DC: 13	Casting: Standard Action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: Yes	Effect: Touch attack fatigues target.	Target: Creature touched
+DESC: Touch attack fatigues target.
+ 
+ 
+Level 1
+Enlarge Person (Transmutation)
+Saves: Fortitude negates	DC: 14	Casting: 1 round
+Duration: 1 minute/level [D]	Range: Close (50 ft.)	Components: V,S,M
+SR: Yes	Effect: Creatures size increases to next category	Target: One humanoid creature
+DESC: Creatures size increases to next category
+Hail of Stone (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: Instantaneous	Range: Medium (200 ft.)	Components: V,S,M
+SR: No	Effect: 1d4/caster level [max 5d4] damage.	Target: Cylinder [5-ft.-radius, 40 ft. high]
+DESC: 1d4/caster level [max 5d4] damage.
+Inhibit (Enchantment)
+Saves: Will negates	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Medium (200 ft.)	Components: V,S
+SR: Yes	Effect: Subject is forced to delay; see text.	Target: One creature
+DESC: Subject is forced to delay; see text.
+Light of Lunia (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 10 minutes/level [D]	Range: Medium (200 ft.)	Components: V,S
+SR: Yes; see text	Effect: Light radiating 30-ft. and 20-ft further of dim light, next round you can use the light as a ray attack dealing 1d6 [double against undead and outsiders]; see text	Target: You and up to two rays; see text
+DESC: Light radiating 30-ft. and 20-ft further of dim light, next round you can use the light as a ray attack dealing 1d6 [double against undead and outsiders]; see text
+Mage Armor (Conjuration)
+Saves: Will negates (harmless)	DC: 14	Casting: Standard Action
+Duration: 1 hour/level [D]	Range: Touch	Components: V,S,F
+SR: No	Effect: Gives subject +4 armor bonus.	Target: Creature touched
+DESC: Gives subject +4 armor bonus.
+Magic Missile (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Medium (200 ft.)	Components: V,S
+SR: Yes	Effect: 1 missile/2 levels [max 5] that do 1d4+1 damage each.	Target: Up to five creatures, no two of which can be more than 15 ft. apart
+DESC: 1 missile/2 levels [max 5] that do 1d4+1 damage each.
+Nerveskitter (Transmutation)
+Saves: None [harmless]	DC: 14	Casting: 1 immediate action
+Duration: 1 round	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Grants +5 bonus on initiative checks.	Target: One creature
+DESC: Grants +5 bonus on initiative checks.
+Ray of Flame (Evocation)
+Saves: See text	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S,F
+SR: Yes	Effect: Ranged touch attack deals 1d6 per two caster levels [max 5d6]; see text	Target: Ray
+DESC: Ranged touch attack deals 1d6 per two caster levels [max 5d6]; see text
+Summon Monster I (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,F/DF
+SR: No	Effect: Calls extraplanar creature to fight for you.	Target: One summoned creature
+DESC: Calls extraplanar creature to fight for you.
+Wall of Smoke (Conjuration)
+Saves: Fortitude partial; see text	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: Close (50 ft.)	Components: V,S
+SR: No	Effect: Makes a wall of black smoke, causes nausea; see text.	Target: A straight wall whose area is up to one 10-ft. square/level [S]
+DESC: Makes a wall of black smoke, causes nausea; see text.
+ 
+ 
+Level 2
+Combust (Evocation)
+Saves: Reflex partial	DC: 15	Casting: 1 standard action
+Duration: Instantaneous; see text	Range: Touch	Components: V,S,M
+SR: Yes	Effect: Creature takes 1d8/level [Max 10d8] fire damage, object burns taking 1d6 fire round until extiguished.	Target: Touched creature or combustible object that weighs no more than 25 lb/level
+DESC: Creature takes 1d8/level [Max 10d8] fire damage, object burns taking 1d6 fire round until extiguished.
+Dimension Hop (Conjuration)
+Saves: Will negates	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V
+SR: Yes	Effect: Teleport subject 5 feet per two caster levels. The destination must be an unoccupied space within line of sight.	Target: Creature touched
+DESC: Teleport subject 5 feet per two caster levels. The destination must be an unoccupied space within line of sight.
+Electric Loop (Evocation)
+Saves: Reflex half; see text	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S,M
+SR: Yes	Effect: One ray/3 caster levels deal 1d6/2 caster levels [max 5d6]; see text.	Target: One creature/3 levels, each of which is adjacent to another target
+DESC: One ray/3 caster levels deal 1d6/2 caster levels [max 5d6]; see text.
+Fly, Swift (Transmutation)
+Saves: N/A	DC: 15	Casting: 1 swift action
+Duration: 1 round	Range: Personal	Components: V
+SR: N/A	Effect: This spell functions like fly, except as noted.	Target: You
+DESC: This spell functions like fly, except as noted.
+Scorching Ray (Evocation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: 2 rays, ranged touch attack deals 4d6 fire damage.	Target: 1 ray + 1 ray/4 levels [see text]
+DESC: (1+min((CASTERLEVEL-3)/4,2)) rays, ranged touch attack deals 4d6 fire damage.
+Spider Climb (Transmutation)
+Saves: Will negates (harmless)	DC: 15	Casting: Standard Action
+Duration: 10 minutes/level	Range: Touch	Components: V,S,M
+SR: Yes (harmless)	Effect: Grants ability to walk on walls and ceilings.	Target: Creature touched
+DESC: Grants ability to walk on walls and ceilings.
+Summon Monster II (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,F/DF
+SR: No	Effect: Calls extraplanar creature to fight for you.	Target: One or more summoned creatures, no two of which can be more than 30 ft. apart
+DESC: Calls extraplanar creature to fight for you.
+Summon Swarm (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: Concentration + 2 rounds	Range: Close (50 ft.)	Components: V,S,M/DF
+SR: No	Effect: Summons swarm of bats, rats, or spiders.	Target: One swarm of bats, rats, or spiders
+DESC: Summons swarm of bats, rats, or spiders.
+ 
+ 
+Level 3
+Dimension Step (Conjuration)
+Saves: Fortitude negates (harmless)	DC: 16	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes (harmless)	Effect: Allies can make a short teleport. They can teleport line of sight up to their base speed.	Target: One willing creature/3 levels, no two of which can are more than 30 ft. apart
+DESC: Allies can make a short teleport. They can teleport line of sight up to their base speed.
+Fireball (Evocation)
+Saves: Reflex half	DC: 16	Casting: Standard Action
+Duration: Instantaneous	Range: Long (800 ft.)	Components: V,S,M
+SR: Yes	Effect: 1d6/level [max 10d6] fire damage, 20-ft. radius.	Target: 20-ft.-radius spread
+DESC: 1d6/level [max 10d6] fire damage, 20-ft. radius.
+Fly (Transmutation)
+Saves: Will negates (harmless)	DC: 16	Casting: Standard Action
+Duration: 1 minute/level	Range: Touch	Components: V,S,F/DF
+SR: Yes (harmless)	Effect: Subject flies at speed of 60 ft.	Target: Creature touched
+DESC: Subject flies at speed of 60 ft.
+Haste (Transmutation)
+Saves: Fortitude negates (harmless)	DC: 16	Casting: Standard Action
+Duration: 1 round/level	Range: Close (50 ft.)	Components: V,S,M
+SR: Yes (harmless)	Effect: 1 creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.	Target: 1 creature/level, no two of which can be more than 30 ft. apart
+DESC: 1 creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+Scintillating Sphere (Evocation)
+Saves: Reflex half	DC: 16	Casting: 1 standard action
+Duration: Instantaneous	Range: Long (800 ft.)	Components: V,S,M
+SR: Yes	Effect: As fireball, 1d6/caster level [max 10d6] of electrical damage.	Target: 20-ft.-radius burst
+DESC: As fireball, 1d6/caster level [max 10d6] of electrical damage.
+Servant Horde (Conjuration)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 1 hour/level	Range: Close (50 ft.)	Components: V,S,M
+SR: No	Effect: Creates 2d6 +1 per caster level [max +15] unseen servants.	Target: Invisible, mindless, shapeless servants
+DESC: Creates 2d6 +1 per caster level [max +15] unseen servants.
+Snake's Swiftness, Mass (Transmutation)
+Saves: Will negates [harmless]	DC: 16	Casting: 1 standard action
+Duration: Instantaneous	Range: Medium (200 ft.)	Components: V,S,M/DF
+SR: Yes [harmless]	Effect: Subjects may make another single attack melee or ranged; see text.	Target: Allied creatures in a 20-ft.-radius burst
+DESC: Subjects may make another single attack melee or ranged; see text.
+Summon Monster III (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,F/DF
+SR: No	Effect: Calls extraplanar creature to fight for you.	Target: One or more summoned creatures, no two of which can be more than 30 ft. apart
+DESC: Calls extraplanar creature to fight for you.
+Vampiric Touch (Necromancy)
+Saves: None	DC: 	Casting: Standard Action
+Duration: Instantaneous/1 hour; see text	Range: Touch	Components: V,S
+SR: Yes	Effect: Touch deals 1d6/2 levels [max 10d6] damage; caster gains damage as hp.	Target: Living creature touched
+DESC: Touch deals 1d6/2 levels [max 10d6] damage; caster gains damage as hp.
+ 
+ 
+Level 4
+Channeled Pyroburst (Evocation)
+Saves: Reflex half	DC: 17	Casting: See text
+Duration: Instantaneous	Range: Medium (200 ft.)	Components: V,S
+SR: Yes	Effect: Deal damage to opponent[s] based upon casting time; See text.	Target: See text
+DESC: Deal damage to opponent(s) based upon casting time; See text.
+Defenestrating Sphere (Evocation)
+Saves: Fortitude partial; see text	DC: 17	Casting: 1 standard action
+Duration: 1 round/level [D]	Range: Medium (200 ft.)	Components: V,S,F
+SR: Yes	Effect: Sphere moves up to 30 ft/round and does a ranged touch attack causing 3d6 damage and chance to knock enemy down; see text.	Target: 2-ft.-radius sphere
+DESC: Sphere moves up to 30 ft/round and does a ranged touch attack causing 3d6 damage and chance to knock enemy down; see text.
+Evard's Black Tentacles (Conjuration)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 1 round/level [D]	Range: Medium (200 ft.)	Components: V,S,M
+SR: No	Effect: Tentacles grapple all within 15 ft. spread.	Target: 20-ft.-radius spread
+DESC: Tentacles grapple all within 15 ft. spread.
+Polymorph (Transmutation)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 1 minute/level [D]	Range: Touch	Components: V,S,M
+SR: No	Effect: Gives one willing subject a new form.	Target: Willing living creature touched
+DESC: Gives one willing subject a new form.
+Solid Fog (Conjuration)
+Saves: None	DC: 	Casting: Standard Action
+Duration: 1 minute/level	Range: Medium (200 ft.)	Components: V,S,M
+SR: No	Effect: Blocks vision and slows movement.	Target: Fog spreads in 20-ft. radius, 20 ft. high
+DESC: Blocks vision and slows movement.
+Summon Monster IV (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,F/DF
+SR: No	Effect: Calls extraplanar creature to fight for you.	Target: One or more summoned creatures, no two of which can be more than 30 ft. apart
+DESC: Calls extraplanar creature to fight for you.
+Whelm, Mass (Enchantment)
+Saves: Will negates	DC: 17	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (50 ft.)	Components: V,S
+SR: Yes	Effect: Deal 1d6/level [max 10d6] nonlethal damage.	Target: One living creature/level
+DESC: Deal 1d6/level [max 10d6] nonlethal damage.
+ 
+ 
+Level 5
+Summon Monster V (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 1 round/level [D]	Range: Close (50 ft.)	Components: V,S,F/DF
+SR: No	Effect: Calls extraplanar creature to fight for you.	Target: One or more summoned creatures, no two of which can be more than 30 ft. apart
+DESC: Calls extraplanar creature to fight for you.
+ 
+  
+  
+  
+  
+ 
+                     
+
+      
+      
+------------------------ Description -----------------------
+Height: 5' 8"             Weight: 140 lbs.                Gender: Male	
+Eyes:   Brown             Hair: Black,Shoulder-length    Skin: Pale
+Dominant Hand: Right      Quirks: , 	
+Speech style:        Quotable: 
+Full Description
+
+Background
+

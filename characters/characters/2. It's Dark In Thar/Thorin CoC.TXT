@@ -1,0 +1,838 @@
+Name:       Thorin Trueblade
+Race:       Dwarf
+Player:     PLAYER 
+Classes:    Champion of Clangeddin9
+Vitality: 137
+Wound Points: 20
+Experience: 40000 / 45000
+Alignment:  Lawful Good
+Vision:     Darkvision (60')
+Speed:      Walk 60 ft.
+Languages:  Common, Dwarven, Orc
+ 
+Stat    Score   Mod
+STR  24 (+7)
+DEX  16 (+3)
+CON  20 (+5)
+INT  12 (+1)
+WIS  12 (+1)
+CHA  11 (+0)
+ 
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Appraise  4  3.0  1  0
+Balance  1  0.0  3  -2
+Bluff  0  0.0  0  0
+Climb  7  2.0  7  -2
+Concentration  5  0.0  5  0
+Craft (Gemcutting)  4  3.0  1  0
+Craft (Untrained)  1  0.0  1  0
+Diplomacy  0  0.0  0  0
+Disguise  0  0.0  0  0
+Escape Artist  1  0.0  3  -2
+Forgery  1  0.0  1  0
+Gather Information  0  0.0  0  0
+Heal  1  0.0  1  0
+Intimidate  19  4.0  0  15
+Jump  17  0.0  7  10
+Knowledge (Giants)  27  6.0  1  20
+Knowledge (Religion)  4  3.0  1  0
+Notice (Listen)  13  12.0  1  0
+Notice (Spot)  13  12.0  1  0
+Ride  5  2.0  3  0
+Search  1  0.0  1  0
+Sense Motive  1  0.0  1  0
+Sneak (Hide)  2  1.0  3  -2
+Sneak (Move Silently)  9  1.0  3  5
+Spot  1  0.0  1  0
+Survival  1  0.0  1  0
+Swim  2  0.0  7  -5
+Use Rope  3  0.0  3  0
+        
+        
+        
+        
+ 
+-------------------------- Feats ---------------------------
+Uncanny Dodge
+All Automatic Proficiencies
+  
+  
+All Martial Weapon Proficiencies
+  
+  
+Aura of Courage
+  
+  
+Aura of Good
+  
+  
+Champion Tracker - Aura of Good
+  
+  
+Champion Tracker - Lay on Hands
+  
+  
+Champion Tracker - Remove Disease
+  
+  
+Defensive Stance
+  
+  
+Divine Grace
+  
+  
+Divine Health
+  
+  
+Snatch Arrows
+ 
+-------------------- Special Abilities ---------------------
++1 racial bonus on attack rolls against orcs and goblinoids
++2 racial bonus on Appraise and Craft checks that are related to stone or metal.
++2 racial bonus on saving throws against poison.
++2 racial bonus on saving throws against spells and spell-like effects.
++4 Dodge bonus to Armor Class against monsters of the giant type.
+AC Bonus (Ex)
+Aura of Courage (Su)
+Aura of Good (Ex) Strong
+Blindsight 60 ft. (Ex)
+Change Size (Sp)
+Defensive Stance 3 times/day (10 rounds)
+Dimension Door 3/day: Appear up to triple your non-enhanced movement; limited to LoS.
+Divine Grace (Su)
+Divine Health (Ex)
+Greater Teleport 1/day - 600lbs and may only take one person with you.
+Immune to all mind-influencing effects (charms/ compulsions/ phantasms/ patterns/ and morale effects)
+Luck Reroll 1/day: Reroll any one die.
+Remove Disease (Sp) -1/week
+Stability
+Stonecunning
+Trap Sense (Ex) +1
+Uncanny Dodge (Dex bonus to AC)
+
+ 
+------------------------ Templates -------------------------
+Truename
+ 
+-------------------------- Combat --------------------------
+ 
+    Total / Touch / Flat Footed
+AC: 28 / 17 / 28
+ 
+Initiative:   +7
+BAB:          +9/+4
+Melee tohit:  +16/+11
+Ranged tohit: +12/+7
+ 
+Fortitude:    +14
+Reflex:       +6
+Will:         +7
+ 
+Unarmed attack:
+to hit:       +16/+11
+damage:       1d3+7
+critical:     20/x2
+ 
+Clangeddin's Fury:
+to hit:       +21/+21/+16
+damage:       3d6+18
+critical:     17-20/x3
+special properties: 1/day increase STR, DEX, or CON by 1d4+10 for 10 minutes. (Ability damage equal to bonus recooperates 1 point per hour) True Seeing and Blindsight through Axes sight. Concentration - Locate Gem and Metals, Locate enemies. Immune to Mind control. Know if enemies are within 2 miles (extended range within Dwarven Keep), Bonded Weapon (ex):+2 to Hit and Damage, redirect sunder damage to self, alarm on weapon, take 5d6 damage if weapon broken., target must make DC:27 WILL save on a successful critical hit or be paralyzed for 1 round, 30hp/inch and 15 hardness
+ 
+Dagger +2:
+to hit:       +18/+13
+damage:       1d4+9
+critical:     19-20/x2
+ 
+Dagger +2 (Thrown):
+to hit:       +14/+9
+damage:       1d4+2
+critical:     19-20/x2
+range:        10 ft.
+ 
+Armor Spikes:
+to hit:       +16/+11
+damage:       1d6+7
+critical:     20/x2
+special properties: deals extra piercing damage on a successful grapple attack
+ 
+--------------------- Special Abilities --------------------
+ 
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Amulet of Proof against Detection and Location  1	0lbs
+Blessed Boots of One Step  1	1lbs
+Clangeddin's Fury  1	10lbs	Special: 1/day increase STR, DEX, or CON by 1d4+10 for 10 minutes. (Ability damage equal to bonus recooperates 1 point per hour) True Seeing and Blindsight through Axes sight. Concentration - Locate Gem and Metals, Locate enemies. Immune to Mind control. Know if enemies are within 2 miles (extended range within Dwarven Keep), Bonded Weapon (ex):+2 to Hit and Damage, redirect sunder damage to self, alarm on weapon, take 5d6 damage if weapon broken., target must make DC:27 WILL save on a successful critical hit or be paralyzed for 1 round, 30hp/inch and 15 hardness
+Dagger +2  1	1lbs
+Flask of Wine  1	1lbs	Special: Flask of Wine (Neverending), 25hp/inch and 8 hardness
+Full Plate +2 (Mithral/Armor Spikes)  1	35lbs	Special: Spiked, 30hp/inch and 15 hardness
+Gloves of Arrow Snaring  1	0lbs
+Outfit (Artisan's)  1	4lbs
+Ring (Protection +1)  1	0lbs
+Armor Spikes  1	0lbs	Special: deals extra piercing damage on a successful grapple attack
+Ring of Readiness  1	0lbs	Special: (Ring of Readyness)
+ 
+Backpack (29 lbs.)
+   Paper (Sheet)  3	0lbs
+   Rations (Trail/Per Day)  7	7lbs
+   Rope (Silk/50 Ft.)  1	5lbs
+   Sealing Wax  1	1lbs
+   Signet Ring  1	0lbs
+   Potion (Cure Moderate Wounds)  9	0lbs
+   Bedroll  1	5lbs
+   Blanket (Winter)  1	3lbs
+   Flint and Steel  1	0lbs
+   Grappling Hook  1	4lbs
+   Holy Symbol (Silver)  1	1lbs
+   Ink (1 Oz. Vial)  1	0lbs
+   Inkpen  1	0lbs
+   Oil (1 Pt. Flask)  1	1lbs
+Pouch (Belt) (0.5 lbs.)
+Pouch (Belt) (0.5 lbs.)
+ 
+Total weight caried: 
+Current load:        Light
+ 
+   Encumbrance
+Light:  233   
+Medium: 466   
+Heavy:  700
+ 
+ 
+--------------------------- Magic --------------------------
+
+
+ 
+Champion of Clangeddin Spells
+
+SPELLBOOKNAME0
+  
+ 
+ 
+Level 1
+Axiomatic Water (Transmutation)
+Saves: Will negates [object]	DC: 12	Casting: 1 minute
+Duration: Instantaneous	Range: Touch	Components: V,S,M
+SR: Yes [object]	Effect: Water damages chaotic outsiders for 2d4 points of damage.	Target: Flask of water touched
+ 
+Bless (Enchantment)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level	Range: 50 ft.	Components: V, S, DF
+SR: Yes (harmless)	Effect: Allies gain +1 on attack rolls and +1 on saves against fear.	Target: The caster and all allies within a 50-ft. burst, centered on the caster
+ 
+Bless Water (Transmutation)
+Saves: Will negates (object)	DC: 12	Casting: 1 minute
+Duration: Instantaneous	Range: Touch	Components: V, S, M
+SR: Yes (object)	Effect: Makes holy water.	Target: Flask of water touched
+ 
+Bless Weapon (Transmutation)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S
+SR: No	Effect: Weapon strikes true against evil foes.	Target: Weapon touched
+ 
+Bless Weapon, Swift (Transmutation)
+Saves: None	DC: 12	Casting: 1 swift action
+Duration: 1 round	Range: Touch	Components: V
+SR: No	Effect: As bless weapon.	Target: Touched weapon
+ 
+Blessed Aim (Divination)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level	Range: 50 ft.	Components: V,S
+SR: No	Effect:  +2 morale bonus on ranged attacks for your allies within the spread.	Target: 50 ft. spread, centered on you
+ 
+Clear Mind (Abjuration)
+Saves: N/A	DC: 12	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Gain +4 sacred bonus on saving throws against mind-affecting spells and effects.	Target: You
+ 
+Create Water (Conjuration)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (30 ft.)	Components: V, S
+SR: No	Effect: Creates 2 gallons/level of pure water.	Target: Up to 2 gallons/level of water
+ 
+Cure Light Wounds (Conjuration)
+Saves: Will half (harmless); see text	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless); see text	Effect: Cures 1d8 +1/level [max +5] damage.	Target: Creature touched
+ 
+Deafening Clang (Transmutation)
+Saves: Fortitude partial; see text	DC: 12	Casting: 1 swift action
+Duration: 1 round	Range: Touch	Components: V,S,DF
+SR: No	Effect: Deal an extra 1d6 of sonic damage with each successful hit and causes deafeness for 1 minute unless creature saves.	Target: Your weapon
+ 
+Detect Poison (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (30 ft.)	Components: V, S
+SR: No	Effect: Detects poison in one creature or small object.	Target: One creature, one object, or a 5-ft. cube
+ 
+Detect Undead (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: Concentration, up to 1 minutes/level [D]	Range: 60 ft.	Components: V, S, M/DF
+SR: No	Effect: Reveals undead within 60 ft.	Target: Cone-shaped emanation
+ 
+Divine Favor (Evocation)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 minute	Range: Personal	Components: V, S, DF
+SR: No	Effect: You gain +1 on attack and damage rolls. [Every three caster levels, MAX +6]	Target: You
+ 
+Divine Sacrifice (Evocation)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 round/level	Range: Personal	Components: V,S
+SR: N/A	Effect: First attack of the round deals an extra 5d6 of damage, and you take 10 points of damage each time you make such an attack, whether or not you hit.	Target: You
+ 
+Endure Elements (Abjuration)
+Saves: Will negates (harmless)	DC: 12	Casting: 1 standard action
+Duration: 24 hours	Range: Touch	Components: V, S
+SR: Yes (harmless)	Effect: Exist comfortably in hot or cold environments.	Target: Creature touched
+ 
+Energized Shield, Lesser (Abjuration)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,DF
+SR: No	Effect: Protects against on energy type [fire, cold, electricity, acid, or sonic], you gan 5 resistance; see text	Target: Touch
+ 
+Faith Healing (Conjuration)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S
+SR: Yes [harmless]	Effect: Heal 8 + caster level [max +5] hit points.	Target: Living creature touched
+ 
+Find Temple (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 hour/level	Range: 10 miles + mile/level	Components: V,S,DF
+SR: No	Effect: Sense nearest sanctuary of your deity.	Target: Circle centered on you, out to range
+ 
+Golden Barding (Conjuration)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 hour/level	Range: Touch	Components: V,DF
+SR: No	Effect: Create Magical Barding type depends on level; see text.	Target: Special mount touched
+ 
+Grave Strike (Divination)
+Saves: N/A	DC: 12	Casting: 1 swift action
+Duration: 1 round	Range: Personal	Components: V,DF
+SR: N/A	Effect: Allows you to make sneak attacks against undead if you have the ability.	Target: You
+ 
+Holy Spurs (Transmutation)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 swift action
+Duration: 1 round	Range: Close (30 ft.)	Components: V
+SR: Yes [harmless]	Effect: Mount's base land speed increase by 40 feet.	Target: Your special mount
+ 
+Know Greatest Enemy (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: Concentration, up to 1 round/level	Range: 60 ft.	Components: V,DF
+SR: Yes	Effect: Determine the relative power levels of tagets; see text.	Target: Cone-shaped emanation
+ 
+Lionheart (Abjuration)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: Yes [harmless]	Effect: Gain immunity to fear effects.	Target: Creature touched
+ 
+Magic Weapon (Transmutation)
+Saves: Will negates (harmless, object)	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S, DF
+SR: Yes (harmless, object)	Effect: Weapon gains +1 bonus.	Target: Weapon touched
+ 
+Mantle of Good (Abjuration)
+Saves: N/A	DC: 12	Casting: 1 standard action
+Duration: 10 minutes/level [D]	Range: Personal	Components: V,S,M
+SR: N/A	Effect: Gain SR 12 + your caster level against spells with the evil descriptor.	Target: You
+ 
+Moment of Clarity (Abjuration)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,DF
+SR: No	Effect: Creature gains a second save against a mind-affecting spell.	Target: Creature touched
+ 
+One Mind, Lesser (Divination)
+Saves: N/A	DC: 12	Casting: 1 standard action
+Duration: 1 hour/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: +4 insight bonus to Spot and Listen, gain scent ability. Must remain within 10 ft. of mount.	Target: You
+ 
+Protection from Chaos (Abjuration)
+Saves: Will negates (harmless)	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level [D]	Range: Touch	Components: V, S, M/DF
+SR: No; see text	Effect: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.	Target: Creature touched
+ 
+Protection from Evil (Abjuration)
+Saves: Will negates (harmless)	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level [D]	Range: Touch	Components: V, S, M/DF
+SR: No; see text	Effect: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.	Target: Creature touched
+ 
+Read Magic (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Personal	Components: V, S, F
+SR: No	Effect: Read scrolls and spellbooks.	Target: You
+ 
+Resist Planar Alignment (Abjuration)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Grants limited protection from a plane's alignment traits; see text.	Target: Creature touched
+ 
+Resistance (Abjuration)
+Saves: Will negates (harmless)	DC: 12	Casting: 1 standard action
+Duration: 1 minute	Range: Touch	Components: V, S, M/DF
+SR: Yes (harmless)	Effect: Subject gains +1 on saving throws.	Target: Creature touched
+ 
+Restoration, Lesser (Conjuration)
+Saves: Will negates (harmless)	DC: 12	Casting: 3 rounds
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless)	Effect: Dispels magical ability penalty or repairs 1d4 ability damage.	Target: Creature touched
+ 
+Resurgence (Abjuration)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Allows one retry on a failed save against an ongoing spell, spell-like ability, or supernatural ability.	Target: Creature touched
+ 
+Rhino's Rush (Transmutation)
+Saves: N/A	DC: 12	Casting: 1 swift action
+Duration: 1 round	Range: Personal	Components: V,S
+SR: N/A	Effect: Subject's charge attack deals double damage of first attack.	Target: You
+ 
+Second Wind (Transmutation)
+Saves: Will negates [harmless]	DC: 12	Casting: 1 standard action
+Duration: Instantaneous & 1 hour/level; see text	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Removes fatigue and povides +4 bonus on Con checks; see text	Target: Creature touched
+ 
+Sense Heretic (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V,S,DF
+SR: No	Effect: Any evil creature with the ability to cast divine spells causes the object to glow a soft blue radiance; see text.	Target: Object touched
+ 
+Silverbeard (Transmutation)
+Saves: N/A	DC: 12	Casting: 1 standard action
+Duration: 1 minute/level	Range: Personal	Components: V,DF
+SR: N/A	Effect: Grown beard that bestows +2 bonus to AC & +2 bonus to Diplomacy checks with dwarves.	Target: You
+ 
+Sticky Saddle (Transmutation)
+Saves: N/A	DC: 12	Casting: 1 immediate action
+Duration: 1 round/level [D]	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: It becomes impossible for you to fall or be thrown off your mount.	Target: You
+ 
+Strategic Charge (Abjuration)
+Saves: N/A	DC: 12	Casting: 1 swift action
+Duration: 1 round/level	Range: Personal	Components: V,DF
+SR: N/A	Effect: Gain benefit of the Mobility feat.	Target: You
+ 
+Traveler's Mount (Transmutation)
+Saves: Will negates	DC: 12	Casting: 1 standard action
+Duration: 1 hour/level	Range: Touch	Components: V,S
+SR: Yes	Effect: +10 feet enhancement bonus to speed but cannot attack during the duration of the spell.	Target: Animal or magical beast touched
+ 
+Virtue (Transmutation)
+Saves: Fortitude negates (harmless)	DC: 12	Casting: 1 standard action
+Duration: 1 min.	Range: Touch	Components: V, S, DF
+SR: Yes (harmless)	Effect: Subject gains 1 temporary hp.	Target: Creature touched
+ 
+Vision of Glory (Divination)
+Saves: None	DC: 12	Casting: 1 standard action
+Duration: 1 minute or until discharged	Range: Touch	Components: V,S,DF
+SR: Yes	Effect: Grants a +1 morale bonus to a single saving throw [target's choice].	Target: Creature touched
+ 
+Warning Shout (Transmutation)
+Saves: None	DC: 12	Casting: 1 immediate action
+Duration: Instantaneous	Range: 30 ft.	Components: V
+SR: No	Effect: Removes flat-footed condition from all allies.	Target: All allies within 30 ft.
+ 
+ 
+ 
+ 
+Level 2
+Angelskin (Abjuration)
+Saves: Will negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Gain DR 5/evil.	Target: Lawful good creature touched
+ 
+Aura of Glory (Transmutation)
+Saves: None	DC: 13	Casting: 1 swift action
+Duration: Instantaneous	Range: Personal	Components: V,DF
+SR: No	Effect: THis spell removes any fear eddect from all allies within your aura of courage.	Target: 10-ft. radius spread
+ 
+Awaken Sin (Enchantment)
+Saves: Will negates	DC: 13	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V,S,DF
+SR: Yes	Effect: Subject immediately takes 1d6/caster level [max 10d6] points of nonlethal damage and is stunned for 1 round. If subject is knocked unconscious it takes 1d6 Wis damage.	Target: One evil creature with Intelligence 3+
+ 
+Bull's Strength (Transmutation)
+Saves: Will negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S, M/DF
+SR: Yes (harmless)	Effect: Subject gains +4 to Str for 1 minutes/level.	Target: Creature touched
+ 
+Checkmate's Light (Evocation)
+Saves: None	DC: 13	Casting: 1 standard action
+Duration: 1 round/level [D]	Range: Touch	Components: V,S,DF
+SR: No	Effect: Imbue weapon with +1/3 levels enhancement bonus [Max +5 at 15th level] and is Lawful aligned. Allies gain +1 morale bonus vs. fear in 20 ft radius of red light.	Target: Melee weapon touched
+ 
+Cloak of Bravery (Abjuration)
+Saves: Will negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 10 minutes/level	Range: 60 ft.	Components: V,S
+SR: Yes [harmless]	Effect: You and your allies gain a morale bonus on saves against fear effects equal to your caster level [Max +10].	Target: 60-ft.-radius emanation centered on you
+ 
+Cloak Pool (Illusion)
+Saves: Will negates [harmless,object]	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level [D]	Range: Close (30 ft.)	Components: V,S
+SR: No	Effect: Causes a color pool on the Astral Plane to seemingly cease to exist.	Target: One color pool
+ 
+Delay Poison (Conjuration)
+Saves: Fortitude negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level	Range: Touch	Components: V, S, DF
+SR: Yes (harmless)	Effect: Stops poison from harming subject for 1 hour/level.	Target: Creature touched
+ 
+Divine Insight (Divination)
+Saves: N/A	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level or until discharged [D]	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Gain 5 + your caster level [max bonus of 15] to one skill check during the duration of the spell.	Target: You
+ 
+Divine Protection (Enchantment)
+Saves: Will negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Medium (130 ft.)	Components: V,S,DF
+SR: Yes [harmless]	Effect: +1 morale bonus to AC and saving throws.	Target: Allies in a 20-ft.-radius burst
+ 
+Eagle's Splendor (Transmutation)
+Saves: Will negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S, M/DF
+SR: Yes	Effect: Subject gains +4 to Cha for 1 minutes/level.	Target: Creature touched
+ 
+Energized Shield (Abjuration)
+Saves: None	DC: 13	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,DF
+SR: No	Effect: As lesser energized shield, except energy resistance is 10 and damage dealt is 2d6	Target: Touch
+ 
+Fell the Greatest Foe (Transmutation)
+Saves: Fortitude negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: Yes [harmless]	Effect: Deal 1d6 damage per size category difference.	Target: Creature touched
+ 
+Flame of Faith (Evocation)
+Saves: None	DC: 13	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: No	Effect: Normal or masterwork weapon becomes temporary +1 flaming burst weapon.	Target: Nonmagical weapon touched
+ 
+Hand of Divinity (Evocation)
+Saves: None	DC: 13	Casting: 1 minute
+Duration: 1 minute/level	Range: Touch	Components: V,S,DF
+SR: No	Effect: Grant +2 [Profane or Sacred] bonus to all saving throws.	Target: Creature touched
+ 
+Holy Mount (Transmutation)
+Saves: None	DC: 13	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S
+SR: Yes [harmless]	Effect: Special mount gains celestial template	Target: Your special mount
+ 
+Knight's Move (Transmutatin)
+Saves: N/A	DC: 13	Casting: 1 swift action
+Duration: Instantaneous	Range: 5 ft./2 levels; see text	Components: V,S,DF
+SR: N/A	Effect: Teleport and end up flanking an opponent.	Target: You
+ 
+Loyal Vassal (Abjuration)
+Saves: Will negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 10 minutes/level; see text	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: +3 sacred bonus against mind-affecting effect; see text.	Target: One willing creature touched/3 levels
+ 
+One Mind (Divination)
+Saves: N/A	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Both you and mount gain +2 bonus on attack rolls [while mounted] +4 insight bonus to Spot and Listen, gain scent ability. Must remain within 10 ft. of mount.	Target: You
+ 
+Owl's Wisdom (Transmutation)
+Saves: Will negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S, M/DF
+SR: Yes	Effect: Subject gains +4 to Wis for 1 minutes/level.	Target: Creature touched
+ 
+Quick March (Transmutation)
+Saves: Will negates [harmless]	DC: 13	Casting: 1 standard action
+Duration: 1 round	Range: Medium (130 ft.)	Components: V,S,DF
+SR: Yes [harmless]	Effect: Subjects base land speed increased by 30 feet.	Target: Allies in  a 20-ft.-radius burst
+ 
+Remove Paralysis (Conjuration)
+Saves: Will negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (30 ft.)	Components: V, S
+SR: Yes (harmless)	Effect: Frees one or more creatures from paralysis or slow effect.	Target: Up to four creatures, no two of which can be more than 30 ft. apart
+ 
+Resist Energy (Abjuration)
+Saves: Fortitude negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V, S, DF
+SR: Yes (harmless)	Effect: Ignores first 10 points of damage/attack from specified energy type.	Target: Creature touched
+ 
+Shield of Warding (Abjuration)
+Saves: Will negates [object,harmless]	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V,S
+SR: No	Effect: Grants +1 sacred bonus to Armor Class and Reflex Saves, +1 per five caster levels [max +5].	Target: One shield or buckler touched
+ 
+Shield Other (Abjuration)
+Saves: Will negates (harmless)	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level [D]	Range: Close (30 ft.)	Components: V, S, F
+SR: Yes (harmless)	Effect: You take half of subject's damage.	Target: One creature
+ 
+Spiritual Chariot (Conjuration)
+Saves: N/A	DC: 13	Casting: 1 standard action
+Duration: 1 hour/level	Range: Close (30 ft.)	Components: V,S,DF
+SR: N/A	Effect: Creates a special chariot behind the paladin's special mount.	Target: One special mount
+ 
+Stabilize (Conjuration)
+Saves: Will negates [harmless]; see text	DC: 13	Casting: 1 swift action
+Duration: Instantaneous	Range: See text	Components: V,S,DF
+SR: Yes [harmless]	Effect: Spell designed for battle fields, heals all creatures for 1 hp to stabalize them, undead take 1 point of damage [Will negates].	Target: 50-ft.-radius burst centered on you
+ 
+Strength of Stone (Transmutation)
+Saves: N/A	DC: 13	Casting: 1 swift action
+Duration: 1 round	Range: Personal	Components: V,S,DF
+SR: No	Effect: +8 enhancement bonus to Strength.	Target: You
+ 
+Undetectable Alignment (Abjuration)
+Saves: Will negates (object)	DC: 13	Casting: 1 standard action
+Duration: 24 hours	Range: Close (30 ft.)	Components: V, S
+SR: Yes  (object)	Effect: Conceals alignment for 24 hours.	Target: One creature or object
+ 
+Zeal (Abjuration)
+Saves: N/A	DC: 13	Casting: 1 swift action
+Duration: 1 round/level	Range: Personal	Components: V,S
+SR: N/A	Effect: Creates a divine shield to protect you as you close with a chosen opponent. You gain a +4 deflection bonus to your AC against all attacks of opportunity other than your chosen foe. You may move through enemies as if they were allies. See text.	Target: You
+ 
+Zone of Truth (Enchantment)
+Saves: Will negates	DC: 13	Casting: 1 standard action
+Duration: 1 minute/level	Range: Close (30 ft.)	Components: V, S, DF
+SR: Yes	Effect: Subjects within range cannot lie.	Target: 20-ft.-radius emanation
+ 
+ 
+ 
+ 
+Level 3
+Axiomatic Storm (Conjuration)
+Saves: None	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: N/A	Components: V,S,M,DF
+SR: No	Effect: Rain falls around you. -4 to Listen, Spot, Search and ranged attacks. Deals 2d6 damage to chaotic creature [Double to outsiders] and random chaotic outsider takes additonal 5d6 acid.	Target: Cylinder [20-ft. radius, 20 ft. high]
+ 
+Blessing of Bahamut (Abjuration)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: Personal	Components: V,S,M
+SR: N/A	Effect: Gain damage reduction 10/magic.	Target: You
+ 
+Cure Moderate Wounds (Conjuration)
+Saves: Will half (harmless); see text	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless); see text	Effect: Cures 2d8 +1/level [max +10] damage.	Target: Creature touched
+ 
+Daylight (Evocation)
+Saves: None	DC: 14	Casting: 1 standard action
+Duration: 10 minutes/level [D]	Range: Touch	Components: V, S
+SR: No	Effect: 60-ft. radius of bright light.	Target: Object touched
+ 
+Diamondsteel (Transmutation)
+Saves: Will negates [object]	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S,M
+SR: Yes [object]	Effect: Armor gains DR equal to half the armor bonus worn.	Target: Suit of metal armor touched
+ 
+Discern Lies (Divination)
+Saves: Will negates	DC: 14	Casting: 1 standard action
+Duration: Concentration, up to 1 round/level	Range: Close (30 ft.)	Components: V, S, DF
+SR: No	Effect: Reveals deliberate falsehoods.	Target: 1 creature/level, no two of which can be more than 30 ft. apart
+ 
+Dispel Magic (Abjuration)
+Saves: None	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Medium (130 ft.)	Components: V, S
+SR: No	Effect: Cancels magical spells and effects.	Target: One spellcaster, creature, or object; or 20-ft.-radius burst
+ 
+Find the Gap (Divination)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: Personal	Components: V
+SR: N/A	Effect: Your first attack each round acts as a touch attack.	Target: You
+ 
+Hand of the Faithful (Abjuration)
+Saves: Fortitude negates	DC: 14	Casting: 1 minute
+Duration: 1 hour/level	Range: 10 ft.	Components: V,S,DF
+SR: Yes	Effect: Immobile zone of warding that is permeable to those of your religion, all creature must wear the same holy symbol or be of the same faith to enter or exit.	Target: 10-ft.-radius emanation centered on a point in space
+ 
+Heal Mount (Conjuration)
+Saves: Will negates (harmless)	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless)	Effect: As heal on warhorse or other special mount.	Target: Your mount touched
+ 
+Holy Storm (Conjuration)
+Saves: None	DC: 14	Casting: 1 standard action
+Duration: 1 round/level [D]	Range: 20 ft.	Components: V,S,M,DF
+SR: No	Effect: -4 penalty to Listen, Spot, and Search checks, -4 ranged attacks. Evil creatures take 2d6 damage each round [double if outsiders].	Target: Cylinder [20-ft. radius, 20 ft. high]
+ 
+Magic Circle against Chaos (Abjuration)
+Saves: Will negates (harmless)	DC: 14	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V, S, M/DF
+SR: No; see text	Effect: +2 to AC and saves, counter mind control, hedge out elementals and outsiders in 10-ft. radius and 10 minutes/level.	Target: 10-ft.-radius emanation from touched creature
+ 
+Magic Circle against Evil (Abjuration)
+Saves: Will negates (harmless)	DC: 14	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V, S, M/DF
+SR: No; see text	Effect: +2 to AC and saves, counter mind control, hedge out elementals and outsiders in 10-ft. radius and 10 minutes/level.	Target: 10-ft.-radius emanation from touched creature
+ 
+Magic Weapon, Greater (Transmutation)
+Saves: Will negates (harmless, object)	DC: 14	Casting: 1 standard action
+Duration: 1 hour/level	Range: Close (30 ft.)	Components: V, S, M/DF
+SR: Yes (harmless, object)	Effect: Weapon gains +1/4 levels [max +5] bonus.	Target: One weapon or fifty projectiles [all of which must be in contact with each other at the time of casting]
+ 
+Mantle of Law (Abjuration)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 10 minutes/level [D]	Range: Personal	Components: V,S,M
+SR: N/A	Effect: Gain SR 12 + your caster level against spells with the chaos descriptor.	Target: You
+ 
+One Mind, Greater (Divination)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 1 hour/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Both you and mount gain +2 bonus on melee damage and attack rolls [while mounted] +4 insight bonus to Spot and Listen, gain scent ability. Must remain within 10 ft. of mount.	Target: You
+ 
+Prayer (Enchantment)
+Saves: None	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: 40 ft.	Components: V, S, DF
+SR: Yes	Effect: Allies +1 bonus on most rolls, enemies -1 penalty.	Target: All allies and foes within a 40-ft.-radius burst centered on you
+ 
+Regal Procession (Conjuration)
+Saves: None	DC: 14	Casting: 1 round
+Duration: 2 hours/level [D]	Range: Close (30 ft.)	Components: V,S,M
+SR: No	Effect: As mount, only you summon multiple mounts and they are equipped; see text.	Target: One mount/level
+ 
+Remove Blindness/Deafness (Conjuration)
+Saves: Fortitude negates (harmless)	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless)	Effect: Cures normal or magical conditions.	Target: Creature touched
+ 
+Remove Curse (Abjuration)
+Saves: Will negates (harmless)	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless)	Effect: Frees object or person from curse.	Target: Creature or item touched
+ 
+Resurgence, Mass (Abjuration)
+Saves: Will negates [harmless]	DC: 14	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (30 ft.)	Components: V,S,DF
+SR: Yes [harmless]	Effect: Same as resurgence, except it affects multiple targets. Allows one retry on a failed save against an ongoing spell, spell-like ability, or supernatural ability.	Target: One creature/level, no two of which can be more than 30 ft. apart
+ 
+Righteous Fury (Transmutation)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 1 minute/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Gain 5 temp HP/level [max 50], +4 enhancement bonus Str.	Target: You
+ 
+Seek Eternal Rest (Conjuration)
+Saves: N/A	DC: 14	Casting: 1 standard action
+Duration: 1 hour/level	Range: Personal	Components: V,DF
+SR: N/A	Effect: Improves your turning ability to that of a cleric.	Target: You
+ 
+Undead Bane Weapon (Transmutation)
+Saves: Will negates [harmless,object]	DC: 14	Casting: 1 standard action
+Duration: 1 hour/level	Range: Touch	Components: V,S,DF
+SR: Yes [harmless,object]	Effect: Give weapon touched undead bane special ability; add +2 enhancement bonus and deals +2d6 of bonus damage.	Target: Weapon touched or fifty projectiles [all of which must be touching at the time of casting]
+ 
+Weapon of the Deity (Transmutation)
+Saves: Fortitude negates [harmless,object]	DC: 14	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,DF
+SR: Yes [harmless,object]	Effect: Imbue a weapon favored by your deity with special enhancements and abilities. See text.	Target: Weapon touched
+ 
+ 
+ 
+ 
+Level 4
+Break Enchantment (Abjuration)
+Saves: See text	DC: 15	Casting: 1 minute
+Duration: Instantaneous	Range: Close (30 ft.)	Components: V, S
+SR: No	Effect: Frees subjects from enchantments, alterations, curses, and petrification.	Target: Up to 1 creature/level, all within 30 ft. of each other
+ 
+Castigate (Evocation)
+Saves: Fortitude half	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: 10 ft.	Components: V
+SR: Yes	Effect: Deafen or damage foes, depending on their alignment.	Target: 10-ft. radius burst centered on you
+ 
+Cure Serious Wounds (Conjuration)
+Saves: Will half (harmless); see text	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless); see text	Effect: Cures 3d8 +1/level [max +15] damage.	Target: Creature touched
+ 
+Death Ward (Necromancy)
+Saves: Will negates (harmless)	DC: 15	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V, S, DF
+SR: Yes (harmless)	Effect: Grants immunity to death spells and negative energy effects.	Target: Living creature touched
+ 
+Dispel Chaos (Abjuration)
+Saves: See text	DC: 15	Casting: 1 standard action
+Duration: 1 round/level or until discharged, whichever comes first	Range: Touch	Components: V, S, DF
+SR: See text	Effect: +4 bonus against attacks.	Target: You and a touched chaotic creature from another plane; or you and an enchantment or chaotic spell on a touched creature or object
+ 
+Dispel Evil (Abjuration)
+Saves: See text	DC: 15	Casting: 1 standard action
+Duration: 1 round/level or until discharged, whichever comes first	Range: Touch	Components: V, S, DF
+SR: See text	Effect: +4 bonus against attacks.	Target: You and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or object
+ 
+Draconic Might (Transmutation)
+Saves: Fortitude negates [harmless]	DC: 15	Casting: 1 standard action
+Duration: 1 minute/level [D]	Range: Touch	Components: V,S
+SR: Yes [harmless]	Effect: Subject gains +4 bonus to Str, Dex, Con, Cha and Natural Armor. Immune to Sleep & paralysis effects.	Target: Living creature touched
+ 
+Favor of the Martyr (Necromancy)
+Saves: None	DC: 15	Casting: 1 standard action
+Duration: 1 minute/level	Range: Medium (130 ft.)	Components: V,S
+SR: Yes [harmless]	Effect: Become immune to nonlethal damage, charm and compulsion effects and attacks that fuction specifically by pain; see text	Target: One willing creature
+ 
+Holy Sword (Evocation)
+Saves: None	DC: 15	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V, S
+SR: No	Effect: Weapon becomes +5, deals +2d6 damage against evil.	Target: Melee weapon touched
+ 
+Lawful Sword (Evocation)
+Saves: None	DC: 15	Casting: 1 standard action
+Duration: 1 round/level	Range: Touch	Components: V,S
+SR: No	Effect: Like holy sword; weapon acts as +5 axiomatic [+5 enhancement bonus on attack and damage roll, lawful-aligned, deals an extra 2d6 of damage to chaotic]; see text	Target: Weapon touched
+ 
+Mark of Justice (Necromancy)
+Saves: None	DC: 15	Casting: 10 minutes
+Duration: Permanent;see text	Range: Touch	Components: V, S, DF
+SR: Yes	Effect: Designates action that will trigger curse on subject.	Target: Creature touched
+ 
+Neutralize Poison (Conjuration)
+Saves: Will negates (harmless, object)	DC: 15	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V, S, M/DF
+SR: Yes (harmless, object)	Effect: Immunizes subject against poison, detoxifies venom in or on subject.	Target: Creature or object of up to 1 cu. ft./level. touched
+ 
+Restoration (Conjuration)
+Saves: Will negates (harmless)	DC: 15	Casting: 3 rounds
+Duration: Instantaneous	Range: Touch	Components: V, S, M
+SR: Yes (harmless)	Effect: Restores level and ability score drains.	Target: Creature touched
+ 
+Revenance (Conjuration)
+Saves: None; see text	DC: 15	Casting: 1 standard action
+Duration: 1 minute/level	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Brings an ally back to life for duration of spell; see text.	Target: Dead ally touched
+ 
+Righteous Aura (Abjuration)
+Saves: N/A	DC: 15	Casting: 1 standard action
+Duration: 1 hour/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Glow as if daylight, +4 sacred bonus to Cha; if you die all within 20 ft take 2d6 damage/level [max 20d6]; see text.	Target: You
+ 
+Sacred Haven (Abjuration)
+Saves: Will negates [harmless]	DC: 15	Casting: 1 standard action
+Duration: 1 minute/level	Range: 30 ft.	Components: V,S,DF
+SR: Yes [harmless]	Effect: Creatures gains +2 sacred bonus to AC, plus retains Dex even when flatfooted or attacked by invisible creature.	Target: You and allies in a 30-ft.-radius burst centered on you
+ 
+Telepathic Aura (Divination)
+Saves: None	DC: 15	Casting: 1 standard action
+Duration: 10 minutes/level [D]	Range: 100 ft.	Components: S,DF
+SR: No	Effect: You can mentally communicate with all allies in range.	Target: 100-ft.-radius emanation centered on you
+ 
+Visage of the Deity, Lesser (Transmutation)
+Saves: N/A	DC: 15	Casting: 1 standard action
+Duration: 1 round/level	Range: Personal	Components: V,S,DF
+SR: N/A	Effect: Your form becomes more like your deity's; see text	Target: You
+ 
+Winged Mount (Transmutation)
+Saves: Fortitude negates [harmless]	DC: 15	Casting: 1 standard action
+Duration: 10 minutes/level	Range: Touch	Components: V,S,DF
+SR: Yes [harmless]	Effect: Mount gains fly speed of 60 with maneurverability of good.	Target: Your touched mount
+ 
+ 
+ 
+           
+
+      
+ 
+------------------------ Description -----------------------
+Height: 4' 3" Weight: 194 lbs. Gender: Male	
+Eyes:   Brown Hair: Brown,Braided Skin: Light-Earthen Tones
+Dominant Hand: Right Quirks: Has Distinctive Possession, Even tempered	
+Speech style: Normal Quotable: "Clangeddin's Fury, Clangeddin's Honor!"</text>
+ 
+Full Description
+DESCRIPTION
+ 
+Background
+See Thorin Background.

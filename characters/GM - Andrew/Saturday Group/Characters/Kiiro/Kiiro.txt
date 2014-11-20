@@ -1,0 +1,43 @@
+1st level: 53CP
+2nd level: 27CP
+3rd level: 33CP
+
+Expenditures
+
+1st:
+Proficiencies - All simple/Longsword (6CP)
+1d10 (6CP)
++1 BAB (6CP)
+1Ref (3CP)
+Fast Learner - Specialized/Skills (6CP)
+Innate Enchantment - Dimension Hop 2000gp, +2 Dex 1400gp, Sidestep 700gp, Skill Mastery (Dex) 700gp (6CP)
+Immunity - Innate Enchantment (Dimension Hop manifester level equal to character level) (12CP)
+Finesse - Dex to Hit (6CP)
+Skills (2CP)
+
+2nd:
+1d10 (6CP)
++1 BAB (6CP)
+Finesse - Int to Damage (6CP)
+Augment Attack - 1d6 Sneak attack (3CP)
++1 Fort (3CP)
++1 Will (3CP)
+
+Skill points at level 2: 16
+
+3rd:
+1d10 (6CP)
++1 BAB (6CP)
++2 Will, +1 Fort (9CP)
+Berserker - +4 Manifester Level, +4 Dex - Corrupted/Only triggers during a hallucination (4CP)
+Awareness (6CP)
+2CP left over
+
+Skills:
+
+Acrobatics - 6
+Martial Arts (Dex) - 6
+Perception - 6
+Stealth - 6
+Computer Use - 3
+Thievery - 3

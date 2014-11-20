@@ -1,0 +1,296 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Combat Medic
+TABNAME:Con2010 - Combat Medic
+PLAYERNAME:
+HEIGHT:58
+WEIGHT:145
+AGE:140
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Emerald
+HAIRCOLOR:Seaweed Green
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:14
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:17
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Fedyra
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d20)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d08)|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Cleric|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=1|HITPOINTS:20|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:6|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:5|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=3|HITPOINTS:8|PRESTAT:WIS=1|PRESTAT:INT=1|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=4|HITPOINTS:5|SKILLSGAINED:3|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:14550
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:24|
+SKILL:Bluff|OUTPUTORDER:29|
+SKILL:Climb|OUTPUTORDER:26|
+SKILL:Concentration|OUTPUTORDER:31|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:37|
+SKILL:Disguise|OUTPUTORDER:30|
+SKILL:Endurance|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:25|
+SKILL:Forgery|OUTPUTORDER:32|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:41|
+SKILL:Intimidate|OUTPUTORDER:38|
+SKILL:Jump|OUTPUTORDER:27|
+SKILL:Listen|OUTPUTORDER:33|
+SKILL:Move Silently|OUTPUTORDER:40|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:36|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Persuasion|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:16|
+SKILL:Search|OUTPUTORDER:35|
+SKILL:Sense Motive|OUTPUTORDER:17|
+SKILL:Sneak|OUTPUTORDER:18|
+SKILL:Spot|OUTPUTORDER:34|
+SKILL:ST Skill|OUTPUTORDER:19|
+SKILL:Stealth|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:4.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:28|
+SKILL:Thievery|OUTPUTORDER:23|
+SKILL:Use Rope|OUTPUTORDER:39|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+SKILL:Profession (Herbalist)|OUTPUTORDER:14|
+SKILL:Knowledge (Religion)|OUTPUTORDER:10|
+SKILL:Psychic (Psychic Healing)|OUTPUTORDER:15|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:22|
+
+# Character Languages
+LANGUAGE:Elven|LANGUAGE:Sylvan|LANGUAGE:Draconic|LANGUAGE:Terran|LANGUAGE:Tradetongue
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Fedyra Fey Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Oread|TYPE:FedyraFeyPackage.EclipseAbilityOutput|DESC:+2 Enhancement Bonus to Strength (Unlimited Use, L1 at CL1, Personal-Only, 1400 GP),Identify Minerals 3/Day (L0 at CL1, 600 GP), Hide Like Ox/+1 Natural Armor (Unlimited Use, L1 at CL1, Personal-Only, 1400 GP), Shillelagh (Unlimited Use, L1 at CL1, 2000 GP), Detect Snares and Pits (Unlimited Use, L1 at CL1, 2000 GP).
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+ABILITY:Fedyra Dragon Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Green ~ Delay Poison|TYPE:FedyraDragonPackage.EclipseAbilityOutput.GreenDragon
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+ABILITY:Fedyra Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stat Boost ~ Wisdom +2|TYPE:FedyraStat
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic|APPLIEDTO:|TYPE:General.Extras
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Cleric|APPLIEDTO:,|TYPE:CasterLevel.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Wild Talent|APPLIEDTO:Psychic (Psychic Healing)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn the selected psychic skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Blessing|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Blessing allows you to give others abilities equal to your own. Although powerful and versatile, Blessing comes with built-in flaws&colon; you can only bless others when your abilities exceed theirs, and you lose the difference. As an alternative, the user may opt to "share" a particular item slot and the benefits of whatever occupies it. ! For example, a character with Blessing and +8 BAB could give another character with +5 BAB the difference. His or her BAB would then fall to +5. The Blessing lasts for 24 hours without being renewed, and the 'Blesser" may take back his or her abilities at any time. The Blessing ends if either dies.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evasive ~ Very Common Actions|APPLIEDTO:No Attack of Opportunity after casting a Beneficial Spell|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:Evasive characters may take an action (select one) that usually provokes an Attack of Opportunity without being so exposed. You may take this multiple times, selecting a different action each time.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Grant of Aid|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You are automatically healed of 1d8+5 points of damage or 1d3 points of attribute damage or 1 negative level (select as needed) once per day per three levels or part thereof. This does not require an action; the player simply decides when it happens.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cleric No Package Magic Level|APPLIEDTO:,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Reflex Training|APPLIEDTO:May take a standard action after casting a Beneficial Cleric Spell|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). With Reflex Training, a character gains a free, immediate, Standard Action under some particular circumstance. You cannot string together more reflexive actions than your relevant attribute bonus (usually Str Mod or Dex Mod). Alternatively, the character may instead simply take an extra Standard Action at any time 3 times per day. You may not use this version more than once per round.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Magic Levels|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Heal,Healing ~ Physical Healing,Perception,Diplomacy|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Cleric Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;CLERIC&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+USERPOOL:Character Points|POOLPOINTS:1.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Alchemy,Diplomacy,Endurance,Heal,Healing ~ Mental Healing,Healing ~ Physical Healing,Knowledge (Religion),Perception,Persuasion,Profession (Apothecary),Profession (Herbalist),Spellcraft,Stealth,Survival,Use Rope|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Ancient Evil|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Rushes to Aid any injured companion|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+USERPOOL:Disadvantages|POOLPOINTS:-1.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Heal,Heal,Heal,Heal,Heal,Heal,Heal,Heal,Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Knowledge (Religion),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Psychic (Psychic Healing),Perception,Perception,Perception,Perception,Perception,Perception,Perception,Perception|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Profession (Herbalist)|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Fedyra Holy Symbol|OUTPUTORDER:1|COST:25|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Holy Symbol (Silver)|DATA:NAME=Fedyra Holy Symbol$SPROP=(Holy Symbol (Silver))]
+EQUIPNAME:Potion (Cure Serious Wounds)|OUTPUTORDER:4|COST:750|WT:0.0|QUANTITY:10.0
+EQUIPNAME:Ring (Sustenance)|OUTPUTORDER:6|COST:2500|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Priests Divine Blessings|OUTPUTORDER:5|COST:2300.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Priests Divine Blessings|DATA:NAME=Priests Divine Blessings$EQMOD=PLUS1W]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.1|VALUE:Fedyra Holy Symbol|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.4|VALUE:Ring (Sustenance)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.5|VALUE:Potion (Cure Serious Wounds)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.6|VALUE:Priests Divine Blessings|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

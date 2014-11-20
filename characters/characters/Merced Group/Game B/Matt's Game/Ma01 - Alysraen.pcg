@@ -1,0 +1,334 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Alysraen
+TABNAME:Ma01 - Alysraen (L3)
+PLAYERNAME:Tasha Thurston
+HEIGHT:64
+WEIGHT:125
+AGE:22
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Black
+HAIRSTYLE:Long
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d08)|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Druid|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:8|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:8|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=3|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:31|
+SKILL:Bluff|OUTPUTORDER:36|
+SKILL:Climb|OUTPUTORDER:33|
+SKILL:Concentration|OUTPUTORDER:38|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:Diplomacy|OUTPUTORDER:44|
+SKILL:Disguise|OUTPUTORDER:37|
+SKILL:Endurance|OUTPUTORDER:6|
+SKILL:Escape Artist|OUTPUTORDER:32|
+SKILL:Forgery|OUTPUTORDER:39|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:48|
+SKILL:Intimidate|OUTPUTORDER:45|
+SKILL:Jump|OUTPUTORDER:34|
+SKILL:Listen|OUTPUTORDER:40|
+SKILL:Move Silently|OUTPUTORDER:47|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:43|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Persuasion|OUTPUTORDER:13|
+SKILL:Ride|OUTPUTORDER:22|
+SKILL:Search|OUTPUTORDER:42|
+SKILL:Sense Motive|OUTPUTORDER:23|
+SKILL:Sneak|OUTPUTORDER:24|
+SKILL:Spot|OUTPUTORDER:41|
+SKILL:ST Skill|OUTPUTORDER:25|
+SKILL:Stealth|OUTPUTORDER:26|
+SKILL:Survival|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:35|
+SKILL:Thievery|OUTPUTORDER:30|
+SKILL:Use Rope|OUTPUTORDER:46|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:9|
+SKILL:Knowledge (Nature)|OUTPUTORDER:10|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:28|
+SKILL:Survival (Natural environments)|OUTPUTORDER:29|
+SKILL:Psychic (Empathy)|OUTPUTORDER:15|
+SKILL:Psychic (Mental Contact)|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Psychic (Precognition)|OUTPUTORDER:17|
+SKILL:Psychic (Psychic Sense)|OUTPUTORDER:18|
+SKILL:Psychic (Psychic Shield)|OUTPUTORDER:19|
+SKILL:Psychic (Psychometry)|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Psychic (Remote Viewing)|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Psychic (Apport)|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Treant|LANGUAGE:Common|LANGUAGE:Gnome|LANGUAGE:Sylvan|LANGUAGE:Druidic
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Pyschoportation|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn psychoportation skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:With Innate Enchantment, a character has two options - His or her innate power may duplicate the effects of a magical item or items valued at up to 5000 GP (according to the standard d20 rules). The character must pay twice the normal experience point cost to create said item. For every +1 additional CP invested, these innate enchantments rise in value by 1000 GP.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Cleric Magic Levels|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Telepathy|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn telepathy skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Druid Magic Level|APPLIEDTO:,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability ~ Clairsentience|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to learn clairsentience skills.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Might|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to grant your companion the benefits of two Positive Levels (see page 86) or of a continuously active second level spell or psychic effect.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Tranform|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to take a form similar to your Companion's, and the Companion to take a form of your species. You both need not use this ability at the same time, but may if you wish.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Great Form|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to apply Righteous Might (at a Caster Level equal to your level) to a companion as a Free Action up to three times per day.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Improved Initiative|APPLIEDTO:|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Heal,Knowledge (Arcana),Knowledge (Nature),Perception|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eclipse Restrictions|APPLIEDTO:Won't wear Armor|TYPE:Character Creation.CharCreation.General|DESC:A character with restrictions has major limitations on the use of some ability or type of equipment. He or she may never (ever!) acquire or use such talents without major penalties. For example, Witch- Hunters never cast spells except to fix the problems caused by other magic on pain of losing most of their abilities. The point bonus is per category which applies. A character only gains the bonus points for restrictions on things that would obviously useful to him or her. Common restrictions include wearing no armor, using no weapons, using no magic or psionics, or skill-related feats. A good explanation is in order. Why is the character restricted in this way?
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Druid Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;CLERIC&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Words|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Power Words enable the character to store up to (Con score/3) total spell levels and release them as Move-Equivalent Actions. A character may release one spell per round in this fashion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Immunity|APPLIEDTO:Initial 1st level purchases with Innate Enchantment (2cp)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:See immunity
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eldritch|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(0 CP). You may call upon exotic forces to power your magic rather than relying on the usual sources. In other words, your magic may have strange special effects for free. This has no direct game effect, but gives you more style. Eldritch abilities that cost spell levels do not extend the casting time.|DESC:Characters using advanced Eldritch feats must select and describe the source of their powers. Other characters with the Eldritch feat and the same source receive no penalties or advantages when facing the user. All three effects may be taken as a set for only 6 CP, but this cannot then be 'turned off." It also limits use of magic items to items made by a character with at least one of these modifiers. Many settings have spells usable only with Eldritch magic, and others not usable at all with Eldritch magic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Skill ~ Psychic Ability|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You have the potential to acquire psychic feats and skills.
+USERPOOL:Character Points|POOLPOINTS:12.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Alchemy,Appraise,Athletics,Deception,Endurance,Gather Information,Handle Animal,Heal,Knowledge (Arcana),Knowledge (Nature),Perception,Persuasion,Survival,Craft (Alchemy)|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:GM and Player to Determine|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Must perform seasonal rituals|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Wisdom Boost +2 ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Force Armor I ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Detect Magic|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:(+700) At-will personal use at L1 caster level.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Intelligence Boost +2 ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Familiar|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Heal,Heal,Heal,Heal,Heal,Heal,Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Nature),Knowledge (Nature),Knowledge (Nature),Knowledge (Nature),Knowledge (Nature),Knowledge (Nature),Perception,Perception,Perception,Perception,Perception,Perception|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Quarterstaff|OUTPUTORDER:12|COST:0.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Quarterstaff|DATA:NAME=Quarterstaff$EQMOD=WOOD$ALTEQMOD=WOOD]
+EQUIPNAME:Backpack|OUTPUTORDER:1|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Bedroll|OUTPUTORDER:2|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Lamp (Common)|OUTPUTORDER:6|COST:0.1|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Everburning Torch|OUTPUTORDER:4|COST:110|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Pouch (Belt)|OUTPUTORDER:11|COST:1|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Potion (Cure Moderate Wounds)|OUTPUTORDER:10|COST:300|WT:0.0|QUANTITY:4.0
+EQUIPNAME:Blanket (Winter)|OUTPUTORDER:3|COST:0.5|WT:3.0|QUANTITY:1.0
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:8|COST:10|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Holy Symbol (Silver)|OUTPUTORDER:5|COST:25|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Oil (1 Pt. Flask)|OUTPUTORDER:7|COST:0.1|WT:1.0|QUANTITY:2.0
+EQUIPNAME:Sack|OUTPUTORDER:13|COST:0.1|WT:0.5|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.1|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.1|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.2|VALUE:Blanket (Winter)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.3|VALUE:Everburning Torch|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.4|VALUE:Lamp (Common)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.5|VALUE:Oil (1 Pt. Flask)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.1.6|VALUE:Potion (Cure Moderate Wounds)|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.2|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Holy Symbol (Silver)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Pouch (Belt)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.5|VALUE:Quarterstaff|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.6|VALUE:Sack|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Phaedra|TYPE:Familiar|RACE:CAT|HITDICE:0|FILE:\Ma01 - Phaedra.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

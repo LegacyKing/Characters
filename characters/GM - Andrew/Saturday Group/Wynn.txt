@@ -1,0 +1,53 @@
+This is SO FAR, as of 04-12-13. Thisp may be altered if I get more information of what the background/setting is.
+
++24CP at Level 0
++24CP at level 1
++06CP for the level 1 feat
++06CP for being human feat
++10CP for Disadvantages - Irreverent, Broke, Recorder
+-----------------------------------------------------
++70CP TOTAL at Level 1
+
+-06CP - Fast Learner - Specialized for ONLY gaining 1 spell per level extra.
+-03CP - Will save +1
+-03CP - Will save +1
+-03CP - Ref save +1
+-06CP - Adept (Concentration, Spellcraft, Knowledge(Arcana), Diplomacy)
+-16CP - Sorcerer Level 1
+      - Spells Known Level 0: Light, Cure Minor Wounds, Read Magic, Detect Magic
+      - Spells Known Level 1: Light of Lunia, Cure Light Wounds
+-16CP - Sorcerer Level 2
+      - Spells Known Level 0: Prestidigitation
+      - EXTRA SPELL (Fast Learner): Magic Missile
+      - Spells Per Day: 6/4
+-06CP - Warcraft+1
+-03CP - Simple Weapon Proficiency (all)
+-02CP - Skills (described below)
+-06CP - Occult sense (Detect Evil as Cleric, at will)
+-----------------------------------------------------
+-64CP TOTAL At Level 1
+
+32 point buy attributes:
+8 Str
+12 Dex
+12 Con
+12 Int
+12 Wis
+18 Cha
+
+SKILLS:
+Level 1, 10SP (4INT, 4HUMAN, 2 purchased)
+ Each of the 4 adept skills gets maxed (8SP)
+ Two points in Heal (2SP)
+
+EQUIPMENT: 3d4x10, or 75gp is normal for sorcerer types, but I'm "broke" which means I get 1/3 of that, so I'll assume 25gp.
+Quarterstaff (0)
+Sling & bullets (1SP)
+Dagger x2 (4GP)
+Flint/Steel (1GP)
+Torch x2 (2CP)
+Spell Component Pouch (5GP)
+Backpack (2GP)
+Chalk x2 (2CP)
+Rations x4 (20SP/2GP)
+Total spent: 14GP, 1SP, 2CP.

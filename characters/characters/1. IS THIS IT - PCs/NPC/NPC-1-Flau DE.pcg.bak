@@ -1,0 +1,169 @@
+PCGVERSION:2.0
+
+# System Information
+
+VERSION:5.9.5-Alpha
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+OUTPUTSHEETHTML:E&colon;\Program Files\PCGen\pcgen-full.20060218\outputsheets\d20\fantasy\text\csheet_plain.TXT
+OUTPUTSHEETPDF:E&colon;\Program Files\PCGen\pcgen594.12.28\outputsheets\d20\fantasy\pdf\csheet_fantasy_std_blue.xslt
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Flau
+TABNAME:
+PLAYERNAME:
+HEIGHT:57
+WEIGHT:97
+AGE:132
+GENDER:Female
+HANDED:Ambidextrous
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:19
+STAT:CON|SCORE:12
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:8
+ALIGN:NE
+RACE:Elf (Drow)
+
+# Character Class(es)
+CLASS:Ranger|SUBCLASS:None|LEVEL:12|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:0,1,1,1|PROHIBITED:None
+CLASSABILITIESLEVEL:Ranger=1|HITPOINTS:8|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Humanoid (Elf))]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Humanoid_Elf(FavoredHumanoidElf)]|ABILITY:[PROMPT:FEAT(TYPE.RangerCombatStyle)|CHOICE:Two Weapon Fighting Combat Style]|SKILLSGAINED:32
+CLASSABILITIESLEVEL:Ranger=2|HITPOINTS:6|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Monstrous Humanoid)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Monstrous Humanoid(FavoredMonstrousHumanoid)]|ABILITY:[PROMPT:FEAT(TYPE.RangerCombatStyle)|CHOICE:Archery Combat Style]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=3|HITPOINTS:7|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Magical Beast)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Humanoid_Elf(FavoredHumanoidElf)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=4|HITPOINTS:8|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Dragon)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Monstrous Humanoid(FavoredMonstrousHumanoid)]|PRESTAT:STR=1|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=5|HITPOINTS:5|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Undead)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Humanoid_Gnome(FavoredHumanoidGnome)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=6|HITPOINTS:5|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Animal)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Animal(FavoredAnimal)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=7|HITPOINTS:8|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Elf Favored Enemy (Undead)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Elf Favored Bonus__Undead(ElfFavoredUndead)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=8|HITPOINTS:7|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Aberration)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Aberration(FavoredAberration)]|PRESTAT:STR=1|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=9|HITPOINTS:7|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Fey)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Humanoid_Elf(FavoredHumanoidElf)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=10|HITPOINTS:8|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemy)|CHOICE:Favored Enemy (Giant)]|ABILITY:[PROMPT:FEAT(TYPE.FavoredEnemyBonus)|CHOICE:Favored Bonus__Humanoid_Elf(FavoredHumanoidElf)]|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=11|HITPOINTS:7|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Ranger=12|HITPOINTS:8|PRESTAT:DEX=1|SKILLSGAINED:8
+
+# Character Experience
+EXPERIENCE:91000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Drow Female]
+TEMPLATESAPPLIED:[NAME:1-Andrew Mods]
+TEMPLATESAPPLIED:[NAME:1-AC 10]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Ranger|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Ranger|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:17|
+SKILL:Move Silently|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:19|
+SKILL:Search|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Ranger|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Ranger|RANKS:12.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival (Lost/Natural hazards)|OUTPUTORDER:24|
+SKILL:Survival (The Planes)|OUTPUTORDER:25|
+SKILL:Survival (Tracking)|OUTPUTORDER:26|
+SKILL:Survival (Underground)|OUTPUTORDER:27|
+SKILL:Swim|OUTPUTORDER:28|
+SKILL:Tumble|OUTPUTORDER:29|CLASSBOUGHT:[CLASS:Ranger|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:30|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Drow Sign Language|LANGUAGE:Elven|LANGUAGE:Undercommon
+
+# Character Feats
+FEAT:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+FEAT:Power Attack|TYPE:GENERAL.FIGHTER|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+FEAT:Two Weapon Defense|TYPE:GENERAL.FIGHTER|DESC:When wielding a double weapon or two weapons (not including natural weapons or unarmed strikes), you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2.
+FEAT:Weapon Finesse|TYPE:GENERAL.FIGHTER|DESC:With a light weapon, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+FEAT:Weapon Focus|APPLIEDTO:Sword (Short)|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEAT:Improved Toughness|TYPE:FIGHTER.GENERAL|DESC:Gain hp equal to your current HD
+FEAT:Powerful Two-Weapon Fighting|TYPE:GENERAL.FIGHTER|DESC:You are able to use a one-handed weapon in your off-hand as if it were a light weapon. Also, you may apply your Strength bonus instead of 1/2 your Strength bonus to weapon damage with an off-hand weapon, whether it is a light weapon, one-handed weapon, or part of a double weapon.
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion]
+WEAPONPROF:[WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)]
+WEAPONPROF:[WEAPON:Morningstar|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard/Exotic)|WEAPON:Sword (Bastard/Martial)]
+WEAPONPROF:[WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven/Martial)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Willow Blade (Bastard Sword+3)|OUTPUTORDER:2|COST:50335.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Willow Blade (Bastard Sword+3)|DATA:NAME=Willow Blade (Bastard Sword+3)$EQMOD=STEEL]
+EQUIPNAME:Sword (Short/Masterwork)|OUTPUTORDER:1|COST:310.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Sword (Short)|DATA:NAME=Sword (Short/Masterwork)$EQMOD=MWORKW.STEEL]
+EQUIPNAME:Skirt of Dancing Blades|OUTPUTORDER:1|COST:80306.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:DANCE|DATA:NAME=Skirt of Dancing Blades]
+EQUIPSET:Default Set|ID:0.1
+EQUIPSET:Secondary Hand|ID:0.1.1|VALUE:Skirt of Dancing Blades|QUANTITY:1.0
+EQUIPSET:Primary Hand|ID:0.1.2|VALUE:Willow Blade (Bastard Sword+3)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.1.3|VALUE:Sword (Short/Masterwork)|QUANTITY:1.0
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:LV4 =Faith - 9 (Wis 14 +2)&cr;&nl;
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

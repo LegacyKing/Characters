@@ -1,0 +1,340 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Base)|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - Distinctions and Demerits|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.2
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Vincent Green
+TABNAME:AA15 - Vincent L6
+PLAYERNAME:Conor
+HEIGHT:72
+WEIGHT:150
+AGE:25
+GENDER:Male
+HANDED:Right
+SKINCOLOR:Tan
+EYECOLOR:Green
+HAIRCOLOR:Blond
+HAIRSTYLE:Short
+LOCATION:Adventuring
+CITY:Hilsfar
+BIRTHDAY:Year of the Pony (492)
+BIRTHPLACE:Unknown
+PERSONALITYTRAIT1:Extrovert
+PERSONALITYTRAIT2:Control Freak
+SPEECHPATTERN:Normal
+PHOBIAS:Loss of Control
+INTERESTS:Time
+CATCHPHRASE:Time is my servant
+PORTRAIT:C&colon;\Users\Andrew\Desktop\Vincent_Green.jpg
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:13
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:14
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d08)|LEVEL:6|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:8|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=3|HITPOINTS:4|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=4|HITPOINTS:5|PRESTAT:CON=1|PRESTAT:INT=1|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=5|HITPOINTS:4|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=6|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:15000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels|CHOSENTEMPLATE:[NAME:First Level Eclipse]]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+TEMPLATESAPPLIED:[NAME:Level Adjustment Buy down 1]
+TEMPLATESAPPLIED:[NAME:Dragonblooded]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:26|
+SKILL:Bluff|OUTPUTORDER:31|
+SKILL:Climb|OUTPUTORDER:28|
+SKILL:Concentration|OUTPUTORDER:33|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:39|
+SKILL:Disguise|OUTPUTORDER:32|
+SKILL:Endurance|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:27|
+SKILL:Forgery|OUTPUTORDER:34|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:43|
+SKILL:Intimidate|OUTPUTORDER:40|
+SKILL:Jump|OUTPUTORDER:29|
+SKILL:Listen|OUTPUTORDER:35|
+SKILL:Move Silently|OUTPUTORDER:42|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:38|
+SKILL:Perception|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:14|
+SKILL:Search|OUTPUTORDER:37|
+SKILL:Sense Motive|OUTPUTORDER:19|
+SKILL:Sneak|OUTPUTORDER:20|
+SKILL:Spot|OUTPUTORDER:36|
+SKILL:ST Skill|OUTPUTORDER:22|
+SKILL:Stealth|OUTPUTORDER:23|
+SKILL:Survival|OUTPUTORDER:24|
+SKILL:Swim|OUTPUTORDER:30|
+SKILL:Thievery|OUTPUTORDER:25|
+SKILL:Use Rope|OUTPUTORDER:41|
+SKILL:Spellcraft|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Arcana)|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+SKILL:Rune Casting (Force)|OUTPUTORDER:15|
+SKILL:Rune Casting (Time)|OUTPUTORDER:16|
+SKILL:Rune Mastery (Force)|OUTPUTORDER:17|
+SKILL:Rune Mastery (Time)|OUTPUTORDER:18|
+
+# Character Languages
+LANGUAGE:Draconic|LANGUAGE:Sylvan|LANGUAGE:Tradetongue|LANGUAGE:Common|LANGUAGE:Celestial
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eldritch|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(0 CP). You may call upon exotic forces to power your magic rather than relying on the usual sources. In other words, your magic may have strange special effects for free. This has no direct game effect, but gives you more style. Eldritch abilities that cost spell levels do not extend the casting time.|DESC:Characters using advanced Eldritch feats must select and describe the source of their powers. Other characters with the Eldritch feat and the same source receive no penalties or advantages when facing the user. All three effects may be taken as a set for only 6 CP, but this cannot then be "turned off." It also limits use of magic items to items made by a character with at least one of these modifiers. Many settings have spells usable only with Eldritch magic, and others not usable at all with Eldritch magic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spirit Weapon ~ Exotic Appearance|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:(+3 CP) upgrades the Spirit Weapon to look like almost anything the user desires, such as "Bolts of Black Lighting" rather than a short bow.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus ~ Mastery Improved|APPLIEDTO:Rune Casting (Force),Rune Casting (Time),Rune Mastery (Force),Rune Mastery (Time)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:additional +1 to existing choices
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Berserker|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). The Berserker ability grants extreme but short-lived bonuses. The user normally gains +4 to two attributes, +2 to a saving throw or AC, and -2 to another attribute, save, or AC for (3+Con Mod) rounds 1/day. The user gains another berserk session per day per 3 character levels or part thereof. The user becomes fatigued after using Berserker. GM's should note that the character may not generally do anything else but a specified, focused task or similar stunt. For the classic barbarian rage, the character can do little except immediate, physical skills and tasks, mostly meaning combat. Note that the guidelines on where the bonuses should  go are not meant as absolute rules; let a character picksomething appropriate. AC, damage bonuses, to-hit bonuses, Caster Level, or even turning might all be acceptable choices depending on the character. The bonuses must simply total +8 (the character may apply a -2 penalty somewhere to add an additional +2).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spirit Weapon ~ Ranged|APPLIEDTO:Longbow|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable.SpiritWeapon|DESC:(9 CP). With Spirit Weapon, the character may manifest a personal-use weapon which does subdual or lethal damage. The character picks either subdual or physical, not both, and the user also chooses slashing, piercing, crushing, a magical energy type, or a non-magical energy for the damage type. Most characters who take this also purchase Imbuement (page 53). The weapon may be any the user is proficient with including unarmed strikes. Unarmed strikes bought with the Spirit Weapon power are considered armed attacks. Spirit Weapon damage may be upgraded as per Martial Arts.|DESC:Damage dealt %1d%2&pipe;SpiritWeapon&pipe;SpiritWeaponSize
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Chosen Ones|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Ability Focus ~ Group of Abilities|APPLIEDTO:Time Magic|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You add +2 to the DC of resisting to a particular school, technique, descriptor, domain, or path of magic, a small group of innate magical abilities, or another modest group of abilities.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus|APPLIEDTO:Rune Casting (Force),Rune Casting (Time),Rune Mastery (Force),Rune Mastery (Time)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:+3 bonus to any single skill. Skill Focus stacks with Skill Emphasis.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Berserker ~ Enduring|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) removes the fatigue after the berserker session. This is often combined with Corrupted Bonus Uses (only to extend the duration).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Overwhelm|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:(6 CP). A character with this may choose to use Overwhelm Attacks. These function exactly as normal attacks but can drive opponents back 5 feet. Enemies resist as per Bull Rush. Note that this renders any subsequent attacks without a ranged weapon useless that round if it succeeds. Reach allows for subsequent attacks as well.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple and Martial Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple and martial weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus ~ Mastery|APPLIEDTO:Rune Casting (Force),Rune Casting (Time),Rune Mastery (Force),Rune Mastery (Time)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:+1 to existing choices
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Emphasis|APPLIEDTO:Rune Casting (Force),Rune Casting (Time),Rune Mastery (Force),Rune Mastery (Time)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:This grants a +2 bonus on any single skill.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rite of Chi|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Given a few minutes of rest, one with the knowledge of Chi may regain 4d6 power, 2d6 spell levels (the user allocates where these go), or 1d6 Mana once per day. Characters may use this more often, but incur a cumulative -1 negative level each time (these go away in 24 hours). Characters with Bonus Uses do not suffer this as long as their Bonus Uses hold out.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Skills|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana|APPLIEDTO:,,,|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Every level of this ability taken grants an extra 1d6 points of personal Mana, 2d4 generic spell levels, or 3d6 Power. Characters without other psychic abilities do not become vulnerable to psychic attack modes if the game's current rules make psychics more vulnerable to each other. Mana can help with spellcasting, while Power often fuels meditative or martial arts abilities aside from psychic powers. Unfortunately, while Mana is extremely flexible, it recovers at a mere one point per day, two with rest and meditation. Power andgeneric spell levels recover each day, as usual. As a general rule, 1 point of Mana equates to 2 spell levels or 4 Psionic Power - or one charge from a magic item. Mana is commonly used to power exotic abilities. Abilities which would normally be uses-perday may be designated as using personal Mana instead at 1 use for 2 Mana. If Mana is required as an extra limitation, such powers usually count as Corrupted. Any character with Mana may select one of the forms of Natural Magic described below at no cost. Adding additional forms costs +6 CP each.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Berserker ~ Odinpower|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) usually increases the bonuses to +6, +6 and +3 respectively. The total increases to +13.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Rune Casting (Time),Rune Casting (Force),Rune Mastery (Force),Rune Mastery (Time)|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,,,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+USERPOOL:Character Points|POOLPOINTS:12.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Endurance,Heal,Knowledge (Arcana),Perception,Persuasion,Rune Casting (Force),Rune Mastery (Force),Rune Mastery (Time),Spellcraft,Stealth,Survival,Use Rope,Rune Casting (Time)|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Tabarath Cult|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Showman|TYPE:Disadvantage.DisadvantageCounter|DESC:You compulsively posture, show off, gloat, and brag - giving away your plans and wasting time eve n in combat. You take a -3 Initiative penalty, while others get a +3 bonus on any checks that involve finding out what you're planning to do or are doing at the moment.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Enjoys toying with Time|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+ABILITY:Natural Magic Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana ~ Spell Enhancement|TYPE:NaturalMagicChoice.EclipseAbilityOutput|DESC:You may spend up to three points of personal Mana to enhance a spell. Each point may be used to reduce the effective level of a spell (for casting purposes only) by 1, to add 1 level's worth of known metamagic to it, or to increase the effective Caster Level by +2.
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+ABILITY:Mana Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana ~ Mana Points|APPLIEDTO:,,,|TYPE:ManaChoice.EclipseAbilityOutput|DESC:Grants %1d%2 Mana&pipe;ManaDice&pipe;ManaSize
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Force),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Mastery (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Time),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force),Rune Casting (Force)|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Persuasion|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+ABILITY:Spirit Weapon Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Longbow|TYPE:SpiritWeaponChoice
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Distinctions|POOLPOINTS:0.0
+USERPOOL:Demerits|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Chakram|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)]
+WEAPONPROF:[WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub]
+WEAPONPROF:[WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Kukri]
+WEAPONPROF:[WEAPON:Lance|WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scourge|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)]
+WEAPONPROF:[WEAPON:Sword (Short)|WEAPON:Sword Staff|WEAPON:Trident|WEAPON:Unarmed|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Special Boots|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Special Backpack of Holding|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Sentient Rod of Any Weapon|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Faerie Garb|OUTPUTORDER:5|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb|DATA:EQMOD=CLOTH]
+EQUIPNAME:Faerie Garb (Legacy)|OUTPUTORDER:6|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb (Legacy)|DATA:EQMOD=CLOTH]
+EQUIPNAME:Faerie Garb A|OUTPUTORDER:7|COST:1.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb Merced|DATA:KEY=Faerie Garb Merced$EQMOD=CLOTH]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Sentient Rod of Any Weapon|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Special Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.5|VALUE:Special Boots|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

@@ -1,0 +1,104 @@
+
+	
+
+
+
+
+#Enhancement (Add Metamagic)
+Add (Specify) Metamagic (Various)
+	SCHOOL:Transmutation	
+Level:
+Base Level Level of the spell to be affected
+1-3 4-6 7-9 10-12
+Requires 1 2 3 4
+Then add the number of levels of metamagic
+you wish to enhance the target spell with to
+the listed base. For an extra +3 levels the
+metamagic to be added may be left
+unspecified until the spell is cast,
+although the number of levels to be
+added remains fixed.
+	COMPS:V, S
+	CASTTIME:One standard action
+	RANGE:Touch, +1 level per additional range category
+	TARGETAREA:Spellcasting creature touched
+	DURATION:Special
+	SAVEINFO:None
+	SPELLRES:Yes (Harmless)
+	DESC:See Text
+	DESC:Add Metamagic simply adds the effects of a chosen metamagical feat or feats to another spell which is cast within the next three rounds.
+#Such spells can be stacked.
+#They are applied in the order in which they are cast and each successive spell applied must be potent enough to accommodate the enhanced level resulting from the proceeding spell. If your first selection is to add Silent Spell to your Fireball, your next Add Metamagic spell would have to be able to affect fourth level spells, since that is the neweffective level of your Fireball. For example, a spell which can affect a spell of up to L3 has a base level of 1. If it Enlarges the target spell - a +1 level metamagic - it becomes a level two spell. A spell which can add one level of any desired metamagic - Enlarge, Extend, Heighten (+1), Silent, Still, or any other +1 level metamagical modification - to a spell of up to L3 would be L5; a base of L1 for affecting a spell of up to L3, +1 for the +1 level of metamagic it adds, and +3 for being able to pick that modification at the time of casting. As a final example of stacking, if the original spell was L1, three of the basic enhancing spells from the prior paragraph could be applied - the first one raising it to L2, the second to L3, and the third to L4 - at which point it passes beyond the level at which basic enhancements can affect it.
+
+
+#Expeditious Retreat	SCHOOL:Transmutation		CLASSES:ALL=1	COMPS:V, S	CASTTIME:One standard action	RANGE:Personal	TARGETAREA:You	DURATION:One minute per level (D)	DESC:See Text
+#Expeditious Retreat.MOD	DESC:This spell increases your base land speed by 30 feet. The Longstrider variant lasts for one hour per level, but only increases base land speed by 10 feet.
+
+#Consecrate	SCHOOL:Evocation	DESCRIPTOR:Good	CLASSES:ALL=2	COMPS:V, S, M	CASTTIME:One standard action	RANGE:Close	TARGETAREA:20 foot radius emanation	DURATION:Two hours per level	SAVEINFO:None	SPELLRES:No	DESC:See Text
+#Consecrate.MOD	DESC:Consecrate infuses the area with positive energy. Turn undead checks made there gain a +3 sacred bonus. Undead and Outsiders with the Evil subtype within the area suffer a –1 penalty on attack rolls, damage rolls, and saves. Undead cannot be created within or summoned into a Consecrated area. If the area contains a permanent fixture dedicated to your patron deity, pantheon, or good-aligned higher power, the effects are doubled (+6 sacred bonus on turning checks, –2 penalties for undead in the area). You cannot consecrate an area containing a fixture dedicated to another power, but any attempt to do so cuts off its connection with that power.
+
+#Desecrate	SCHOOL:Evocation	DESCRIPTOR:Evil	CLASSES:ALL=2	COMPS:V, S, M	CASTTIME:One standard action	RANGE:Close	TARGETAREA:20 foot radius emanation	DURATION:Two hours per level	SAVEINFO:None	SPELLRES:No	DESC:See Text
+#Desecrate.MOD	DESC:Desecrate infuses an area with unholy energy. Turn Undead checks within it take a -3 profane penalty and undead within it gain a +1 profane bonus on attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD. Outsiders with the good subtype in a Desecrated area suffer a -1 penalty to attack rolls, damage rolls, and saves. If the Desecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity or evilaligned higher power, the effect is doubled and anyone who casts Animate Dead within this area may create twice as many as usual.
+#The effect is otherwise similar to Consecrate.
+
+#The Armor of Darkness version is identical, but requires dedication to evil and works on undead.
+
+#Hallow / Unhallow	SCHOOL:Evocation	DESCRIPTOR:Good|Evil	CLASSES:ALL=5	COMPS:V, S, DF	CASTTIME:Twenty-four hours	RANGE:Touch	TARGETAREA:Forty ft. radius emanating from the touched point	DURATION:Instantaneous	SAVEINFO:See text	SPELLRES:See text	DESC:See Text	DESC:Hallow and Unhallow make a site holy or unholy, thus warding it with a Magic Circle Against Evil (or Good) effect. Turn Undead checks gain a +4 sacred bonus (or -4 profane penalty), while Command Undead checks take a –4 sacred penalty (or get a +4 profane bonus).Spell resistance does not apply to this effect. Bodies interred in a Hallowed site cannot be turned into undead, but Undead created in an Unhallowed area gain +3 hit points per die. In either case the caster may fix a single spell effect to the site (which spells are eligible is up to the GM). Such spells last for a year and function throughout the site, regardless of the normal duration and area of effect. You may designate whether the effect applies to all creatures, creatures who share your faith or alignment, or creatures who adhere to another faith or alignment. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting this spell once again. Saving throws and spell resistance apply to such secondary spells normally. An area can receive only one Hallow spell (and its associated spell effect) at a time. Hallow counters but does not dispel Unhallow. Material Component: Herbs, oils, and incense worth at least 1,000 GP, plus 1,000 GP per level of the spell to be included in the Hallowed area.
+
+
+#Size Bonus
+Enlarge/Reduce Person/Animal (Specify)
+Transmutation
+Level: 1
+Components: V, S, M
+Casting Time: One standard action
+Range: Close (25 ft + 5 ft per 2 levels)
+Target: One humanoid creature (Animal)
+Duration: One minute per level (D)
+Saving Throw: Fortitude negates
+Spell Resistance: Yes
+These spells alter the size of an appropriate
+target creature by one size category. This affects
+equipment, but the creature’s speed does not
+change. Adjust damage from the target
+creature’s melee attacks accordingly, but
+projectile damage does not change save for
+using the character’s new Strength since items
+which leave the character’s possession return to
+normal size. Magical properties, abilities, spells,
+and items do not change. Opposing spells
+designed to increase and decrease size cancel
+each other fully or partially as appropriate and
+only the strongest current spell of each type is
+effective.
+If insufficient room is available for size increases
+the creature attains the maximum possible size and
+may make a Strength check (using its increased
+Strength) to burst any enclosures in the process. If it
+fails, it is constrained without harm by the materials
+enclosing it. The spell cannot crush a creature by
+increasing its size.
+Note that this spell does not correspond to the
+SRD version of Enlarge or Reduce Person: it uses the
+standard size chart rather than specified, and smaller,
+bonuses. Game masters should play up the problems
+of changing size or, if this effect remains overpowered
+in their games, assign penalties for being clumsy at
+this unnatural size.
+Size of the Mote
+Level: 2
+Size of the Mote reduces the target creature by
+two size categories. It is otherwise identical to Reduce
+Person.
+Giant’s Wrath
+Level: 3
+Giant’s Wrath enlarges the target creature by two
+size categories and provides it with damage reduction
++3/- as a size bonus. It is otherwise identical to
+Enlarge Person.
+
+
+
+
+
+

@@ -1,0 +1,147 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Advanced Players|CAMPAIGN:Arcana Evolved|CAMPAIGN:Champions of Valor|CAMPAIGN:Is This It? (Complete)
+VERSION:5.9.8-Beta
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:New1
+TABNAME:
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:142
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:12
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Half-Elf
+
+# Character Class(es)
+CLASS:Mage Blade|SUBCLASS:None|LEVEL:10|SKILLPOOL:55|SPELLBASE:INT|CANCASTPERDAY:4,3,3,2,0|PROHIBITED:None
+CLASSABILITIESLEVEL:Mage Blade=1|HITPOINTS:8|SKILLSGAINED:16|SKILLSREMAINING:16
+CLASSABILITIESLEVEL:Mage Blade=2|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=3|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=4|HITPOINTS:6|PRESTAT:INT=1|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=5|HITPOINTS:6|ABILITY:[PROMPT:FEAT(TYPE.Mage Blade,Armor Proficiency (Heavy),Armor Proficiency (Medium),Bloody Strike,Bonded Item,Combat Reflexes,Complex Spell,Defensive Move,Mobility,Defensive Stance,Defensive Unarmed Strike,Expertise,Improved Disarm,Improved Trip,Exotic Armor Proficiency,Exotic Weapon Proficiency,Exotic Spell,Hunter Mage,Improved Critical,Improved Initiative,Modify Spell,Point Blank Shot,Far Shot,Precise Shot,Shot on the Run,Psion,Quick Draw,Rapid Strike,Stunning Blow,Two-Weapon Fighting,Weapon Finesse,Weapon Focus)|CHOICE:Athame Retort]|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=6|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=7|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:4
+CLASSABILITIESLEVEL:Mage Blade=8|HITPOINTS:6|PRESTAT:INT=1|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Mage Blade=9|HITPOINTS:6|SKILLSGAINED:5|SKILLSREMAINING:5
+CLASSABILITIESLEVEL:Mage Blade=10|HITPOINTS:6|ABILITY:[PROMPT:FEAT(TYPE.Mage Blade,Armor Proficiency (Heavy),Armor Proficiency (Medium),Bloody Strike,Bonded Item,Combat Reflexes,Complex Spell,Defensive Move,Mobility,Defensive Stance,Defensive Unarmed Strike,Expertise,Improved Disarm,Improved Trip,Exotic Armor Proficiency,Exotic Weapon Proficiency,Exotic Spell,Hunter Mage,Improved Critical,Improved Initiative,Modify Spell,Point Blank Shot,Far Shot,Precise Shot,Shot on the Run,Psion,Quick Draw,Rapid Strike,Stunning Blow,Two-Weapon Fighting,Weapon Finesse,Weapon Focus)|CHOICE:Born to the Blade]|POSTSTAT:INT=2|SKILLSGAINED:5|SKILLSREMAINING:5
+
+# Character Experience
+EXPERIENCE:45000
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Listen|OUTPUTORDER:16|
+SKILL:Move Silently|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:18|
+SKILL:Search|OUTPUTORDER:19|
+SKILL:Sense Motive|OUTPUTORDER:20|
+SKILL:Spot|OUTPUTORDER:21|
+SKILL:Survival|OUTPUTORDER:22|
+SKILL:Survival (Lost/Natural hazards)|OUTPUTORDER:23|
+SKILL:Survival (The Planes)|OUTPUTORDER:24|
+SKILL:Survival (Tracking)|OUTPUTORDER:25|
+SKILL:Survival (Underground)|OUTPUTORDER:26|
+SKILL:Swim|OUTPUTORDER:27|
+SKILL:Use Rope|OUTPUTORDER:28|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:6.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Javelin|WEAPON:Longspear]
+WEAPONPROF:[WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:0|COST:0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Explorer's)|DATA:COSTMOD=-10]
+EQUIPSET:Default Set|ID:0.1
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLLIST:Mage Blade|Simple
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

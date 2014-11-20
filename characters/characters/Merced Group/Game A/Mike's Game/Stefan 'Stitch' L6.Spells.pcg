@@ -1,0 +1,832 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Base)|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - Distinctions and Demerits|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.2
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:N
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Stefan 'Stitch'
+TABNAME:M04 - Stitch L6
+PLAYERNAME:Max Johnson
+HEIGHT:73
+WEIGHT:180
+AGE:75
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:White
+HAIRSTYLE:Balding
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:14
+STAT:INT|SCORE:15
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:14
+ALIGN:LG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d10)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Cleric|LEVEL:0|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:
+CLASS:Eclipse Point Buy (d06)|LEVEL:5|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d10)=1|HITPOINTS:10|PRESTAT:STR=-3|PRESTAT:DEX=-3|PRESTAT:CON=-3|PRESTAT:INT=3|PRESTAT:WIS=3|PRESTAT:CHA=3|SKILLSGAINED:8|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:5|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:6|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:5|PRESTAT:INT=1|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=4|HITPOINTS:2|PRESTAT:STR=-1|PRESTAT:DEX=1|PRESTAT:CON=1|PRESTAT:INT=-1|PRESTAT:WIS=-3|PRESTAT:CHA=-3|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=5|HITPOINTS:4|SKILLSGAINED:5|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:21000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:24|
+SKILL:Bluff|OUTPUTORDER:29|
+SKILL:Climb|OUTPUTORDER:26|
+SKILL:Concentration|OUTPUTORDER:31|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:39|
+SKILL:Disguise|OUTPUTORDER:30|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:25|
+SKILL:Forgery|OUTPUTORDER:32|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:43|
+SKILL:Intimidate|OUTPUTORDER:40|
+SKILL:Jump|OUTPUTORDER:27|
+SKILL:Listen|OUTPUTORDER:35|
+SKILL:Move Silently|OUTPUTORDER:42|
+SKILL:Mystic Artist Skill|OUTPUTORDER:12|
+SKILL:Notice|OUTPUTORDER:38|
+SKILL:Perception|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:7.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:14|
+SKILL:Ride|OUTPUTORDER:15|
+SKILL:Search|OUTPUTORDER:37|
+SKILL:Sense Motive|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:7.0|COST:1|CLASSSKILL:N]
+SKILL:Sneak|OUTPUTORDER:17|
+SKILL:Spot|OUTPUTORDER:36|
+SKILL:ST Skill|OUTPUTORDER:19|
+SKILL:Stealth|OUTPUTORDER:20|
+SKILL:Survival|OUTPUTORDER:21|
+SKILL:Swim|OUTPUTORDER:28|
+SKILL:Thievery|OUTPUTORDER:23|
+SKILL:Use Rope|OUTPUTORDER:41|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d10)|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Spellcraft|OUTPUTORDER:18|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:22|
+SKILL:Use Magic Device|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Use Magic Device (Scroll)|OUTPUTORDER:34|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+
+# Character Languages
+LANGUAGE:Draconic|LANGUAGE:Infernal|LANGUAGE:Dwarven|LANGUAGE:Common|LANGUAGE:Terran
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Vow Of Poverty Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Exalted Feat Choice|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Occult Sense|APPLIEDTO:Diagnosis|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Occult Sense grants the character a new sense, such as lowlight vision, deathsight (allowing you to sense when someone is near death), the ability to accurately date objects by touch, the ability to sense radiation or magnetic fields, the ability to see ethereal spirits, automatically sensing the current astrological modifiers (if such things are used), and so on. Occult Sense generally counteracts minor penalties or allows minor added abilities. More powerful senses, such as Darkvision (where the character sees even in total darkness) cost the same, but come with limitations. This usually amounts to either being usable 3/day with a duration in rounds equal to the character's level or greatly limited range, usually 60'. Extremely powerful senses are usually only usable in special circumstances.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Self Development|APPLIEDTO:|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). This feat increases a character's attribute by +1 for a specific purpose, such as Strength for to-hit bonuses or Dex for AC calculation. This ability helps low attributes more than high ones. Attributes with a base score of 3-6 or 7-9 go up by +3 or +2, respectively, instead of by +1.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Easy|TYPE:EclipseAbilityOutput.Metamagical.Corruptable.Streamline|DESC:You have learned to substitute raw power for some of the usual requirements of your spells.|DESC:(6 CP).  Common applications of this technique include&colon; ! Material (+1 SL) removes the need for most material components unless they're integral to the spell effect. If you have a spell which animates a sword to fight, you still need the sword. However, you won't need ruby dust to sprinkle it with. The classic Eschew Materials feat does not increase the spell level, but only works on materials and only for those costing 1 GP or less. If you want that version, it's bought as Easy, with the Streamline metamagical modifier, Specialized to materials costing 1 GP or less only, for a total of 6 CP. ! Verbal (+1 SL) removes the need for incantations. ! Somatic (+1 SL) removes the need for gestures and arcane spell failure chance. ! Temporal (+1 SL) allows the caster to use the spell as a Free Action. Unfortunately, since you can't take any time to speak, gesture, or get out components, you must also apply the Material, Verbal, and Somatic effects for a total of +4 spell levels. Using this effect on spells with lengthy casting times requires another +1 SL, +2 SL if the normal casting time is measured in hours or more. The classic Quicken feat states that "you can cast a spell with a moment's thought." It isn't quite clear as to what this means or whether it effectively includes the Silent Spell and Still Spell feats; official and unofficial statements seem to go both ways. If you feel that the +4 level cost does not include one more of the earlier effects simply increase the spell level adjustment for Temporal by the number you do not include.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Extension|TYPE:EclipseAbilityOutput.Metamagical.Corruptable.Streamline|DESC:Extension covers the fine art of manipulating the range of spells.|DESC:(6 CP).  Common applications include&colon;! Extension (+1 SL per step) increases the range of a spell from Touch to Short, Short to Medium, Medium to Long, Long to Extreme (800 ft + 80 ft/Level), and Extreme to Line of Sight (limited only by the user's direct vision). ! Indirect Fire (+2 SL) allows the spell to hit targets within range which the user is aware of but cannot see; this is not compatible with Line of Sight. ! Global (+6 SL) amplifies the range so that it may hit any known target on a planet (or in the atmosphere). ! Trans-dimensional (+8 SL) allows the user to targetthrough scrying effects, to hit targets across the dimensional boundary, or to target people at interstellar ranges. Strangely, Trans-dimensional doesn't take any more time to reach the target than normal.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Shield Use|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Shields
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Opportunist ~ Eclipse|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). A character with Opportunist selects a particular type of action (most often a single attack) and particular situation when you normally could not take that action. You may use your action under that specific circumstance from now on. For example, the basic Rogue can attack opponents who were just injured by another character. You may take this ability multiple times. Each time it applies to a new action and/or situation.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Action Hero|APPLIEDTO:|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Cleric Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;CLERIC&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cleric No Package Magic Level|APPLIEDTO:,,,,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Triggering|TYPE:EclipseAbilityOutput.Metamagical.Corruptable.Streamline|DESC:You can set up delays or activation conditions and program your spells to choose between options on their own.|DESC:(6 CP).  Triggering options normally persist for 24 hours, except where noted otherwise. ! Holding keeps a touch spell ready while you do something else for up to 10 minutes. This costs no spell levels, although spontaneous casters do have the casting time extended as usual. ! Simple Conditions (+1 SL) or a time delay costs +1 spell level. This includes 'Activate on command,' 'Wait ten minutes,' and 'When the next group of people come by.' ! Complex Conditions (+2 SL) allow the caster to use multiple Simple triggers at once. ! Programmed Conditions (+3 SL) allow the caster to set up contingent effects (or several contingent effects) with a specified target, such as 'Activate when I reach half my hit points.' ! Mobile Focus (+1 SL) allows the spell to locate and select targets on its own initiative. These spells have a +0 ranged attack bonus, should it matter. This includes 'Fire yourself at my enemies chasing after me past the obelisk.' Also, this anchors the spell to a physical item which can be moved or left behind, whereas the previous versions either kept the spell near the caster or at a specific location.! Clockwise (+1 SL) adds to the time limit. Casters may relax the limit by an additional 24 hours with Extension. This doesn't increase the spell's duration, but will allow a trigger to remain active for longer. The caster may stack as many of these as he or she can afford.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Endurance,Heal,Persuasion,Spellcraft|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,,,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Grant of Aid|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You are automatically healed of 1d8+5 points of damage or 1d3 points of attribute damage or 1 negative level (select as needed) once per day per three levels or part thereof. This does not require an action; the player simply decides when it happens.
+USERPOOL:Character Points|POOLPOINTS:80.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Appraise,Athletics,Endurance,Heal,Knowledge (Arcana),Knowledge (Nobility and Royalty),Knowledge (Religion),Linguistics,Perception,Spellcraft,Stealth,Use Rope,Persuasion,Knowledge (History)|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Aged|TYPE:Disadvantage.DisadvantageCounter|DESC:You didn't take up adventuring until late in life. You are middle-aged or older and may, at the option of the GM, have an extra level or two with the points assigned to abilities of little use in adventuring - giving you a starting edge at the cost of a long-term penalty.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Hippocratic Oath - Must aid allies|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Obligations|APPLIEDTO:Military Service / The Church|TYPE:Disadvantage.DisadvantageCounter|DESC:You have responsibilities which you cannot easily discharge. You may have dependents, debts, a geas, massive tithes, oaths to fulfill, a job which you cannot readily leave, be sworn to the service of a lord or ruler, or just have friends who need looking after. This is a wonderful way to get dragged into adventures.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+ABILITY:Action Hero Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Action Hero ~ Stunt|TYPE:EclipseAbilityOutput.ActionHeroChoice
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Endurance,Endurance,Endurance,Endurance,Endurance,Endurance,Endurance,Endurance,Heal,Heal,Heal,Heal,Heal,Heal,Heal,Heal,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Endurance,Heal,Persuasion,Spellcraft|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Use Magic Device,Use Magic Device|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Distinctions|POOLPOINTS:0.0
+USERPOOL:Demerits|POOLPOINTS:0.0
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Hedge Mage Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:34.00
+EQUIPNAME:Club|OUTPUTORDER:1|COST:0.0|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Club|DATA:NAME=Club$EQMOD=WOOD]
+EQUIPNAME:Mithral Heavy Shield|OUTPUTORDER:4|COST:1020.0|WT:7.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Mithral Heavy Shield|DATA:NAME=Mithral Heavy Shield$EQMOD=MITHRAL_SHLD]
+EQUIPNAME:Mithral Chainmail +1|OUTPUTORDER:3|COST:6300.0|WT:10.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Mithral Chainmail|DATA:NAME=Mithral Chainmail +1$EQMOD=MITHRAL_ARMR_LT.MWORKA.PLUS1A]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Club|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Mithral Chainmail +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shield|ID:0.1.3|VALUE:Mithral Heavy Shield|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Aid|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Aid (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Air Breathing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Air Walk|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Align Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Align Weapon (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Alter Fortune|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Amanuesis|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animalistic Power|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Antidragon Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Assay Spell Resistance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Astral Hospice|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Atonement|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Attune Form|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Augury|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Aura Against Flame|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Aura of Evasion|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Avoid Planar Effects|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Awaken Sin|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Axiomatic Storm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Axiomatic Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Balor Nimbus|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bane|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bear's Endurance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bestow Curse|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Black Karma Curse|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blade Brothers|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blade of Blood|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blade of Pain and Fear|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bless|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bless Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blessed Aim|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blessing of the Righteous|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blindness/Deafness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blindsight|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blindsight (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blistering Radiance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blood Wind|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Body Blades|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Brambles|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Break Enchantment|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Briartangle|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bull's Strength|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Call Zelekhut|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Calm Emotions|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Castigate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cause Fear|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Chain of Eyes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Channeled Divine Health|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Channeled Divine Shield|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Checkmate's Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Circle Dance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cloak of Bravery|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cloak Pool|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Close Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cloud of Knives|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cold Fire|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Command|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Command (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Commune|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Condemnation|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Consecrate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Contingent Energy Resistance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Continual Flame|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Control Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Conviction|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Conviction (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Corona of Cold|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Crawling Darkness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Create Food and Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Create Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Crown of Grave|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Crown of Might|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Crown of Protection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Crown of Smiting|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Critical Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Light Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Light Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Minor Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Moderate Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Serious Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Curse of Arrow Attraction|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Curse of Ill Fortune|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Curse of Ill Fortune (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dark Way|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Darkfire|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Darkness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Daylight|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Death Throes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Death Ward|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Deeper Darkness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Deific Vegeance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Deific Vengeance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Delay Death|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Delay Disease|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Delay Poison|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Demon Dirge|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Chaos|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Law|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Poison|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Undead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Devil Blight|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dimensional Anchor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Discern Lies|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dismissal|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Chaos|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Ward|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Disrupting Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divination|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Agility|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Favor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Insight|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Interdiction|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Power|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Protection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Retaliation|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Doom|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Doomtide|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Downdraft|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dragonbreath|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Eagle's Splendor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Earth Reaver|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ebon Eyes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Endure Elements|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energized Shield|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energized Shield (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energy Aegis|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energy Vortex|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energy Vulnerability|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Enthrall|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Entropic Shield|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Etherealness (Swift)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Extend Tentacles|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Faith Healing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Favorable Sacrifice|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Fell the Greatest Foe|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Find Traps|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Flame of Faith|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Flame Strike|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Foundation of Stone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Freedom of Movement|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Frost Breath|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Fuse Arms|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Gentle Repose|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ghost Touch Armor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ghost Touch Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Giant Vermin|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Girallon's Blessing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Glowing Orb|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Glyph of Warding|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Grace|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Grave Strike|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Guidance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Guiding Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hallow|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hamatula Barbs|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hand of Divinity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hand of the Faithful|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Healing Lorecall|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Healing Spirit|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Healthful Rest|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Helping Hand|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hesitate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hide from Undead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hold Person|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Storm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Transformation|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Transformation (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hypothermia|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ice Axe|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ice Gauntlet|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Imbue with Spell Ability|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Incite|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Incorporeal Nova|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Critical Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Light Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Light Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Minor Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Moderate Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Serious Wounds|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inhibit|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inky Cloud|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insect Plague|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insight of Good Fortune|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insignia of Alarm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insignia of Blessing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insignia of Healing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insignia of Warding|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Interplanar Message|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Invest Heavy Protection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Invest Light Protection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Invest Moderate Protection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Invisibility Purge|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Iron Bones|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Iron Silence|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ironguts|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Knight's Move|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Know Opponent|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Know Vulnerabilities|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Life's Grace|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Lifebolt|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light of Lunia|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light of Mercuria|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light of Venya|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Living Undeath|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Locate Object|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Circle against Chaos|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Circle against Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Convalescence|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Stone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Vestment|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Weapon (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Make Manifest|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Make Whole|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mana Flux|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mantle of Chaos|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mantle of Law|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mark of Doom|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mark of Judgement|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mark of Justice|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mark of the Outcast|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Master's Touch ~ PHBII|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Meld into Stone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mending|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Meteoric Strike|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mold Touch|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Moon Bolt|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Moon Lust|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mystic Aegis|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Nauseating Breath|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Nchaser's Glowing Orb|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Negative Energy Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Neutralize Poison|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Nightshield|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Nimbus of Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Obscure Object|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Obscuring Mist|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Omen of Peril|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Owl's Wisdom|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Panacea|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Ally (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Exchange (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Tolerance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Plane Shift|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Poison|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Portal Beacon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Positive Energy Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Prayer|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Chaos|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Energy|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Negative Energy|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Positive Energy|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Purify Food and Drink|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Quick March|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Radiance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Raise Dead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Recitation|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Blindness/Deafness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Curse|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Disease|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Fear|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Paralysis|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Renewed Vigor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Repel Vermin|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resist Energy|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resist Energy (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resist Planar Alignment|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resistance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resistance (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Restoration|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Restoration (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resurgence|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resurgence (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Revenance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Revivify|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Righteous Might|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Righteous Wrath of the Faithful|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ring of Blades|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Safety|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sanctuary|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sanctuary (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Scholar's Touch|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Scrying|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Searing Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sending|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shadowblast|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Share Talents|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shatter|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sheltered Vitality|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield of Faith|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield of Faith (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield of Warding|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield Other|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shroud of Undeath|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sign|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Silence|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sink|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Skull Watch|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Slashing Darkness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Slay Living|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Snowshoes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Snowshoes (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sonorous Hum|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sound Burst|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sound Lance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spark of Life|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spawn Screen|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Speak with Dead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Flower|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Immunity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Immunity (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Resistance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Vulnerability|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spikes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spiritual Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stabilize|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stalwart Pact|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Status|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stay the Hand|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stifle Spell|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stone Bones|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stone Fist|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stone Shape|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stone Shape (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stretch Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Subvert Planar Essence|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Elysian Thrush|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Hound Archon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster I|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster II|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster III|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster IV|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster V|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Suppress Glyph|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Sleep|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Spell Loss|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Thorn Spray|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Tongues|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Tree Healing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Tremor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Triadspell|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:True Seeing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Undead Bane Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Undetectable Alignment|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Updraft|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Veil of Shadow|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vigor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vigor (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vigor (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vigor (Mass Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Virtue|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Visage of the Deity (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vision of Glory|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vulnerability|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Law|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Light|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Limbs|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Sand|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Stone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Water Breathing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Water Walk|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Weapon of Energy|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Weapon of Impact|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Weapon of the Deity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wind Wall|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wings of the Sea|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Zone of Respite|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Zone of Revelation|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Zone of Truth|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Fire Storm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dimensional Lock|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heavenly Host|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Ally (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bull's Strength (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hide the Path|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Miracle|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wind Walk|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Weakness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Repulsion|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animate Objects|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Geas/Quest|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Fortunate Fate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Serious Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Antilife Shell|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stone Body|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Slime Wave|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Chasing Perfection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Chain Dispel|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cometfall|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mantle of the Icy Soul|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heal|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energy Immunity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Moderate Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shield of Law|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Rejection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Death Ward (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Banishment|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Call Kolyarut|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Righteous Burst|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster VI|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Stunning|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Star|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Golem|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Glyph of Warding (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Etherealness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cure Critical Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Brilliant Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Fear|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Earthquake|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resistance (Superior)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Opalescent Glare|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Awaken Construct|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Visage of the Deity (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster IX|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Refuge|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Control Weather|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Restoration (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Chain Loop|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heroes' Feast|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Bubble|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Exchange (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Word|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Call Marut|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animalistic Power (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Forbiddance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Zealot Pact|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Immunity (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Soul Bind|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Persuasion|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spider Plague|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Critical Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster VII|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Discern Location|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Insanity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blade Barrier|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bestow Curse (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heal (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Brilliant Blade|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Storm of Vengeance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Moderate Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Owl's Wisdom (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Find the Path|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Death Pact|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Energy Drain|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stormrage|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ghost Trap|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ethereal Jaunt|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resurrection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Gate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vigorous Circle|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Lucent Lance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Withering Palm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Undeath's Eternal Foe|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Implosion|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heat Drain|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symphonic Nightmare|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Elemental Monolith|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dictum|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Ally|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Renewal Pact|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Antimagic Field|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Greater Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Destruction|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Lion's Roar|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cold Snap|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Radiant Assault|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Eagle's Splendor (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Harm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Regenerate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Visions of the Future|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:True Resurrection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster VIII|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Scrying (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bear's Endurance (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Magic (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Death|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blood to Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Word of Recall|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ice Flowers|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Plane Shift (Greater)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:8|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Revive Outsider|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Restoration (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Brain Spider|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Resistance (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Make Manifest (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Inflict Serious Wounds (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:7|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Astral Projection|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:9|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Planar Exchange|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Undeath to Death|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Visage of the Deity|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sarcophagus of Stone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Self-Development, Applied to Strength for Carrying Purposes (6 CP)&nl;&nl;#ABILITY&colon;Character Points&pipe;TYPE&colon;NORMAL&pipe;CATEGORY&colon;Special Ability&pipe;KEY&colon;Bonus Uses ~ Four&pipe;APPLIEDTO&colon;Grant of Aid&pipe;TYPE&colon;General.Extras.EclipseAbilityOutput&nl;#ABILITY&colon;Character Points&pipe;TYPE&colon;NORMAL&pipe;CATEGORY&colon;Special Ability&pipe;KEY&colon;Metamagic ~ Streamline&pipe;APPLIEDTO&colon;Metamagic 1~ Extension,Metamagic 1~ Triggering&pipe;TYPE&colon;EclipseAbilityOutput.Metamagical.Corruptable&pipe;DESC&colon;See text.&nl;
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Josh Military Set - Medium
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:1:1:0:0:0:0:0:0

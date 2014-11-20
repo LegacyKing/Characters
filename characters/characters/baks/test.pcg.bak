@@ -1,0 +1,150 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Green Ronin - Advanced Player's Manual|CAMPAIGN:testing
+VERSION:5.11.5
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:New1
+TABNAME:
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:153
+AGE:21
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:0
+STAT:DEX|SCORE:0
+STAT:CON|SCORE:0
+STAT:INT|SCORE:0
+STAT:WIS|SCORE:0
+STAT:CHA|SCORE:0
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Fighter|SUBCLASS:None|LEVEL:1|SKILLPOOL:8
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|SKILLSGAINED:8|SKILLSREMAINING:8
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Hide|OUTPUTORDER:13|
+SKILL:Intimidate|OUTPUTORDER:14|
+SKILL:Jump|OUTPUTORDER:15|
+SKILL:Listen|OUTPUTORDER:16|
+SKILL:Move Silently|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:18|
+SKILL:Search|OUTPUTORDER:19|
+SKILL:Search (Secret doors and hidden compartments)|OUTPUTORDER:20|
+SKILL:Sense Motive|OUTPUTORDER:21|
+SKILL:Spot|OUTPUTORDER:22|
+SKILL:Survival|OUTPUTORDER:23|
+SKILL:Swim|OUTPUTORDER:24|
+SKILL:Use Rope|OUTPUTORDER:25|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEAT:Blind Fight|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+FEAT:Wild Talenty|APPLIEDTO:AdaptationX|TYPE:GENERAL
+FEAT:Wild Talenty|APPLIEDTO:AdaptationY|TYPE:GENERAL
+FEAT:WILD_TALENT_TEST|APPLIEDTO:AdaptationX|TYPE:GENERAL
+FEAT:Weapon Focus|APPLIEDTO:Club|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEATPOOL:1.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Blind Fight|TYPE:GENERAL.FIGHTER.ATTACKOPTION|DESC:In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Wild Talenty|APPLIEDTO:AdaptationXAdaptationY|TYPE:GENERAL
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:WILD_TALENT_TEST|APPLIEDTO:AdaptationX|TYPE:GENERAL
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Club|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+USERPOOL:FEAT|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)]
+WEAPONPROF:[WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Trident]
+WEAPONPROF:[WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Outfit (Artisan's)|OUTPUTORDER:0|COST:0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Artisan's)|DATA:COSTMOD=-1]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

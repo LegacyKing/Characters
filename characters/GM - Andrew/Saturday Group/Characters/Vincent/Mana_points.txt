@@ -1,0 +1,25 @@
+Total: 60
+Current: 60
+Rite of Chi uses: 6
+
+Spells to remember:
+Sign (LV1) - +4 initiative
+Orb of Force (LV4)
+Haste (LV3)
+Slow (LV3)
+Ectoplasmic Feedback (LV2)
+Greater Floating Disk (LV4)
+Force Claw (LV4)
+Greater Mage Armor (LV3)
+Manyjaws (LV3)
+Shard Storm (LV5)
+Slapping Hand (LV2)
+Sword of Deception (LV4)
+Thunderlance (LV4)
+Vortex of Teeth (LV4)
+Howling Chain (LV6)
+Fly (LV3)
+
+Lance of Disruption (LV3)-5d4 + 2/level
+
+Current HP: 84

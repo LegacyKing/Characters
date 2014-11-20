@@ -1,0 +1,190 @@
+Name:       Jessabelle
+Race:       Elf (Wood)
+Player:     PLAYER 
+Classes:    Ranger10
+Hit Points: 73Experience: 45000 / 55000
+Alignment:  Neutral Good
+Vision:     Low-light
+Speed:      Walk 30 ft.
+Languages:  Common, Elven, Kercpa, Sylvan, Undercommon
+ 
+Stat    Score   Mod
+STR      16      (+3)
+DEX      19      (+4)
+CON      12      (+1)
+INT      10      (+0)
+WIS      18      (+4)
+CHA      15      (+2)
+ 
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Climb                    5        2.0      3        0
+Concentration            3        2.0      1        0
+Enhance Senses           6        2.0      4        0
+Handle Animal            10       8.0      2        0
+Heal                     10       6.0      4        0
+Hide                     7        3.0      4        0
+Jump                     6        1.0      3        2
+Knowledge (Nature)       7        5.0      0        2
+Listen                   12       6.0      4        2
+Mental Contact           4        2.0      2        0
+Move Silently            15       6.0      4        5
+Psychic Healing          6        2.0      4        0
+Ride                     7        1.0      4        2
+Search                   15       13.0     0        2
+Sense Motive             5        1.0      4        0
+Speak Language(Sylvan, Undercommon, Kercpa)  3        3.0      0        0
+Spot                     17       11.0     4        2
+Survival                 15       11.0     4        0
+Tumble                   9        5.0      4        0
+Use Rope                 6        2.0      4        0
+Appraise                 0        0.0      0        0
+Balance                  6        0.0      4        2
+Bluff                    2        0.0      2        0
+Craft (Untrained)        0        0.0      0        0
+Diplomacy                2        0.0      2        0
+Disguise                 2        0.0      2        0
+Escape Artist            4        0.0      4        0
+Forgery                  0        0.0      0        0
+Gather Information       2        0.0      2        0
+Intimidate               2        0.0      2        0
+Survival (Lost/Natural hazards)  15       11.0     4        0
+Survival (Natural environments)  28       22.0     4        2
+Survival (The Planes)    15       11.0     4        0
+Survival (Tracking)      17       11.0     4        2
+Survival (Underground)   15       11.0     4        0
+Swim                     3        0.0      3        0
+                                                    
+ 
+-------------------------- Feats ---------------------------
+Blind-Fight
+  In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+  
+Armor Proficiency (Light)
+  When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Pick Pocket, and Tumble checks.
+  
+Improved Two-Weapon Fighting
+  In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a -5 penalty.
+  
+ 
+-------------------- Special Abilities ---------------------
++2 racial saving throw bonus against enchantment spells or effects.
+An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
+Animal Companion (Ex)
+Animal Friend Martial Arts Style: When both you and your companion flank an opponent you both gain a +2 competence bonus to damage.
+Elven hound companion
+Evasion (Ex)
+Favored Enemy (Aberration) +4
+Favored Enemy (Giant) +2
+Favored Enemy, Elf (Undead) +6
+Gain special bonus to Elven Favored Enemies
+Immunity to magic sleep effects.
+Maximum Craft Points 5500
+Strongheart slayer
+Swift Tracker (Ex)
+Two Weapon Fighting Combat Style
+Wild Empathy (Ex) +14
+Woodland Stride (Ex)
+
+ 
+------------------------ Templates -------------------------
+Elven Ranger Lv:1, Elven Ranger Lv:4, Elven Ranger Lv:10, Willow Blade
+ 
+-------------------------- Combat --------------------------
+ 
+    Total / Touch / Flat Footed
+AC: 28    / 21    / 24
+ 
+Initiative:   +8
+BAB:          +10/+5
+Melee tohit:  +13/+8
+Ranged tohit: +14/+9
+ 
+Fortitude:    +8
+Reflex:       +11
+Will:         +7
+ 
+Unarmed attack:
+to hit:       +13/+8
+damage:       1d3+3
+critical:     20/x2
+ 
+Willow Blade (Bastard Sword+3/Bonded/Masterwork):
+to hit:       +15/+10
+damage:       1d10+8
+critical:     19-20/x2
+special properties: +3 Bastard Sword, able to wield in one-hand., Bonded Weapon (ex):+2 to Hit and Damage, redirect sunder damage to self, alarm on weapon, take 5d6 damage if weapon broken. 
+Sword of Water:
+to hit:       +11/+6
+damage:       1d8+5
+critical:     19-20/x2
+special properties: Resist Energy (Cold), (Longsword (+2 (Enhancement to Weapon or Ammunition)/Masterwork)) 
+Shatterspike:
+to hit:       +4/-1
+damage:       1d8+4
+critical:     19-20/x2
+special properties: Wielder with Improved Sunder could damage +4 and lower weapons 
+Morningstar (+1 (Enhancement to Weapon or Ammunition)/Masterwork):
+to hit:       +4/-1
+damage:       1d8+4
+critical:     20/x2
+ 
+Longbow Composite Str+3:
+to hit:       +14/+9
+damage:       1d8+3
+critical:     20/x3
+range:        110 ft.special properties: (Longbow (Composite/+3)), STR bonus to damage 
+--------------------- Special Abilities --------------------
+ 
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Willow Blade (Bastard Sword+3/Bonded/Masterwork)  1	2lbs	Special: +3 Bastard Sword, able to wield in one-hand., Bonded Weapon (ex):+2 to Hit and Damage, redirect sunder damage to self, alarm on weapon, take 5d6 damage if weapon broken.Sword of Water                                   1	4lbs	Special: Resist Energy (Cold), (Longsword (+2 (Enhancement to Weapon or Ammunition)/Masterwork))Ring (Energy Resistance/Fire/Minor)              1	0lbs	Special: Absorbs 10 points of Fire damageOutfit (Explorer's)                              1	8lbsMorningstar (+1 (Enhancement to Weapon or Ammunition)/Masterwork)  1	6lbsMithral Shirt (+2 (Enhancement to Armor))        1	10lbs	Special: 30hp/inch and 15 hardnessGauntlets of Ogre Power                          1	4lbsDog (Guard)                                      1	0lbsBrooch of Shielding                              1	0lbsBoots of Elvenkind                               1	1lbsBracers of Health +2                             1	0lbs	Special: (Amulet of Health +2) 
+Waterskin (0 lbs.)
+Pouch (Belt) (0.72 lbs.)
+   Coin (Copper)                                 8	0lbs   Coin (Silver)                                 3	0lbsLongbow Composite Str+3 (3 lbs.)
+Backpack (52.24 lbs.)
+   Bedroll                                       1	5lbs   Coin (Gold)                                   1551	31lbs   Potion (Aid)                                  1	0lbs   Flint and Steel                               1	0lbs   Holy Symbol (Wooden)                          1	0lbs   Rations (Trail/Per Day)                       7	7lbs   Whetstone                                     1	1lbs   Arrows (20)                                   2	6lbs   Waterskin                                     1	0lbs   Coin (Platinum)                               11	0lbs 
+Total weight caried: 
+Current load:        Light
+ 
+   Encumbrance
+Light:  76   
+Medium: 153   
+Heavy:  230
+ 
+ 
+--------------------------- Magic --------------------------
+
+
+ 
+Ranger Spells
+
+SPELLBOOKNAME0
+  
+ 
+ 
+Level 1
+Accelerated Movement (Transmutation)Saves: N/A	DC: 15	Casting: 1 swift actionDuration: 5 rounds [D]	Range: Personal	Components: V,S,MSR: N/A	Effect: You can move at your normal speed while using Balance, Climb or Move Silently.	Target: You Alarm (Abjuration)Saves: None	DC: 15	Casting: 1 standard actionDuration: 10 hours [D]	Range: Close (35 ft.)	Components: V, S, F/DFSR: No	Effect: Wards an area for 10 hours.	Target: 20-ft.-radius emanation centered on a point in space Animal Messenger (Enchantment)Saves: None; see text	DC: 15	Casting: 1 standard actionDuration: 5 days	Range: Close (35 ft.)	Components: V, S, MSR: Yes	Effect: Sends a Tiny animal to a specific place.	Target: One Tiny animal Animal Trick (Trasmutation)Saves: Will negates	DC: 15	Casting: 1 standard actionDuration: Instantaneous	Range: Close (35 ft.)	Components: V,S, DFSR: Yes	Effect: Animal companion performs a trick.	Target: One animal companion bonded to you by an animal friendship effect Arrow Mind (Divination)Saves: N/A	DC: 15	Casting: 1 immediate actionDuration: 5 minutes [D]	Range: Personal	Components: V,S,MSR: N/A	Effect: Threaten adjacent squares and may make AoO. You do not provoke AoO when using the bow.	Target: You Bloodhound (Divination)Saves: N/A	DC: 15	Casting: 1 standard actionDuration: 24 hours [D]	Range: Personal	Components: V,SSR: N/A	Effect: Grants extra checks when tracking.	Target: You Branch to Branch (Transmutation)Saves: N/A	DC: 15	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Personal	Components: V,SSR: N/A	Effect: Gain +10 competence bonus on Climb checks made in trees, also allows for brachiation.	Target: You Calm Animals (Enchantment)Saves: Will negates; see text	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Close (35 ft.)	Components: V, SSR: Yes	Effect: Calms 2d4 + 5 HD of animals.	Target: Animals within 30 ft. of each other Camoflague (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Personal	Components: V,SSR: No	Effect: Gain +10 circumstance bonus on Hide checks.	Target: You Charm Animal (Enchantment)Saves: Will negates	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Close (35 ft.)	Components: V, SSR: Yes	Effect: Makes one animal your friend.	Target: One animal Conjure Ice Beast I (Conjuration)Saves: None	DC: 15	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V,S,DFSR: No	Effect: Creates a creature to fight for you.	Target: One conjured ice creature Crunchy Snow (Transmutaton)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Medium (150 ft.)	Components: V,S,FrostfellSR: No	Effect: Cast on snow imposes -20 penalty to Move Silently checks.	Target: 5 20-ft.-by-20-ft. square of snow Dawn (Abjuration)Saves: Fortitude negates (harmless)	DC: 15	Casting: 1 standard actionDuration: Instantaneous	Range: Personal	Components: VSR: Yes	Effect: Awakens sleeping creatures.	Target: All creatures within a 15-ft.-radius burst centered on you Delay Poison (Conjuration)Saves: Fortitude negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: Stops poison from harming subject for 5 hours.	Target: Creature touched Detect Animals or Plants (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: Concentration, up to 50 minutes [D]	Range: Long (600 ft.)	Components: V, SSR: No	Effect: Detects kinds of animals or plants.	Target: Cone-shaped emanation Detect Poison (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: Instantaneous	Range: Close (35 ft.)	Components: V, SSR: No	Effect: Detects poison in one creature or small object.	Target: One creature, one object, or a 5-ft. cube Detect Snares and Pits (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: Concentration, up to 50 minutes [D]	Range: 60 ft.	Components: V, SSR: No	Effect: Reveals natural or primitive traps.	Target: Cone-shaped emanation Ease of Breath (Necromancy)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V,S,DFSR: No	Effect: Grants +20 bonus on Fortitude saves to resist altitude sickness & fatigue.	Target: Creature touched Easy Trail (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours [D]	Range: 40 ft.	Components: V,SSR: Yes	Effect: Removes movement penalties through dense brush and increases track DC by 5 for any pursurers.	Target: 40-ft. radius emanation Embrace the Wild (Transmutation)Saves: N/A	DC: 15	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Personal	Components: VSR: N/A	Effect: The caster gains an animal's sensory and skills.	Target: You Endure Elements (Abjuration)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 24 hours	Range: Touch	Components: V, SSR: Yes (harmless)	Effect: Exist comfortably in hot or cold environments.	Target: Creature touched Entangle (Transmutation)Saves: Reflex partial; see text	DC: 15	Casting: 1 standard actionDuration: 5 minutes [D]	Range: Long (600 ft.)	Components: V, S, DFSR: No	Effect: Plants entangle everyone in 40-ft.-radius circle.	Target: Plants in a 40-ft.-radius spread Exacting Shot (Transmutation)Saves: Will negates (harmless,object)	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V,SSR: Yes (harmless,object)	Effect: Strike true with a ranged weapon against your favored enemy. Any threat for critical automatically succeeds.	Target: Ranged weapon touched Guided Arrow (Divination)Saves: None	DC: 15	Casting: 1 swift actionDuration: 1 round	Range: Personal	Components: VSR: No	Effect: Targets don't get AC bonus from cover except total cover.	Target: You Guided Shot (Divination)Saves: N/A	DC: 15	Casting: 1 swift actionDuration: 5 rounds [D]	Range: Personal	Components: V,DFSR: N/A	Effect: No range increment penalties and target denied AC bonus for anything less than total cover.	Target: You Hawkeye (Transmutation)Saves: N/A	DC: 15	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Personal	Components: VSR: N/A	Effect: Increases range increment by 50% and +5 competence bonus on Spot checks.	Target: You Healing Lorecall (Divination)Saves: N/A	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Personal	Components: V,S,MSR: N/A	Effect: Allows caster with Heal ranks to remove other ailments when using Conjuration [Healing] spells. Can also heal more; see text.	Target: You Hide from Animals (Abjuration)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Touch	Components: S, DFSR: Yes	Effect: Animals can't perceive 5 subjects.	Target: 5 creatures touched Hunter's Mercy (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 1 round; see text	Range: Personal	Components: V,SSR: No	Effect: Your next bow attack automatically hits and threatens a critical.	Target: You Ice Skate (Transmutation)Saves: Fort negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: Increase base land speed by 60 feet across any icy surface, either level or inclined.	Target: Creature touched Impede Sun's Brilliance (Abjuration)Saves: None	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Close (35 ft.)	Components: SSR: No	Effect: Drops temperature by 20 degrees in a stationary area.	Target: Cylinder {10 ft. radius, 20 ft. high} Instant Search (Divination)Saves: N/A	DC: 15	Casting: 1 swift actionDuration: 1 round	Range: Personal	Components: V,SSR: N/A	Effect: You can make one Search check in this round as a free action. You gain a +2 insight bonus on the check.	Target: You Ivory Flesh (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V,SSR: Yes (harmless)	Effect: +5 Hide check in heavy snow or ice areas.	Target: Creature touched Jump (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 minutes [D]	Range: Touch	Components: V, S, MSR: Yes	Effect: Subject gets bonus on Jump checks.	Target: Creature touched Lightfoot (Transmutation)Saves: None	DC: 15	Casting: 1 swiftDuration: 1 round	Range: Personal	Components: VSR: No	Effect: You don't provoke attacks of opportunity when moving.	Target: You Locate City (Divination)Saves: None	DC: 15	Casting: 1 roundDuration: Instantaneous	Range: (CASTERLEVEL*10) miles	Components: VSR: No	Effect: Sense the distance of your nearest community of minimum size you designate.	Target: 50 miles radius circle, centered on you Locate Water (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: Concentration, up to 50 minutes	Range: Long (600 ft.)	Components: V,S,F/DFSR: No	Effect: See text.	Target: Cone-shaped emanation Longstrider (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours [D]	Range: Personal	Components: V, S, MSR: No	Effect: Increases your speed.	Target: You Low-Light Vision (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V,MSR: Yes (harmless)	Effect: Target gains low-light vision.	Target: Creature touched Magic Fang (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: One natural weapon of subject creature gets +1 on attack and damage rolls.	Target: Living creature touched Naturewatch (Necromancy)Saves: None	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Close (35 ft.)	Components: SSR: No	Effect: Same as deathwatch but only finctions on plants and animals; see text.	Target: Quarter circle emanating from you to the extreme of the range Pass without Trace (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 hours [D]	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: 5 subjects leaves no tracks.	Target: 5 creatures touched Ram's Might (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Personal	Components: V,SSR: No	Effect: Your hands harden, inflict lethal damage, and you are considered armed.	Target: You Raptor's Sight (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours [D]	Range: Personal	Components: V,S, DFSR: No	Effect: Gain +5 on Spot checks; range increment penalty halved	Target: You Read Magic (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Personal	Components: V, S, FSR: No	Effect: Read scrolls and spellbooks.	Target: You Resist Energy (Abjuration)Saves: Fortitude negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: Ignores first 15 points of damage/attack from specified energy type.	Target: Creature touched Smell of Fear (Transmutation)Saves: Will negates	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V,SSR: Yes	Effect: Bestow target with an aroma that triples the chance of encountering wandering monsters.	Target: Creature touched Snowsight (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: See normal even in whiteout conditions.	Target: Creature touched Speak with Animals (Divination)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 minutes	Range: Personal	Components: V, SSR: No	Effect: You can communicate with animals.	Target: You Speed Swim (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 minutes [D]	Range: Close (35 ft.)	Components: V,S,FSR: Yes (harmless)	Effect: Grants swim speed of 30, +8 to swim checks and can always take 10 on swim check.	Target: One creature Stalking Brand (Transmutation)Saves: None	DC: 15	Casting: 1 standard actionDuration: 5 days	Range: Touch	Components: V,SSR: Yes	Effect: Marks a creature that you can see or detect magic despite using other magical means to conceal including invisibilty, disguise self, polymorph self.	Target: Creature touched Summon Desert Ally I (Conjuration)Saves: None	DC: 15	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V,S,DFSR: No	Effect: Create a dustform creature [pg.161]; see text.	Target: One or more creatures, no two of which can be more than 30ft apart Summon Nature's Ally I (Conjuration)Saves: None	DC: 15	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V, S, DFSR: No	Effect: Calls creature to fight.	Target: One summoned creature Surefoot (Abjuration)Saves: None	DC: 15	Casting: 1 standard actionDuration: 50 minutes	Range: Personal	Components: V,SSR: No	Effect: Gain +10 competence bonus to Balance checks.	Target: You Towering Oak (Illusion)Saves: None	DC: 15	Casting: 1 standard actionDuration: 15 rounds	Range: Personal	Components: V,SSR: No	Effect: Gain +10 competence bonus on Intimidation checks.	Target: You Traveler's Mount (Transmutation)Saves: Will negates	DC: 15	Casting: 1 standard actionDuration: 5 hours	Range: Touch	Components: V,SSR: Yes	Effect: +10 feet enhancement bonus to speed but cannot attack during the duration of the spell.	Target: Animal or magical beast touched Waste Strider (Transmutation)Saves: Will negates (harmless)	DC: 15	Casting: 1 standard actionDuration: 5 hours [D]	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: Unrestricted desert movement.	Target: One touched creature  
+ 
+ 
+Level 2
+Balancing Lorecall (Transmutation)Saves: N/A	DC: 16	Casting: 1 standard actionDuration: 5 minutes [D]	Range: Personal	Components: V,S,M/DFSR: N/A	Effect: Gain balance bonus; see text.	Target: You Barkskin (Transmutation)Saves: None	DC: 16	Casting: 1 standard actionDuration: 50 minutes	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: Grants +2 enhancement to natural armor.	Target: Living creature touched Bear's Endurance (Transmutation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V, S, DFSR: Yes	Effect: Subject gains +4 to Con for 5 minutes.	Target: Creature touched Blade of Fire (Conjuration)Saves: None	DC: 16	Casting: 1 swift actionDuration: 1 round	Range: Touch	Components: VSR: No	Effect: Deal an extra 1d6 points of fire damage with your weapon[s]).	Target: Up to two melee weapons you are wielding Blades of Fire (Conjuration)Saves: None	DC: 16	Casting: 1 swift actionDuration: 1 round	Range: Touch	Components: VSR: No	Effect: Adds 1d6 fire damage to your held weapons.	Target: Up to two melee weapons you are wielding Briar Web (Transmutation)Saves: Reflex negates; see text	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Medium (150 ft.)	Components: V,S,DFSR: No	Effect: As entangle, but thorns deal damage each round.	Target: Plants in a 20-ft-radius spread. Burrow (Transmutation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 5	Range: Touch	Components: V,S,F/DFSR: Yes (harmless)	Effect: .	Target: Creature touched Cat's Grace (Transmutation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V, S, MSR: Yes	Effect: Subject gains +4 to Dex for 5 minutes.	Target: Creature touched Conjure Ice Beast II (Conjuration)Saves: None	DC: 16	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V,S,DFSR: No	Effect: Creates a creature to fight for you.	Target: One or more conjured ice creatures, no two of which can be more than 30 ft. apart Cure Light Wounds (Conjuration)Saves: Will half (harmless); see text	DC: 16	Casting: 1 standard actionDuration: Instantaneous	Range: Touch	Components: V, SSR: Yes (harmless); see text	Effect: Cures 1d8+5 damage.	Target: Creature touched Curse of Impending Blades (Necromancy)Saves: None	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Medium (150 ft.)	Components: V,S,M/DFSR: Yes	Effect: -2 penalty to AC.	Target: One creature Easy Climb (Transmutation)Saves: None (object)	DC: 16	Casting: 1 standard actionDuration: 50 minutes [D]	Range: Medium (150 ft.)	Components: V,SSR: Yes (object)	Effect: Changes the terrain to DC 10 for climb checks.	Target: Vertical path 10 ft. wide and 100 ft. tall Freedom of Breath (Abjuration)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 50	Range: Touch	Components: V,S,MSR: Yes (harmless)	Effect: Protects against suffocation in adverse conditions.	Target: Creature Touched Halo of Sand (Abjuration)Saves: None	DC: 16	Casting: 1 standard actionDuration: 50 minutes	Range: Personal	Components: V,S,DFSR: No	Effect: Deflection bonus to AC +[min1,4].	Target: You Haste, Swift (Transmutation)Saves: N/A	DC: 16	Casting: 1 swift actionDuration: 1 round	Range: Personal	Components: VSR: N/A	Effect: Functions as Haste, except as noted.	Target: You Hold Animal (Enchantment)Saves: Will negates; see text	DC: 16	Casting: 1 standard actionDuration: 5 rounds [D]; see text	Range: Medium (150 ft.)	Components: V, SSR: Yes	Effect: Paralyzes one animal for 5 rounds.	Target: One animal Hydrate (Conjuration)Saves: Will half; See text	DC: 16	Casting: 1 standard actionDuration: Instantaneous	Range: Touch	Components: V,SSR: Yes; see text	Effect: Heals 2d8+5 of dessication damage; on fire creatures it inflicts the same.	Target: Living creature touched Listening Lorecall (Divination)Saves: N/A	DC: 16	Casting: 1 standard actionDuration: 50 minutes	Range: Personal	Components: V,S,DFSR: N/A	Effect: Gain +4 insight bonus on Listen checks; see text.	Target: You Nature's Favor (Evocation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 1 minute	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: Target animal gains attack and damage bonus of +1 for every 3 caster levels max of +5 at 15th level.	Target: Animal touched One with the Land (Transmutation)Saves: None	DC: 16	Casting: 1 standard actionDuration: 5 hours	Range: Personal	Components: V,SSR: No	Effect: Gain +2 insight bonus to Move Silently, Search, Hide, Survival and Handle Animal checks.	Target: You Owl's Wisdom (Transmutation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Touch	Components: V, S, M/DFSR: Yes	Effect: Subject gains +4 to Wis for 5 minutes.	Target: Creature touched Protection from Dessication (Abjuration)Saves: Fort negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 50 minutes or until discharged	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: Warded creature immune to dehydration until the spell has absorbed 50 damage.	Target: Living creature touched Protection from Energy (Abjuration)Saves: Fortitude negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 50 minutes or until discharged	Range: Touch	Components: V, S, DFSR: Yes (harmless)	Effect: Absorb 60 points of damage from one kind of energy.	Target: Creature touched Scent (Transmutation)Saves: None	DC: 16	Casting: 1 standard actionDuration: 50 minutes	Range: Touch	Components: V,S,MSR: Yes (harmless)	Effect: Bestows Scent ability with all the same powers.	Target: Creature touched Snare (Transmutation)Saves: None	DC: 16	Casting: 3 roundsDuration: Until triggered or broken	Range: Touch	Components: V, S, DFSR: No	Effect: Creates a magic booby trap.	Target: Touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level Snow Walk (Transmutation)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: 50 minutes	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: Walk on top of snow avoiding movement penalties.	Target: 5 creatures touched Speak with Plants (Divination)Saves: None	DC: 16	Casting: 1 standard actionDuration: 5 minutes	Range: Personal	Components: V, SSR: No	Effect: You can talk to normal plants and plant creatures.	Target: You Spike Growth (Transmutation)Saves: Reflex partial	DC: 16	Casting: 1 standard actionDuration: 5 hours [D]	Range: Medium (150 ft.)	Components: V, S, DFSR: Yes	Effect: Creatures in area take 1d4 damage, may be slowed.	Target: 5 20-ft. squares Summon Desert Ally II (Conjuration)Saves: None	DC: 16	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V,S,DFSR: No	Effect: Create a dustform creature [pg.161]; see text.	Target: One or more creatures, no two of which can be more than 30ft apart Summon Nature's Ally II (Conjuration)Saves: None	DC: 16	Casting: 1 roundDuration: 5 rounds [D]	Range: Close (35 ft.)	Components: V, S, DFSR: No	Effect: Calls creature to fight.	Target: One or more creatures, no two of which can be more than 30 ft. apart Train Animal (Enchantment)Saves: Will negates (harmless)	DC: 16	Casting: 10 minutesDuration: 5 hours	Range: Touch	Components: V,S,DFSR: Yes (harmless)	Effect: You temporarily boost the number of tricks that an animal knows.	Target: Animal touched Wind Wall (Evocation)Saves: None; see text	DC: 16	Casting: 1 standard actionDuration: 5 rounds	Range: Medium (150 ft.)	Components: V, S, M/DFSR: Yes	Effect: Deflects arrows, smaller creatures, and gases.	Target: Wall up to 50 ft. long and 25 ft. high [S] Woodland Veil (Illusion)Saves: Will negates (harmless)	DC: 16	Casting: 1 standard actionDuration: [min510] minutes [D]	Range: Close (35 ft.)	Components: V,SSR: Yes (harmless)	Effect: Blend unobtrusively into natural surroundings, along with your friends	Target: One or more creatures, no two of which can be more than 30 feet apart Zone of Glacial Cold (Conjuration)Saves: Fort half	DC: 16	Casting: 1 standard actionDuration: 5 rounds	Range: Medium (150 ft.)	Components: V,S,MSR: No	Effect: Zone deals 1d6 cold damage each round.	Target: 20-ft.-radius  
+  
+  
+ 
+           
+
+      
+ 
+------------------------ Description -----------------------
+Height: 5' 1"             Weight: 117 lbs.                Gender: Female	
+Eyes:   Amber             Hair: Raven,Braids             Skin: Light
+Dominant Hand: Right      Quirks: Secretive, Loving	
+Speech style: Enunciates very clearly       Quotable: </text>
+ 
+Full Description
+DESCRIPTION
+ 
+Background
+

@@ -1,0 +1,364 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Flavin
+TABNAME:Ma01 - Flavin (L3)
+PLAYERNAME:Andrew Maitland
+HEIGHT:68
+WEIGHT:144
+AGE:25
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Lavender
+HAIRCOLOR:Dark Red
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:8
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:8
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d20)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d08)|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Wizard|LEVEL:0|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Eclipse Point Buy (d20)=1|HITPOINTS:20|SKILLSGAINED:24|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:6|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:7|SKILLSGAINED:6|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Dark Fey Human Template]
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:23|
+SKILL:Bluff|OUTPUTORDER:28|
+SKILL:Climb|OUTPUTORDER:25|
+SKILL:Concentration|OUTPUTORDER:30|
+SKILL:Craft (Untrained)|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:36|
+SKILL:Disguise|OUTPUTORDER:29|
+SKILL:Endurance|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:24|
+SKILL:Forgery|OUTPUTORDER:31|
+SKILL:Gather Information|OUTPUTORDER:7|
+SKILL:Heal|OUTPUTORDER:8|
+SKILL:Hide|OUTPUTORDER:40|
+SKILL:Intimidate|OUTPUTORDER:37|
+SKILL:Jump|OUTPUTORDER:26|
+SKILL:Listen|OUTPUTORDER:32|
+SKILL:Move Silently|OUTPUTORDER:39|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:35|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Persuasion|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Ride|OUTPUTORDER:14|
+SKILL:Search|OUTPUTORDER:34|
+SKILL:Sense Motive|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d20)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Sneak|OUTPUTORDER:16|
+SKILL:Spot|OUTPUTORDER:33|
+SKILL:ST Skill|OUTPUTORDER:18|
+SKILL:Stealth|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:27|
+SKILL:Thievery|OUTPUTORDER:22|
+SKILL:Use Rope|OUTPUTORDER:38|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:9|
+SKILL:Spellcraft|OUTPUTORDER:17|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:21|
+SKILL:Martial Arts ~ Int Based|OUTPUTORDER:10|
+
+# Character Languages
+LANGUAGE:Celestial|LANGUAGE:Draconic|LANGUAGE:Common|LANGUAGE:Abyssal|LANGUAGE:Goblin|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Wizard Magic Level|APPLIEDTO:,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:HD|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Streamline|APPLIEDTO:Metamagic 1~ Easy,Metamagic 1~ Extension|TYPE:EclipseAbilityOutput.Metamagical.Corruptable|DESC:See text.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Enthusiast|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP). Enthusiast grants 1 floating CP. Given 72 hours to retrain and redirect it you may put it into anything you please save for Specific Knowledges (page 10), boosting that ability until you turn your enthusiasm in another direction.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Knowledge (Arcana),Martial Arts,Perception,Spellcraft|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eldritch|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(0 CP). You may call upon exotic forces to power your magic rather than relying on the usual sources. In other words, your magic may have strange special effects for free. This has no direct game effect, but gives you more style. Eldritch abilities that cost spell levels do not extend the casting time.|DESC:Characters using advanced Eldritch feats must select and describe the source of their powers. Other characters with the Eldritch feat and the same source receive no penalties or advantages when facing the user. All three effects may be taken as a set for only 6 CP, but this cannot then be 'turned off." It also limits use of magic items to items made by a character with at least one of these modifiers. Many settings have spells usable only with Eldritch magic, and others not usable at all with Eldritch magic.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Create Relic ~ Eclipse|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Another classical way to create weird and wonderful devices, Create Relic allows you to invest CP directly into items. Each 1 CP permanently invested in such an item grants it 6 CP worth of abilities to bestow on the user. While this is permanently weakens you, and creates items which are intimately tied to you, it does allow the creation of truly impressive devices without having to expend a lot of CP on special abilities. Such items are very good links to you for certain magical activities.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Enthusiast ~ Double|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+3 CP) upgrades Enthusiast so that it grants 2 floating CP instead of 1.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Extension|TYPE:EclipseAbilityOutput.Metamagical.Corruptable.Streamline|DESC:See text.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Wizard Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;WIZARD&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Metamagic ~ Easy|TYPE:EclipseAbilityOutput.Metamagical.Corruptable.Streamline|DESC:See text.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+USERPOOL:Character Points|POOLPOINTS:41.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Athletics,Deception,Endurance,Gather Information,Heal,Knowledge (Arcana),Knowledge (The Planes),Linguistics,Martial Arts,Perception,Sense Motive,Spellcraft,Survival,Stealth|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Unarmored|TYPE:Disadvantage.DisadvantageCounter|DESC:You refuse to use armor for some reason. Characters who already suffer major penalties for wearing armor can't take this disadvantage.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Recorder|TYPE:Disadvantage.DisadvantageCounter|DESC:The player keeps records, and ensures that the GM gets a copy. Acceptable forms are up to the GM, but common variants include character diaries, letters, campaign logs, and keeping a list of NPC's.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Inspiring Word|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:provides a +1 Morale Bonus on saves, attacks, checks, and damage (Unlimited Use-Activated, L1 at CL1, Personal Only, 1400 GP). Dragons are always pretty self-confident.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Intelligence Boost +2 ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Immortal Vigor I ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:Gain 2d6 + (Con Bonus x2) worth of HP. In this case 12+CON.
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Dexterity Boost +2 ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Magic Missile ~ one day|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:As spell
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Fortunes Favor ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:As spell
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Burning Hands ~ one day|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:As spell
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Wisdom Boost +2 ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Expertise ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput|DESC:As spell
+ABILITY:Innate Enchantment Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment ~ Force Armor I ~ Personal Only (1400gp)|TYPE:InnateEnchantmentChoice.EclipseAbilityOutput
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Familiar|APPLIEDTO:,|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Perception,Perception,Perception,Perception,Perception,Perception,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based,Martial Arts ~ Int Based|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Attack|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You get a +1 bonus on rolls to Attack, Throw, Grapple, and Trip opponents.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Power|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:Increase your unarmed damage by +1 or increase your weapon die type by 1 step, up to a d12 maximum. Weapons that cause multiple dice of damage increase them independently.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Defenses|APPLIEDTO:,,,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +1 bonus to AC when you are unarmored or lightly armored.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Mind Like Moon|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You reflexively come on guard when attacked. With a DC 15 Reflex save, you avoid being surprised or flat-footed at the beginning of combat.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Instant Stand|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You may stand up as a Free Action if unarmored or in light armor.
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+ABILITY:Martial Art Skill Power Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Power ~ Improve Die Size|APPLIEDTO:|TYPE:MartialArtsOutput.MASpower|DESC:Increase your weapon die type by 1 step, up to a d12 maximum. Weapons that cause multiple dice of damage increase them independently.
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)]
+WEAPONPROF:[WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:War Wizard's Friend|OUTPUTORDER:17|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Life Giver Twins|OUTPUTORDER:9|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:11|COST:10|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Backpack|OUTPUTORDER:1|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Bag of Holding (Type 1)|OUTPUTORDER:2|COST:2500|WT:15.0|QUANTITY:1.0
+EQUIPNAME:Rope (Silk/50 Ft.)|OUTPUTORDER:15|COST:10|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Potion (Cure Light Wounds)|OUTPUTORDER:13|COST:50|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Bedroll|OUTPUTORDER:3|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Blanket (Winter)|OUTPUTORDER:4|COST:0.5|WT:3.0|QUANTITY:1.0
+EQUIPNAME:Caltrops|OUTPUTORDER:5|COST:1|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Case (Map or Scroll)|OUTPUTORDER:6|COST:1|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Grappling Hook|OUTPUTORDER:7|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Lantern (Hooded)|OUTPUTORDER:8|COST:7|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Oil (1 Pt. Flask)|OUTPUTORDER:10|COST:0.1|WT:1.0|QUANTITY:4.0
+EQUIPNAME:Paper (Sheet)|OUTPUTORDER:12|COST:0.4|WT:0.0|QUANTITY:3.0
+EQUIPNAME:Rations (Trail/Per Day)|OUTPUTORDER:14|COST:0.5|WT:1.0|QUANTITY:4.0
+EQUIPNAME:Spellbook (Wizard's/Blank)|OUTPUTORDER:16|COST:15|WT:3.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.1|VALUE:Life Giver Twins|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.2|VALUE:War Wizard's Friend|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.3.1|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Bag of Holding (Type 1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.1|VALUE:Blanket (Winter)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.10|VALUE:Potion (Cure Light Wounds)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.11|VALUE:Caltrops|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.2|VALUE:Case (Map or Scroll)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.3|VALUE:Grappling Hook|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.4|VALUE:Oil (1 Pt. Flask)|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.5|VALUE:Lantern (Hooded)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.6|VALUE:Paper (Sheet)|QUANTITY:3.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.7|VALUE:Rations (Trail/Per Day)|QUANTITY:4.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.8|VALUE:Rope (Silk/50 Ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type 1)|ID:0.1.4.9|VALUE:Spellbook (Wizard's/Blank)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.5|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLBOOK:Spellbook (Wizard's/Blank)|TYPE:3
+SPELLNAME:Alter Self|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Benign Transposition|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Ebon Eyes|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Enlarge Person|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Fireball|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Glitterdust|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Grease|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Haste|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Identify|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Invisibility|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Lance of Disruption|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Mage Armor|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Ray of Enfeeblement|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Rope Trick|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:See Invisibility|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Shield|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Sleep|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+SPELLNAME:Unseen Servant|TIMES:1|CLASS:Wizard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Wizard]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Pancha|TYPE:Familiar|RACE:WEASEL|HITDICE:0|FILE:\Ma01 - Flavin - Pancha.pcg
+FOLLOWER:Chit|TYPE:Familiar|RACE:WEASEL|HITDICE:0|FILE:\Ma01 - Flavin - Chit.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

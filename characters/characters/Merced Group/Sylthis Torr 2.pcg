@@ -1,0 +1,365 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Eclipse - The Codex Persona (Base)|CAMPAIGN:Eclipse - The Codex Persona (RSRD)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:3.5 RSRD Advanced|CAMPAIGN:3.5 RSRD Basics|CAMPAIGN:3.5 RSRD Divine|CAMPAIGN:3.5 RSRD Epic|CAMPAIGN:3.5 RSRD Epic Psionics|CAMPAIGN:3.5 RSRD Monsters|CAMPAIGN:3.5 RSRD Psionics
+VERSION:5.17.2
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Sylthis Torr
+TABNAME:
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:164
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:18
+STAT:CON|SCORE:16
+STAT:INT|SCORE:22
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:15
+ALIGN:TN
+RACE:Leopard
+
+# Character Class(es)
+CLASS:Animal|SUBCLASS:None|LEVEL:3|SKILLPOOL:0
+CLASS:Eclipse Point Buy (d08)|SUBCLASS:None|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Animal=1|HITPOINTS:8|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Animal=2|HITPOINTS:7|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Animal=3|HITPOINTS:8|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=1|HITPOINTS:7|PRESTAT:CON=1|SKILLSGAINED:2|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d08)=2|HITPOINTS:5|SKILLSGAINED:2|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:14000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:Sapient Upgrade]
+TEMPLATESAPPLIED:[NAME:Eclipse ~ Template Level +1]
+TEMPLATESAPPLIED:[NAME:Buy Off ECL Penalty ~ Level 1]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|CLASSBOUGHT:[CLASS:Animal|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Animal|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:9|
+SKILL:Escape Artist|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Forgery|OUTPUTORDER:11|
+SKILL:Gather Information|OUTPUTORDER:12|
+SKILL:Heal|OUTPUTORDER:13|
+SKILL:Hide|OUTPUTORDER:14|
+SKILL:Intimidate|OUTPUTORDER:15|
+SKILL:Jump|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:18|
+SKILL:Move Silently|OUTPUTORDER:20|
+SKILL:Mystic Artist Skill|OUTPUTORDER:21|
+SKILL:Ride|OUTPUTORDER:23|
+SKILL:Search|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:25|
+SKILL:Spot|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Animal|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:27|
+SKILL:Swim|OUTPUTORDER:28|
+SKILL:Use Rope|OUTPUTORDER:30|
+SKILL:Martial Arts ~ Dex Based|OUTPUTORDER:19|
+SKILL:Tumble|OUTPUTORDER:29|CLASSBOUGHT:[CLASS:Animal|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Disable Device|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Animal|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Local)|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Animal|RANKS:3.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Open Lock|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d08)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Undercommon|LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Convert Feat to Talent Virtual Gold|APPLIEDTO:,|TYPE:General|DESC:Converts a feat to 10,000 virtual gold to be spent on talents.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+ABILITY:Animal Trick|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Animal Training ~ Hunting|TYPE:AnimalTrick.AnimalTraining.General|DESC:An animal trained for hunting knows the tricks attack, down, fetch, heel, seek, and track. Training an animal for hunting takes 6 weeks.
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+USERPOOL:Psion Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Fist Feat|POOLPOINTS:0.0
+USERPOOL:Improved Psicrystal Personality|POOLPOINTS:0.0
+USERPOOL:Elocator Transporter|POOLPOINTS:0.0
+USERPOOL:Thrallherd Charm Choice|POOLPOINTS:0.0
+USERPOOL:Thrallherd Dominate Choice|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu A Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu B Ability|POOLPOINTS:0.0
+USERPOOL:Astral Construct Menu C Ability|POOLPOINTS:0.0
+USERPOOL:Epic Barbarian Feat|POOLPOINTS:0.0
+USERPOOL:Epic Bard Feat|POOLPOINTS:0.0
+USERPOOL:Epic Cleric Feat|POOLPOINTS:0.0
+USERPOOL:Epic Druid Feat|POOLPOINTS:0.0
+USERPOOL:Epic Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Epic Monk Feat|POOLPOINTS:0.0
+USERPOOL:Epic Paladin Feat|POOLPOINTS:0.0
+USERPOOL:Epic Ranger Feat|POOLPOINTS:0.0
+USERPOOL:Epic Rogue Feat|POOLPOINTS:0.0
+USERPOOL:Epic Sorcerer Feat|POOLPOINTS:0.0
+USERPOOL:Epic Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Epic Arcane Archer Feat|POOLPOINTS:0.0
+USERPOOL:Epic Arcane Trickster Feat|POOLPOINTS:0.0
+USERPOOL:Epic Assassin Feat|POOLPOINTS:0.0
+USERPOOL:Epic Blackguard Feat|POOLPOINTS:0.0
+USERPOOL:Epic Dragon Disciple Feat|POOLPOINTS:0.0
+USERPOOL:Epic Duelist Feat|POOLPOINTS:0.0
+USERPOOL:Epic Dwarven Defender Feat|POOLPOINTS:0.0
+USERPOOL:Epic Eldritch Knight Feat|POOLPOINTS:0.0
+USERPOOL:Epic Horizon Walker Feat|POOLPOINTS:0.0
+USERPOOL:Epic Loremaster Feat|POOLPOINTS:0.0
+USERPOOL:Epic Mystic Theurge Feat|POOLPOINTS:0.0
+USERPOOL:Epic Shadowdancer Feat|POOLPOINTS:0.0
+USERPOOL:Improved Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Infiltrator Specialist Training|POOLPOINTS:0.0
+USERPOOL:Agent Retriever Feat|POOLPOINTS:0.0
+USERPOOL:Cosmic Descryer Feat|POOLPOINTS:0.0
+USERPOOL:Divine Emissary Feat|POOLPOINTS:0.0
+USERPOOL:Guardian Paramount Feat|POOLPOINTS:0.0
+USERPOOL:High Proselytizer Feat|POOLPOINTS:0.0
+USERPOOL:Legendary Dreadnought Feat|POOLPOINTS:0.0
+USERPOOL:Perfect Wight Feat|POOLPOINTS:0.0
+USERPOOL:Epic Spellcasting Type|POOLPOINTS:0.0
+USERPOOL:Epic Psion Feat|POOLPOINTS:0.0
+USERPOOL:Epic Psychic Warrior Feat|POOLPOINTS:0.0
+USERPOOL:Epic Soulknife Feat|POOLPOINTS:0.0
+USERPOOL:Epic Cerebremancer Feat|POOLPOINTS:0.0
+USERPOOL:Salient Divine Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Celerity|APPLIEDTO:Walk|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Celerity adds +10 feet per round to one of your movement modes. This is considered bonus movement for the purposes of skills; it does not apply when calculating movement penalties on skill use.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:In the service of the Obsidian Order|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Luck|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:A lucky character may either "Take 20" in advance, without taking extra time and whether or not this would usually be allowed, or reroll after the primary roll once per day. Most characters also get Bonus Uses.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Celerity ~ Stunt Double|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows brief water walking, running down cliffs, and similar wild actions provided that you have a movement rate of at least 60'.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Celerity ~ Improved|APPLIEDTO:Walk,Walk,Walk,Walk|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:adds +10' more movement per 3 CP invested.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Privilege|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP). Privilege grants the character special legal and social advantages. The character must define exactly what the privilege is (and preferably how he or she obtained it). The ability to sell restricted goods legally, carry weapons openly about a city, or come and go from the palace make good minor privileges. Characters may also simply come from wealthy families, in which case they're entitled to a few servants and some extra starting cash at lower levels.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Uses ~ Four|APPLIEDTO:Luck|TYPE:General.Extras.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Reflex Training|APPLIEDTO:Three Bonus Actions Per Day|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). With Reflex Training, a character gains a free, immediate, Standard Action under some particular circumstance. You cannot string together more reflexive actions than your relevant attribute bonus (usually Str Mod or Dex Mod). Alternatively, the character may instead simply take an extra Standard Action at any time 3 times per day. You may not use this version more than once per round.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Eclipse Restrictions|APPLIEDTO:Spellcasting,Armor|TYPE:Character Creation.CharCreation.General|DESC:A character with restrictions has major limitations on the use of some ability or type of equipment. He or she may never (ever!) acquire or use such talents without major penalties. For example, Witch- Hunters never cast spells except to fix the problems caused by other magic on pain of losing most of their abilities. The point bonus is per category which applies. A character only gains the bonus points for restrictions on things that would obviously useful to him or her. Common restrictions include wearing no armor, using no weapons, using no magic or psionics, or skill-related feats. A good explanation is in order. Why is the character restricted in this way?
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Corrupted ~ Decreased Cost ~ Six to Four|APPLIEDTO:Celerity 3 ~ Stunt Double|TYPE:General.Corrupt Bypass.Special Ability.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Hide,Listen,Martial Arts ~ Dex Based,Move Silently|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Split Movement|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Specialized ~ Half Cost ~ Six to Three|APPLIEDTO:Mentor 1,Mentor 2~ Secret Master,Cloaking 1|TYPE:General.Corrupt Bypass.Special Ability.EclipseAbilityOutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Pact ~ Infusion ~ Hunted|APPLIEDTO:Hunted by the Crystal Seers|TYPE:WitchcraftOutput.Pact
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evasive ~ Very Common Actions|APPLIEDTO:Moving by opponents|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:Evasive characters may take an action (select one) that usually provokes an Attack of Opportunity without being so exposed. You may take this multiple times, selecting a different action each time.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mentor ~ Secret Master|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP). Your mentor can teach you the secrets of one or more exotic abilities when you're ready to learn them.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft|APPLIEDTO:,,|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:%1 Power Points, Save DC Will %2&pipe;WitchcraftPowerPoints&pipe;WitchcraftWillDC
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Specialized in Skills|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Pact ~ Vow ~ Taboos|APPLIEDTO:May not reveal secrets entrusted to him, use (or tolerate without protest) the use of major divinatory magic, may never own pay for research|TYPE:WitchcraftOutput.Pact
+USERPOOL:Character Points|POOLPOINTS:0.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Balance,Climb,Disable Device,Escape Artist,Hide,Intimidate,Jump,Knowledge (Local),Listen,Martial Arts,Move Silently,Open Lock,Search,Spot,Tumble|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Always fulfills contracts|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Irreverent|APPLIEDTO:Irreverent|TYPE:Disadvantage.DisadvantageCounter|DESC:You are fundamentally unable to accept the "divinity" of gods. You recognize their might and may even see one as a patron, but worphip just isn't part of your nature' they're just really powerful people to you. While gods generally forego directly smiting you, none of them will grant you divine magic and many clerics have a problem with you.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Incompetent Group|APPLIEDTO:Charisma Based Skills|TYPE:Disadvantage.DisadvantageCounter|DESC:You suffer from a '-3' modifier on a group of related skills (e.g., anything 'high-tech').
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Damage Reduction|POOLPOINTS:0.0
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus ~ Improved|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic ~ Two|APPLIEDTO:|TYPE:EclipseAbilities.Abilities.EclipseOutput
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mentor|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). You receive special training from some individual or group, whether natural or supernatural. As long as you obey the dictates of your trainer(s) - taking on odd missions for the ancestor spirits who show up to teach you, following the rituals of the sect, or whatever other requirements the Game Master imposes - you gain a 10%% bonus on all earned experience.
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Relic ~ One|APPLIEDTO:|TYPE:EclipseAbilities.Abilities.EclipseOutput
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus ~ Advanced|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augmented Bonus|APPLIEDTO:Living on your nerves; Add Dex Mod to Int Mod for Skill Purposes|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable
+ABILITY:Template Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cloaking|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). A character with Cloaking has an always-on disguise over his or her mystical and/or psychic aura, although this has no effect on normal senses. You must specify what the effect is. Cloaking is often used to make one look like a honest fellow to fool truth-detection, to alter your apparent alignment, or to disguise yourself as a member of a similar species.
+USERPOOL:Template Character Points|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Hide,Hide,Hide,Hide,Hide,Hide,Hide,Hide,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Martial Arts ~ Dex Based,Move Silently,Move Silently,Move Silently,Move Silently,Move Silently,Move Silently,Move Silently,Move Silently,Listen,Listen,Listen,Listen,Listen,Listen,Listen,Listen|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Healing|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:This accomplishes a full day's worth of healing in a mere hour at a cost of 1 Power and grants a +5 bonus on any relevant checks (against disease or toxins). This is also used to throw off the effects of drugs and intoxicants with a flat duration. In emergencies, Witches may simply heal 1d4 hit points per Power spent up to a maximum of 3d4 hit points per round.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ The Hand of Shadows|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:The Hand of Shadows covers basic telekinesis. Minor tricks (like bending spoons) cost no power. Exerting a force equal to what you could physically handle costs 1 Power per minute. Light but rapid work (like sorting wheat from chaff) costs 1 Power per hour's worth of work done. Minor animations (Entangle, Animate Rope) approximate the relevant spells at a cost of 2 power, +2 if excessive force or fine control is required.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Witchfire|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:Molecular-level telekinesis. At its simplest this can create and manipulate heat or cold (1d8/3d6 damage for 1/2 power, +1 if affecting a modest area, -1 if using pre-existing flame), create effects on the "prestidigitation" level (1 Power per turn), extract essences from herbs, and infuse drugs and toxins into objects. Talented Witches sometimes use this for creating mysterious sounds and voices.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Shadowweave|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:Shadowweave manipulates light and darkness to craft minor illusions. Normally 1 Power grants 10 minutes of activity. Effects include will-o-the wisps, cloaking (+6 to stealth and disguise rolls), various apparitions, spheres of darkness, blinding rays of light and hiding small actions - such as slipping out a dagger, picking a pocket, or a strike in combat (offers a +3 circumstance bonus to the user's roll). For +6 CP the user may expand his or her repertoire to level 2 (2 power) and 3 (4 power) illusion-casting effects (compare to the Sorcerer/Wizard list).
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Witchsight|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:Sharpening or expanding the user's senses is a simple trick. In general, this affects one sense at a time, providing either a +6 bonus on relevant checks or some special capability (Darksight, Scent, etc). As a rule this costs 1 Power and lasts for about an hour. Witches may triple the effect by reducing the duration to a single round, allowing effects such as checking a meal for poison with the slightest taste.
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ Hyloka|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:The manipulation of biophysical processes is a rare gift. This can be used to briefly move physical attribute points around (up to 6 points for 1 Power per hour), slip into hibernation (1 power; lasts up to a week), help resist heat or cold (1 Power per hour, this grants 5 points of fire or cold resistance), stop bleeding, delay poison (one hour per power), grow hair or make it fall out (1 power), and to inflict or ease ailments like arthritis (spend 1 power/week to inflict, 1 power/day to ease).
+ABILITY:Witchcraft Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witchcraft ~ The Adamant Will|TYPE:WitchcraftOutput.WitchcraftAbilities|DESC:This talent allows users to spend 2 Power to resist Fear, Possession, Charm, Hold effects, and other forms of mind control. The user may spend the Power each time he or she is affected by such an ability. Ongoing powers, such as Fear auras, are resisted for 10 rounds. The user may make an extra save against mindreading or "truth" effects by spending a like amount, and may present a false aura to detection spells or ignore pain for 3 power. He or she may pay the Power without spending an action when the effect takes hold.
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+ABILITY:Advanced Witchcraft Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:The Path of Darkness ~ The Umbral Form|TYPE:WitchcraftOutput.WitchcraftAdvancedAbilities|DESC:A Witch with this ability may transform him- or herself into the form of a Shadow ~ the creature, not a generic shadow, expending 3 Power per hour that he or she uses the form.
+ABILITY:Advanced Witchcraft Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:The Path of Fire ~ Leaping Fire|TYPE:WitchcraftOutput.WitchcraftAdvancedAbilities|DESC:A master of Leaping Fire may enhance his or her metabolism. This means the user may add a Move-Equivalent Action in any given round by spending 2 Power or gain a +4 bonus to Initiative for the same price. For 3 Power they may Haste themselves for 3d4 rounds. On a lesser level, it can induce rapid healing, allowing the user to heal 1d4 + ~ Con Mod hit points per round for 5 rounds for 1 Power. Eliminating fatigue costs 1 Power and eliminating exhaustion costs 3.
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Iron Skin|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Inner Strength|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Reach|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You add 5' to your Reach in combat. This usually represents lunging and darting in and out, but could be a mystical ability.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Whirlwind Attack|TYPE:MartialArtsOutput.MartialArtsSkill.MasterMartialTech|DESC:See feat of same name
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Strike|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You may deal lethal or nonlethal damage at will without penalty. Your base damage is at least 1d4. This may only be taken once.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Combat Reflexes|TYPE:MartialArtsOutput.MartialArtsSkill.MasterMartialTech|DESC:See feat of same name
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Wrath|TYPE:MartialArtsOutput.MartialArtsSkill.OccultMartialTech
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Attack|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You get a +1 bonus on rolls to Attack, Throw, Grapple, and Trip opponents.
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+ABILITY:Martial Art Skill Power Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Power ~ Improve Die Size|APPLIEDTO:|TYPE:MartialArtsOutput.MASpower|DESC:Increase your weapon die type by 1 step, up to a d12 maximum. Weapons that cause multiple dice of damage increase them independently.
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Martial Arts Str Style|POOLPOINTS:0.0
+ABILITY:Martial Arts Dex Style|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Defenses|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +1 bonus to AC when you are unarmored or lightly armored.
+USERPOOL:Martial Arts Dex Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Con Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Int Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Wis Style|POOLPOINTS:0.0
+USERPOOL:Martial Arts Cha Style|POOLPOINTS:0.0
+USERPOOL:Bladesinger Style Art|POOLPOINTS:0.0
+USERPOOL:Katana Senkou Style Art|POOLPOINTS:0.0
+USERPOOL:War Wizard Style Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+ABILITY:Talent Pool|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Talent ~ PC|TYPE:SpecialQuality.TalentChoice|DESC:Virtual Gold value %1&pipe;TalentVirtualGold
+USERPOOL:Talent Pool|POOLPOINTS:0.0
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Attribute Enhancement ~ Dex Two|TYPE:TalentVirtualGoldChoice|DESC:(L1 x L1 x 2000 x .7 &lbracket;User Only&rbracket;) = 1,400 GP
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Feather Fall ~ At Will|TYPE:TalentVirtualGoldChoice
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Personal Haste ~ At Will|TYPE:TalentVirtualGoldChoice|DESC:(L1 x L1 x 2000) = 2000 GP.
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Immortal Vigor I ~ At Will|TYPE:TalentVirtualGoldChoice|DESC:(+12 + 2x Con Modifier HP), (L1 x L1 x .7 &lbracket;Affects user only&rbracket; x 2000) = 1400 GP
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Iron Fist ~ At Will|TYPE:TalentVirtualGoldChoice|DESC:As a Talent it's usually purchased with the Rapid Casting modifier, so that it can affect each blow. It's most commonly taken at caster level three, resulting in +3d6 to the user's unarmed attacks, the ability to strike intangible foes for 3d6 damage, and a price of 12,000 virtual gold.
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Attribute Enhancement ~ Con Two|TYPE:TalentVirtualGoldChoice|DESC:(L1 x L1 x 2000 x .7 &lbracket;User Only&rbracket;) = 1,400 GP
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shield ~ At Will|TYPE:TalentVirtualGoldChoice|DESC:(L1 x L1 x 2000 GP) = 2000 GP.
+ABILITY:Talent Virtual Gold|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mage Armor ~ At Will|TYPE:TalentVirtualGoldChoice|DESC:(L1 x L1 x .7 &lbracket;Affects user only&rbracket; x 2000) = 1400 GP.
+USERPOOL:Talent Virtual Gold|POOLPOINTS:0.0
+USERPOOL:Common Wealth Choice|POOLPOINTS:0.0
+USERPOOL:Arcanum Minimus Feat Choice|POOLPOINTS:0.0
+USERPOOL:Enchantment Feat Choice|POOLPOINTS:0.0
+USERPOOL:Harvest Of Artifice Feat Choice|POOLPOINTS:0.0
+USERPOOL:Imbuement Feat Choice|POOLPOINTS:0.0
+USERPOOL:Scribing Feat Choice|POOLPOINTS:0.0
+USERPOOL:Siddhisyoga Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Expertise Feat Choice|POOLPOINTS:0.0
+USERPOOL:Spell Shorthand Feat Choice|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite|WEAPON:Claw|WEAPON:Gauntlet|WEAPON:Grapple|WEAPON:Spells(Ray)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:3342.40
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Claw (Natural/Secondary)|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Potion (Cure Light Wounds)|OUTPUTORDER:9|COST:50|WT:0.0|QUANTITY:10.0
+EQUIPNAME:Potion (Delay Poison)|OUTPUTORDER:10|COST:300|WT:0.0|QUANTITY:2.0
+EQUIPNAME:Meat (Chunk)|OUTPUTORDER:7|COST:0.3|WT:0.5|QUANTITY:5.0
+EQUIPNAME:Obsidian|OUTPUTORDER:8|COST:10|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Thieves' Tools|OUTPUTORDER:12|COST:30|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Waterskin (Filled)|OUTPUTORDER:13|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Backpack|OUTPUTORDER:1|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Bedroll|OUTPUTORDER:5|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Rope (Silk/50 Ft.)|OUTPUTORDER:11|COST:10|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Bloodstone Collar|OUTPUTORDER:3|COST:0.0|WT:0.25|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bloodstone|DATA:NAME=Bloodstone Collar$EQMOD=LEATHER._WEIGHTADD&pipe;0,25$SPROP=Rite of Chi with +4 Bonus Uses$COSTMOD=-50.0]
+EQUIPNAME:Collar-Mounted Koranthan Bloodstone. Provides Rite of Chi with +4 Bonus Uses.|OUTPUTORDER:6|COST:0|WT:0.25|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Relic|DATA:NAME=Collar-Mounted Koranthan Bloodstone. Provides Rite of Chi with +4 Bonus Uses.$EQMOD=_WEIGHTADD&pipe;0,25$SPROP=(Relic), (Relic)]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Secondary|ID:0.1.2|VALUE:Claw (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.8|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.1|VALUE:Thieves' Tools|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.2|VALUE:Meat (Chunk)|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.3|VALUE:Potion (Cure Light Wounds)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.4|VALUE:Potion (Delay Poison)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.5|VALUE:Waterskin (Filled)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.6|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack|ID:0.1.8.7|VALUE:Rope (Silk/50 Ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.9|VALUE:Bloodstone Collar|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+NOTE:Hidden|ID:2|PARENTID:-1|VALUE:#Character Sheet Plugin Properties&cr;&nl;#Mon Apr 19 02&colon;24&colon;37 EDT 2010&cr;&nl;cs.CombatPane1.woundsTb=&cr;&nl;cs.CombatPane1.subdualTb=&cr;&nl;
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

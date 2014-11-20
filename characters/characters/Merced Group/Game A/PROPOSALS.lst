@@ -1,0 +1,47 @@
+
+
+1)  Ability to change HP per level in a single class
+2)  Ability to assign skill points for a certain level dynamically
+3)  Link a Variable from a Master to a "Companion" or vice versa
+4)  CHOOSE:SPELL w/ other tag to Assign Spell to a Class
+5)  Ability to Change "COST" of Ability
+
+6a)  Extra Choice for selected abilities - Apply Ability -> Choose from x selections (Apply Selection Choice) add ability to add text to Ability.
+Reasoning: I take "Warcraft" normally it would grant a +1 to BAB and has a COST of 6. However, if I take Corrupted and Specialized the COST is reduced to 2.
+
+7) Ability to create an Ability... Can be accomplished in LST Editor. Need better interface.
+
+### Need for certain Applications to work
+8) Allow CHOICE/CHOOSE to have a selection when the COST is 0 and the POOL has 0
+
+9a)	Sort by 'group'.
+9b)	Sort by Ability Grouping and not necessarily by Alphabetical order
+example: Eclipse has certain abilities as part of a group
+Acrobatic
+  Light Foot
+Action Hero
+  Action Hero Stunts
+Deep Sleep
+	Prophecy
+	Angst
+	Foo
+
+9c)	We need to group things together without needing to add more OS Blocks
+
+9 can be accomplished a few ways... Introduction of a new tag  SORTORDER:
+
+SORTORDER:x|y|z
+
+x = Alphabetical (A-Z)
+x = Group (Group with
+y = Ability Name or Letter/Number to follow
+z = optional sort numbering system  
+
+
+SORTORDER:LIST|Acrobatic
+
+Prophecy	SORTORDER:ALPHA|Deep Sleep|1
+Will be the 1st Ability listed after 'Deep Sleep'
+Angst		SORTORDER:ALPHA|Deep Sleep|2  OR  SORTORDER:ALPHA|Prophecy|1
+
+

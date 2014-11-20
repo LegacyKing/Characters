@@ -1,0 +1,219 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - Web Blog Content|CAMPAIGN:Eclipse - The Codex Persona (Andrew)|CAMPAIGN:DHG - The Practical Enchanter|CAMPAIGN:Eclipse II - The Libram Incarna|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.15
+ROLLMETHOD:1|EXPRESSION:12
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+POOLPOINTS:0
+POOLPOINTSAVAIL:32
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Tanelis
+TABNAME:02 - L2 - Tanelis (PhatJackal)
+PLAYERNAME:Jennifer aka PhatJackal
+HEIGHT:65
+WEIGHT:140
+AGE:100
+GENDER:Male
+HANDED:Right
+SKINCOLOR:Tan
+EYECOLOR:Brown
+HAIRCOLOR:Brown
+HAIRSTYLE:Shaggy
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:D&colon;\Dropbox\Gaming\GM - Andrew\rpol.net\PC - PhatJackal\pdf-portrait.png
+PORTRAITTHUMBNAILRECT:0,0,199,199
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:18
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:16
+ALIGN:CG
+RACE:Elf (Wood)
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d12)|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:12|PRESTAT:DEX=2|PRESTAT:CON=4|PRESTAT:WIS=2|PRESTAT:CHA=4|SKILLSGAINED:0|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=2|HITPOINTS:10|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:1000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+TEMPLATESAPPLIED:[NAME:First Level Eclipse]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:4|
+SKILL:Balance|OUTPUTORDER:23|
+SKILL:Bluff|OUTPUTORDER:28|
+SKILL:Climb|OUTPUTORDER:25|
+SKILL:Concentration|OUTPUTORDER:30|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:37|
+SKILL:Disguise|OUTPUTORDER:29|
+SKILL:Endurance|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:24|
+SKILL:Forgery|OUTPUTORDER:32|
+SKILL:Gather Information|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Hide|OUTPUTORDER:41|
+SKILL:Insight|OUTPUTORDER:11|
+SKILL:Intimidate|OUTPUTORDER:38|
+SKILL:Jump|OUTPUTORDER:26|
+SKILL:Listen|OUTPUTORDER:33|
+SKILL:Move Silently|OUTPUTORDER:40|
+SKILL:Mystic Artist Skill|OUTPUTORDER:12|
+SKILL:Notice|OUTPUTORDER:36|
+SKILL:Perception|OUTPUTORDER:13|
+SKILL:Persuasion|OUTPUTORDER:14|
+SKILL:Ride|OUTPUTORDER:15|
+SKILL:Search|OUTPUTORDER:35|
+SKILL:Sense Motive|OUTPUTORDER:31|
+SKILL:Sneak|OUTPUTORDER:42|
+SKILL:Spot|OUTPUTORDER:34|
+SKILL:ST Skill|OUTPUTORDER:16|
+SKILL:Stealth|OUTPUTORDER:17|
+SKILL:Survival|OUTPUTORDER:18|
+SKILL:Swim|OUTPUTORDER:27|
+SKILL:Thievery|OUTPUTORDER:22|
+SKILL:Use Rope|OUTPUTORDER:39|
+SKILL:Thaumaturgy (Necromancy ~ Gates of Death)|OUTPUTORDER:20|
+SKILL:Thaumaturgy (Necromancy ~ Spirit Binding)|OUTPUTORDER:21|
+SKILL:Arcana|OUTPUTORDER:3|
+SKILL:Survival (Find or follow tracks)|OUTPUTORDER:19|
+SKILL:Deception (Act in character)|OUTPUTORDER:7|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Sylvan|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Arcana,Acrobatics,Athletics,Endurance,Deception,Gather Information,Heal,Insight,Knowledge (Undead),Perception,Persuasion,Stealth,Survival,Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Spirit Binding)|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ All|APPLIEDTO:,,,|TYPE:CasterLevel.eclipseabilityoutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:|TYPE:Combat.Base Attack Bonus.SpecialAttack
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Armor ~ Light|TYPE:Proficiencies.SpecialQuality|DESC:Proficient with Light Armors
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 2|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:Spirits|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Thaumaturgy|APPLIEDTO:|TYPE:General.eclipseabilityoutput.Abilities.Dweomer.Corruptable|DESC:(6 CP). Thaumaturgy allows the control of primal forces and powers. Often possessed by Shamans and barbarian cultures, these allow for powerful effects bounded not by mathematical law or divine providence, but the limits of the user's own will. See Thaumaturgy and Dweomer, page 100.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana|APPLIEDTO:,|TYPE:General.Abilities.Corruptable|DESC:Every level of this ability taken grants an extra 1d6 points of personal Mana, 2d4 generic spell levels, or 3d6 Power. Characters without other psychic abilities do not become vulnerable to psychic attack modes if the game's current rules make psychics more vulnerable to each other. Mana can help with spellcasting, while Power often fuels meditative or martial arts abilities aside from psychic powers. Unfortunately, while Mana is extremely flexible, it recovers at a mere one point per day, two with rest and meditation. Power and generic spell levels recover each day, as usual. As a general rule, 1 point of Mana equates to 2 spell levels or 4 Psionic Power - or one charge from a magic item. Mana is commonly used to power exotic abilities. Abilities which would normally be uses-per day may be designated as using personal Mana instead at 1 use for 2 Mana. If Mana is required as an extra limitation, such powers usually count as Corrupted. Any character with Mana may select one of the forms of Natural Magic described below at no cost. Adding additional forms costs +6 CP each.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept ~ Eclipse|APPLIEDTO:Arcana,Endurance,Knowledge (Spirits),Heal,Persuasion,Thaumaturgy (Necromancy ~ Spirit Binding),Thaumaturgy (Necromancy ~ Gates of Death),Perception|TYPE:General.eclipseabilityoutput.Abilities.Corruptable.Adept|DESC:(6 CP). Select four related (i.e., get your GM's permission) skills, which you learn for half price. Each rank of a relevant skill now costs only 1/2 CP. Each rank of an irrelevant one now costs only 1 CP. ! You may take this ability twice, affecting two groups of skills, if your Game Master gives you permission. Adept is actually one of the most powerful abilities in the system. It provides a huge skill bonus in exchange for simply deciding on what you're good at. The Game Master should keep a careful eye this. It's most common in Prestige Class conversion.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Base Caster Level ~ Specialized ~ Thaumaturgist and Dweomer|APPLIEDTO:,|TYPE:CasterLevel.eclipseabilityoutput
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Specialty|APPLIEDTO:Arcana when dealing with Necromancy,Persuasion when dealing with spirits|TYPE:General.Character Creation.Conversion Stuff|DESC:Characters may buy a "specialty" in a given skill for 1 CP, these add +3 to the roll, but only for a chosen limited application. Only one specialty ever applies at a single time, even if they overlap. For example, many riders specialize in "Horses."
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point ~ 10|APPLIEDTO:|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Additional|APPLIEDTO:|TYPE:General.eclipseabilityoutput.Abilities.Corruptable|DESC:(+6 CP) allows you to gain another Companion. The new Companion gains the benefits of any Great Form, Might, Storage, Transform, or Template bonuses already given to a previous Companion, if applicable and you so desire.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner ~ 2 Skills Level Minus One|TYPE:Character Creation.CharCreation.General|DESC:(+2) This ability grants 2 Skills per eclipse character level.
+USERPOOL:Character Points|POOLPOINTS:34.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Arcana,Arcana,Arcana,Arcana,Endurance,Endurance,Endurance,Endurance,Heal,Heal,Heal,Heal,Perception,Perception,Perception,Perception,Persuasion,Persuasion,Persuasion,Persuasion,Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Spirit Binding),Thaumaturgy (Necromancy ~ Spirit Binding),Thaumaturgy (Necromancy ~ Spirit Binding),Thaumaturgy (Necromancy ~ Spirit Binding),Arcana,Endurance,Heal,Perception,Persuasion,Thaumaturgy (Necromancy ~ Gates of Death),Thaumaturgy (Necromancy ~ Spirit Binding)|TYPE:SkillBuy.HalfCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Full Skill Buy|APPLIEDTO:Athletics,Athletics,Athletics,Athletics,Survival,Survival,Survival,Survival|TYPE:SkillBuy.FullCost
+USERPOOL:Character Skills|POOLPOINTS:29.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Mystic Companion|APPLIEDTO:,|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ History|TYPE:Disadvantage.DisadvantageCounter|DESC:The player has a few pages of notes for the GM about the character's history, personality, and goals. This should include some mention of friends and family, old enemies or allies, and where the character got his or her training or equipment. The GM should to allow the player several sessions to come up with it all.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Poor Reputation|APPLIEDTO:Necromancer|TYPE:Disadvantage.DisadvantageCounter|DESC:You're widely and unfavorably known. This results in a -6 penalty on "friendly" social skill and Charisma rolls throughout a major portion of the setting. This may be combined with "Outcast" in which case there's not much use in trying to talk to anybody. Even your companions will suffer penalties if it becomes known that they associate with you.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+ABILITY:Mana Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana ~ Power|APPLIEDTO:|TYPE:ManaChoice.eclipseabilityoutput|DESC:Grants %1d%2 Power&pipe;PowerDice&pipe;PowerSize
+ABILITY:Mana Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mana ~ Spell|APPLIEDTO:|TYPE:ManaChoice.eclipseabilityoutput|DESC:Grants %1d%2 Spell Levels&pipe;SpellLevelDice&pipe;SpellLevelSize
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 3|APPLIEDTO:5|TYPE:PowerPointsGain
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 2|APPLIEDTO:5|TYPE:PowerPointsGain
+ABILITY:Power Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Power Gained ~ 1|APPLIEDTO:5|TYPE:PowerPointsGain
+USERPOOL:Power Selection|POOLPOINTS:0.0
+ABILITY:Thaumaturgy and Dweowmer|TYPE:NORMAL|CATEGORY:Special Ability|KEY:TaD ~ Necromancy|TYPE:TaDChoice.ThaumaturgyField
+USERPOOL:Thaumaturgy and Dweowmer|POOLPOINTS:0.0
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Giant Rock|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword]
+WEAPONPROF:[WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Rapier|WEAPON:Scourge|WEAPON:Shortbow|WEAPON:Shortspear]
+WEAPONPROF:[WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Parrying Dagger|OUTPUTORDER:0|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Parrying Dagger|DATA:NAME=Parrying Dagger$EQMOD=STEEL]
+EQUIPNAME:Longbow|OUTPUTORDER:0|COST:75.0|WT:3.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longbow|DATA:NAME=Longbow$EQMOD=WOOD]
+EQUIPNAME:Longsword|OUTPUTORDER:0|COST:15.0|WT:4.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Longsword|DATA:NAME=Longsword$EQMOD=STEEL]
+EQUIPNAME:Leather|OUTPUTORDER:0|COST:10.0|WT:15.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Leather|DATA:NAME=Leather$EQMOD=LEATHER]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.1|VALUE:Leather|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.2|VALUE:Longbow|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.3|VALUE:Longsword|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Parrying Dagger|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+CHRONICLEENTRY:Y|CAMPAIGN:Orphan Tales|ADVENTURE:Innocent or Guilty|PARTY:Orphans|DATE:4-28-2012|EXPERIENCE:0|GM:Andrew (drew0500)|CHRONICLE:Accused of a crime they didn't commit, Tan and co. must solve the mystery before an angry mod or political power gets them executed!
+CHRONICLEENTRY:Y|CAMPAIGN:|ADVENTURE:|PARTY:|DATE:|EXPERIENCE:0|GM:|CHRONICLE:
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

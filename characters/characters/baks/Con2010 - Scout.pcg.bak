@@ -1,0 +1,304 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix trunk|CAMPAIGN:Eclipse - The Codex Persona trunk|CAMPAIGN:Kingdom Hearts d20
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:Y
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:The Scout
+TABNAME:Con2010 ~ Scout
+PLAYERNAME:
+HEIGHT:69
+WEIGHT:123
+AGE:135
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Bronze
+HAIRCOLOR:Dirty Blond
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:14
+STAT:DEX|SCORE:17
+STAT:CON|SCORE:12
+STAT:INT|SCORE:17
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:12
+ALIGN:CG
+RACE:Fedyra
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d12)|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Eclipse Point Buy (d06)|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d12)=1|HITPOINTS:12|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=1|HITPOINTS:3|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=2|HITPOINTS:4|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=3|HITPOINTS:6|PRESTAT:DEX=1|PRESTAT:INT=1|SKILLSGAINED:3|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d06)=4|HITPOINTS:4|SKILLSGAINED:3|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:10000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:8.0|COST:1|CLASSSKILL:Y]
+SKILL:Balance|OUTPUTORDER:21|
+SKILL:Bluff|OUTPUTORDER:26|
+SKILL:Climb|OUTPUTORDER:23|
+SKILL:Concentration|OUTPUTORDER:28|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:34|
+SKILL:Disguise|OUTPUTORDER:27|
+SKILL:Endurance|OUTPUTORDER:7|
+SKILL:Escape Artist|OUTPUTORDER:22|
+SKILL:Forgery|OUTPUTORDER:29|
+SKILL:Gather Information|OUTPUTORDER:8|
+SKILL:Heal|OUTPUTORDER:9|
+SKILL:Hide|OUTPUTORDER:38|
+SKILL:Intimidate|OUTPUTORDER:35|
+SKILL:Jump|OUTPUTORDER:24|
+SKILL:Listen|OUTPUTORDER:30|
+SKILL:Move Silently|OUTPUTORDER:37|
+SKILL:Mystic Artist Skill|OUTPUTORDER:11|
+SKILL:Notice|OUTPUTORDER:33|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Persuasion|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:14|
+SKILL:Search|OUTPUTORDER:32|
+SKILL:Sense Motive|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Sneak|OUTPUTORDER:16|
+SKILL:Spot|OUTPUTORDER:31|
+SKILL:ST Skill|OUTPUTORDER:17|
+SKILL:Stealth|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d12)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|OUTPUTORDER:25|
+SKILL:Thievery|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:36|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+SKILL:Martial Arts|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d06)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Sylvan|LANGUAGE:Tradetongue|LANGUAGE:Goblin|LANGUAGE:Orc|LANGUAGE:Draconic
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+ABILITY:Fedyra Fey Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Naiad|TYPE:FedyraFeyPackage.EclipseAbilityOutput|DESC:Obscuring Mist (Unlimited Use, L1 at CL1, 2000 GP), Sense Weather and Currents (Unlimited Use, L0 at CL1, 1000 GP), Acid Resistance 10 (Unlimited Use, L1 at CL1, Personal-Only, 1400 GP), Cure Light Wounds 3/Day (L1 at CL1, 1200 GP), Cure Minor Wounds 2/Day (L0 at CL1, 400 GP), and Create Water 3/Day (L0 at CL 1, 600 GP).
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+ABILITY:Fedyra Dragon Package|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bronze ~ Renaissance Man|TYPE:FedyraDragonPackage.EclipseAbilityOutput.BronzeDragon|DESC:(+2 Competence Bonus to all skills)
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+ABILITY:Fedyra Stat|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Stat Boost ~ Dexterity +2|TYPE:FedyraStat
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Specialized)|APPLIEDTO:Increased HD|TYPE:Character Creation.CharCreation.General|DESC:(+1) Actually purchased as a feat for 6 CP, this ability grants extra CP as the character rises in level. Specialized versions are available and encouraged. No one may take Fast Learner more than once unless it's been built into a template, race, or class by the Game Master.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Track|APPLIEDTO:Wilderness|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(3 CP). Characters with this feat select Urban, Wilderness, or Dimensional tracking. Tracking requires a Survival (for wilderness) or Gather Information (for urban) check every mile to follow the target. This is DC 15 for favorable conditions, DC 20 for unfavorable ones. Size bonuses on Hide checks apply, and unfavorable lighting may inflict penalties. Dimensional tracking relies on Spellcraft and can trace Gates or teleportation and dimensional travel.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Emphasis|APPLIEDTO:Stealth|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:This grants a +2 bonus on any single skill.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Immunity / Living off the land|TYPE:EclipseAbility.Abilities.ShadowStuff.EclipseAbilityOutput|DESC:Minor Immunity/"living off the land", needs less supplies to get along then other characters. That's not usually a problem, so Uncommon/Minor/Trivial (2 CP).
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Celerity|APPLIEDTO:Walk|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Celerity adds +10 feet per round to one of your movement modes. This is considered bonus movement for the purposes of skills; it does not apply when calculating movement penalties on skill use.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus ~ Mastery Improved|APPLIEDTO:Stealth|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:additional +1 to existing choices
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Acrobatics,Perception,Stealth,Thievery,Survival,Sense Motive,Persuasion,Martial Arts|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Augment Attack ~ Sneak Attack d6|APPLIEDTO:,,|TYPE:SpecialAttack.CombatEnhancements.Corruptable|DESC:Sneak attack +%1d%2&pipe;SneakDiceSix&pipe;SneakSizeSix
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Proficiency/ Shadow|TYPE:EclipseAbility.Abilities.ShadowStuff.EclipseAbilityOutput|DESC:Traps &amp; Psychological Warfare (specialized in rumor-spreading only, to cause morale penalties)
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Journeyman ~ Master ~ Skill|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:You may buy abilities of the chosen type as if you were two levels higher.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus ~ Mastery|APPLIEDTO:Stealth|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:+1 to existing choices
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Fortitude|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Fortitude Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Fortitude")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Innate Enchantment/Shadow|TYPE:EclipseAbility.Abilities.ShadowStuff|DESC:(All At-will or Use Activated at CL1) - Force Armor (1400 GP); Ranged Strike. Allows the user to "fire" melee attacks with a 100' range increment, using the same statistics. (1400 GP); +2 Dex (1400 GP); Detect Magic (700 GP) - Spent 4900GP of 5000GP.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Doubled Damage|APPLIEDTO:when striking by surprise, Specialized for Double Effect; only when striking from behind with a light weapon (the classic backstab)|TYPE:EclipseAbilityOutput.CombatEnhancements.Corruptable|DESC:(6 CP) The character must choose a very specific situation (this is difficult to Specialize further), in which he or she deals double damage from physical attacks. This situation must be so specific as to make the ability rare and difficult to use.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ Any one Martial Weapon|APPLIEDTO:Rapier|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Journeyman ~ Skill|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:A Journeyman may purchase some type of ability (often skills or spellcasting) as if he or she were one level higher, increasing the usual (Level + 3) cap.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Celerity ~ Improved|APPLIEDTO:Walk,Walk|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:adds +10' more movement per 3 CP invested.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Focus|APPLIEDTO:Stealth|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:+3 bonus to any single skill. Skill Focus stacks with Skill Emphasis.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Traceless|APPLIEDTO:Killing,Travel|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Traceless characters leave no discernable traces of a particular type of activity. The user must choose a specific form. Common forms include - Travel means the character leaves no traces when moving about. The character leaves no footprints, disturbs no leaves, and breaks no twigs. Magic means the character leaves no aura behind and his or her magic does not leave a discernable trace. It does not help with enemies using direct divination or assessing his or her aura in person. Genetic means the character leaves no personal biological evidence, such as fingerprints or usable DNA. More exotic forms include Murder (the victim remains dead, but there is no discernable cause of death and no blood or other traces), Computer Hacking, Surgery, and many more. This may be taken multiple times, each time applying to another activity.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Might|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) allows you to grant your companion the benefits of two Positive Levels (see page 86) or of a continuously active second level spell or psychic effect.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,|TYPE:Combat.Base Attack Bonus
+USERPOOL:Character Points|POOLPOINTS:-8.0
+ABILITY:Character Class Skill Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Character Class Skill Choice|APPLIEDTO:Acrobatics,Appraise,Athletics,Deception,Gather Information,Knowledge (Nature),Linguistics,Martial Arts,Perception,Persuasion,Sense Motive,Stealth,Survival,Use Rope,Thievery|TYPE:ClassSkillsChoice
+USERPOOL:Character Class Skill Choice|POOLPOINTS:0.0
+USERPOOL:Class Spell Selection|POOLPOINTS:0.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:Ancient Enemy|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Compulsive|APPLIEDTO:Dedicated to restoring your people to your homeland|TYPE:Disadvantage.DisadvantageCounter|DESC:You have some particular mania or "code of conduct" which influences everything you do. Likely compulsions include the classic manias (like Pyro- or Klepto-), an overwhelming love or hatred, greed, dedication to some peculiar goal, truthfulness, extravagent spending, or even virtue. Codes include things like Hippocratic Oaths or Chivalry. Characters that ignore their compulsions take a 20%% experience penalty.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Valuable|TYPE:Disadvantage.DisadvantageCounter|DESC:You are worth a lot of money. This usually means that there's a reward out on you, but it may mean that you will bring a vast price on the slave market, have some mystic quality about you which makes you priceless to a mage, or, for truly exotic character races, that your body parts are extremely valuable.
+USERPOOL:Disadvantages|POOLPOINTS:-1.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Special Mount|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Adept Skill Buy|APPLIEDTO:Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Acrobatics,Deception,Deception,Deception,Deception,Deception,Deception,Deception,Deception,Martial Arts,Martial Arts,Martial Arts,Martial Arts,Martial Arts,Martial Arts,Martial Arts,Martial Arts,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Persuasion,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Sense Motive,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Stealth,Survival,Survival,Survival,Survival,Survival,Survival,Survival,Survival,Thievery,Thievery,Thievery,Thievery,Thievery,Thievery,Thievery,Thievery|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Mind Like Moon|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You reflexively come on guard when attacked. With a DC 15 Reflex save, you avoid being surprised or flat-footed at the beginning of combat.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Quick Draw|TYPE:MartialArtsOutput.MartialArtsSkill.MasterMartialTech|DESC:See feat of same name
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Synergy|APPLIEDTO:|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +2 on any related skill. Each time this is taken it applies to a different skill. Common synergies include Tumble, Heal, and Move Silently, but others are possible.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Weapon Kata|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:The user may employ his or her martial art with a particular weapon &lbracket;e.g., "Longswords"&rbracket;. This isn't relevant for dedicated weapon forms (e.g., those based on Weapon Finesse rather than Improved Unarmed Strike), although an "Unarmed Kata" might exist in an advanced weapon form.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Arts Skill ~ Instant Stand|TYPE:MartialArtsOutput.MartialArtsSkill.AdvancedMartialTech|DESC:You may stand up as a Free Action if unarmored or in light armor.
+ABILITY:Martial Art Techniques|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Martial Artist Skill ~ Defenses|APPLIEDTO:,|TYPE:MartialArtsOutput.MartialArtsSkill.BasicTechnique|DESC:You gain +1 bonus to AC when you are unarmored or lightly armored.
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Chakram|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)]
+WEAPONPROF:[WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Magister's Staff]
+WEAPONPROF:[WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Rapier|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Rapier +2|OUTPUTORDER:5|COST:8320.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Rapier|DATA:NAME=Rapier +2$EQMOD=STEEL.PLUS2W]
+EQUIPNAME:Bag of Holding (Type 1)|OUTPUTORDER:1|COST:2500|WT:15.0|QUANTITY:1.0
+EQUIPNAME:Cloak of Resistance +2|OUTPUTORDER:2|COST:4000|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Feather Token (Tree)|OUTPUTORDER:3|COST:400|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Potion (Cure Serious Wounds)|OUTPUTORDER:4|COST:750|WT:0.0|QUANTITY:4.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Shadowcat|TYPE:Mount|RACE:CHEETAH|HITDICE:0|FILE:\Con2010 - Scout - Shadowcat.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

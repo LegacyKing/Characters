@@ -1,0 +1,179 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:3.5 RSRD|CAMPAIGN:Arcana Evolved|CAMPAIGN:Is This It - RSRD|CAMPAIGN:Is This It, Complete - Updated 11-13-2006|CAMPAIGN:Transcendence|CAMPAIGN:World of Warcraft
+VERSION:5.10.1
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Death Dealer
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:23
+STAT:DEX|SCORE:18
+STAT:CON|SCORE:16
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:10
+ALIGN:NE
+RACE:Ogre
+
+# Character Class(es)
+CLASS:Giant|SUBCLASS:None|LEVEL:4|SKILLPOOL:0|PROHIBITED:None
+CLASS:Fighter|SUBCLASS:None|LEVEL:12|SKILLPOOL:0|PROHIBITED:None
+CLASSABILITIESLEVEL:Giant=1|HITPOINTS:8|SKILLSGAINED:8
+CLASSABILITIESLEVEL:Giant=2|HITPOINTS:6|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Giant=3|HITPOINTS:6|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Giant=4|HITPOINTS:6|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=2|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=3|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=4|HITPOINTS:8|PRESTAT:CON=1|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=5|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=6|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=7|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=8|HITPOINTS:8|PRESTAT:DEX=1|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=9|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=10|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=11|HITPOINTS:8|SKILLSGAINED:2
+CLASSABILITIESLEVEL:Fighter=12|HITPOINTS:8|PRESTAT:STR=1|SKILLSGAINED:2
+
+# Character Experience
+EXPERIENCE:153000
+
+# Character Templates
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Giant|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Giant|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Heal|OUTPUTORDER:12|
+SKILL:Intimidate|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Giant|RANKS:10.0|COST:1|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Fighter|RANKS:7.0|COST:1|CLASSSKILL:Y]
+SKILL:Jump|OUTPUTORDER:14|
+SKILL:Listen|OUTPUTORDER:15|
+SKILL:Ride|OUTPUTORDER:16|
+SKILL:Search|OUTPUTORDER:17|
+SKILL:Sense Motive|OUTPUTORDER:18|
+SKILL:Sneak|OUTPUTORDER:19|
+SKILL:Sneak (Hide)|OUTPUTORDER:20|
+SKILL:Spot|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Fighter|RANKS:17.0|COST:1|CLASSSKILL:N]
+SKILL:Survival|OUTPUTORDER:22|
+SKILL:Swim|OUTPUTORDER:23|
+SKILL:Use Rope|OUTPUTORDER:24|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Giant
+
+# Character Feats
+FEAT:Improved Initiative|TYPE:GENERAL.FIGHTER|DESC:You get a +4 bonus on initiative checks.
+FEAT:Weapon Focus|APPLIEDTO:Greataxe|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEAT:Weapon Specialization|APPLIEDTO:Greataxe|TYPE:SPECIAL.FIGHTER|DESC:You gain a +2 bonus on all damage rolls you make using the selected weapon.
+FEAT:Improved Critical|APPLIEDTO:Greataxe|TYPE:GENERAL.FIGHTER|DESC:When using the weapon you selected, your threat range is doubled.
+FEAT:Greater Weapon Focus|APPLIEDTO:Greataxe|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including the one from Weapon Focus.
+FEAT:Sword Wind|TYPE:GENERAL.FIGHTER|DESC:Gain one extra attack at full attack bonus; all attacks are at -3.
+FEAT:Greater Weapon Specialization|APPLIEDTO:Greataxe|TYPE:GENERAL.FIGHTER|DESC:You gain a +2 bonus on all damage rolls you make using the selected weapon. This bonus stacks with other bonuses on damage rolls, including the one from Weapon Specialization.
+FEAT:Iron Will|TYPE:GENERAL|DESC:You get a +2 bonus on all Will saving throws.
+FEAT:Lightning Reflexes|TYPE:GENERAL|DESC:You get a +2 bonus on all Reflex saving throws.
+FEAT:Great Fortitude|TYPE:GENERAL|DESC:You get a +2 bonus on all Fortitude saving throws.
+FEAT:Power Attack|TYPE:GENERAL.FIGHTER|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+FEAT:Alertness|TYPE:GENERAL|DESC:You get a +2 bonus on all Listen checks and Spot checks.
+FEAT:Rapid Strike|TYPE:GENERAL|DESC:Make extra melee attack once per day per level
+FEAT:Speed Burst|TYPE:GENERAL|DESC:Extra move action once per day per two levels
+FEAT:Resistance to Magic|TYPE:TALENT|DESC:+1 bonus to saves against magic
+FEAT:Improved Natural Armor|APPLIEDTO:|TYPE:GENERAL|DESC:creature's natural armor bonus increases by 1.
+FEAT:Armor Proficiency (Exotic)|TYPE:GENERAL|DESC:No armor check penalty on attack rolls
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)]
+WEAPONPROF:[WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)|WEAPON:Shieldbash (Light)]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Trident]
+WEAPONPROF:[WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Greataxe +4 (Large)|OUTPUTORDER:1|COST:32340.0|WT:24.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greataxe|DATA:NAME=Greataxe +4 (Large)$SIZE=L$EQMOD=MWORKW.PLUS4W.STEEL]
+EQUIPNAME:The Definitive Harness* AC Bonus (Deflection) (+5/Mithral/+3/Large)|OUTPUTORDER:2|COST:88000.0|WT:50.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:The Definitive Harness*|DATA:NAME=The Definitive Harness* AC Bonus (Deflection) (+5/Mithral/+3/Large)$SIZE=L$EQMOD=BNS_AC_DEFL&pipe;+5.MITHRAL_ARMR_HVY.PLUS3A]
+EQUIPNAME:Gloves of Dexterity +4|OUTPUTORDER:1|COST:16000|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.1|VALUE:Greataxe +4 (Large)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.2|VALUE:The Definitive Harness* AC Bonus (Deflection) (+5/Mithral/+3/Large)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hand|ID:0.1.3|VALUE:Gloves of Dexterity +4|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+TEMPBONUS:SPELL=Resistance, Superior|TBTARGET:PC|TBBONUS:CHECKS&pipe;Fortitude,Reflex,Will&pipe;6&pipe;TYPE=RESISTANCE
+TEMPBONUS:SPELL=Aid|TBTARGET:PC|TBBONUS:COMBAT&pipe;TOHIT&pipe;1&pipe;TYPE=MORALE|TBBONUS:HP&pipe;CURRENTMAX&pipe;18&pipe;TYPE=ENHANCEMENT
+TEMPBONUS:SPELL=Barkskin|TBTARGET:PC|TBBONUS:COMBAT&pipe;AC&pipe;5&pipe;TYPE=NATURALARMORENHANCEMENT
+TEMPBONUS:SPELL=Heroism (Greater)|TBTARGET:PC|TBBONUS:CHECKS&pipe;Fortitude,Reflex,Will&pipe;4&pipe;TYPE=MORALE|TBBONUS:COMBAT&pipe;TOHIT&pipe;4&pipe;TYPE=MORALE|TBBONUS:HP&pipe;CURRENTMAX&pipe;20&pipe;TYPE=ENHANCEMENT|TBBONUS:SKILL&pipe;ALL&pipe;4&pipe;TYPE=MORALE
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

@@ -1,0 +1,348 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Is This It - 2007-08-31|CAMPAIGN:Eclipse - The Codex Persona|CAMPAIGN:Eclipse - The Codex Persona (Exclusive Set) no temp fix|CAMPAIGN:Kingdom Hearts d20|CAMPAIGN:
+VERSION:5.17.1
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e Drew
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Caleb Beltaine
+TABNAME:S14 - Caleb (Lv5)
+PLAYERNAME:Joshua Troeger
+HEIGHT:68
+WEIGHT:150
+AGE:19
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:14
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:15
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:17
+ALIGN:NG
+RACE:Human
+
+# Character Class(es)
+CLASS:Eclipse Point Buy (d6)|SUBCLASS:None|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASS:Bard|LEVEL:0|SKILLPOOL:0|SPELLBASE:CHA|CANCASTPERDAY:
+CLASS:Eclipse Point Buy (d8)|LEVEL:2|SKILLPOOL:4|SPELLBASE:None|CANCASTPERDAY:9,9,9,9,9,9,9,9,9,9
+CLASSABILITIESLEVEL:Eclipse Point Buy (d6)=1|HITPOINTS:6|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d6)=2|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d6)=3|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d8)=1|HITPOINTS:4|PRESTAT:CHA=1|PRESTAT:CON=1|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Eclipse Point Buy (d8)=2|HITPOINTS:5|SKILLSGAINED:4|SKILLSREMAINING:4
+
+# Character Experience
+EXPERIENCE:15000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:01 Class Skills Eclipse Point Buy]
+TEMPLATESAPPLIED:[NAME:Caleb Template]
+TEMPLATESAPPLIED:[NAME:Dragonblooded]
+TEMPLATESAPPLIED:[NAME:01 Point Buy Master Template for All Levels]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Athletics|OUTPUTORDER:3|
+SKILL:Balance|OUTPUTORDER:26|
+SKILL:Bluff|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|OUTPUTORDER:28|
+SKILL:Concentration|OUTPUTORDER:33|
+SKILL:Craft (Untrained)|OUTPUTORDER:5|
+SKILL:Deception|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d8)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:39|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:32|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Endurance|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:27|
+SKILL:Forgery|OUTPUTORDER:34|
+SKILL:Gather Information|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:43|
+SKILL:Intimidate|OUTPUTORDER:40|
+SKILL:Jump|OUTPUTORDER:29|
+SKILL:Listen|OUTPUTORDER:35|
+SKILL:Move Silently|OUTPUTORDER:42|
+SKILL:Mystic Artist Skill|OUTPUTORDER:13|
+SKILL:Notice|OUTPUTORDER:38|
+SKILL:Perception|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Persuasion|OUTPUTORDER:17|
+SKILL:Ride|OUTPUTORDER:18|
+SKILL:Search|OUTPUTORDER:37|
+SKILL:Sense Motive|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:4.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Eclipse Point Buy (d8)|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Sneak|OUTPUTORDER:20|
+SKILL:Spot|OUTPUTORDER:36|
+SKILL:ST Skill|OUTPUTORDER:22|
+SKILL:Stealth|OUTPUTORDER:23|
+SKILL:Survival|OUTPUTORDER:24|
+SKILL:Swim|OUTPUTORDER:30|
+SKILL:Thievery|OUTPUTORDER:25|
+SKILL:Use Rope|OUTPUTORDER:41|
+SKILL:Knowledge (Religion)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Perform (Sing)|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Sleight of Hand|OUTPUTORDER:44|CLASSBOUGHT:[CLASS:Eclipse Point Buy (d6)|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise (Act in character)|OUTPUTORDER:7|
+SKILL:Athletics (Jump)|OUTPUTORDER:4|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:11|
+SKILL:Perform (Wind Instruments)|OUTPUTORDER:16|
+SKILL:Spellcraft|OUTPUTORDER:21|
+
+# Character Languages
+LANGUAGE:Gnoll|LANGUAGE:Draconic|LANGUAGE:Terran|LANGUAGE:Common|LANGUAGE:Elven
+
+# Character Feats
+FEATPOOL:-5.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Feat Conversion to CP ~ 6|APPLIEDTO:,,,,|TYPE:PointBuySystem
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal Abilities|POOLPOINTS:0.0
+USERPOOL:Mage Blade Feat|POOLPOINTS:0.0
+USERPOOL:Complex Spell MP|POOLPOINTS:0.0
+USERPOOL:Doom Dreamer Secret|POOLPOINTS:0.0
+USERPOOL:ST|POOLPOINTS:0.0
+USERPOOL:Special|POOLPOINTS:0.0
+USERPOOL:Ceremonial Feat|POOLPOINTS:0.0
+USERPOOL:Talent Feat|POOLPOINTS:0.0
+USERPOOL:Willow Blade Free Feat|POOLPOINTS:0.0
+USERPOOL:Deity Gifted|POOLPOINTS:0.0
+USERPOOL:Psychic Wild Talent|POOLPOINTS:0.0
+USERPOOL:Initiate Choice|POOLPOINTS:0.0
+USERPOOL:Lesser Aspect of Power|POOLPOINTS:0.0
+USERPOOL:Drow Innate|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Advanced Learning|POOLPOINTS:0.0
+USERPOOL:Chaositech|POOLPOINTS:0.0
+USERPOOL:Fedyra Fey Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Dragon Package|POOLPOINTS:0.0
+USERPOOL:Fedyra Stat|POOLPOINTS:0.0
+USERPOOL:Special Ability|POOLPOINTS:0.0
+USERPOOL:Animal Trick|POOLPOINTS:0.0
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Metamagic Feat|POOLPOINTS:0.0
+USERPOOL:Monk Feat|POOLPOINTS:0.0
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:High Arcana Ability|POOLPOINTS:0.0
+USERPOOL:Hierophant Ability|POOLPOINTS:0.0
+USERPOOL:Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Advanced Terrain Mastery|POOLPOINTS:0.0
+USERPOOL:Loremaster Secret|POOLPOINTS:0.0
+USERPOOL:Dragon Disciple Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Ghost Ability|POOLPOINTS:0.0
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bard Magic Level|APPLIEDTO:,,,,,,|TYPE:MagicLevels
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Skill Point|APPLIEDTO:,,,,,,,,,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Template|APPLIEDTO:|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(+6 CP) adds a template of up to +2 ECL to the companion. Only one Template can be applied to a given companion, but you may pay the cost multiple times to add a more powerful template. The ECL addition is cumulative up to a maximum of +6.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:(6 CP). Used to gain familiars, psicrystals, animal companions, and sometimes mounts. Companion empowers a sidekick - usually an animal. You may choose to apply the standard d20 Druid's Animal Companion bonuses, Wizard's Familiar bonuses, Paladin's Mount bonuses, get a Psi-Crystal, or use any similar progression. The base creature may not have an ECL of more than 1/3 your character level.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Mystic Artist|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Usable %2/day, DC %1&pipe;MysticArtsDC&pipe;MysticArtsUse
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Luck|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:A lucky character may either "Take 20" in advance, without taking extra time and whether or not this would usually be allowed, or reroll after the primary roll once per day. Most characters also get Bonus Uses.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Initial Bard Magic Level|TYPE:MagicLevels|SAVE:BONUS&pipe;PCLEVEL&pipe;BARD&pipe;1
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Duties (+2)|APPLIEDTO:|TYPE:Character Creation.CharCreation.General|DESC:(+2) A character with Duties has extensive obligations. These restrict his or her time and freedom of action, as well as draining his or her resources, but also mean getting a lot of practice or extra training. This typically includes Druids, Clerics, and Paladins. Ignoring your duties brings on various penalties. Strangely, this continues until the GM feels you have enough penalties to equal the points you got from Duties.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Reflex|APPLIEDTO:,,|TYPE:SavingThrow.Character Creation|DESC:Increases the Reflex Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Reflex")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Warcraft ~ Normal Progression|APPLIEDTO:,|TYPE:Combat.Base Attack Bonus
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Dragonfire|TYPE:PathoftheDragon.WayofInnerFire
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fast Learner (Other)|APPLIEDTO:Specialized in Spells|TYPE:Character Creation.CharCreation.General
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Adept|APPLIEDTO:Concentration,Knowledge (Arcana),Perform (Wind Instruments),Spellcraft|TYPE:General.EclipseAbilityOutput.Abilities.Corruptable|DESC:Choose four related skills that only cost 1/2 a Character Point for each skill rank.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Save ~ Will|APPLIEDTO:,|TYPE:SavingThrow.Character Creation|DESC:Increases the Will Save by +%1&pipe;count("ABILITIES","CATEGORY=Special Ability","NAME=Save ~ Will")
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Spell Points ~ Bard|APPLIEDTO:22|TYPE:SpellCasterOutput.General.Abilities
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Weapon Prof ~ All Simple Weapons plus any one Martial Weapon|APPLIEDTO:Battleaxe|TYPE:Proficiencies.SpecialQuality|DESC:Grants Proficiency with all simple weapons and selected weapons.
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Buy Spell|APPLIEDTO:,,,,,,,|TYPE:General.Character Creation.Conversion Stuff
+ABILITY:Character Points|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shaping|TYPE:PathoftheDragon
+USERPOOL:Character Points|POOLPOINTS:0.0
+USERPOOL:Character Class Skill Choice|POOLPOINTS:-15.0
+ABILITY:Class Spell Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bard Known Level 2|APPLIEDTO:,,,,|TYPE:ClassSpellsChoice
+ABILITY:Class Spell Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bard Known Level 1|APPLIEDTO:,,|TYPE:ClassSpellsChoice
+USERPOOL:Class Spell Selection|POOLPOINTS:8.0
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Hunted|APPLIEDTO:|TYPE:Disadvantage.DisadvantageCounter|DESC:Someone's out to get you. You may be an outlaw, have personal enemies, or have been marked by some mystical entity. The nature of your foes should be decided in consultation with the GM. As a rule, you cannot simply confront your hunters and fight it out with them. They're either numerous, powerful, or secretive.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Unarmored|TYPE:Disadvantage.DisadvantageCounter|DESC:You refuse to use armor for some reason. Characters who already suffer major penalties for wearing armor can't take this disadvantage.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Irreverent|APPLIEDTO:|TYPE:Disadvantage.DisadvantageCounter|DESC:You are fundamentally unable to accept the "divinity" of gods. You recognize their might and may even see one as a patron, but worphip just isn't part of your nature' they're just really powerful people to you. While gods generally forego directly smiting you, none of them will grant you divine magic and many clerics have a problem with you.
+ABILITY:Disadvantages|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Disadvantage ~ Sleepwalker|TYPE:Disadvantage.DisadvantageCounter|DESC:You are prone to sleepwalking while sleeping, acting our dreams or nightmares. GM decides when this comes into play.
+USERPOOL:Disadvantages|POOLPOINTS:0.0
+USERPOOL:Transference To Companion|POOLPOINTS:0.0
+USERPOOL:Action Hero Choice|POOLPOINTS:0.0
+USERPOOL:Exotic Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Channeling|POOLPOINTS:0.0
+USERPOOL:Natural Magic Choice|POOLPOINTS:0.0
+USERPOOL:Mana Choice|POOLPOINTS:0.0
+USERPOOL:Innate Enchantment Choice|POOLPOINTS:0.0
+ABILITY:Companion Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Companion ~ Familiar|APPLIEDTO:|TYPE:CompanionChoice
+USERPOOL:Companion Choice|POOLPOINTS:0.0
+USERPOOL:Skill Buy|POOLPOINTS:0.0
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:Bluff|APPLIEDTO:,|TYPE:SkillBuy.FullCost
+ABILITY:Character Skills|TYPE:NORMAL|CATEGORY:Skill Buy|KEY:2. Test Skill Half|APPLIEDTO:Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Knowledge (Arcana),Perform (Wind Instruments),Perform (Wind Instruments),Perform (Wind Instruments),Perform (Wind Instruments),Perform (Wind Instruments),Perform (Wind Instruments),Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Spellcraft,Perform (Wind Instruments),Knowledge (Arcana),Endurance,Endurance,Endurance,Endurance,Endurance,Endurance,Endurance|TYPE:SkillBuy.HalfCost
+USERPOOL:Character Skills|POOLPOINTS:0.0
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inspiration (Excellence)|TYPE:MysticArtistOutput.MysticArtistSkill.Inspiration|DESC:Excellence grants the target two +4 morale bonuses which can be applied to an attribute, to all their saves, to their armor class, to their attacks, or to the damage they inflict in melee combat.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Synergy (Amplify)|TYPE:MysticArtistOutput.MysticArtistSkill.Synergy|DESC:A mystic artist using this ability can add to magical abilities used nearby. All friendly spellcasters within a 30' radius radius recieve a +2 Caster Level bonus on all magical techniques.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Synergy (Serenity)|TYPE:MysticArtistOutput.MysticArtistSkill.Synergy|DESC:This tune spreads an aura of rest and relaxation. Usable only once a week, it counts as a night's rest and refreshes uses-per-day abilities.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inspiration (Emotion)|TYPE:MysticArtistOutput.MysticArtistSkill.Inspiration|DESC:You can make everyone in the area feel any strong emotion you care to evoke for up to five rounds after you cease to perform or after they leave the area of your art. In combat you may target either allies or enemies, providing/inflicting a morale bonus/penalty of up to %1 on saves against mind-affecting powers and on attacks and damage. Out of combat this is most useful for manipulating crowds or setting the mood for negotiations, oratory, and diplomacy.&pipe;1+(var(MysticArts/6))
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inspiration (Competence)|TYPE:MysticArtistOutput.MysticArtistSkill.Inspiration|DESC:Competence is more like it. Now you can give someone a +2 morale bonus to any skill check, attack roll, saving throw, or AC while you use your art, albeit only one of these at a time. It only affects one character.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Synergy (Harmonize)|TYPE:MysticArtistOutput.MysticArtistSkill.Synergy|DESC:Harmonize allows you to select two Mystic Artist powers and combine them into one. Normally you can only use one at a time.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inspiration (Mass Greatness)|TYPE:MysticArtistOutput.MysticArtistSkill.Inspiration|DESC:This works as per Greatness, except it affects (Cha Mod + Level) targets. The lucky target(s) of Greatness becomes inspired to new heights. Up to (Level/3) targets gain a +1 Positive Level bonus and 1d10 temporary hit points.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Synergy (Block)|TYPE:MysticArtistOutput.MysticArtistSkill.Synergy|DESC:A mystic artist can use his or her art to counter magical effects that depend on ralated abilities. Music can block sonic effects (but not those that merely use incantation). Painting can block effects relying on light, shadow, or gaze attacks. Sculpture and architecture can block effects like Turn to stone, Mud to Rock, Rock to Mud, Move Earth, Wall of Stone and so on. The artist simply makes his or her skill roll as normal. All characters in a 30' radius may use that check in place of their saving throw before or after rolling. Effects which do not grant saving throws force their caster to make a Caster Level check instead, is the artist wins the ability fails within the affects area. This ability takes effect immediately, even without the Rapid Song feat. Creatures already affected by affected powers treat the perform check as a new saving throw each round. Performance-dependent blocks normally last for 3d6 + (relevant Attribute Modifier) rounds. Static media create permanent blocks.
+ABILITY:Mystic Artist Skill|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Inspiration (Mass Excellence)|TYPE:MysticArtistOutput.MysticArtistSkill.Inspiration|DESC:This works as per Excellence, except it affects (artist's level/2 + Cha Mod) targets. Excellence grants the target two +4 morale bonuses which can be applied to an attribute, to all their saves, to their armor class, to their attacks, or to the damage they inflict in melee combat.
+USERPOOL:Mystic Artist Skill|POOLPOINTS:0.0
+USERPOOL:Witchcraft Abilities|POOLPOINTS:0.0
+USERPOOL:Advanced Witchcraft Ability|POOLPOINTS:0.0
+USERPOOL:Spirit Weapon Choice|POOLPOINTS:0.0
+USERPOOL:Martial Art Techniques|POOLPOINTS:0.0
+USERPOOL:Martial Art Skill Power Choice|POOLPOINTS:0.0
+USERPOOL:Adamantine Fist|POOLPOINTS:0.0
+USERPOOL:Canmarg Martial Art|POOLPOINTS:0.0
+USERPOOL:Street Fighting Art|POOLPOINTS:0.0
+USERPOOL:Companion Resistance Choice|POOLPOINTS:0.0
+USERPOOL:Wealth Level Choice|POOLPOINTS:0.0
+USERPOOL:Extra Creature Level|POOLPOINTS:0.0
+USERPOOL:Companion Stat Increase|POOLPOINTS:0.0
+USERPOOL:Companion Bonus HP|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Internal Abilities Abilities|POOLPOINTS:0.0
+USERPOOL:Elemental Bond Choice|POOLPOINTS:0.0
+USERPOOL:Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Stat Boost Choice|POOLPOINTS:0.0
+USERPOOL:Skill Mastery Group Choice|POOLPOINTS:0.0
+USERPOOL:Shadow Elf Spell Choice|POOLPOINTS:0.0
+USERPOOL:Ikam Subrace Choice|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Stormer Talent|POOLPOINTS:0.0
+USERPOOL:Strider Talent|POOLPOINTS:0.0
+USERPOOL:Damascao Talent|POOLPOINTS:0.0
+USERPOOL:Dastrier Talent|POOLPOINTS:0.0
+USERPOOL:Magistra Talent|POOLPOINTS:0.0
+USERPOOL:Magieux Talent|POOLPOINTS:0.0
+USERPOOL:General Feat|POOLPOINTS:0.0
+USERPOOL:Stormer Feats|POOLPOINTS:0.0
+USERPOOL:Strider Feats|POOLPOINTS:0.0
+USERPOOL:Damascao Feats|POOLPOINTS:0.0
+USERPOOL:Dastrier Feats|POOLPOINTS:0.0
+USERPOOL:Magistra Feats|POOLPOINTS:0.0
+USERPOOL:Magieux Feats|POOLPOINTS:0.0
+USERPOOL:Court Magician Feat|POOLPOINTS:0.0
+USERPOOL:Court Magician Secret|POOLPOINTS:0.0
+USERPOOL:Jedi Knight|POOLPOINTS:0.0
+USERPOOL:Force Training|POOLPOINTS:0.0
+USERPOOL:Jedi Feat|POOLPOINTS:0.0
+USERPOOL:Wielder of Darkness Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Battleaxe|WEAPON:Chakram|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart]
+WEAPONPROF:[WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Hoopak|WEAPON:Javelin|WEAPON:Keyblade|WEAPON:Laser|WEAPON:Longspear|WEAPON:Mace (Heavy)]
+WEAPONPROF:[WEAPON:Mace (Light)|WEAPON:Magister's Staff|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Scourge|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Skirt Blades|WEAPON:Sling]
+WEAPONPROF:[WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Sword Staff|WEAPON:Unarmed|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Special Boots|OUTPUTORDER:8|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Special Backpack of Holding|OUTPUTORDER:7|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Sentient Rod of Any Weapon|OUTPUTORDER:6|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Faerie Garb +3|OUTPUTORDER:3|COST:9151.0|WT:0.5|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Faerie Garb|DATA:NAME=Faerie Garb +3$EQMOD=CLOTH.PLUS3A]
+EQUIPNAME:Battleaxe|OUTPUTORDER:1|COST:10.0|WT:6.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Battleaxe|DATA:NAME=Battleaxe$EQMOD=STEEL]
+EQUIPNAME:Satyr Wreath|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Merrick's Ring|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.1|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.2|VALUE:Faerie Garb +3|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.3|VALUE:Special Boots|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.4|VALUE:Sentient Rod of Any Weapon|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.5|VALUE:Special Backpack of Holding|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.6|VALUE:Battleaxe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.7|VALUE:Satyr Wreath|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.8|VALUE:Merrick's Ring|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Alter Self|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Body of the Sun|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Burning Hands|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Dancing Lights|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Fireball|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Fireburst|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Ghost Sound|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Grease|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Hold Person|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Identify|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Invisibility|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Joyful Noise|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Know Vulnerabilities|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Light|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Locate Object|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Love's Lament|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Mage Hand|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Minor Image|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Ray of Flame|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Silence|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Songbird|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Sonic Weapon|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Suggestion|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Tactical Precision|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Tasha's Hideous Laughter|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Bard]
+SPELLNAME:Tongues|TIMES:1|CLASS:Bard|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Bard]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Firebird|TYPE:Falcon Familiar|RACE:KESTREL FALCON|HITDICE:0|FILE:\PB - Firebird.pcg
+FOLLOWER:Aidan Firefalcon|TYPE:Familiar|RACE:COMPANION (FIRE FALCON)|HITDICE:0|FILE:\2. Aidan Firefalcon.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

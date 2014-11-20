@@ -1,0 +1,235 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Paizo - Pathfinder RPG (2009 Campaign:House Rules)|CAMPAIGN:Paizo - Pathfinder RPG (Beta Playtest Edition)|CAMPAIGN:Paizo - Pathfinder RPG (Beta Playtest Edition Web Enhancement)
+VERSION:5.16.0 RC1
+ROLLMETHOD:2|EXPRESSION:Epic Fantasy
+PURCHASEPOINTS:Y|TYPE:Epic Fantasy
+POOLPOINTS:0
+POOLPOINTSAVAIL:25
+GAMEMODE:Pathfinder
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Oxideous
+TABNAME:Oxi
+PLAYERNAME:Tom C.
+HEIGHT:73
+WEIGHT:208
+AGE:26
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Blue
+HAIRCOLOR:Brown
+HAIRSTYLE:Long
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:C&colon;\home\lordoxide\Public\pcgen\C&colon;\pcgen\characters\oxideo10.jpg
+
+# Character Attributes
+STAT:STR|SCORE:17
+STAT:DEX|SCORE:12
+STAT:CON|SCORE:13
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:14
+ALIGN:CN
+RACE:Human|APPLIEDTO:Cleric
+
+# Character Class(es)
+CLASS:Werewolf|SUBCLASS:None|LEVEL:2|SKILLPOOL:0
+CLASS:Cleric|SUBCLASS:None|LEVEL:3|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:4,2,1
+CLASSABILITIESLEVEL:Werewolf=1|HITPOINTS:8|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Werewolf=2|HITPOINTS:8|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Cleric=1|HITPOINTS:6|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Cleric=2|HITPOINTS:6|PRESTAT:STR=1|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Cleric=3|HITPOINTS:6|SKILLSGAINED:3
+
+# Character Experience
+EXPERIENCE:23001
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Starting Hit Points (8 HP)]
+TEMPLATESAPPLIED:[NAME:Holy Warrior]
+TEMPLATESAPPLIED:[NAME:Werewolf (Hybrid)]
+
+# Character Region
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Appraise|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Control Shape|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Cleric|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Heal|OUTPUTORDER:10|
+SKILL:Intimidate|OUTPUTORDER:11|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Perform (Untrained)|OUTPUTORDER:13|
+SKILL:Ride|OUTPUTORDER:14|
+SKILL:Sense Motive|OUTPUTORDER:15|
+SKILL:Spellcraft|OUTPUTORDER:16|
+SKILL:Stealth|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Cleric|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Survival|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Cleric|RANKS:3.0|COST:1|CLASSSKILL:N]
+SKILL:Swim|OUTPUTORDER:19|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:-4.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Toughness|TYPE:General.DraconicBloodline.UndeadBloodline|DESC:You have enhanced physical stamina.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Extra Turning|APPLIEDTO:|TYPE:General|DESC:You can channel positive or negative energy more times per day than most.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Selective Channeling|TYPE:General|DESC:You can choose whom to affect when you channel energy.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Natural Armor|TYPE:Combat|DESC:Your natural armor is hardended through battle.
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Ability Bonus|APPLIEDTO:STR|TYPE:Internal
+USERPOOL:Special Ability|POOLPOINTS:1.0
+USERPOOL:Fighter Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Wizard Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Combat Trick Feat|POOLPOINTS:0.0
+USERPOOL:Skill Focus|POOLPOINTS:0.0
+USERPOOL:Weapon Focus|POOLPOINTS:0.0
+USERPOOL:Aberrant Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Abyssal Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Arcane Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Celestial Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Destined Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Draconic Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Elemental Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Fey Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Infernal Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Undead Bloodline Feat|POOLPOINTS:0.0
+USERPOOL:Bardic Knowledge|POOLPOINTS:0.0
+ABILITY:Channel Energy|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Channel Positive Energy|TYPE:ChannelEnergy.SpecialAttack.Supernatural|DESC:You can unleash a wave of positive energy in a 30-foot burst %1 times per day. All undead in this radius take %2d%3+%6 points of positive energy damage and must flee from you (as if frightened) for 1d4+%4 rounds. Undead in this radius are allowed a DC %5 Will save that negates the frightened condition and results in half damage. Undead who take damage greater than their hit points crumble to dust and are destroyed by the power of your deity. Living creatures within the area are healed a like amount by this wave of positive energy. You can choose whether or not to include yourself in this effect.&pipe;ChannelEnergyTimes&pipe;ChannelEnergyDice&pipe;ChannelEnergyDieSize&pipe;ChannelPositiveEnergyDurationPlus&pipe;ChannelEnergyDC&pipe;ChannelEnergyDieExtra
+USERPOOL:Channel Energy|POOLPOINTS:0.0
+USERPOOL:Hunter's Bond|POOLPOINTS:0.0
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+USERPOOL:Favored Terrain|POOLPOINTS:0.0
+USERPOOL:Favored Terrain Bonus|POOLPOINTS:0.0
+USERPOOL:Rage Power|POOLPOINTS:0.0
+USERPOOL:Natures Bond|POOLPOINTS:0.0
+USERPOOL:Rogue Talent|POOLPOINTS:0.0
+USERPOOL:Advanced Talent|POOLPOINTS:0.0
+USERPOOL:Weapon Training I|POOLPOINTS:0.0
+USERPOOL:Weapon Training II|POOLPOINTS:0.0
+USERPOOL:Weapon Training III|POOLPOINTS:0.0
+USERPOOL:Weapon Training IV|POOLPOINTS:0.0
+USERPOOL:Sorcerer Bloodline|POOLPOINTS:0.0
+USERPOOL:Arcane Bond|POOLPOINTS:0.0
+USERPOOL:Arcane School|POOLPOINTS:0.0
+USERPOOL:Arcane School Prohibition|POOLPOINTS:0.0
+USERPOOL:Expert Class Skills|POOLPOINTS:0.0
+USERPOOL:Monk Bonus Feat|POOLPOINTS:0.0
+USERPOOL:Divine Bond|POOLPOINTS:0.0
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+USERPOOL:Ranger Bonus Feat|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Bonus Hit Point|APPLIEDTO:,,|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Racial Weapon Training|TYPE:NORMAL|CATEGORY:FEAT|KEY:Martial Weapon Proficiency|APPLIEDTO:Greataxe|TYPE:General.RacialWeaponTraining|DESC:You understand how to use your chosen martial weapon in combat.
+USERPOOL:Racial Weapon Training|POOLPOINTS:0.0
+USERPOOL:Abjuration Elemental Immunity|POOLPOINTS:0.0
+USERPOOL:Wizard 2nd Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 4th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 6th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 8th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 10th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 12th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 14th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 16th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Wizard 18th Level Bonus Spell|POOLPOINTS:0.0
+USERPOOL:Knowledge Class Skill|POOLPOINTS:0.0
+USERPOOL:Arcane Bloodline School Power|POOLPOINTS:0.0
+ABILITY:Custom Abilities|TYPE:NORMAL|CATEGORY:Special Ability|KEY:First Level Choice ~ Character Traits|TYPE:CustomAbilities
+USERPOOL:Custom Abilities|POOLPOINTS:0.0
+ABILITY:Character Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Battle Forged Claws|TYPE:CharacterTraits.SpecialQuality|DESC:Through extensive use of your claws in battle, their edges have become serrated and cause more damage than usual.
+ABILITY:Character Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Channeling Master|TYPE:CharacterTraits.SpecialQuality|DESC:Through your extensive meditation your channel energy is more powerful than an ordinary priest.
+USERPOOL:Character Traits|POOLPOINTS:0.0
+USERPOOL:Regional Feat|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite|WEAPON:Blowgun|WEAPON:Claw|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gauntlet]
+WEAPONPROF:[WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Javelin|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar|WEAPON:Quarterstaff|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Trident|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Claw (Natural/Primary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Claw|DATA:KEY=Claw]
+EQUIPNAME:Bite (Natural/Secondary)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:6|COST:0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Explorer's)|DATA:NAME=Outfit (Explorer's)$COSTMOD=-10]
+EQUIPNAME:Cloak of Resistance +1|OUTPUTORDER:3|COST:1000|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Pearl (Black)|OUTPUTORDER:7|COST:500|WT:0.0|QUANTITY:6.0
+EQUIPNAME:Ring of Protection +1|OUTPUTORDER:8|COST:2000|WT:0.02|QUANTITY:1.0
+EQUIPNAME:Wand of Cure Light Wounds(27)|OUTPUTORDER:11|COST:405.0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Wand|DATA:NAME=Wand of Cure Light Wounds$KEY=Wand of Cure Light Wounds$EQMOD=SPL_CHRG&pipe;SPELLNAME&lbracket;Cure Light Wounds&rbracket;SPELLLEVEL&lbracket;1&rbracket;CASTERLEVEL&lbracket;1&rbracket;CHARGES&lbracket;27&rbracket;]
+EQUIPNAME:Greataxe|OUTPUTORDER:5|COST:20.0|WT:12.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greataxe|DATA:NAME=Greataxe$EQMOD=STEEL]
+EQUIPNAME:Snakeskin Tunic|OUTPUTORDER:9|COST:8000|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Stone Cutter Greataxe|OUTPUTORDER:10|COST:32320.0|WT:12.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Stone Cutter Greataxe|DATA:NAME=Stone Cutter Greataxe$EQMOD=ACIDIC.SERRATED.MWORKW.STEEL.PLUS1W]
+EQUIPNAME:Full Plate +2|OUTPUTORDER:4|COST:5650.0|WT:50.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Full Plate|DATA:NAME=Full Plate +2$EQMOD=STEEL.PLUS2A]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.11|VALUE:Stone Cutter Greataxe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.12|VALUE:Full Plate +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Back|ID:0.1.2|VALUE:Cloak of Resistance +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.6|VALUE:Ring of Protection +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.8|VALUE:Claw (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Secondary|ID:0.1.9|VALUE:Bite (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Gozreh|DEITYDOMAINS:[DOMAIN:Air|DOMAIN:Animal|DOMAIN:Plant|DOMAIN:Water|DOMAIN:Weather]|ALIGNALLOW:|DESC:God of nature, weather, the sea|HOLYITEM:|DEITYFAVWEAP:[WEAPON:Trident]|DEITYALIGN:TN
+
+# Character Spells Information
+SPELLBOOK:Prepared Spells|TYPE:2
+SPELLNAME:Bless|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bull's Strength|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Magic|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Resistance|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stabilize|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:When you select the Wolf template, the Human template is still selectable
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

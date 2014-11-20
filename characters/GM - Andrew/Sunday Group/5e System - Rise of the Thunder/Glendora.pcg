@@ -1,0 +1,181 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Player's Handbook (5e)
+VERSION:6.05.00-dev
+ROLLMETHOD:1|EXPRESSION:10
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:5e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Glendora
+TABNAME:5e - L1 - Glendora (Bekah)
+PLAYERNAME:Rebekah Maitland
+HEIGHT:34
+WEIGHT:38
+AGE:34
+GENDER:Female
+HANDED:Right
+SKINCOLOR:Pale Ruddy
+EYECOLOR:Green Hazel
+HAIRCOLOR:Brown
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:L&colon;\1. Files and Folders\Pictures\FANTASY PICTURES\Female Portraits\Female Portraits\F2461L.bmp
+PORTRAITTHUMBNAILRECT:10,0,100,100
+
+# Character Attributes
+STAT:STR|SCORE:15
+STAT:DEX|SCORE:15
+STAT:CON|SCORE:14
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:8
+STAT:CHA|SCORE:12
+ALIGN:NG
+RACE:Halfling
+
+# Character Class(es)
+CLASS:Fighter|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:0
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:First Level|CHOSENTEMPLATE:[NAME:Fighter]]
+TEMPLATESAPPLIED:[NAME:Subrace ~ Stout]
+TEMPLATESAPPLIED:[NAME:Fighter]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Animal Handling|OUTPUTORDER:2|
+SKILL:Arcana|OUTPUTORDER:3|
+SKILL:Athletics|OUTPUTORDER:4|
+SKILL:Deception|OUTPUTORDER:5|
+SKILL:History|OUTPUTORDER:6|
+SKILL:Insight|OUTPUTORDER:7|
+SKILL:Intimidation|OUTPUTORDER:8|
+SKILL:Investigation|OUTPUTORDER:9|
+SKILL:Medicine|OUTPUTORDER:10|
+SKILL:Nature|OUTPUTORDER:11|
+SKILL:Perception|OUTPUTORDER:12|
+SKILL:Performance|OUTPUTORDER:13|
+SKILL:Persuasion|OUTPUTORDER:14|
+SKILL:Religion|OUTPUTORDER:15|
+SKILL:Sleight of Hand|OUTPUTORDER:16|
+SKILL:Stealth|OUTPUTORDER:17|
+SKILL:Survival|OUTPUTORDER:18|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Halfling
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Artisan's Tools Proficiency|TYPE:NORMAL|CATEGORY:Internal|KEY:Tool Proficiency ~ Woodcarver's Tools|TYPE:Tool Proficiency.Tool Proficiency Artisan's Tools
+USERPOOL:Artisan's Tools Proficiency|POOLPOINTS:0.0
+ABILITY:Background|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Folk Hero|TYPE:Background|DESC:Equipment&colon; A set of artisan's tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
+USERPOOL:Background|POOLPOINTS:0.0
+ABILITY:Fighter Skill|TYPE:NORMAL|CATEGORY:Skill|KEY:Animal Handling|TYPE:Skill Proficiency
+ABILITY:Fighter Skill|TYPE:NORMAL|CATEGORY:Skill|KEY:Athletics|TYPE:Skill Proficiency
+USERPOOL:Fighter Skill|POOLPOINTS:0.0
+ABILITY:Fighting Style|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fighting Style ~ Great Weapon Fighting|TYPE:Fighting Style.SpecialQuality|DESC:When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+USERPOOL:Fighting Style|POOLPOINTS:0.0
+ABILITY:Folk Hero Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Folk Hero Bond ~ 1|TYPE:SpecialQuality.Folk Hero Bond.Bond|DESC:I have a family, but I have no idea where they are. One day, I hope to see them again.
+USERPOOL:Folk Hero Bond|POOLPOINTS:0.0
+ABILITY:Folk Hero Flaw|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Folk Hero Flaw ~ 2|TYPE:SpecialQuality.Folk Hero Flaw.Flaw|DESC:I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
+USERPOOL:Folk Hero Flaw|POOLPOINTS:0.0
+ABILITY:Folk Hero Ideal|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Folk Hero Ideal ~ 5|TYPE:SpecialQuality.Folk Hero Ideal.Ideal|DESC:Sincerity. There's no good in pretending to be something I'm not. (Neutral)
+USERPOOL:Folk Hero Ideal|POOLPOINTS:0.0
+ABILITY:Folk Hero Personality Trait|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Folk Hero Personality Trait ~ 3|TYPE:SpecialQuality.Folk Hero Personality Trait.Personality Trait|DESC:When I set my mind to something, I follow through no matter what gets in my way.
+USERPOOL:Folk Hero Personality Trait|POOLPOINTS:0.0
+ABILITY:Halfling Subrace|TYPE:NORMAL|CATEGORY:Internal|KEY:Halfling Subrace ~ Stout|TYPE:HalflingSubrace
+USERPOOL:Halfling Subrace|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Battleaxe|WEAPON:Blowgun|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dart|WEAPON:Flail|WEAPON:Glaive]
+WEAPONPROF:[WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Halberd|WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Lance|WEAPON:Light Hammer|WEAPON:Longbow|WEAPON:Longsword]
+WEAPONPROF:[WEAPON:Mace|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Net|WEAPON:Pike|WEAPON:Quarterstaff|WEAPON:Rapier|WEAPON:Scimitar|WEAPON:Shortbow|WEAPON:Shortsword]
+WEAPONPROF:[WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:War Pick|WEAPON:Warhammer|WEAPON:Whip]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Backpack|OUTPUTORDER:3|COST:2|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Battleaxe (Small)|OUTPUTORDER:1|COST:10|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Battleaxe|DATA:NAME=Battleaxe (Small)$KEY=AUTOSIZESBattleaxe$SIZE=S]
+EQUIPNAME:Bedroll|OUTPUTORDER:4|COST:1|WT:7.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Blanket|OUTPUTORDER:5|COST:0.5|WT:3.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Chain mail (Small)|OUTPUTORDER:2|COST:75|WT:27.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Chain mail|DATA:NAME=Chain mail (Small)$KEY=AUTOSIZESChain mail$SIZE=S]
+EQUIPNAME:Dungeoneer's Pack|OUTPUTORDER:6|COST:12|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Shortbow (Small)|OUTPUTORDER:7|COST:25|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Shortbow|DATA:NAME=Shortbow (Small)$KEY=AUTOSIZESShortbow$SIZE=S]
+EQUIPNAME:Sling (Small)|OUTPUTORDER:8|COST:0.1|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Sling|DATA:NAME=Sling (Small)$KEY=AUTOSIZESSling$SIZE=S]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.01|VALUE:Backpack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.02|VALUE:Battleaxe (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.03|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.04|VALUE:Blanket|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.05|VALUE:Chain mail (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.06|VALUE:Dungeoneer's Pack|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.07|VALUE:Shortbow (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.08|VALUE:Sling (Small)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

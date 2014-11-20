@@ -1,0 +1,212 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Monte Cook's World of Darkness d20
+VERSION:5.17.0
+ROLLMETHOD:1|EXPRESSION:12
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:MC_WoD
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:John Baxter
+TABNAME:A06 - John Baxter &lbracket;3&rbracket;
+PLAYERNAME:Phil
+HEIGHT:60
+WEIGHT:126
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:15
+STAT:CON|SCORE:16
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:12
+RACE:Human
+
+# Character Class(es)
+CLASS:Werewolf|SUBCLASS:Rahu|LEVEL:3|SKILLPOOL:0
+CLASSABILITIESLEVEL:Werewolf=1|HITPOINTS:12|PRESTAT:DEX=1|SKILLSGAINED:16|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Werewolf=2|HITPOINTS:7|SKILLSGAINED:4|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Werewolf=3|HITPOINTS:6|SKILLSGAINED:4|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:3000
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Rahu]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|CLASSBOUGHT:[CLASS:Werewolf|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Computer Use|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Concentration|OUTPUTORDER:6|
+SKILL:Craft (Writing)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:9|
+SKILL:Disguise|OUTPUTORDER:10|
+SKILL:Drive|OUTPUTORDER:11|
+SKILL:Escape Artist|OUTPUTORDER:12|
+SKILL:Forgery|OUTPUTORDER:13|
+SKILL:Gather Information|OUTPUTORDER:14|
+SKILL:Heal|OUTPUTORDER:15|
+SKILL:Hide|OUTPUTORDER:16|
+SKILL:Intimidate|OUTPUTORDER:17|
+SKILL:Intimidate (Physical)|OUTPUTORDER:18|
+SKILL:Jump|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:20|
+SKILL:Move Silently|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Navigate|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Research|OUTPUTORDER:25|
+SKILL:Ride|OUTPUTORDER:26|
+SKILL:Search|OUTPUTORDER:27|
+SKILL:Sense Motive|OUTPUTORDER:28|
+SKILL:Spot|OUTPUTORDER:29|
+SKILL:Survival|OUTPUTORDER:30|
+SKILL:Swim|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Demolitions|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Werewolf|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Pilot|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Werewolf|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Repair|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Werewolf|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Tumble|OUTPUTORDER:32|CLASSBOUGHT:[CLASS:Werewolf|RANKS:5.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Dutch|LANGUAGE:English
+
+# Character Feats
+FEATPOOL:-3.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Initiative|TYPE:General|DESC:You get a +4 bonus on initiative checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Armor Proficiency (Light)|TYPE:General|DESC:When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Pick Pocket, and Tumble checks.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Exotic Weapon Proficiency|APPLIEDTO:Machine Gun|TYPE:General|DESC:Choose a type of exotic weapon. You understand how to use that type of exotic weapon in combat.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Wolf Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+ABILITY:Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Werewolf Hybrid Attacks|TYPE:
+USERPOOL:Special Ability|POOLPOINTS:2.0
+ABILITY:Character Focus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Focus ~ Might|TYPE:CharacterFocus
+USERPOOL:Character Focus|POOLPOINTS:0.0
+ABILITY:Skill Themes|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Athletics (Might)|TYPE:SkillThemes
+ABILITY:Skill Themes|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Military (Might)|TYPE:SkillThemes
+USERPOOL:Skill Themes|POOLPOINTS:0.0
+USERPOOL:Mage Stat Boost|POOLPOINTS:0.0
+USERPOOL:Awakened Stat Boost~2|POOLPOINTS:0.0
+USERPOOL:Awakened Skill Focus|POOLPOINTS:0.0
+USERPOOL:Demon Stat Boost|POOLPOINTS:0.0
+USERPOOL:Demon Cant|POOLPOINTS:0.0
+USERPOOL:Mage Gnosis|POOLPOINTS:0.0
+USERPOOL:Vampire Discipline|POOLPOINTS:0.0
+ABILITY:Werewolf Rite|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Primal Urge|APPLIEDTO:|TYPE:WerewolfRite|DESC:+10 maximum Essence, +1 to Essence you can spend in a round; you take a -3 on peaceful Diplomacy, Gather Information and Sense Motive.
+ABILITY:Werewolf Rite|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Clarity|TYPE:WerewolfRite|DESC:When you activate this ability, you become alert and ready for battle. If you are surprised, you are no longer surprised (and get to take a turn during the surprise round). If you are flat-footed, you are no longer flat-footed. This rite does not affect stunning, paralysis, sleep or other conditions that make you unable to take actions. You may activate this rite even if you are surprised or when it is not your turn. If you activate this rite before combat, you get a +8 bonus on Initiative rolls. Action None - Cost 1 Essence - Duration 1 minute
+USERPOOL:Werewolf Rite|POOLPOINTS:0.0
+USERPOOL:Haven of Soil|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Assault Rifle|WEAPON:Auto Pistol|WEAPON:Bayonet|WEAPON:Bite|WEAPON:Bow|WEAPON:Brass Knuckles|WEAPON:Chain|WEAPON:Club|WEAPON:Concealed Pistol|WEAPON:Crossbow]
+WEAPONPROF:[WEAPON:Dynamite|WEAPON:Frag Grenade|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatsword|WEAPON:Hybrid Bite|WEAPON:Hybrid Claws|WEAPON:Knife|WEAPON:Longspear|WEAPON:Machine Gun]
+WEAPONPROF:[WEAPON:Molotov Cocktail|WEAPON:Pepper Spray|WEAPON:Pistol|WEAPON:Pistol Whip|WEAPON:Plastic Explosive|WEAPON:Rifle|WEAPON:Rifle Butt|WEAPON:Sap|WEAPON:Shotgun|WEAPON:Shuriken]
+WEAPONPROF:[WEAPON:Smoke Grenade|WEAPON:Sniper Rifle|WEAPON:Spear|WEAPON:Submachine Gun|WEAPON:Taser|WEAPON:Teargas Grenade|WEAPON:Thermite Grenade|WEAPON:Throwing Axe|WEAPON:Tranquilizer Gun|WEAPON:Unarmed]
+WEAPONPROF:[WEAPON:Unarmed Strike|WEAPON:Whip|WEAPON:Zip Gun]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Hybrid Bite (Natural/Primary)|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Hybrid Bite|DATA:KEY=Hybrid Bite]
+EQUIPNAME:Hybrid Claws (Natural/Secondary)|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Hybrid Claws|DATA:KEY=Hybrid Claws]
+EQUIPNAME:Submachine Gun|OUTPUTORDER:8|COST:0|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Plastic Explosive|OUTPUTORDER:7|COST:0|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Greataxe|OUTPUTORDER:3|COST:0|WT:8.0|QUANTITY:1.0
+EQUIPNAME:Machine Gun|OUTPUTORDER:6|COST:0|WT:75.0|QUANTITY:1.0
+EQUIPNAME:Walkie-Talkie Helmet (Military)|OUTPUTORDER:9|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Amulet (Rage Suppressor)|OUTPUTORDER:1|COST:0|WT:0.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.10|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.11|VALUE:Machine Gun|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.12|VALUE:Amulet (Rage Suppressor)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.13|VALUE:Walkie-Talkie Helmet (Military)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.5|VALUE:Plastic Explosive|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.6|VALUE:Submachine Gun|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.7|VALUE:Greataxe|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.8|VALUE:Hybrid Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Secondary Hand|ID:0.1.9|VALUE:Hybrid Claws (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

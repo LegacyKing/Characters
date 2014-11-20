@@ -1,0 +1,111 @@
+<group-set>
+  <game-name>Init Tool Default D&amp;D</game-name>
+  <groups>
+    <group>
+      <name>PCGen Export</name>
+      <combatants>
+        <combatant>
+          <name>Thorin Trueblade</name>
+          <count>1</count>
+          <init-modifier>7</init-modifier>
+          <player>Andrew</player>
+          <type>default</type>
+          <token type="url">file:C:\Program Files\PCGen\PCGEN FILES\portraits\axeofthedwar.jpg</token>
+          <type>Humanoid</type>
+          <descriptor>Dwarf</descriptor>
+          <levels>9th lvl Champion of Clangeddin; </levels>
+          <hitDice>(9d12)+40  (137 hp)</hitDice>
+          <hitPoints>137</hitPoints>
+          <currentHitPoints>137</currentHitPoints>
+          <size>M</size>
+          <speed>Walk 60 ft.</speed>
+          <ac>28</ac>
+          <touchAc>17</touchAc>
+          <flatFootedAc>28</flatFootedAc>
+          <baseAttack>+9</baseAttack>
+          <grapple>+16</grapple>
+          <space>5 ft.</space>
+          <reach>5 ft.</reach>
+          <fortSave>+14</fortSave>
+          <reflexSave>+6</reflexSave>
+          <willSave>+7</willSave>
+          <str>24 [+7]</str>
+          <dex>16 [+3]</dex>
+          <con>20 [+5]</con>
+          <int>12 [+1]</int>
+          <wis>12 [+1]</wis>
+          <cha>11 [+0]</cha>
+          <challengeRating>9</challengeRating>
+          <attack>
+Clangeddin's Fury: 
+N/A 
+melee
+ (
+3d6+18
+/17-20
+/x3
+) 
+Dagger +2: 
++18/+13 
+melee
+ (
+1d4+9
+/19-20
+) 
+Dagger +2 (Thrown): 
++14/+9 
+ranged
+ (
+1d4+9
+/19-20
+) 
+Armor Spikes: 
++16/+11 
+melee
+ (
+1d6+7
+) 
+          </attack>
+          <specialQualitities>+1 racial bonus on attack rolls against orcs and goblinoids, +2 racial bonus on Appraise and Craft checks that are related to stone or metal., +2 racial bonus on saving throws against poison., +2 racial bonus on saving throws against spells and spell-like effects., +4 Dodge bonus to Armor Class against monsters of the giant type., AC Bonus (Ex), Aura of Courage (Su), Aura of Good (Ex) Strong, Blindsight 60 ft. (Ex), Change Size (Sp), Defensive Stance 3 times/day (10 rounds), Dimension Door 3/day: Appear up to triple your non-enhanced movement; limited to LoS., Divine Grace (Su), Divine Health (Ex), Greater Teleport 1/day - 600lbs and may only take one person with you., Immune to all mind-influencing effects (charms/ compulsions/ phantasms/ patterns/ and morale effects), Luck Reroll 1/day: Reroll any one die., Remove Disease (Sp) -1/week, Stability, Stonecunning, Trap Sense (Ex) +1, Uncanny Dodge (Dex bonus to AC)</specialQualitities>
+          <skills>
+Appraise +4; 
+Balance +1; 
+Bluff +0; 
+Climb +7; 
+Concentration +5; 
+Craft (Gemcutting) +4; 
+Craft (Untrained) +1; 
+Diplomacy +0; 
+Disguise +0; 
+Escape Artist +1; 
+Forgery +1; 
+Gather Information +0; 
+Heal +1; 
+Intimidate +19; 
+Jump +17; 
+Knowledge (Giants) +27; 
+Knowledge (Religion) +4; 
+Notice (Listen) +13; 
+Notice (Spot) +13; 
+Ride +5; 
+Search +1; 
+Sense Motive +1; 
+Sneak (Hide) +2; 
+Sneak (Move Silently) +9; 
+Spot +1; 
+Survival +1; 
+Swim +2; 
+Use Rope +3; 
+ ; 
+ ; 
+ ; 
+          </skills>
+          <feats>Armor Proficiency (Heavy), Armor Proficiency (Light), Armor Proficiency (Medium), Axe Wind, Cleave, Defensive Stance, Endurance, Fleet of Foot, Greater Weapon Focus (Greataxe), Heavy Armor Optimization, Improved Critical (Greataxe), Improved Initiative, Martial Weapon Proficiency, Power Attack, Shield Proficiency, Simple Weapon Proficiency, Snatch Arrows, Speed Burst, Toughness, Tower Shield Proficiency, Weapon Focus (Greataxe), Weapon Specialization (Greataxe)</feats>
+          <languages>Common, Dwarven, Orc</languages>
+          <levalAdjustment>0</levalAdjustment>
+          <alignment>Lawful Good</alignment>
+        </combatant>
+      </combatants>
+    </group>
+  </groups>
+</group-set>

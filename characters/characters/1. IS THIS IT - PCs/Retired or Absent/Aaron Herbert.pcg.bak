@@ -1,0 +1,186 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Andrew's Campaign|CAMPAIGN:3.5 RSRD Advanced|CAMPAIGN:3.5 RSRD Advanced, No Races|CAMPAIGN:3.5 RSRD Basics|CAMPAIGN:3.5 RSRD Monsters|CAMPAIGN:3.5 RSRD Psionics|CAMPAIGN:3.5 RSRD
+VERSION:5.9.1-Alpha
+ROLLMETHOD:1|EXPRESSION:roll(4,6,[2,3,4])
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+
+# Character Bio
+CHARACTERNAME:Aaron Herbert
+TABNAME:Arron Herbert Lv6
+PLAYERNAME:Richard
+HEIGHT:74
+WEIGHT:210
+AGE:20
+GENDER:Male
+HANDED:Right
+SKINCOLOR:Light
+EYECOLOR:Azure
+HAIRCOLOR:Silver
+HAIRSTYLE:Clean cut
+LOCATION:Faerun
+CITY:Far, Far Away
+BIRTHPLACE:Large City
+PERSONALITYTRAIT1:Overly critical
+PERSONALITYTRAIT2:Immaculate
+SPEECHPATTERN:Loud Voice
+PHOBIAS:Lies
+INTERESTS:Elves
+CATCHPHRASE:"Have mercy"
+PORTRAIT:E&colon;\paladin.jpg
+
+# Character Attributes
+STAT:STR|SCORE:17
+STAT:DEX|SCORE:13
+STAT:CON|SCORE:14
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:12
+STAT:CHA|SCORE:16
+ALIGN:LG
+RACE:Planetouched (Aasimar)
+
+# Character Class(es)
+CLASS:Paladin|SUBCLASS:None|LEVEL:6|SKILLPOOL:3|SPELLBASE:WIS|CANCASTPERDAY:0,1|PROHIBITED:None
+CLASSABILITIESLEVEL:Paladin=1|HITPOINTS:10|SKILLSGAINED:12
+CLASSABILITIESLEVEL:Paladin=2|HITPOINTS:7|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Paladin=3|HITPOINTS:9|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Paladin=4|HITPOINTS:10|ABILITY:[PROMPT:FEAT(TYPE=TurnUndead)|CHOICE:Turn Undead]|PRESTAT:DEX=1|POSTSTAT:DEX=-1|POSTSTAT:CHA=1|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Paladin=5|HITPOINTS:6|SKILLSGAINED:3
+CLASSABILITIESLEVEL:Paladin=6|HITPOINTS:6|SKILLSGAINED:3|SKILLSREMAINING:3
+
+# Character Experience
+EXPERIENCE:16663
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Level Adjustment Buy down 1]
+
+# Character Region
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Untrained)|OUTPUTORDER:6|
+SKILL:Diplomacy|OUTPUTORDER:7|CLASSBOUGHT:[CLASS:Paladin|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:8|
+SKILL:Escape Artist|OUTPUTORDER:9|
+SKILL:Forgery|OUTPUTORDER:10|
+SKILL:Gather Information|OUTPUTORDER:11|
+SKILL:Handle Animal|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Paladin|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Paladin|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:14|
+SKILL:Intimidate|OUTPUTORDER:15|
+SKILL:Jump|OUTPUTORDER:16|
+SKILL:Knowledge (Religion)|OUTPUTORDER:17|CLASSBOUGHT:[CLASS:Paladin|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Listen|OUTPUTORDER:18|
+SKILL:Move Silently|OUTPUTORDER:19|
+SKILL:Ride|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Paladin|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Search|OUTPUTORDER:21|
+SKILL:Sense Motive|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Paladin|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Paladin|RANKS:1.0|COST:2|CLASSSKILL:N]
+SKILL:Survival|OUTPUTORDER:24|
+SKILL:Swim|OUTPUTORDER:25|
+SKILL:Use Rope|OUTPUTORDER:26|
+
+# Character Languages
+LANGUAGE:Celestial|LANGUAGE:Common|LANGUAGE:Elven
+
+# Character Feats
+FEAT:Cleave|TYPE:GENERAL.FIGHTER|DESC:If you deal a creature enough damage to make it drop, you get an immediate, extra melee attack against another creature within reach. You can use this ability once per round.
+FEAT:Power Attack|TYPE:GENERAL.FIGHTER|DESC:On your action, before making attack rolls for a round, you may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed your base attack bonus.
+FEAT:Weapon Focus|APPLIEDTO:Greatsword|TYPE:GENERAL.FIGHTER|DESC:You gain a +1 bonus on all attack rolls you make using the selected weapon.
+FEATPOOL:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Axe (Throwing)|WEAPON:Battleaxe|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Falchion|WEAPON:Flail]
+WEAPONPROF:[WEAPON:Flail (Heavy)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)]
+WEAPONPROF:[WEAPON:Handaxe|WEAPON:Javelin|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Mind Blade]
+WEAPONPROF:[WEAPON:Morningstar|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash (Heavy)]
+WEAPONPROF:[WEAPON:Shieldbash (Light)|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells(Ray)|WEAPON:Spiked Armor|WEAPON:Sword (Bastard/Martial)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Trident|WEAPON:Unarmed Strike|WEAPON:Waraxe (Dwarven/Martial)|WEAPON:Warhammer]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Outfit (Traveler's)|OUTPUTORDER:12|COST:0|WT:5.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Outfit (Traveler's)|DATA:NAME=Outfit (Traveler's)$COSTMOD=-1]
+EQUIPNAME:Bedroll|OUTPUTORDER:3|COST:0.1|WT:5.0|QUANTITY:1.0
+EQUIPNAME:Flint and Steel|OUTPUTORDER:9|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Holy Symbol (Wooden)|OUTPUTORDER:11|COST:1|WT:0.0|QUANTITY:1.0
+EQUIPNAME:Pouch (Belt)|OUTPUTORDER:13|COST:1|WT:0.5|QUANTITY:1.0
+EQUIPNAME:Rations (Trail/Per Day)|OUTPUTORDER:14|COST:0.5|WT:1.0|QUANTITY:5.0
+EQUIPNAME:Rope (Hempen/50 Ft.)|OUTPUTORDER:15|COST:1|WT:10.0|QUANTITY:1.0
+EQUIPNAME:Whetstone|OUTPUTORDER:19|COST:0.02|WT:1.0|QUANTITY:1.0
+EQUIPNAME:Waterskin (Filled)|OUTPUTORDER:18|COST:1|WT:4.0|QUANTITY:1.0
+EQUIPNAME:Dagger|OUTPUTORDER:8|COST:2.0|WT:1.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Dagger|DATA:NAME=Dagger$EQMOD=STEEL]
+EQUIPNAME:Shortbow|OUTPUTORDER:16|COST:30.0|WT:2.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Shortbow|DATA:NAME=Shortbow$EQMOD=WOOD]
+EQUIPNAME:Backpack|OUTPUTORDER:2|COST:2|WT:2.0|QUANTITY:1.0
+EQUIPNAME:Coin (Silver)|OUTPUTORDER:7|COST:0.1|WT:0.02|QUANTITY:10.0
+EQUIPNAME:Coin (Copper)|OUTPUTORDER:4|COST:0.01|WT:0.02|QUANTITY:13.0
+EQUIPNAME:Coin (Platinum)|OUTPUTORDER:6|COST:10|WT:0.02|QUANTITY:14.0
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:5|COST:1|WT:0.02|QUANTITY:3140.0
+EQUIPNAME:Arrow|OUTPUTORDER:1|COST:0.05|WT:0.15|QUANTITY:5.0|CUSTOMIZATION:[BASEITEM:Arrow|DATA:NAME=Arrow$EQMOD=STEEL.WOOD]
+EQUIPNAME:Tyr's Justice +2|OUTPUTORDER:17|COST:20350.0|WT:8.0|QUANTITY:1.0|CUSTOMIZATION:[BASEITEM:Greatsword|DATA:NAME=Tyr's Justice +2$EQMOD=BNS_SKL_CMP&pipe;Knowledge (Religion)=+10.MWORKW.PLUS2W.SPL_ACT&pipe;SPELLNAME&lbracket;Bless&rbracket; CASTER&lbracket;Cleric&rbracket; SPELLTYPE&lbracket;Divine&rbracket; SPELLLEVEL&lbracket;1&rbracket; CASTERLEVEL&lbracket;1&rbracket; .STEEL$SPROP=(Greatsword (Skill Bonus (Competance) (Knowledge (Religion) +10)/+2 (Enhancement to Weapon or Ammunition)/Masterwork))]
+EQUIPNAME:Alchemist's Fire (Flask)|OUTPUTORDER:1|COST:20|WT:1.0|QUANTITY:3.0
+EQUIPSET:Default Set|ID:0.3
+EQUIPSET:Carried|ID:0.3.2|VALUE:Backpack|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.1|VALUE:Arrow|QUANTITY:5.0
+EQUIPSET:Backpack|ID:0.3.2.10|VALUE:Rations (Trail/Per Day)|QUANTITY:5.0
+EQUIPSET:Backpack|ID:0.3.2.11|VALUE:Rope (Hempen/50 Ft.)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.12|VALUE:Waterskin (Filled)|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.13|VALUE:Whetstone|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.14|VALUE:Alchemist's Fire (Flask)|QUANTITY:3.0
+EQUIPSET:Backpack|ID:0.3.2.2|VALUE:Bedroll|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.3|VALUE:Coin (Copper)|QUANTITY:13.0
+EQUIPSET:Backpack|ID:0.3.2.4|VALUE:Coin (Gold)|QUANTITY:3140.0
+EQUIPSET:Backpack|ID:0.3.2.5|VALUE:Coin (Platinum)|QUANTITY:14.0
+EQUIPSET:Backpack|ID:0.3.2.6|VALUE:Coin (Silver)|QUANTITY:10.0
+EQUIPSET:Backpack|ID:0.3.2.7|VALUE:Dagger|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.8|VALUE:Flint and Steel|QUANTITY:1.0
+EQUIPSET:Backpack|ID:0.3.2.9|VALUE:Holy Symbol (Wooden)|QUANTITY:1.0
+EQUIPSET:Torso|ID:0.3.3|VALUE:Outfit (Traveler's)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.3.4|VALUE:Pouch (Belt)|QUANTITY:1.0
+EQUIPSET:Carried|ID:0.3.5|VALUE:Shortbow|QUANTITY:1.0
+EQUIPSET:Both Hands|ID:0.3.6|VALUE:Tyr's Justice +2|QUANTITY:1.0
+CALCEQUIPSET:0.3
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Tyr|DEITYDOMAINS:[DOMAIN:Good|DOMAIN:Knowledge|DOMAIN:Law|DOMAIN:War]|ALIGNALLOW:013|DESC:BLANK|HOLYITEM:None|DEITYFAVWEAP:[]|DEITYALIGN:LG
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:A man of proud bearing; something about you makes people notice you.
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:Tyr's Justice (+2 Two-handed Sword) &pipe; Incomplete Holy Avenger (Must preform a quest to renew the sword)&nl;&nl;+1 Plate Mail
+
+# Character Master/Follower
+FOLLOWER:Charger|TYPE:Special Mount|RACE:HORSE (WARHORSE HEAVY)|HITDICE:0|FILE:\Charger.pcg
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:Lu - Phil&cr;&nl;Jessabelle - Rebekah&cr;&nl;Turk - Jason&cr;&nl;Gian - Dan&cr;&nl;&cr;&nl;3 Skill Points @ 5th Level (Placed all in Ride)
+NOTE:Quests|ID:2|PARENTID:-1|VALUE:In-progress&colon;&nl;Clear Brightstone Keep &nl;- Party may have the Keep and immediate land. No taxable interest. Gain minor noble title.&nl;&nl;Figure out dream (Eye behind gate)&nl;&nl;DONE&colon;&nl;Defeat Belak the Druid and stop the gulthias tree&nl;Recover Wyrmling for Kobolds - Aquired key to Dragon Priest Tomb&nl;Find Siblings in Sunless Citadel - Monentary Reward
+NOTE:NPCs|ID:3|PARENTID:-1|VALUE:Friend indicates friendly or favorable response to your presence/requests, does not denote a true friendship.&nl;Enemy is self explanatory - Unfriendly intentions at time of meeting&nl;&nl;Duke Borba Drefus - Emplorer/Friend - Gave Brightstone keep to party, if they secure it against others.&nl;Current Mission for Duke&colon; Clear Brightstone Keep; party may keep it and property it resides on. No taxable interest&nl;&nl;Tom - Friend - Messenger from Duke Borba Drefus&nl;&nl;The Hunter - ENEMY - An agent of the drow after Lu.&nl;&nl;Belak - Enemy/Dead - Evil druid, caretaker of gulthias tree.&nl;&nl;SUNLESS CITADEL Contacts&colon;&nl;Yesdryl - Friend - Kobold Sorceress and Leader of Sunless Citadel Tribe&nl;Calcryx - Friend - White Wyrmling
+
+# Kits
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0

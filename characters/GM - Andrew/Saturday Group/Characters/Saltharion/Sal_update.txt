@@ -1,0 +1,61 @@
+Saltharion Vorton
+
+96+10+6+3+18 = 133	25SP
+
+Age: 24
+Sex: Male
+Height: 6'0"
+Weight: 170lbs
+Eye Color: Green
+Hair Color: Green
+Alignment: Chaotic Good
+Racial Spirit Weapon: Keyblade
+
+ATTRIBUTES:
+
+Str - 14		3d10 - 18CP	BAB +3-18CP/+2(Specialized/Keyblade)-6CP
+Dex - 16		
+Con - 16		Proficiencies - Weapons-All simple/One martial(Keyblade) - 6CP
+Int - 16
+Wis - 12		Reflex +3 9CP	Fort +3 9CP	Will +2 6CP
+Cha - 16
+			+3 Warmage Levels(Specialized/Keyblade;Corrupted/Cold, electric, fire spells only)-15CP
+
+DISADVANTAGES:
+
+-Secret: Torrick (Tabarath cultist) has taken sister Vella prisoner
+*Obligation: Rescue Vella from Tabarath cult
+*Dependent: Vella's keychain charm; becomes reckless and angry if it is lost or stolen; will attempt to retrieve at any cost
+
+-Hunted: Torrick
+
+-Hallucinations: Hometown ransacked by Tabarath; causes Sal to go temporarily insane
+
+ABILITIES:
+
+Fast Learner/Skills - 6CP
+
+Adept - Acrobatics, Insight, Perception, Persuasion - 6CP
+
+Augmented Bonus - Dex to hit - Specialized/Keyblade - 6CP
+
+Evasive - Casting in melee - Specialized/Keyblade - 6CP
+
+Evasive - Moving through threatened square - Specialized/Keyblade - 6CP
+
+Elemental Manipulation metamagic - 6CP
+
+Fast Metamagic Upgrade - 6CP
+
+Improved Initiative - 3CP
+
+
+SKILLS:
+			Ranks	Mod
+Acrobatics		6	3
+Insight			6	3
+Martial Arts		5	3
+Perception		6	2
+Persuasion		6	3
+Arcana			4	3
+Stealth			4	3
