@@ -1,0 +1,240 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Pathfinder Society
+VERSION:6.05.00
+ROLLMETHOD:2|EXPRESSION:High Fantasy
+PURCHASEPOINTS:Y|TYPE:High Fantasy
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm
+POOLPOINTS:20
+POOLPOINTSAVAIL:20
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Brigit Chamburleyn
+TABNAME:
+PLAYERNAME:Brian Moser
+HEIGHT:66
+WEIGHT:132
+AGE:20
+GENDER:Female
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:Hazel
+HAIRCOLOR:Blonde
+HAIRSTYLE:Long, wavy
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:F&colon;\Documents\DND\PC Pics\Pathfinders\Brigit Chamburleyn scene sized.jpg
+PORTRAITTHUMBNAILRECT:362,58,100,100
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:14
+STAT:INT|SCORE:8
+STAT:WIS|SCORE:8
+STAT:CHA|SCORE:9
+ALIGN:CG
+RACE:Human
+
+# Character Class(es)
+CLASS:Fighter|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|SKILLSGAINED:2|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:1
+EXPERIENCETABLE:PFS Rules
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:Race Bonus Language ~ Modern Human Language]
+TEMPLATESAPPLIED:[NAME:FACE_5]
+TEMPLATESAPPLIED:[NAME:REACH_5]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity]
+TEMPLATESAPPLIED:[NAME:PFS Starting Gold]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity (Taldan)]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (Taldor)]
+
+# Character Region
+REGION:Taldor
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Acrobatics (Perform (Dance))|OUTPUTORDER:2|
+SKILL:Appraise|OUTPUTORDER:3|
+SKILL:Bluff|OUTPUTORDER:4|
+SKILL:Bluff (Fool someone)|OUTPUTORDER:5|
+SKILL:Bluff (Pass messages)|OUTPUTORDER:6|
+SKILL:Bluff (Perform (Act))|OUTPUTORDER:7|
+SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:8|
+SKILL:Bluff (Perform (Sing))|OUTPUTORDER:9|
+SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:10|
+SKILL:Climb|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Untrained)|OUTPUTORDER:12|
+SKILL:Diplomacy|OUTPUTORDER:13|
+SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:14|
+SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:15|
+SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:16|
+SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:17|
+SKILL:Disguise|OUTPUTORDER:19|
+SKILL:Disguise (Perform (Act))|OUTPUTORDER:20|
+SKILL:Escape Artist|OUTPUTORDER:21|
+SKILL:Escape Artist (Escape bonds/grapple)|OUTPUTORDER:22|
+SKILL:Escape Artist (Escape manacles or ropes)|OUTPUTORDER:23|
+SKILL:Fly|OUTPUTORDER:24|
+SKILL:Fly (Perform (Dance))|OUTPUTORDER:25|
+SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:27|
+SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:28|
+SKILL:Heal|OUTPUTORDER:29|
+SKILL:Intimidate|OUTPUTORDER:30|
+SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:31|
+SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:32|
+SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:33|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:34|
+SKILL:Perception|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Perform (Untrained)|OUTPUTORDER:37|
+SKILL:Profession (Untrained)|OUTPUTORDER:38|
+SKILL:Ride|OUTPUTORDER:39|
+SKILL:Samurai Mount|OUTPUTORDER:40|
+SKILL:Sense Motive|OUTPUTORDER:41|
+SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:42|
+SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:43|
+SKILL:Sense Motive (Resist feint)|OUTPUTORDER:44|
+SKILL:Stealth|OUTPUTORDER:47|
+SKILL:Survival|OUTPUTORDER:48|
+SKILL:Survival (Follow tracks)|OUTPUTORDER:49|
+SKILL:Survival (Get along in the wild)|OUTPUTORDER:50|
+SKILL:Swim|OUTPUTORDER:51|
+SKILL:Untrained Charisma|OUTPUTORDER:52|
+SKILL:Untrained Dexterity|OUTPUTORDER:53|
+SKILL:Untrained Intelligence|OUTPUTORDER:54|
+SKILL:Untrained Strength|OUTPUTORDER:55|
+SKILL:Untrained Wisdom|OUTPUTORDER:56|
+SKILL:Untrained ~ Disable Device|OUTPUTORDER:18|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:26|
+SKILL:Untrained ~ Linguistics|OUTPUTORDER:35|
+SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:45|
+SKILL:Untrained ~ Spellcraft|OUTPUTORDER:46|
+SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:57|
+
+# Character Languages
+LANGUAGE:Common
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Ability Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+2 Strength|TYPE:AbilityBonus
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Power Attack|TYPE:Combat.AttackOption.AbyssalBloodline.DraconicBloodline.ElementalBloodline.BorealBloodline.SaurianShamanBonus.DjinniBloodline.EfreetiBloodline.MaridBloodline.ShaitanBloodline.OniBloodline.OrcBloodline|DESC:You can make exceptionally deadly melee attacks by sacrificing accuracy for strength.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Two-Weapon Defense|TYPE:Combat.ModifyAC|DESC:You are skilled at defending yourself while fighting with two weapons.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Fighter|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Hit Point|APPLIEDTO:|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Fighter Bonus Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Two-Weapon Fighting|TYPE:Combat|DESC:You can fight with a weapon in each of your hands. You can make one extra attack each round with the secondary weapon.
+USERPOOL:Fighter Bonus Feat|POOLPOINTS:0.0
+ABILITY:Human Ethnicity|TYPE:NORMAL|CATEGORY:Background|KEY:Taldan|TYPE:HumanEthnicity.PFSLegal
+USERPOOL:Human Ethnicity|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:Taldor|TYPE:Region|DESC:Decadent Failing Empire
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:Society Faction|TYPE:NORMAL|CATEGORY:Background|KEY:Andoran Faction|TYPE:Society Faction|DESC:The Andoran faction was retired with Season 6.0. Liberty'e Edge faction PCs qaualify for Andoran faction vanities and mission boons.
+USERPOOL:Society Faction|POOLPOINTS:0.0
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Indomitable ~ Andoran|TYPE:Trait.BasicTrait.FactionTrait.CampaignTrait|DESC:Your strong, selfdetermined swagger has made you more resistant to domination and control. You gain a +1 trait bonus on saving throws versus enchantment spells and effects.
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Reactionary|TYPE:Trait.BasicTrait.CombatTrait|DESC:You were bullied often as a child, but never quite developed an offensive response. Instead, you became adept at anticipating sudden attacks and reacting to danger quickly. You gain a +2 trait bonus on Initiative checks.
+USERPOOL:Traits|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aldori Dueling Sword|WEAPON:Amentum|WEAPON:Amentum (Javelin)|WEAPON:Atlatl|WEAPON:Axe (Boarding)|WEAPON:Axe (Throwing)|WEAPON:Bardiche|WEAPON:Battle Aspergillum|WEAPON:Battle Poi|WEAPON:Battleaxe]
+WEAPONPROF:[WEAPON:Bayonet|WEAPON:Bec de Corbin|WEAPON:Bill|WEAPON:Blade Boot|WEAPON:Blowgun|WEAPON:Boar Spear|WEAPON:Boarding Pike|WEAPON:Brass Knife|WEAPON:Brass Knuckles|WEAPON:Broadsword (Nine Ring)]
+WEAPONPROF:[WEAPON:Butterfly Sword|WEAPON:Cat-O'-Nine-Tails|WEAPON:Cestus|WEAPON:Chakram|WEAPON:Club|WEAPON:Combat Scabbard|WEAPON:Crossbow (Heavy)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Chain)]
+WEAPONPROF:[WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Dogslicer|WEAPON:Double Chicken Saber|WEAPON:Earth Breaker|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)|WEAPON:Flambard|WEAPON:Gaff]
+WEAPONPROF:[WEAPON:Garrote|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Gladius|WEAPON:Glaive|WEAPON:Glaive-Guisarme|WEAPON:Grapple|WEAPON:Great Terbutje|WEAPON:Greataxe|WEAPON:Greatclub]
+WEAPONPROF:[WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Hair|WEAPON:Halberd|WEAPON:Hammer (Light)|WEAPON:Hanbo|WEAPON:Handaxe|WEAPON:Hook Hand|WEAPON:Hooked Lance|WEAPON:Horsechopper]
+WEAPONPROF:[WEAPON:Hunga Munga|WEAPON:Iron Brush|WEAPON:Javelin|WEAPON:Jutte|WEAPON:Katana|WEAPON:Kerambit|WEAPON:Klar|WEAPON:Kukri|WEAPON:Lance|WEAPON:Longbow]
+WEAPONPROF:[WEAPON:Longspear|WEAPON:Longsword|WEAPON:Lucerne Hammer|WEAPON:Lungchuan Tamo|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Mattock|WEAPON:Mere Club|WEAPON:Monk's Spade|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Naginata|WEAPON:Nodachi|WEAPON:Ogre Hook|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Pilum|WEAPON:Poisoned Sand Tube|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier]
+WEAPONPROF:[WEAPON:Rhoka|WEAPON:Rhomphaia|WEAPON:Rock|WEAPON:Rope Gauntlet|WEAPON:Sansetsukon|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scizore|WEAPON:Scythe|WEAPON:Sea-Knife]
+WEAPONPROF:[WEAPON:Shang Gou|WEAPON:Shieldbash|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sibat|WEAPON:Sickle|WEAPON:Sling|WEAPON:Sling Glove|WEAPON:Spear|WEAPON:Spear (Boar)]
+WEAPONPROF:[WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Spiked Armor|WEAPON:Splash Weapon|WEAPON:Stake|WEAPON:Starknife|WEAPON:Stingchuck|WEAPON:Switchblade Knife|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)]
+WEAPONPROF:[WEAPON:Sword (Tri-Point Double-Edged)|WEAPON:Sword Cane|WEAPON:Tepoztopilli|WEAPON:Terbutje|WEAPON:Tiger Fork|WEAPON:Tonfa|WEAPON:Trident|WEAPON:Tube Arrow Shooter|WEAPON:Unarmed Strike|WEAPON:Underwater Crossbow (Heavy)]
+WEAPONPROF:[WEAPON:Underwater Crossbow (Light)|WEAPON:War Razor|WEAPON:Waraxe (Dwarven)|WEAPON:Warhammer|WEAPON:Wushu Dart]
+
+# Character Equipment
+MONEY:115.00
+EQUIPNAME:Agile Breastplate|OUTPUTORDER:3|COST:400.0|WT:25.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Agile Breastplate|DATA:NAME=Agile Breastplate$EQMOD=STEEL]
+EQUIPNAME:Backpack (Masterwork)|OUTPUTORDER:4|COST:50|WT:4.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Canteen|OUTPUTORDER:5|COST:2|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Javelin|OUTPUTORDER:7|COST:1.0|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Javelin|DATA:NAME=Javelin$EQMOD=STEEL.WOOD]
+EQUIPNAME:Outfit (Explorer's)|OUTPUTORDER:2|COST:0|WT:8.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Outfit (Explorer's)|DATA:NAME=Outfit (Explorer's)$COSTMOD=-10]
+EQUIPNAME:Quarterstaff|OUTPUTORDER:1|COST:0.0|WT:4.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Quarterstaff|DATA:NAME=Quarterstaff$EQMOD=WOOD$ALTEQMOD=WOOD]
+EQUIPNAME:Rope (Silk/50 ft)|OUTPUTORDER:6|COST:10|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Spear|OUTPUTORDER:8|COST:2.0|WT:6.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Spear|DATA:NAME=Spear$EQMOD=BRACE.STEEL.WOOD]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.02|VALUE:Outfit (Explorer's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Double Weapon|ID:0.1.03|VALUE:Quarterstaff|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.06|VALUE:Backpack (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.06.01|VALUE:Canteen|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.06.02|VALUE:Rope (Silk/50 ft)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.07|VALUE:Agile Breastplate|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.08|VALUE:Javelin|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.09|VALUE:Spear|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Cayden Cailean|DEITYDOMAINS:[DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:Good|DOMAIN:Strength|DOMAIN:Travel|DOMAIN:Azata Subdomain (Chaos)|DOMAIN:Azata Subdomain (Good)|DOMAIN:Exploration Subdomain|DOMAIN:Ferocity Subdomain|DOMAIN:Love Subdomain|DOMAIN:Lust Subdomain|DOMAIN:Resolve Subdomain]|ALIGNALLOW:|DESC:God of freedom, wine, bravery|HOLYITEM:|DEITYFAVWEAP:[WEAPON:Rapier]|DEITYALIGN:CG
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:Born to a privileged family, but disdained court life.  Always getting in trouble for one thing or another.  Always looking for adventure and getting into a scrap.  Used her smaller size and speed to best boys larger and stronger than herself.
+CHARACTERDESC:Likes to drink, gamble, get in fights and take risks whenever possible.  Makes her feel alive and free.  Hates high society (though she knows how to act in it if needed).
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:buy cloak of resistance +1 1000gp&nl;get masterwork staff of darkwood&nl;&nl;
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Explore, Report, Cooperate|ID:1|PARENTID:-1|VALUE:GM can tell you once if your action would be postive, negative or neutral toward achieving our goals.
+NOTE:Prized Find|ID:2|PARENTID:-1|VALUE:Instrumental in finding a cache of lost records.  If you fail to earn a prestige point during a mission, reminding your superiors of your past success will grant you the point.  Only used once.
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+CHRONICLEENTRY:Y|CAMPAIGN:Pathfinder Society 6-10|ADVENTURE:The Wounded Wisp|PARTY:|DATE:1/29/15|EXPERIENCE:1|GM:Ben|CHRONICLE:Sent on a misson by Drendel Dreng.  Turned out to be a test.  Followed many clues to finally find information kept from the Society by Alyssia.&nl;&nl;Party Kill List&colon;&nl;2 Troglodytes&nl;3 Fiendish fire beetles&nl;5 humanoid adventurers
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
